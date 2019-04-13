@@ -3738,7 +3738,6 @@
 0.0.0.0 api-06.com
 0.0.0.0 api-07.com
 0.0.0.0 api-08.com
-0.0.0.0 api-0.core.keybaseapi.com
 0.0.0.0 api.1mobile.com
 0.0.0.0 api.247-inc.net
 0.0.0.0 api2.batmobi.net
@@ -4496,7 +4495,6 @@
 0.0.0.0 api.keen.io
 0.0.0.0 api.keeprapid.com
 0.0.0.0 api.kentik.com
-0.0.0.0 api.keybase.io
 0.0.0.0 api.keyringapp.com
 0.0.0.0 apikeys.civiccomputing.com
 0.0.0.0 apikeys-lb.civiccomputing.com
@@ -7768,8 +7766,6 @@
 0.0.0.0 b.scorecardresearch.com
 0.0.0.0 bs-creatives.fyber.com
 0.0.0.0 bsec.nconfhz.com
-0.0.0.0 bserver-0.kbfs.keybaseapi.com
-0.0.0.0 bserver-1.kbfs.keybaseapi.com
 0.0.0.0 bsf1.nsoit.com
 0.0.0.0 bsf2.nsoit.com
 0.0.0.0 b.sharethrough.com
@@ -16473,8 +16469,6 @@
 0.0.0.0 mdotm.com
 0.0.0.0 m.doubleclick.net
 0.0.0.0 mdpages.mdirector.com
-0.0.0.0 mdserver-0.kbfs.keybaseapi.com
-0.0.0.0 mdserver-1.kbfs.keybaseapi.com
 0.0.0.0 mds-live.goto-rtc.com
 0.0.0.0 mdsp.avazutracking.net
 0.0.0.0 mdsp.popadsdsp.com

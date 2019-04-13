@@ -18355,7 +18355,6 @@ api-05.com CNAME .
 api-06.com CNAME .
 api-07.com CNAME .
 api-08.com CNAME .
-api-0.core.keybaseapi.com CNAME .
 api0.tuisong.baidu.com CNAME .
 api.140proof.com CNAME .
 api15.cmdragracing.com CNAME .
@@ -19363,7 +19362,6 @@ api.keen.io CNAME .
 api.keeprapid.com CNAME .
 api.kentik.com CNAME .
 api.ketedata.com CNAME .
-api.keybase.io CNAME .
 api.keyringapp.com CNAME .
 apikeys.civiccomputing.com CNAME .
 apikeys-lb.civiccomputing.com CNAME .
@@ -29422,8 +29420,6 @@ bseaqmi.angelcities.com CNAME .
 bsec.nconfhz.com CNAME .
 b.sell.com CNAME .
 bsepyppitmkkf.com CNAME .
-bserver-0.kbfs.keybaseapi.com CNAME .
-bserver-1.kbfs.keybaseapi.com CNAME .
 bsf1.nsoit.com CNAME .
 bsf2.nsoit.com CNAME .
 bsf-stage.vidible.tv CNAME .
@@ -76598,8 +76594,6 @@ m.dpool.top CNAME .
 mdpparents.112.2o7.net CNAME .
 mdpwebsitesolutions.com CNAME .
 mdrecv.app.cntvwb.cn CNAME .
-mdserver-0.kbfs.keybaseapi.com CNAME .
-mdserver-1.kbfs.keybaseapi.com CNAME .
 m.dsgy521.com CNAME .
 mds-live.goto-rtc.com CNAME .
 mdsngpush.finanzen.net CNAME .

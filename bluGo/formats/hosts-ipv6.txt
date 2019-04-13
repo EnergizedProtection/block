@@ -18366,7 +18366,6 @@ ff02::3 ip6-allhosts
 :: api-06.com
 :: api-07.com
 :: api-08.com
-:: api-0.core.keybaseapi.com
 :: api0.tuisong.baidu.com
 :: api.140proof.com
 :: api15.cmdragracing.com
@@ -19374,7 +19373,6 @@ ff02::3 ip6-allhosts
 :: api.keeprapid.com
 :: api.kentik.com
 :: api.ketedata.com
-:: api.keybase.io
 :: api.keyringapp.com
 :: apikeys.civiccomputing.com
 :: apikeys-lb.civiccomputing.com
@@ -29433,8 +29431,6 @@ ff02::3 ip6-allhosts
 :: bsec.nconfhz.com
 :: b.sell.com
 :: bsepyppitmkkf.com
-:: bserver-0.kbfs.keybaseapi.com
-:: bserver-1.kbfs.keybaseapi.com
 :: bsf1.nsoit.com
 :: bsf2.nsoit.com
 :: bsf-stage.vidible.tv
@@ -76609,8 +76605,6 @@ ff02::3 ip6-allhosts
 :: mdpparents.112.2o7.net
 :: mdpwebsitesolutions.com
 :: mdrecv.app.cntvwb.cn
-:: mdserver-0.kbfs.keybaseapi.com
-:: mdserver-1.kbfs.keybaseapi.com
 :: m.dsgy521.com
 :: mds-live.goto-rtc.com
 :: mdsngpush.finanzen.net
