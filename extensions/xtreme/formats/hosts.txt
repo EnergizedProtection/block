@@ -3266,7 +3266,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 edc.adform.net
 0.0.0.0 edge2.pixel.advertising.com
 0.0.0.0 edge.addthis.com
-0.0.0.0 edge.api.brightcove.com
 0.0.0.0 edgecast.tags.tiqcdn.com
 0.0.0.0 edge-elb.api.brightcove.com
 0.0.0.0 edge.quantserve.com
