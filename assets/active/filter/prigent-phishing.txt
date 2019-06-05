@@ -1,8 +1,8 @@
 # prigent-phishing Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://v.firebog.net/hosts/Prigent-Phishing.txt
-# Last Converted - 03.06.2019
-# Total Domains - 10353
+# Last Converted - 05.06.2019
+# Total Domains - 10305
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -577,7 +577,6 @@
 0.0.0.0 adultadscash.com
 0.0.0.0 adultan.com
 0.0.0.0 adultapp.com
-0.0.0.0 adultasperger.com
 0.0.0.0 adultau.com
 0.0.0.0 adultbook.com
 0.0.0.0 adultbookings.com
@@ -1284,7 +1283,6 @@
 0.0.0.0 bestbloggin.com
 0.0.0.0 bestbookblog.com
 0.0.0.0 best-buy-viagra.biz
-0.0.0.0 bestcanadianmeds.com
 0.0.0.0 bestcashloans.com
 0.0.0.0 bestcorp.biz
 0.0.0.0 bestcrawler.com
@@ -2024,7 +2022,6 @@
 0.0.0.0 cicamaca.com
 0.0.0.0 cic.li
 0.0.0.0 cidadesdixitais.org
-0.0.0.0 cinae.net
 0.0.0.0 cindysfavorites.com
 0.0.0.0 circlenew.com
 0.0.0.0 circlepass.com
@@ -2074,7 +2071,6 @@
 0.0.0.0 clickfast.com
 0.0.0.0 clickheretofind.com
 0.0.0.0 clickmonsters.com
-0.0.0.0 clicknzip.com
 0.0.0.0 clickshere.net
 0.0.0.0 clickshield.net
 0.0.0.0 clicksor.net
@@ -2507,7 +2503,6 @@
 0.0.0.0 datinggroup.info
 0.0.0.0 daumstudy.com
 0.0.0.0 davivienda.us
-0.0.0.0 dawnsoul.net
 0.0.0.0 db105.com
 0.0.0.0 dbmetric.com
 0.0.0.0 dbombo.com
@@ -2549,7 +2544,6 @@
 0.0.0.0 deernz.com
 0.0.0.0 default-homepage-network.com
 0.0.0.0 defaultsearch.com
-0.0.0.0 defcon-solutions.com
 0.0.0.0 defectov.net
 0.0.0.0 defensivesystem.com
 0.0.0.0 defresto.com
@@ -2884,7 +2878,6 @@
 0.0.0.0 e7da7.ws
 0.0.0.0 eacw.org
 0.0.0.0 eaksa.com
-0.0.0.0 eandre.net
 0.0.0.0 earlystill.com
 0.0.0.0 earlytouch.com
 0.0.0.0 earlywish.com
@@ -2895,7 +2888,6 @@
 0.0.0.0 earthown.com
 0.0.0.0 eases.net
 0.0.0.0 easycategories.com
-0.0.0.0 easycheapbuy.com
 0.0.0.0 easydia.com
 0.0.0.0 easydialer.com
 0.0.0.0 easygames.info
@@ -3068,7 +3060,6 @@
 0.0.0.0 el-ocean.com
 0.0.0.0 elogio.net
 0.0.0.0 eloiseowen.com
-0.0.0.0 elojocojo.com
 0.0.0.0 elos.lt
 0.0.0.0 elpath.com
 0.0.0.0 elselife.com
@@ -3266,7 +3257,6 @@
 0.0.0.0 expoby.com
 0.0.0.0 expressdist.com
 0.0.0.0 expressfuelpumps.com
-0.0.0.0 expresstablet.com
 0.0.0.0 extensiveselection.com
 0.0.0.0 extrablow.com
 0.0.0.0 extra-porn.com
@@ -3823,7 +3813,6 @@
 0.0.0.0 gardenpart.com
 0.0.0.0 garf7d.vg
 0.0.0.0 garky.com
-0.0.0.0 garydineenhockey.com
 0.0.0.0 gaspproductions.com
 0.0.0.0 gateiv.com
 0.0.0.0 gatemc.com
@@ -4023,7 +4012,6 @@
 0.0.0.0 goodsdaily.com
 0.0.0.0 goodsexs.com
 0.0.0.0 goodsexy.com
-0.0.0.0 goodsinvestor.com
 0.0.0.0 goodssolution.com
 0.0.0.0 goodun.com
 0.0.0.0 googfle.com
@@ -4129,7 +4117,6 @@
 0.0.0.0 grungo.com
 0.0.0.0 grupobhiku.com
 0.0.0.0 grupoexpansiona.com
-0.0.0.0 gruposantander-es.com
 0.0.0.0 gsfind.com
 0.0.0.0 gs-microdrive.com
 0.0.0.0 gsmit.net
@@ -4369,7 +4356,6 @@
 0.0.0.0 hogwatch.org
 0.0.0.0 holesky.com
 0.0.0.0 holidayy.com
-0.0.0.0 holisticdownload.com
 0.0.0.0 holodp.com
 0.0.0.0 holter.cn
 0.0.0.0 homeandloanservices.com
@@ -5270,7 +5256,6 @@
 0.0.0.0 likehardcore.biz
 0.0.0.0 likethisos.cn
 0.0.0.0 lillieh.com
-0.0.0.0 limited-paypals.com
 0.0.0.0 linearch.co.kr
 0.0.0.0 lineprosperity.com
 0.0.0.0 line-x.info
@@ -5348,7 +5333,6 @@
 0.0.0.0 login543644.home.ro
 0.0.0.0 loginalerts.com
 0.0.0.0 logincode.net
-0.0.0.0 login-user8858.info
 0.0.0.0 lohotronschik.info
 0.0.0.0 lolave.com
 0.0.0.0 lolkiss.info
@@ -5472,7 +5456,6 @@
 0.0.0.0 maintransfer.com
 0.0.0.0 maiok.com
 0.0.0.0 maisonworleyparsons.com
-0.0.0.0 make-a-song.com
 0.0.0.0 makeloveforever.com
 0.0.0.0 makemegood24.com
 0.0.0.0 makemesearch.com
@@ -5488,12 +5471,10 @@
 0.0.0.0 malasha.com
 0.0.0.0 malenextdoor.com
 0.0.0.0 malesnextdoor.com
-0.0.0.0 mallunitedstates.com
 0.0.0.0 malwarealarm.com
 0.0.0.0 malwaremonitor.com
 0.0.0.0 malware-scan.com
 0.0.0.0 malware-scanner.com
-0.0.0.0 malwareschutz.com
 0.0.0.0 malwarewipe.com
 0.0.0.0 mammail.com
 0.0.0.0 manageaccount.net
@@ -5712,7 +5693,6 @@
 0.0.0.0 microsoftpanel.com
 0.0.0.0 microsoftpanel.net
 0.0.0.0 microsofts-updates.com
-0.0.0.0 microvsoft.com
 0.0.0.0 microwebnet.com
 0.0.0.0 middlegrand.com
 0.0.0.0 middleoil.com
@@ -5772,7 +5752,6 @@
 0.0.0.0 mmdt.tk
 0.0.0.0 mmma.biz
 0.0.0.0 mmmff.com
-0.0.0.0 mmmike.com
 0.0.0.0 mmobot.net
 0.0.0.0 mn6v.com
 0.0.0.0 mnink.com
@@ -5816,7 +5795,6 @@
 0.0.0.0 money-athome.net
 0.0.0.0 moneybg.com
 0.0.0.0 moneyboot.com
-0.0.0.0 moneychord.com
 0.0.0.0 moneyfight.com
 0.0.0.0 moneyhunters.com
 0.0.0.0 moneyparty.com
@@ -6104,7 +6082,6 @@
 0.0.0.0 ncua.info
 0.0.0.0 ncubesystems.com
 0.0.0.0 ncuz.com
-0.0.0.0 ndcperformance.com
 0.0.0.0 ndi.com.cn
 0.0.0.0 nearapple.com
 0.0.0.0 nedonos.com
@@ -6138,7 +6115,6 @@
 0.0.0.0 netfind.biz
 0.0.0.0 netfinder.cc
 0.0.0.0 netincap.com
-0.0.0.0 netip-ny.org
 0.0.0.0 netjungle.de
 0.0.0.0 netlist.info
 0.0.0.0 netpaloffers.net
@@ -6313,7 +6289,6 @@
 0.0.0.0 nudelink.com
 0.0.0.0 nude-live-cams.com
 0.0.0.0 nude-photography.net
-0.0.0.0 nudepreteen.net
 0.0.0.0 nudeteens.in
 0.0.0.0 nude-virgins.info
 0.0.0.0 nudk.ru
@@ -6622,7 +6597,6 @@
 0.0.0.0 paypaj.com
 0.0.0.0 paypal0.com
 0.0.0.0 paypal-account.com
-0.0.0.0 paypal-accounts.com
 0.0.0.0 paypalaccounts.com
 0.0.0.0 paypal-accounts.info
 0.0.0.0 paypal-activate.com
@@ -6797,7 +6771,6 @@
 0.0.0.0 phblimited.com
 0.0.0.0 phbrink.com
 0.0.0.0 phdrops.com
-0.0.0.0 pheer.biz
 0.0.0.0 phelpspharmacy.com
 0.0.0.0 phillymama.com
 0.0.0.0 photozworld.com
@@ -6887,7 +6860,6 @@
 0.0.0.0 playexplorer.com
 0.0.0.0 play-gamer.com
 0.0.0.0 playitalia.com
-0.0.0.0 playmore.biz
 0.0.0.0 playscan.com
 0.0.0.0 playswomen.com
 0.0.0.0 pl-club.com
@@ -7090,7 +7062,6 @@
 0.0.0.0 prettykinky.com
 0.0.0.0 prettylist.com
 0.0.0.0 prevedtraf.biz
-0.0.0.0 previewnews.net
 0.0.0.0 prexy.org
 0.0.0.0 pribalt.com
 0.0.0.0 pricemiddle.com
@@ -7169,7 +7140,6 @@
 0.0.0.0 proxyaol.com
 0.0.0.0 proxybus.com
 0.0.0.0 proxychoice.com
-0.0.0.0 proxylist.biz
 0.0.0.0 proxylist.com.ru
 0.0.0.0 proxylist.ru
 0.0.0.0 proxystation.com
@@ -7203,7 +7173,6 @@
 0.0.0.0 pushgate.com
 0.0.0.0 pushmeds.com
 0.0.0.0 pussytop.com
-0.0.0.0 putin.cc
 0.0.0.0 putma.com
 0.0.0.0 pvs360.com
 0.0.0.0 pwrbank.com
@@ -7532,7 +7501,6 @@
 0.0.0.0 rubready.com
 0.0.0.0 ruedauto.com
 0.0.0.0 ruisk.com
-0.0.0.0 ruler-cash.com
 0.0.0.0 rumrunnerracing.com
 0.0.0.0 runcook.com
 0.0.0.0 rundouble.com
@@ -7616,7 +7584,6 @@
 0.0.0.0 samedi.org
 0.0.0.0 samerace.com
 0.0.0.0 sam.projectleviathan.org
-0.0.0.0 samsunfarm.com
 0.0.0.0 sanag.cl
 0.0.0.0 sancash.com
 0.0.0.0 sandbean.com
@@ -7691,7 +7658,6 @@
 0.0.0.0 scopia.uhnet.net
 0.0.0.0 scorean.com
 0.0.0.0 scotchit.com
-0.0.0.0 scotianbanks.com
 0.0.0.0 sco.to
 0.0.0.0 scott-richter.com
 0.0.0.0 scoven.com
@@ -7706,7 +7672,6 @@
 0.0.0.0 scri.us
 0.0.0.0 scrla.com
 0.0.0.0 scvauctions.com
-0.0.0.0 scvdesign.com
 0.0.0.0 sdcode.com
 0.0.0.0 sdfrr.com
 0.0.0.0 sdfs44.com
@@ -7725,7 +7690,6 @@
 0.0.0.0 search404.com
 0.0.0.0 search40.com
 0.0.0.0 search42.com
-0.0.0.0 search4fun.net
 0.0.0.0 search4results.net
 0.0.0.0 searchaccurate.com
 0.0.0.0 searchadv.com
@@ -7891,7 +7855,6 @@
 0.0.0.0 securityerrors.com
 0.0.0.0 securityiguard.com
 0.0.0.0 securitylist.net
-0.0.0.0 securitypaypal.com
 0.0.0.0 securitypills.com
 0.0.0.0 securityplugins.com
 0.0.0.0 securitysafeguards.net
@@ -8102,7 +8065,6 @@
 0.0.0.0 shop4supplement.com
 0.0.0.0 shopathomeselect.com
 0.0.0.0 shopbuymall.com
-0.0.0.0 shopbuymarket.com
 0.0.0.0 shopcards.net
 0.0.0.0 shopcatalogs.net
 0.0.0.0 shopdrugonline.com
@@ -8235,7 +8197,6 @@
 0.0.0.0 smartpillz.com
 0.0.0.0 smartpops.com
 0.0.0.0 smartsaver.us
-0.0.0.0 smart-search.net
 0.0.0.0 smartsearchpage.com
 0.0.0.0 smartsearch.ws
 0.0.0.0 smart-security.biz
@@ -8623,7 +8584,6 @@
 0.0.0.0 summercollins.com
 0.0.0.0 summertogether.com
 0.0.0.0 sunburstonline.com
-0.0.0.0 sun-ny.com
 0.0.0.0 sunnysex.net
 0.0.0.0 sunnysideworld.com
 0.0.0.0 sunny-thumbs.com
@@ -9061,7 +9021,6 @@
 0.0.0.0 topfreeteens.com
 0.0.0.0 topgamblingworld.com
 0.0.0.0 topgamecasino.com
-0.0.0.0 topgameland.com
 0.0.0.0 top-games-online.com
 0.0.0.0 topgamingportal.com
 0.0.0.0 topgaz.com
@@ -9143,7 +9102,6 @@
 0.0.0.0 traffsale1.biz
 0.0.0.0 traffweb1.biz
 0.0.0.0 trafsale.ws
-0.0.0.0 trahvideo.com
 0.0.0.0 trailersbuy.com
 0.0.0.0 trainsquare.com
 0.0.0.0 trajanoandrade.com
@@ -9154,7 +9112,6 @@
 0.0.0.0 travelbefore.com
 0.0.0.0 travelersweblog.com
 0.0.0.0 trdom.com
-0.0.0.0 treasurydepartment.net
 0.0.0.0 treeability.com
 0.0.0.0 treffend.com
 0.0.0.0 trendmicro2008.com
@@ -9204,7 +9161,6 @@
 0.0.0.0 trustedtabs.biz
 0.0.0.0 trusted-tabs.com
 0.0.0.0 trustedtabs.com
-0.0.0.0 trusted-tabs.net
 0.0.0.0 trusted-tabs.org
 0.0.0.0 trustedtabsrx.com
 0.0.0.0 trustfill.com
@@ -9325,7 +9281,6 @@
 0.0.0.0 underwritersdigital.com
 0.0.0.0 undiscovered.us
 0.0.0.0 unicat.org
-0.0.0.0 unigray.com
 0.0.0.0 unimax.us
 0.0.0.0 unionbankplc.org
 0.0.0.0 unionbank-swiss.ws
@@ -9391,7 +9346,6 @@
 0.0.0.0 update-status.com
 0.0.0.0 updatesummary.com
 0.0.0.0 updateyouraccountnow.com
-0.0.0.0 updateyourpaypai.cjb.net
 0.0.0.0 updatez.info
 0.0.0.0 upgm.com
 0.0.0.0 upgto.edu.mx
@@ -9422,7 +9376,6 @@
 0.0.0.0 user-24-236-104-105.knology.net
 0.0.0.0 user-alert.com
 0.0.0.0 usercash.com
-0.0.0.0 user-confirmation.com
 0.0.0.0 userlands.com
 0.0.0.0 userpro.io
 0.0.0.0 userscounter.com
@@ -9508,7 +9461,6 @@
 0.0.0.0 verycontrol.com
 0.0.0.0 veryeasysearch.com
 0.0.0.0 veryfastsearch.com
-0.0.0.0 verygoodshop.info
 0.0.0.0 verymonkey.com
 0.0.0.0 verzila.com
 0.0.0.0 vesbiz.biz

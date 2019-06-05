@@ -1,7 +1,7 @@
 # dshield.org-high Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://www.dshield.org/feeds/suspiciousdomains_High.txt
-# Last Converted - 03.06.2019
+# Last Converted - 05.06.2019
 # Total Domains - 2
 # Energized - ad.porn.malware blocking.
 # https://energized.pro

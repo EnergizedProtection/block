@@ -1,8 +1,8 @@
 # easylist-italy Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/converter/filter/easylist-italy.txt
-# Last Converted - 03.06.2019
-# Total Domains - 198
+# Last Converted - 05.06.2019
+# Total Domains - 196
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -171,7 +171,6 @@
 0.0.0.0 secure.emp-online.it
 0.0.0.0 seolabadv.it
 0.0.0.0 servizi-web-marketing.it
-0.0.0.0 shoppingbox.leguide.com
 0.0.0.0 simpleview.it
 0.0.0.0 s-lab.it
 0.0.0.0 smartclip.net
@@ -197,7 +196,6 @@
 0.0.0.0 viralbeat.com
 0.0.0.0 vitaquotidiana.com
 0.0.0.0 wbusiness.fr
-0.0.0.0 webpartner.mrcrawler.it
 0.0.0.0 widebanner.com
 0.0.0.0 widget.promoqui.it
 0.0.0.0 ws.shoppydoo.com

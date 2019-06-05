@@ -1,8 +1,8 @@
 # clefspeare-pornhosts Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/Clefspeare13/pornhosts/master/0.0.0.0/hosts
-# Last Converted - 03.06.2019
-# Total Domains - 7882
+# Last Converted - 05.06.2019
+# Total Domains - 7866
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -78,7 +78,6 @@
 0.0.0.0 404.elitedollars.com
 0.0.0.0 404.hqhost.net
 0.0.0.0 404.online.net
-0.0.0.0 404.quickbuck.com
 0.0.0.0 40best.com
 0.0.0.0 420chan.org
 0.0.0.0 429tube.com
@@ -251,7 +250,6 @@
 0.0.0.0 adultfriendfinder.com
 0.0.0.0 adultfriendfinders.com
 0.0.0.0 adultfriendfinders.net
-0.0.0.0 adultfriendfinders.us
 0.0.0.0 adultfriendfinderz.com
 0.0.0.0 adultfriendsearch.com
 0.0.0.0 adultgamescollector.com
@@ -492,7 +490,6 @@
 0.0.0.0 angelesurbanos.com
 0.0.0.0 angel-exhib.com
 0.0.0.0 angeleyes.ca
-0.0.0.0 angel-eyes.cjb.net
 0.0.0.0 angelfier.com
 0.0.0.0 angelfuns.over-blog.com
 0.0.0.0 angelgabriel.over-blog.com
@@ -1269,7 +1266,6 @@
 0.0.0.0 celeb.gate.cc
 0.0.0.0 celebritiesonvideo.thumblogger.com
 0.0.0.0 celebrity-captures.com
-0.0.0.0 celebrity-fakes.net
 0.0.0.0 celebritytube.com
 0.0.0.0 celebritytube.video
 0.0.0.0 celebritywar.com
@@ -1323,7 +1319,6 @@
 0.0.0.0 chrisangel.canalblog.com
 0.0.0.0 christinaangel.com
 0.0.0.0 christycanyon.com
-0.0.0.0 chris.virginradioblog.fr
 0.0.0.0 chubbyloving.com
 0.0.0.0 chubbyparade.com
 0.0.0.0 chubby-teen.com
@@ -3044,7 +3039,6 @@
 0.0.0.0 rapedcreampie.com
 0.0.0.0 rape-porno.com
 0.0.0.0 raredesi.com
-0.0.0.0 rasazrak.info
 0.0.0.0 rateme.km.ru
 0.0.0.0 ratemynaughty.com
 0.0.0.0 rawtube.com
@@ -3417,7 +3411,6 @@
 0.0.0.0 www.3x.ro
 0.0.0.0 www.3xtraffic.com
 0.0.0.0 www.404.elitedollars.com
-0.0.0.0 www.404.quickbuck.com
 0.0.0.0 www.404.ragecash.com
 0.0.0.0 www.40best.com
 0.0.0.0 www.4adultin.com
@@ -3733,7 +3726,6 @@
 0.0.0.0 www.angelsinnmanali.com
 0.0.0.0 www.angelsinsatin.com
 0.0.0.0 www.angels-in-ukraine.net
-0.0.0.0 www.angelsinwetts.cjb.net
 0.0.0.0 www.angels.jp.land.to
 0.0.0.0 www.angelsofamsterdam.com
 0.0.0.0 www.angelsofamsterdam.nl
@@ -4409,7 +4401,6 @@
 0.0.0.0 www.dirwebcams.com
 0.0.0.0 www.disappointedvirginity.com
 0.0.0.0 www.discreetangels.net
-0.0.0.0 www.disney-xxx.net
 0.0.0.0 www.dla3hotbanat.info
 0.0.0.0 www.dlisted.com
 0.0.0.0 www.dluxrelax.com
@@ -4614,9 +4605,7 @@
 0.0.0.0 www.fatbackmedia.com
 0.0.0.0 www.fatchickens.net
 0.0.0.0 www.fatpichunter.com
-0.0.0.0 www.fattyangels.com
 0.0.0.0 www.favouritecash.com
-0.0.0.0 www.fbbtop100.com
 0.0.0.0 www.feetwebcams.com
 0.0.0.0 www.fellatiojapan.com
 0.0.0.0 www.felony-angel.blogdrive.com
@@ -5015,7 +5004,6 @@
 0.0.0.0 www.hollywoodtuna.com
 0.0.0.0 www.holylol.com
 0.0.0.0 www.holytaco.com
-0.0.0.0 www.holywebcams.com
 0.0.0.0 www.homegrownfreaks.net
 0.0.0.0 www.homegrownvideo.com
 0.0.0.0 www.homemadevids.net
@@ -5445,7 +5433,6 @@
 0.0.0.0 www.lushstories.com
 0.0.0.0 www.lustpin.com
 0.0.0.0 www.lustymaturemoms.com
-0.0.0.0 www.lustywebcams.com
 0.0.0.0 www.l-virgin.biz
 0.0.0.0 www.l-virgin.com
 0.0.0.0 www.l-virgin.info
@@ -7068,7 +7055,6 @@
 0.0.0.0 www.users.dacash.com
 0.0.0.0 www.usexvideos.com
 0.0.0.0 www.usualgirls.com
-0.0.0.0 www.usvirgin.com
 0.0.0.0 www.usvirgins.com
 0.0.0.0 www.utherverse.com
 0.0.0.0 www.v3.allurecash.net
@@ -7135,7 +7121,6 @@
 0.0.0.0 www.virgin-experience.com
 0.0.0.0 www.virgin-films.com
 0.0.0.0 www.virgingalactic.ca
-0.0.0.0 www.virginhaven.com
 0.0.0.0 www.virginhoney.com
 0.0.0.0 www.virginhood.com
 0.0.0.0 www.virginiablueridge.com
@@ -7183,7 +7168,6 @@
 0.0.0.0 www.virgins-off.com
 0.0.0.0 www.virgins.org
 0.0.0.0 www.virgins.pl
-0.0.0.0 www.virginsrus.com
 0.0.0.0 www.virginstories.com
 0.0.0.0 www.virginsuicide.com
 0.0.0.0 www.virgintemple.com

@@ -1,8 +1,8 @@
 # cybercrime Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://v.firebog.net/hosts/Cybercrime.txt
-# Last Converted - 03.06.2019
-# Total Domains - 5415
+# Last Converted - 05.06.2019
+# Total Domains - 5412
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -4443,7 +4443,6 @@
 0.0.0.0 wetlandoilgas.com
 0.0.0.0 wewqeqw.webege.com
 0.0.0.0 wfgrma5m.beget.tech
-0.0.0.0 whenyouplaygood.com
 0.0.0.0 whipwack.com
 0.0.0.0 whirpy.webege.com
 0.0.0.0 whitepaper.me
@@ -5028,7 +5027,6 @@
 0.0.0.0 www.panels18.info
 0.0.0.0 www.paperpickup.co.za
 0.0.0.0 www.paydayloanskat.com
-0.0.0.0 www.pcchand.com
 0.0.0.0 www.perilshed.info
 0.0.0.0 www.pestinvasionpretoria.co.za
 0.0.0.0 www.peter.am-strand.de
@@ -5177,7 +5175,6 @@
 0.0.0.0 www.tascosaudi.com
 0.0.0.0 www.tasdanlar.com.tr
 0.0.0.0 www.tattvahardware.com
-0.0.0.0 www.tclogs.com
 0.0.0.0 www.techlift.com.my
 0.0.0.0 www.tech.net.cn
 0.0.0.0 www.technlip.com

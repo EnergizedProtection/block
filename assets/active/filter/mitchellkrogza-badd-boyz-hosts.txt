@@ -1,8 +1,8 @@
 # mitchellkrogza-badd-boyz-hosts Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
-# Last Converted - 03.06.2019
-# Total Domains - 1333
+# Last Converted - 05.06.2019
+# Total Domains - 1318
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -120,7 +120,6 @@
 0.0.0.0 1qingdao.com
 0.0.0.0 1re.info
 0.0.0.0 1sexe1.free.fr
-0.0.0.0 1-sexy.com
 0.0.0.0 1stat.ru
 0.0.0.0 1studio.net
 0.0.0.0 1unblock.com
@@ -128,7 +127,6 @@
 0.0.0.0 1zone1.free.fr
 0.0.0.0 2005-search.com
 0.0.0.0 2012countdown.info
-0.0.0.0 2012hacks.info
 0.0.0.0 2013tomsshoesforsale.com
 0.0.0.0 201mb.com
 0.0.0.0 2020iscoming.info
@@ -227,7 +225,6 @@
 0.0.0.0 4pussies.com
 0.0.0.0 4realzed.com
 0.0.0.0 4replicawatch.net
-0.0.0.0 4sin.net
 0.0.0.0 4takt-oel.de
 0.0.0.0 4teacher.de
 0.0.0.0 4th3d48.com
@@ -317,7 +314,6 @@
 0.0.0.0 99topnn.info
 0.0.0.0 9aad7115.amy.gs
 0.0.0.0 9c51vda.com
-0.0.0.0 9fb.info
 0.0.0.0 9h7n8.com
 0.0.0.0 9ics.cn
 0.0.0.0 9med.net
@@ -462,7 +458,6 @@
 0.0.0.0 albamargroup.com
 0.0.0.0 albanypowerexchange.com
 0.0.0.0 albaphotos.free.fr
-0.0.0.0 albergoabruzzo.com
 0.0.0.0 alberguecasaanita.com
 0.0.0.0 alblux.com
 0.0.0.0 alboautotrasportatori.it
@@ -504,7 +499,6 @@
 0.0.0.0 all.alisatilsner.com
 0.0.0.0 allamericanmadetoys.com
 0.0.0.0 allanimehentai.com
-0.0.0.0 allbdpaper.com
 0.0.0.0 allbest-medicalbillingandcoding-deals.com
 0.0.0.0 allbestpantyhose.com
 0.0.0.0 allboys.buckshost.com
@@ -578,10 +572,8 @@
 0.0.0.0 animal-drawings.com
 0.0.0.0 a.nimdinb.com
 0.0.0.0 anolysis.privacy.cliqz.com
-0.0.0.0 a-n-o-n-y-m-o-u-s.info
 0.0.0.0 answerzones.com
 0.0.0.0 antcompany.com
-0.0.0.0 anthonymthompson.com
 0.0.0.0 anticodistretto.com
 0.0.0.0 anticosm.com
 0.0.0.0 antifa.co.at
@@ -683,7 +675,6 @@
 0.0.0.0 cs6hm.com
 0.0.0.0 csgoezknife.com
 0.0.0.0 csgo-jackpot.net
-0.0.0.0 csgoslayer.com
 0.0.0.0 csk2014.info
 0.0.0.0 csk.ru
 0.0.0.0 cstrespsurvey.ca
@@ -1101,7 +1092,6 @@
 0.0.0.0 maylasia.com
 0.0.0.0 mayr-software.de
 0.0.0.0 myadultdiary.com
-0.0.0.0 myadultempire.com
 0.0.0.0 my-aladin.com
 0.0.0.0 myaloevera.com
 0.0.0.0 myamateurvideos.com
@@ -1139,7 +1129,6 @@
 0.0.0.0 porno-play.net
 0.0.0.0 porno-raskazy.ru
 0.0.0.0 porno-service.com
-0.0.0.0 pornositi.com
 0.0.0.0 porno-star.de
 0.0.0.0 porno-supreme.com
 0.0.0.0 porno-v1.com
@@ -1178,7 +1167,6 @@
 0.0.0.0 shopalliedpools.com
 0.0.0.0 shopbitcoin.ru
 0.0.0.0 shop-electron.ru
-0.0.0.0 shopiconboutiqe.com
 0.0.0.0 shop.justguam.com
 0.0.0.0 shopnexus.de
 0.0.0.0 silveris.net
@@ -1187,7 +1175,6 @@
 0.0.0.0 silverporn.mobi
 0.0.0.0 similardeals.net
 0.0.0.0 simon3.ru
-0.0.0.0 simpatiaose.com
 0.0.0.0 sistemacentral.xpg.com.br
 0.0.0.0 sisterincest.com
 0.0.0.0 sisyfos.se
@@ -1258,14 +1245,12 @@
 0.0.0.0 ssl2anyone3.com
 0.0.0.0 ssl2anyone5.com
 0.0.0.0 ssl4anyone2.com
-0.0.0.0 ssl4anyone3.com
 0.0.0.0 ssl4anyone4.com
 0.0.0.0 ssl4anyone5.com
 0.0.0.0 ssl.eroscomix.com
 0.0.0.0 sslgo.info
 0.0.0.0 sstroy44.ru
 0.0.0.0 stackpoints.com
-0.0.0.0 stackthatbucks.com
 0.0.0.0 stacyhubert.com
 0.0.0.0 stadiumcrossing.com
 0.0.0.0 staffingsolutions.net

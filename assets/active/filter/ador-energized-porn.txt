@@ -1,7 +1,7 @@
 # ador-energized-porn Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts-porn
-# Last Converted - 03.06.2019
+# Last Converted - 05.06.2019
 # Total Domains - 1615
 # Energized - ad.porn.malware blocking.
 # https://energized.pro

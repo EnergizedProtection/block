@@ -1,8 +1,8 @@
 # adguard-french-filter Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/converter/filter/adguard-french-filter.txt
-# Last Converted - 03.06.2019
-# Total Domains - 5257
+# Last Converted - 05.06.2019
+# Total Domains - 5252
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1250,7 +1250,6 @@
 0.0.0.0 clickpapa.io
 0.0.0.0 clicks4ads.com
 0.0.0.0 clickscloud.net
-0.0.0.0 clicksfly.com
 0.0.0.0 clicks.support
 0.0.0.0 clicktictac.com
 0.0.0.0 clickzzs.nl
@@ -2709,10 +2708,7 @@
 0.0.0.0 jsecoin.com
 0.0.0.0 jshosting.bid
 0.0.0.0 jshosting.date
-0.0.0.0 jshosting.download
 0.0.0.0 jshosting.loan
-0.0.0.0 jshosting.party
-0.0.0.0 jshosting.racing
 0.0.0.0 jshosting.review
 0.0.0.0 jshosting.stream
 0.0.0.0 jshosting.trade
@@ -2940,6 +2936,7 @@
 0.0.0.0 loudads.net
 0.0.0.0 lovacmar.click
 0.0.0.0 lovelinebabydesign.com
+0.0.0.0 lovilialaceyville.com
 0.0.0.0 lownet.fr
 0.0.0.0 lrcdn.net
 0.0.0.0 lslsd.ovh
@@ -3202,6 +3199,7 @@
 0.0.0.0 mumbai-invest.email
 0.0.0.0 muqson0kgr.com
 0.0.0.0 murrietaullin.com
+0.0.0.0 musticizeded.info
 0.0.0.0 mvchallenges.s3-website-eu-west-1.amazonaws.com
 0.0.0.0 mw19c3mi5a.com
 0.0.0.0 mwor.gq
@@ -3914,6 +3912,7 @@
 0.0.0.0 pwwysydh.com
 0.0.0.0 px1alsry.com
 0.0.0.0 px9y26.com
+0.0.0.0 pxlad.io
 0.0.0.0 pxltgr.com
 0.0.0.0 pxrbl.megafilms.me
 0.0.0.0 pxt-networks.com
@@ -3953,7 +3952,6 @@
 0.0.0.0 quickmoneyanswers.org
 0.0.0.0 quoashei.com
 0.0.0.0 quoo4ae.top
-0.0.0.0 qvjql3e.com
 0.0.0.0 qwertize.link
 0.0.0.0 qwerty1.co.pl
 0.0.0.0 qwtbx.com
@@ -4140,7 +4138,6 @@
 0.0.0.0 s7kkpeo6e2.com
 0.0.0.0 s85n4btydl.online
 0.0.0.0 s8j1e.com
-0.0.0.0 s94u13.top
 0.0.0.0 s9jp9xogfz.com
 0.0.0.0 sa1block.com
 0.0.0.0 sabavision.com
@@ -4273,7 +4270,6 @@
 0.0.0.0 shop.mango.com
 0.0.0.0 shoppanda.co
 0.0.0.0 shoppingate.info
-0.0.0.0 shoppingbox.leguide.com
 0.0.0.0 shoppingbox.liberation.fr
 0.0.0.0 shoppytab.com
 0.0.0.0 shopstockoff.com
@@ -4374,7 +4370,6 @@
 0.0.0.0 sscashpop.com
 0.0.0.0 ssiapawz.com
 0.0.0.0 ssl2anyone2.com
-0.0.0.0 ssl4anyone3.com
 0.0.0.0 ssl4me.ga
 0.0.0.0 ssl4us.tk
 0.0.0.0 ss-n-30.com
@@ -4572,6 +4567,7 @@
 0.0.0.0 ths9j89.com
 0.0.0.0 thukrubs.com
 0.0.0.0 tidido.com
+0.0.0.0 tidiouteburket.com
 0.0.0.0 tipslz.com
 0.0.0.0 tiredduck.com
 0.0.0.0 tiz-et.ru
@@ -4659,7 +4655,6 @@
 0.0.0.0 trafeeq.com
 0.0.0.0 trafe.info
 0.0.0.0 traffdaq.com
-0.0.0.0 traffe.eu
 0.0.0.0 trafficad.net
 0.0.0.0 trafficbee.com
 0.0.0.0 traffic.club

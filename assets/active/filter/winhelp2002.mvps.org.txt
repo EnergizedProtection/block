@@ -1,8 +1,8 @@
 # winhelp2002.mvps.org Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://winhelp2002.mvps.org/hosts.txt
-# Last Converted - 03.06.2019
-# Total Domains - 11269
+# Last Converted - 05.06.2019
+# Total Domains - 11266
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -324,7 +324,6 @@
 0.0.0.0 a.cbc.ca
 0.0.0.0 acckalaharinet.112.2o7.net
 0.0.0.0 accuweather.us.intellitxt.com
-0.0.0.0 acdn.adnxs.com
 0.0.0.0 a.cdn.intentmedia.net
 0.0.0.0 ace.adoftheyear.com
 0.0.0.0 a.centrum.cz
@@ -1181,7 +1180,6 @@
 0.0.0.0 ads.gumgum.com
 0.0.0.0 ads.guru3d.com
 0.0.0.0 ads.h2porn.com
-0.0.0.0 ads.happyidiots.nl
 0.0.0.0 adsharenetwork.com
 0.0.0.0 ads.harpers.org
 0.0.0.0 ads.haskovo.net
@@ -5930,7 +5928,6 @@
 0.0.0.0 logv8.xiti.com
 0.0.0.0 logv9.xiti.com
 0.0.0.0 logw312.ati-host.net
-0.0.0.0 logw349.ati-host.net
 0.0.0.0 lohud.us.intellitxt.com
 0.0.0.0 lokalavisendk.nuggad.net
 0.0.0.0 longhornblogs.us.intellitxt.com

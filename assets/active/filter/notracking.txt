@@ -1,8 +1,8 @@
 # notracking Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
-# Last Converted - 03.06.2019
-# Total Domains - 26089
+# Last Converted - 05.06.2019
+# Total Domains - 26058
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -696,7 +696,6 @@
 0.0.0.0 a-c-sky.rzb.ir
 0.0.0.0 act2.mediafour.com
 0.0.0.0 act.commercial.shouji.360.cn
-0.0.0.0 actie.gooieneemlander.nl
 0.0.0.0 actie.haarlemsdagblad.nl
 0.0.0.0 actie.ijmuidercourant.nl
 0.0.0.0 actie.leidschdagblad.nl
@@ -1545,7 +1544,6 @@
 0.0.0.0 ads1.crgaming.com
 0.0.0.0 ads1.empiretheatres.com
 0.0.0.0 ads1.erotism.com
-0.0.0.0 ads1.gayboy.at
 0.0.0.0 ads1.gccx.com
 0.0.0.0 ads1.hencken.com
 0.0.0.0 ads1.jp.msn.com
@@ -2459,7 +2457,6 @@
 0.0.0.0 ads.haberler.com
 0.0.0.0 ads.hamtonroads.com
 0.0.0.0 ads.handycafe.com
-0.0.0.0 ads.happyidiots.nl
 0.0.0.0 ads.harpercollins.co.uk
 0.0.0.0 ads.harpers.org
 0.0.0.0 ads.harvard.edu
@@ -3227,7 +3224,6 @@
 0.0.0.0 ads.vitalix.net
 0.0.0.0 ads.vjaffiliates.com
 0.0.0.0 ads.vkushti.tv
-0.0.0.0 ads.v-links.net
 0.0.0.0 ads.voiceads.cn
 0.0.0.0 ads.voyit.com
 0.0.0.0 ads.vporn.com
@@ -3982,7 +3978,6 @@
 0.0.0.0 ak.imgaft.com
 0.0.0.0 akkristd.beget.tech
 0.0.0.0 akku.mondo.trium.mitsubishi.sms13.de
-0.0.0.0 a.klaviyo.com
 0.0.0.0 ak.linkstorm.net
 0.0.0.0 ak-mc-siderail.spot.im
 0.0.0.0 ak.pipoffers.apnpartners.com
@@ -4594,7 +4589,6 @@
 0.0.0.0 api.loyaltylion.com
 0.0.0.0 api-lytics.macpaw.com
 0.0.0.0 api.magmamobile.com
-0.0.0.0 api.miner.beeppool.org
 0.0.0.0 api.mini.wps.cn
 0.0.0.0 api.mlinks.co
 0.0.0.0 api.moogos.com
@@ -4706,7 +4700,6 @@
 0.0.0.0 app2.letitbefaster.life
 0.0.0.0 app2.letslowbefast.life
 0.0.0.0 app.3987.com
-0.0.0.0 app3.letitbefaster.website
 0.0.0.0 app4.letitbefaster.life
 0.0.0.0 app4.letitbefaster.website
 0.0.0.0 app4.letslowbefast.life
@@ -4751,7 +4744,6 @@
 0.0.0.0 apple.321oyna.com
 0.0.0.0 apple.com-care-macbook-system.live
 0.0.0.0 apple.com-improve-macos.live
-0.0.0.0 apple.com-mac-booster.live
 0.0.0.0 apple.com-macos-clean-systems.live
 0.0.0.0 apple.com-repair.live
 0.0.0.0 apple.com-repair-os.live
@@ -5319,7 +5311,6 @@
 0.0.0.0 banner.missingkids.com
 0.0.0.0 banner.monacogoldcasino.com
 0.0.0.0 banner.nasty-cam.de
-0.0.0.0 bannernetwork.cearchives.com
 0.0.0.0 banner.newyorkcasino.com
 0.0.0.0 banner.nixnet.cz
 0.0.0.0 banner.noblepoker.com
@@ -5627,7 +5618,6 @@
 0.0.0.0 bccc.kickme.to
 0.0.0.0 b.cdn.md
 0.0.0.0 bce.baidu.com
-0.0.0.0 bc.geocities.yahoo.co.jp
 0.0.0.0 bcjjg.bugsevent.com
 0.0.0.0 bcjxf.bugsevent.com
 0.0.0.0 bcli.flash-xxx.com
@@ -6151,7 +6141,6 @@
 0.0.0.0 bryan.logs.roku.com
 0.0.0.0 bs14.9669.cn
 0.0.0.0 bs.5442.com
-0.0.0.0 bscampaigns.snacktools.net
 0.0.0.0 bsd.prognet.com
 0.0.0.0 bseaqmi.angelcities.com
 0.0.0.0 b.sell.com
@@ -6602,7 +6591,6 @@
 0.0.0.0 cdn.finanzen.de
 0.0.0.0 cdn.firstimpression.io
 0.0.0.0 cdn.freefarcy.com
-0.0.0.0 cdn.freehalves.com
 0.0.0.0 cdn.freejars.com
 0.0.0.0 cdn.freejax.com
 0.0.0.0 cdn.funnel.naturaltracking.com
@@ -6841,6 +6829,7 @@
 0.0.0.0 ceresiontest.c0.pl
 0.0.0.0 ceskydomov.alias.ngs.modry.cz
 0.0.0.0 c.es.msn.com
+0.0.0.0 cf1c0.thisav.com
 0.0.0.0 c.f1zd.com
 0.0.0.0 cf-ads.pinger.com
 0.0.0.0 cfcd.duckdns.org
@@ -9525,7 +9514,6 @@
 0.0.0.0 eecky.butlerelectricsupply.com
 0.0.0.0 eegad.freeservers.com
 0.0.0.0 e.ejuen.com
-0.0.0.0 eekro.cruisingsmallship.com
 0.0.0.0 eeroo.frost-electric-supply.com
 0.0.0.0 ee.shixunwang.net
 0.0.0.0 eetho.cruisingsmallship.com
@@ -10496,7 +10484,6 @@
 0.0.0.0 gannett.gcion.com
 0.0.0.0 ganti-warna0.myz.info
 0.0.0.0 gan.wavecdn.net
-0.0.0.0 ganymed.beeppool.org
 0.0.0.0 gao.ynet.com
 0.0.0.0 gardinotec.ind.br
 0.0.0.0 garo903.web.fc2.com
@@ -11833,7 +11820,6 @@
 0.0.0.0 imgp.cymzc.com
 0.0.0.0 img.prohardver.hu
 0.0.0.0 imgpromo.easyrencontre.com
-0.0.0.0 imgpublicidad.clarin.com
 0.0.0.0 img.py69.cn
 0.0.0.0 img.royal-cash.com
 0.0.0.0 img.s8bbs.com
@@ -14279,7 +14265,6 @@
 0.0.0.0 mimg.7791.com.cn
 0.0.0.0 mind.indianmedicalsupplies.org
 0.0.0.0 mine.p2pool.com
-0.0.0.0 miner.beeppool.org
 0.0.0.0 miner-deu-1.inf.nimiq.network
 0.0.0.0 miner-deu-2.inf.nimiq.network
 0.0.0.0 miner-deu-3.inf.nimiq.network
@@ -15933,7 +15918,6 @@
 0.0.0.0 page-help-set.000webhostapp.com
 0.0.0.0 pagehelpwarningg.nabatere.ga
 0.0.0.0 pagerank.jklir.net
-0.0.0.0 pager.site50.net
 0.0.0.0 page.santc.cn
 0.0.0.0 pages.convertkit.com
 0.0.0.0 pages-dabong.000webhostapp.com
@@ -16308,7 +16292,6 @@
 0.0.0.0 pic2.onetad.com
 0.0.0.0 pic3.onetad.com
 0.0.0.0 pic8.onetad.com
-0.0.0.0 pic.bdyxzx.com
 0.0.0.0 pic.bloggerads.net
 0.0.0.0 piccdn.bloggerads.net
 0.0.0.0 pic.cnmo-img.com.cn
@@ -16482,6 +16465,7 @@
 0.0.0.0 pixel.tree.com
 0.0.0.0 pixel-use201-lighttpd-elb-1612913623.us-east-2.elb.amazonaws.com
 0.0.0.0 pixel.vihub.ru
+0.0.0.0 pixel.wp.pl
 0.0.0.0 pixel.wp.tv
 0.0.0.0 pixel.yola.com
 0.0.0.0 pix.firstload.de
@@ -16635,7 +16619,6 @@
 0.0.0.0 polcloudsc29452301us1.cobrowse.oraclecloud.com
 0.0.0.0 pole.6rooms.com
 0.0.0.0 polemic-prisms.000webhostapp.com
-0.0.0.0 police11.provenprotection.net
 0.0.0.0 police.moraga.ca.us
 0.0.0.0 policy.video.iqiyi.com
 0.0.0.0 poliy.kozow.com
@@ -17514,7 +17497,6 @@
 0.0.0.0 rehs.velvet.hu
 0.0.0.0 rehyejereeeefh.bij.pl
 0.0.0.0 reiscortezia.adv.br
-0.0.0.0 rek.hepaffiliates.com
 0.0.0.0 reklama.botevgrad.com
 0.0.0.0 reklama-cluster.tut.by
 0.0.0.0 reklama.mironet.cz
@@ -18530,8 +18512,6 @@
 0.0.0.0 secureconnctauth.000webhostapp.com
 0.0.0.0 secure.cpaempire.com
 0.0.0.0 secured-microsoftonline.000webhostapp.com
-0.0.0.0 secured.netflix.com.find.userinfo.jh8g7uh72.netuseractive.com
-0.0.0.0 secured.netflix.com.find.userinfo.n87g3hh91.netuseractive.com
 0.0.0.0 securedocmanagem.bazadaisecattle.com.au
 0.0.0.0 secure.download-sponsor.de
 0.0.0.0 secure.driversupport.com
@@ -18903,7 +18883,6 @@
 0.0.0.0 shop.kvgems-preciousstones.com
 0.0.0.0 shop.lauritaexcavating.info
 0.0.0.0 shop.laurita.info
-0.0.0.0 shoppingbox.leguide.com
 0.0.0.0 shoppingbox.liberation.fr
 0.0.0.0 shoppingbox.partner.leguide.com
 0.0.0.0 shopping.dailycamera.com
@@ -21669,7 +21648,6 @@
 0.0.0.0 txt.utro.ru
 0.0.0.0 tyh.taobao.com
 0.0.0.0 tyler.logs.roku.com
-0.0.0.0 type.anotherpieceofpeace.com
 0.0.0.0 type.azsportsent.com
 0.0.0.0 type.fdti.in
 0.0.0.0 type.floridaconcretepumping.com
@@ -21870,7 +21848,6 @@
 0.0.0.0 url.222bz.com
 0.0.0.0 url.3400.org
 0.0.0.0 url.adtrgt.com
-0.0.0.0 urladyms.newlogiq.com
 0.0.0.0 url.jiemengle.com
 0.0.0.0 url.tudown.com
 0.0.0.0 us01.lockview.cn
@@ -22308,7 +22285,6 @@
 0.0.0.0 vtracking.in.com
 0.0.0.0 vtrack.larvtrk.com
 0.0.0.0 vtrack.wdavtrk.com
-0.0.0.0 v.tranzistor-harakteristiki.ru
 0.0.0.0 v.u22l.cc
 0.0.0.0 vu.adschoom.com
 0.0.0.0 vulfixxn.beget.tech
@@ -22547,7 +22523,6 @@
 0.0.0.0 webnetra.entelnet.bo
 0.0.0.0 web.nyc.ads.juno.co
 0.0.0.0 webofficesignature.myfreesites.net
-0.0.0.0 webpartner.mrcrawler.it
 0.0.0.0 webphone.bellaliant.net
 0.0.0.0 webpoll.sparklit.com
 0.0.0.0 webscr.cgi-bin.payzen.securesession.net
@@ -23067,7 +23042,6 @@
 0.0.0.0 www.4wad.com
 0.0.0.0 www.500ww.com
 0.0.0.0 www.5066.net
-0.0.0.0 www.50mi.cn
 0.0.0.0 www.51388.com
 0.0.0.0 www.5188yy.com
 0.0.0.0 www.51link.com
@@ -23351,7 +23325,6 @@
 0.0.0.0 www.apple.com-clean-macbook.live
 0.0.0.0 www.apple.com-clean-macbook-system.live
 0.0.0.0 www.apple.com-improve-macos.live
-0.0.0.0 www.apple.com-mac-booster.live
 0.0.0.0 www.apple.com-repair.live
 0.0.0.0 www.apple.com-scan.live
 0.0.0.0 www.apple.com-speed-macbook.live
@@ -23900,7 +23873,6 @@
 0.0.0.0 www.fireballindia.com
 0.0.0.0 www.firewallgold.com
 0.0.0.0 www.fischereszter.hu
-0.0.0.0 www.fishingtackleindia.com
 0.0.0.0 www.fixin.de
 0.0.0.0 www.fjlqqc.com
 0.0.0.0 www.flagads.net
@@ -24006,6 +23978,7 @@
 0.0.0.0 www.glutax-ori.com
 0.0.0.0 www.glxgroup.com
 0.0.0.0 www.gmcjjh.org
+0.0.0.0 www.gnezdodesign.ru
 0.0.0.0 www.go2clickbank.com
 0.0.0.0 www.goldadvert.cz
 0.0.0.0 www.gold-city.it
@@ -24209,7 +24182,6 @@
 0.0.0.0 www.iwstats.com
 0.0.0.0 www.izmirtente.info
 0.0.0.0 www.jacklindberg.com
-0.0.0.0 www.jacquesdalne.net
 0.0.0.0 www.jacquestrifin.be
 0.0.0.0 www.jagcn.com
 0.0.0.0 www.jak-szybko-zarobic.com
@@ -24528,7 +24500,6 @@
 0.0.0.0 www.morinda.com
 0.0.0.0 www.morpheus-forum.de
 0.0.0.0 www.motortecnica.org
-0.0.0.0 www.motoslittetrecime.com
 0.0.0.0 www.mountain-paradise.co.uk
 0.0.0.0 www.movable-ink-2183.com
 0.0.0.0 www.moviedownloader.net
@@ -25365,6 +25336,7 @@
 0.0.0.0 www.ussanlorenzo.it
 0.0.0.0 www.uyunad.com
 0.0.0.0 www.vakantiehuisjeameland.nl
+0.0.0.0 www.valerypro.com
 0.0.0.0 www.valhallarisingthemovie.co.uk
 0.0.0.0 www.validatedsite.com
 0.0.0.0 www.validview.com
@@ -25560,7 +25532,6 @@
 0.0.0.0 www.zamora.axiatraders.com
 0.0.0.0 www.zamplus.com
 0.0.0.0 www.zarobek4u.com
-0.0.0.0 www.zarobicprzezinternet.com
 0.0.0.0 www.zatzy.com
 0.0.0.0 www.zctei.com
 0.0.0.0 www.zee.cws.conviva.com
@@ -25978,9 +25949,7 @@
 0.0.0.0 zara.voucher.giftcards-promotion.com
 0.0.0.0 zarexbytonia.cba.pl
 0.0.0.0 zasilkonto.cba.pl
-0.0.0.0 zastrzyk-gotowki.waw.pl
 0.0.0.0 zbierajnagrody.bo.pl
-0.0.0.0 zbz.m.qxs.la
 0.0.0.0 zc1.delta-boa.com
 0.0.0.0 zc2.quebec-bin.com
 0.0.0.0 zc.adpush.cn

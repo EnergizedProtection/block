@@ -105,7 +105,7 @@
   {"name": "lightswitch-hosts-extended",         "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt"},
   {"name": "liste-ar",                           "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/converter/filter/liste-ar.txt"},
   {"name": "mailborder-phishing-bad-sites",      "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/mirror/mailborder.txt"},
-  {"name": "malwaredomainlist.com",              "enabled": false,  "format": "plain",   "url": "https://www.malwaredomainlist.com/hostslist/hosts.txt"},
+  {"name": "malwaredomainlist.com",              "enabled": true,  "format": "plain",   "url": "https://www.malwaredomainlist.com/hostslist/hosts.txt"},
   {"name": "malwaredomains.com-immortaldomains", "enabled": true,  "format": "plain",   "url": "http://mirror1.malwaredomains.com/files/immortal_domains.txt"},
   {"name": "malwaredomains.com-justdomains",     "enabled": true,  "format": "plain",   "url": "http://mirror1.malwaredomains.com/files/justdomains"},
   {"name": "matomo.org-spammers",                "enabled": true,  "format": "plain",   "url": "https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt"},

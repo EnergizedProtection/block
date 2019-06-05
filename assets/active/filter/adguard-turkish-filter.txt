@@ -1,8 +1,8 @@
 # adguard-turkish-filter Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/converter/filter/adguard-turkish-filter.txt
-# Last Converted - 03.06.2019
-# Total Domains - 266
+# Last Converted - 05.06.2019
+# Total Domains - 265
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -75,7 +75,6 @@
 0.0.0.0 axbetb2.com
 0.0.0.0 axbetb.com
 0.0.0.0 ayandns.com
-0.0.0.0 b6roqgi.com
 0.0.0.0 bahissektoru.info
 0.0.0.0 bahissiteleri365.com
 0.0.0.0 banner.kanald.com.tr
@@ -144,6 +143,7 @@
 0.0.0.0 hev2ev.com
 0.0.0.0 hizlipop.com
 0.0.0.0 htpanel.com
+0.0.0.0 i.imgsafe.org
 0.0.0.0 images.hepsiburada.net
 0.0.0.0 img-makroo.mncdn.com
 0.0.0.0 indirads.org
@@ -202,7 +202,6 @@
 0.0.0.0 refbanners.website
 0.0.0.0 referrer.website
 0.0.0.0 refpa.top
-0.0.0.0 rek.hepaffiliates.com
 0.0.0.0 reklam7.com
 0.0.0.0 reklamaction.com
 0.0.0.0 reklamagaci.com

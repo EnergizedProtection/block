@@ -1,7 +1,7 @@
 # easylist-spanish Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/converter/filter/easylist-spanish.txt
-# Last Converted - 03.06.2019
+# Last Converted - 05.06.2019
 # Total Domains - 64
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
@@ -55,10 +55,10 @@
 0.0.0.0 pvclouds.com
 0.0.0.0 ra.poringa.net
 0.0.0.0 rvv.emol.com
+0.0.0.0 secure-cloud.pro
 0.0.0.0 shinkme.com
 0.0.0.0 solidopinion.com
 0.0.0.0 sorteos.cf
-0.0.0.0 spalumi.com
 0.0.0.0 stact.megawarez.org
 0.0.0.0 static.playspace.com
 0.0.0.0 supportcorner.co

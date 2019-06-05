@@ -1,8 +1,8 @@
 # anudeep-adservers Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
-# Last Converted - 03.06.2019
-# Total Domains - 25131
+# Last Converted - 05.06.2019
+# Total Domains - 25154
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -4118,6 +4118,7 @@
 0.0.0.0 adbma.adk2x.com
 0.0.0.0 adbmongo1.brandreachsys.com
 0.0.0.0 adbmongo2.brandreachsys.com
+0.0.0.0 adbrau.com
 0.0.0.0 ad.br.doubleclick.net
 0.0.0.0 adbucksbeta.brandreachsys.com
 0.0.0.0 adbuilder.yieldmo.com
@@ -4437,6 +4438,7 @@
 0.0.0.0 ads-b.vidible.tv
 0.0.0.0 adsby.effective-ads.com
 0.0.0.0 ads.carambo.la
+0.0.0.0 ads.carbonads.com
 0.0.0.0 ads.clickability.com
 0.0.0.0 adsclock.adk2x.com
 0.0.0.0 ads.colombiaonline.com
@@ -4950,8 +4952,10 @@
 0.0.0.0 amp.casalemedia.com
 0.0.0.0 amped.t.domdex.com
 0.0.0.0 amp-error-reporting.appspot.com
+0.0.0.0 amplify.amplitude.com
 0.0.0.0 amplify-imp.outbrain.com
 0.0.0.0 amplifypixel.outbrain.com
+0.0.0.0 amplitude.com
 0.0.0.0 amp.localytics.com
 0.0.0.0 ampmetrics.engadget.com
 0.0.0.0 ampmetrics.popsci.com
@@ -5010,6 +5014,7 @@
 0.0.0.0 analytics2.tercept.com
 0.0.0.0 analytics6.snoobi.com
 0.0.0.0 analytics.adsymptotic.com
+0.0.0.0 analytics.amplitude.com
 0.0.0.0 analyticsapi.bsbportal.com
 0.0.0.0 analytics.app.lithium.com
 0.0.0.0 analytics.appypie.com
@@ -6914,6 +6919,7 @@
 0.0.0.0 caqh.co1.qualtrics.com
 0.0.0.0 carambola-d.openx.net
 0.0.0.0 caravaning.de.intellitxt.com
+0.0.0.0 carbonads.com
 0.0.0.0 carbonmedia-d.openx.net
 0.0.0.0 carbuzz.t.domdex.com
 0.0.0.0 cardiff.qualtrics.com
@@ -7117,6 +7123,7 @@
 0.0.0.0 cdn.accelerator.arsdev.net
 0.0.0.0 cdna.clicktale.net
 0.0.0.0 cdn.adaptv.advertising.com
+0.0.0.0 cdn.adbrau.com
 0.0.0.0 cdn.adgear.com
 0.0.0.0 cdn.adgrx.com
 0.0.0.0 cdn.adhigh.net
@@ -7136,6 +7143,7 @@
 0.0.0.0 cdnalp.adgear.com
 0.0.0.0 cdnalpint.adgear.com
 0.0.0.0 cdnalpstag.adgear.com
+0.0.0.0 cdn.amplitude.com
 0.0.0.0 cdnappicons.appsflyer.com
 0.0.0.0 cdn.appnext.com
 0.0.0.0 cdn.appsflyer.com
@@ -7155,6 +7163,7 @@
 0.0.0.0 cdn.bizible.com
 0.0.0.0 cdn.branch.io
 0.0.0.0 cdn.bss.wshareit.com
+0.0.0.0 cdn.carbonads.com
 0.0.0.0 cdn-c.clickability.com
 0.0.0.0 cdn-cf.postitial.com
 0.0.0.0 cdn.chuknu.sokrati.com
@@ -7406,6 +7415,7 @@
 0.0.0.0 certification.ca1.qualtrics.com
 0.0.0.0 certifications.unbounce.com
 0.0.0.0 certify-amp.alexametrics.com
+0.0.0.0 cerulean.amplitude.com
 0.0.0.0 cesarmillan-d.openx.net
 0.0.0.0 cetelem.d3.sc.omtrdc.net
 0.0.0.0 ce-thirdparty-tracking-1111513422.ap-northeast-1.elb.amazonaws.com
@@ -8029,7 +8039,6 @@
 0.0.0.0 conradch.widget.criteo.com
 0.0.0.0 conradde.widget.criteo.com
 0.0.0.0 conradse.widget.criteo.com
-0.0.0.0 consciouscabbage.com
 0.0.0.0 consciouschairs.com
 0.0.0.0 console1.solocpm.com
 0.0.0.0 console.actionx.com
@@ -8198,6 +8207,7 @@
 0.0.0.0 crain.com.102.112.2o7.net
 0.0.0.0 crain.d1.sc.omtrdc.net
 0.0.0.0 crash.163.com
+0.0.0.0 crash.amplitude.com
 0.0.0.0 crashapi.growingio.com
 0.0.0.0 crash-master.corp.appnexus.com
 0.0.0.0 crashreport-api.presage.io
@@ -9644,6 +9654,7 @@
 0.0.0.0 engage-commerce-demo.vizury.com
 0.0.0.0 engage.localytics.com
 0.0.0.0 engine.addroplet.com
+0.0.0.0 engine.carbonads.com
 0.0.0.0 engine-dsa.fyber.com
 0.0.0.0 engineering.taboola.com
 0.0.0.0 engineering.webengage.com
@@ -9870,6 +9881,7 @@
 0.0.0.0 events3alt.adcolony.com
 0.0.0.0 events.adzmedia.com
 0.0.0.0 events.amarujala.com
+0.0.0.0 events.amplitude.com
 0.0.0.0 events-api.outfit7.net
 0.0.0.0 events.appnext.com
 0.0.0.0 events.appsflyer.com
@@ -10083,6 +10095,7 @@
 0.0.0.0 fairway.qualtrics.com
 0.0.0.0 fairwaysolitaire.tlnk.io
 0.0.0.0 falabella.demdex.net
+0.0.0.0 fallbacks.carbonads.com
 0.0.0.0 famecastlive3.112.2o7.net
 0.0.0.0 famedigitalasiapteltd.hb.omtrdc.net
 0.0.0.0 famicloud-com-tw.b.appier.net
@@ -11180,6 +11193,7 @@
 0.0.0.0 gesundpedia.de.intellitxt.com
 0.0.0.0 getadmiral.com
 0.0.0.0 getadmiral.typeform.com
+0.0.0.0 get.amplitude.com
 0.0.0.0 get.apptimize.com
 0.0.0.0 getbesttraffic.com
 0.0.0.0 get.brightinfo.com
@@ -11305,6 +11319,7 @@
 0.0.0.0 go.acuityads.com
 0.0.0.0 go.ad1data.com
 0.0.0.0 go.addthis.com
+0.0.0.0 go.amplitude.com
 0.0.0.0 goappdl.goforandroid.com
 0.0.0.0 go.appnexus.com
 0.0.0.0 go.apptimize.com
@@ -12548,6 +12563,7 @@
 0.0.0.0 influens.go2affise.com
 0.0.0.0 info.adomik.com
 0.0.0.0 info.adroll.com
+0.0.0.0 info.amplitude.com
 0.0.0.0 info.as.criteo.com
 0.0.0.0 info.clickability.com
 0.0.0.0 info.criteo.com
@@ -14149,6 +14165,7 @@
 0.0.0.0 mamsy.go2affise.com
 0.0.0.0 m.amtmobi.com
 0.0.0.0 manage-api.ensighten.com
+0.0.0.0 manage.carbonads.com
 0.0.0.0 manage.ensighten.com
 0.0.0.0 manage-itx5.smartadserver.com
 0.0.0.0 manage.juicyads.com
@@ -14515,7 +14532,6 @@
 0.0.0.0 medianet-match.dotomi.com
 0.0.0.0 medianet-sync.go.sonobi.com
 0.0.0.0 medianet.sync.go.sonobi.com
-0.0.0.0 mediaparade.net
 0.0.0.0 mediapeartree.com
 0.0.0.0 mediaset.videoplaza.tv
 0.0.0.0 media-sj2.msg.dotomi.com
@@ -17639,6 +17655,7 @@
 0.0.0.0 promo1x.brandreachsys.com
 0.0.0.0 promo2.brandreachsys.com
 0.0.0.0 promo2x.brandreachsys.com
+0.0.0.0 promo.amplitude.com
 0.0.0.0 promobil.de.intellitxt.com
 0.0.0.0 promo.do-analytics.net
 0.0.0.0 promos1a.brandreachsys.com
@@ -18172,6 +18189,7 @@
 0.0.0.0 redstats22.stickyadstv.com
 0.0.0.0 reedmac1.actonsoftware.com
 0.0.0.0 reevoo.t.domdex.com
+0.0.0.0 ref.amplitude.com
 0.0.0.0 reference.fyber.com
 0.0.0.0 refer.media.net
 0.0.0.0 referral.smi2.net
@@ -19950,6 +19968,7 @@
 0.0.0.0 spilgames-562189-hdb.adomik.com
 0.0.0.0 spinmedia-artsandentertainment.t.domdex.com
 0.0.0.0 spinmedia-d.openx.net
+0.0.0.0 spinnaker.amplitude.com
 0.0.0.0 spixel.adsafeprotected.com
 0.0.0.0 spl.zeotap.com
 0.0.0.0 spolecznosci-d.openx.net
@@ -20739,7 +20758,7 @@
 0.0.0.0 stab.lax1.appnexus.com
 0.0.0.0 stab.nym2.appnexus.com
 0.0.0.0 st.adriver.ru
-0.0.0.0 st.adxxx.o0.0.0.0www.deployads.com
+0.0.0.0 st.adxxx.o
 0.0.0.0 staffordshire.eu.qualtrics.com
 0.0.0.0 staffordshire.qualtrics.com
 0.0.0.0 staffpicks.outbrain.com
@@ -24182,6 +24201,7 @@
 0.0.0.0 www-akamai.outbrain.com
 0.0.0.0 www.alfa.smartlook.com
 0.0.0.0 www.alphonso.tv
+0.0.0.0 www.amplitude.com
 0.0.0.0 www.app.adthink.com
 0.0.0.0 www.appier.net
 0.0.0.0 www.applovin.com
@@ -24220,6 +24240,7 @@
 0.0.0.0 www.buysellads.com
 0.0.0.0 www.buzzadnetwork.com
 0.0.0.0 www.carambo.la
+0.0.0.0 www.carbonads.com
 0.0.0.0 www.catalina.com
 0.0.0.0 www.cert.br
 0.0.0.0 www.chartbeat.net
@@ -24260,6 +24281,7 @@
 0.0.0.0 www.declk.com
 0.0.0.0 www.deepc.cc
 0.0.0.0 www.demdex.net
+0.0.0.0 www.deployads.com
 0.0.0.0 www.dianomi.com
 0.0.0.0 www.domobile.com
 0.0.0.0 www.dotomi.com
@@ -24335,6 +24357,7 @@
 0.0.0.0 www.kameleoon.com
 0.0.0.0 www.kissmetrics.com
 0.0.0.0 www.konotor.com
+0.0.0.0 www.kopimi.com
 0.0.0.0 www.korea.inmobi.com
 0.0.0.0 www-la.addthis.com
 0.0.0.0 www.ligastavok.ru

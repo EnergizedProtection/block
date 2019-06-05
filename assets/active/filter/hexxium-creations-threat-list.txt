@@ -1,8 +1,8 @@
 # hexxium-creations-threat-list Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/converter/filter/hexxium-creations-threat-list.txt
-# Last Converted - 03.06.2019
-# Total Domains - 1951
+# Last Converted - 05.06.2019
+# Total Domains - 1943
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -339,7 +339,6 @@
 0.0.0.0 csgogruz.pro
 0.0.0.0 csgogummi.com
 0.0.0.0 csgogunbet.com
-0.0.0.0 csgoguncase.com
 0.0.0.0 csgo.guru
 0.0.0.0 csgohate.com
 0.0.0.0 csgohaze.com
@@ -379,7 +378,6 @@
 0.0.0.0 csgomagic.co
 0.0.0.0 csgomagic.icu
 0.0.0.0 csgomagic.top
-0.0.0.0 csgomagnatcase.com
 0.0.0.0 csgomak.com
 0.0.0.0 csgo-maniac.com
 0.0.0.0 csgomars.com
@@ -438,7 +436,6 @@
 0.0.0.0 csgosick.com
 0.0.0.0 csgosick.fun
 0.0.0.0 csgosimple.com
-0.0.0.0 csgosk1nsfree.blogspot.com
 0.0.0.0 csgoskindraft.com
 0.0.0.0 csgo-skin-raffle.com
 0.0.0.0 csgoskinraffle.com
@@ -481,9 +478,7 @@
 0.0.0.0 csgox5-skins.pro
 0.0.0.0 csgox-mafia.com
 0.0.0.0 csgoxprom.online
-0.0.0.0 csgoxxfree.blogspot.com
 0.0.0.0 csgozerospin.com
-0.0.0.0 csgozones.net
 0.0.0.0 cs-hate.com
 0.0.0.0 csjackpot.pl
 0.0.0.0 cslots.ru
@@ -651,7 +646,6 @@
 0.0.0.0 error5942.16rq84580189.b1srkgzrtvkleqedlwytqrto.win
 0.0.0.0 error948-contact-support.tk
 0.0.0.0 error-warningef-1.pro
-0.0.0.0 esl-case.org
 0.0.0.0 eslcup.net
 0.0.0.0 espanafarmacia.net
 0.0.0.0 eternityskins.com
@@ -1858,7 +1852,6 @@
 0.0.0.0 vgoblocks.com
 0.0.0.0 viaprio.com
 0.0.0.0 vibux.win
-0.0.0.0 vidanko1.blogspot.com
 0.0.0.0 videodownloadconverter.com
 0.0.0.0 video-skins.org
 0.0.0.0 videostripe.com
@@ -1888,7 +1881,6 @@
 0.0.0.0 wimirk.site
 0.0.0.0 winaskin.com
 0.0.0.0 win-ayuda-1628.s3.amazonaws.com
-0.0.0.0 winazilmov.blogspot.com
 0.0.0.0 wincase.pro
 0.0.0.0 winchroll.com
 0.0.0.0 windatgamex.com

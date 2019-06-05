@@ -1,8 +1,8 @@
 # hosts-file.net-mmt Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://hosts-file.net/mmt.txt
-# Last Converted - 03.06.2019
-# Total Domains - 3884
+# Last Converted - 05.06.2019
+# Total Domains - 3881
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -2827,7 +2827,6 @@
 0.0.0.0 www.dvd-shop88.com
 0.0.0.0 www.e20.net
 0.0.0.0 www.ealliance.com
-0.0.0.0 www.earngames.com
 0.0.0.0 www.earth4energy.com
 0.0.0.0 www.easycracks.net
 0.0.0.0 www.easy-swap.com
@@ -3291,7 +3290,6 @@
 0.0.0.0 www.o24.com
 0.0.0.0 www.objectivelens.com
 0.0.0.0 www.odos.com
-0.0.0.0 www.oeconomista.com
 0.0.0.0 www.ofsnetwork.com
 0.0.0.0 www.oivip.com
 0.0.0.0 www.ojolink.net
@@ -3710,7 +3708,6 @@
 0.0.0.0 www.visualdna.com-assets.s3.amazonaws.com
 0.0.0.0 www.vk-dohod.net
 0.0.0.0 www.vkontakts.com
-0.0.0.0 www.vodkababes.com
 0.0.0.0 www.vosar.com
 0.0.0.0 www.vpnsteel.com
 0.0.0.0 www.vpromo.com

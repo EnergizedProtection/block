@@ -1,8 +1,8 @@
 # hosts-file.net-exp Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://hosts-file.net/exp.txt
-# Last Converted - 03.06.2019
-# Total Domains - 943
+# Last Converted - 05.06.2019
+# Total Domains - 942
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -716,7 +716,6 @@
 0.0.0.0 tvcyyh.blow.harrisretreat.com
 0.0.0.0 two.buson.in
 0.0.0.0 twtq4y.mat.eveshamairporttaxis.co.uk
-0.0.0.0 type.anotherpieceofpeace.com
 0.0.0.0 type.azsportsent.com
 0.0.0.0 type.fdti.in
 0.0.0.0 type.floridaconcretepumping.com

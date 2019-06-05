@@ -1,8 +1,8 @@
 # airelle-trc Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/mirror/airelle-trc.txt
-# Last Converted - 03.06.2019
-# Total Domains - 50757
+# Last Converted - 05.06.2019
+# Total Domains - 50754
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -27172,7 +27172,6 @@
 0.0.0.0 logvtest.xiti.com
 0.0.0.0 logvynenko.com
 0.0.0.0 logw312.ati-host.net
-0.0.0.0 logw349.ati-host.net
 0.0.0.0 log.wat.tv
 0.0.0.0 log.webnovel.com
 0.0.0.0 log.webvahini.com
@@ -38706,7 +38705,6 @@
 0.0.0.0 q1media.com
 0.0.0.0 q1mediahydraplatform.com
 0.0.0.0 q4cdn.com
-0.0.0.0 qa1.collective-media.net
 0.0.0.0 qabp01-ext.hitbox.com
 0.0.0.0 qa.esomniture.com
 0.0.0.0 qa.netquote.com.112.2o7.net
@@ -50167,7 +50165,6 @@
 0.0.0.0 www.xxxcounter.com
 0.0.0.0 www.xxx-counter.de
 0.0.0.0 www.xxxcounter.de
-0.0.0.0 www.xxxcounters.com
 0.0.0.0 www.xxxencounter.com
 0.0.0.0 www.xxxfetish-media.com
 0.0.0.0 www.xxx.hit.bg

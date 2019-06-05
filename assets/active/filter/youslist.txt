@@ -1,8 +1,8 @@
 # youslist Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/yous/YousList/master/hosts.txt
-# Last Converted - 03.06.2019
-# Total Domains - 533
+# Last Converted - 05.06.2019
+# Total Domains - 532
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -13,7 +13,6 @@
 0.0.0.0 a4p.adpartner.pro
 0.0.0.0 a870.casalemedia.com
 0.0.0.0 a.bf-ad.net
-0.0.0.0 acdn.adnxs.com
 0.0.0.0 ad1.adenc.co.kr
 0.0.0.0 ad1.adfarm1.adition.com
 0.0.0.0 ad1.eventmanager.co.kr

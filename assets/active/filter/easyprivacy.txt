@@ -1,8 +1,8 @@
 # easyprivacy Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/converter/filter/easyprivacy.txt
-# Last Converted - 03.06.2019
-# Total Domains - 5768
+# Last Converted - 05.06.2019
+# Total Domains - 5764
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1171,7 +1171,6 @@
 0.0.0.0 confirmational.com
 0.0.0.0 confirmit.com
 0.0.0.0 confirm-referer.glrsales.com
-0.0.0.0 consciouscabbage.com
 0.0.0.0 consciouschairs.com
 0.0.0.0 contactatonce.com
 0.0.0.0 contactmonkey.com
@@ -2564,10 +2563,7 @@
 0.0.0.0 jsecoin.com
 0.0.0.0 jshosting.bid
 0.0.0.0 jshosting.date
-0.0.0.0 jshosting.download
 0.0.0.0 jshosting.loan
-0.0.0.0 jshosting.party
-0.0.0.0 jshosting.racing
 0.0.0.0 jshosting.review
 0.0.0.0 jshosting.stream
 0.0.0.0 jshosting.trade
@@ -2762,6 +2758,7 @@
 0.0.0.0 logger.co.kr
 0.0.0.0 logger.kataweb.it
 0.0.0.0 logger.nerdwallet.com
+0.0.0.0 logger.pw
 0.0.0.0 logger.rm.uol.com.br
 0.0.0.0 logger.snackly.co
 0.0.0.0 logger.su
@@ -3220,7 +3217,6 @@
 0.0.0.0 netbiscuits.net
 0.0.0.0 netclickstats.com
 0.0.0.0 netcore.co.in
-0.0.0.0 netcoresmartech.com
 0.0.0.0 netcounter.de
 0.0.0.0 netdebit-counter.de
 0.0.0.0 net-filter.com
@@ -3627,6 +3623,7 @@
 0.0.0.0 premiumstats.xyz
 0.0.0.0 presentationtracking.netflix.com
 0.0.0.0 prfct.co
+0.0.0.0 prism.app-us1.com
 0.0.0.0 pr-linktausch.de
 0.0.0.0 prnetwork.de
 0.0.0.0 prnx.net
@@ -5110,7 +5107,6 @@
 0.0.0.0 tracking.ukwm.co.uk
 0.0.0.0 tracking.unrealengine.com
 0.0.0.0 tracking.ustream.tv
-0.0.0.0 tracking.vengovision.ru
 0.0.0.0 tracking.vid4u.org
 0.0.0.0 tracking.waterfrontmedia.com
 0.0.0.0 tracking.wlscripts.net

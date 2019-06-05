@@ -1,8 +1,8 @@
 # hosts-file.net-pha Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://hosts-file.net/pha.txt
-# Last Converted - 03.06.2019
-# Total Domains - 15005
+# Last Converted - 05.06.2019
+# Total Domains - 15003
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -12428,7 +12428,6 @@
 0.0.0.0 www.pillsandhealth.net
 0.0.0.0 www.pillsbargainhere.com
 0.0.0.0 www.pillsbestoffer.ru
-0.0.0.0 www.pills-best.ru
 0.0.0.0 www.pillsbest.ru
 0.0.0.0 www.pillscialis-buy.store
 0.0.0.0 www.pillsfind.com
@@ -14483,7 +14482,6 @@
 0.0.0.0 www.wrenniecoletta.eu
 0.0.0.0 www.wrhh.com
 0.0.0.0 www.wrpills.com
-0.0.0.0 www.wrxxiv.ru
 0.0.0.0 www.wsac-gmbh.de
 0.0.0.0 www.wsyiuukmn.supplyprofh.su
 0.0.0.0 www.wszy.com

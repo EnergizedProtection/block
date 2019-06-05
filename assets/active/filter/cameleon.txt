@@ -1,8 +1,8 @@
 # cameleon Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://sysctl.org/cameleon/hosts
-# Last Converted - 03.06.2019
-# Total Domains - 17992
+# Last Converted - 05.06.2019
+# Total Domains - 17984
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -621,7 +621,6 @@
 0.0.0.0 accesstracking.com
 0.0.0.0 acckalaharinet.112.2o7.net
 0.0.0.0 accuweather.us.intellitxt.com
-0.0.0.0 acdn.adnxs.com
 0.0.0.0 a.cdn.intentmedia.net
 0.0.0.0 ace.adoftheyear.com
 0.0.0.0 acegates.com
@@ -3349,7 +3348,6 @@
 0.0.0.0 ads8.utopiad.comcb3.utopiad.com
 0.0.0.0 ads90.hpg.com.br
 0.0.0.0 ads90.hpg.ig.com.br
-0.0.0.0 ads90.liteweb.net
 0.0.0.0 ads91.hpg.com.br
 0.0.0.0 ads91.hpg.ig.com.br
 0.0.0.0 ads91.liteweb.net
@@ -3942,7 +3940,6 @@
 0.0.0.0 ads.guru3d.com
 0.0.0.0 ads.h2porn.com
 0.0.0.0 ads.hamtonroads.com
-0.0.0.0 ads.happyidiots.nl
 0.0.0.0 adsharenetwork.com
 0.0.0.0 adshareware.net
 0.0.0.0 ads.harpers.org
@@ -4447,7 +4444,6 @@
 0.0.0.0 ads.vimg.net
 0.0.0.0 ads.vjaffiliates.com
 0.0.0.0 ads.vkushti.tv
-0.0.0.0 ads.v-links.net
 0.0.0.0 ads.vntsm.com
 0.0.0.0 ads.voyit.com
 0.0.0.0 ads.vporn.com
@@ -4573,7 +4569,6 @@
 0.0.0.0 adultadtrade.com
 0.0.0.0 adultadworld.directtrack.com
 0.0.0.0 adultapp.com
-0.0.0.0 adultasperger.com
 0.0.0.0 adultau.com
 0.0.0.0 adultbookings.com
 0.0.0.0 adultcams.com
@@ -4592,7 +4587,6 @@
 0.0.0.0 adultfriendfinder.com
 0.0.0.0 adultfriendfindernow.com
 0.0.0.0 adultfriendfinders.net
-0.0.0.0 adultfriendfinders.us
 0.0.0.0 adultfriendsearch.com
 0.0.0.0 adult-friends-finder.net
 0.0.0.0 adultfrienfinders.com
@@ -5523,7 +5517,6 @@
 0.0.0.0 amateur.niche-planet.com
 0.0.0.0 amateur-porn-links.com
 0.0.0.0 amateurspin.com
-0.0.0.0 amateurteenxxx.com
 0.0.0.0 amateurtotal.com
 0.0.0.0 amateur.xxxcounter.com
 0.0.0.0 amazaon.com
@@ -5938,7 +5931,6 @@
 0.0.0.0 ard.sweetdiscreet.com
 0.0.0.0 ard.xxxblackbook.com
 0.0.0.0 areasnap.com
-0.0.0.0 arecio.work
 0.0.0.0 are.clevernt.com
 0.0.0.0 a.remarketstats.com
 0.0.0.0 arena.altitude-arena.com
@@ -6078,7 +6070,6 @@
 0.0.0.0 avantlink.com
 0.0.0.0 avastats.com
 0.0.0.0 avast.d0wnloadz.net
-0.0.0.0 av-cash.com
 0.0.0.0 av.com
 0.0.0.0 avenfeld.com
 0.0.0.0 avforce.com
@@ -8052,6 +8043,7 @@
 0.0.0.0 cdn1.zopiny.com
 0.0.0.0 cdn2.adexprt.com
 0.0.0.0 cdn2sitescout-a.akamaihd.net
+0.0.0.0 cdn3.adbrau.com
 0.0.0.0 cdn3.adexprt.com
 0.0.0.0 cdn3.adexprts.com
 0.0.0.0 cdn3.emediate.eu
@@ -8064,6 +8056,7 @@
 0.0.0.0 cdn.accelerator.arsdev.net
 0.0.0.0 cdn.ad4game.com
 0.0.0.0 cdn.adbooth.net
+0.0.0.0 cdn.adbrau.com
 0.0.0.0 cdn.adgear.com
 0.0.0.0 cdn.adikteev.com
 0.0.0.0 cdn.adk2.co
@@ -11663,7 +11656,6 @@
 0.0.0.0 logv8.xiti.com
 0.0.0.0 logv9.xiti.com
 0.0.0.0 logw312.ati-host.net
-0.0.0.0 logw349.ati-host.net
 0.0.0.0 lohud.us.intellitxt.com
 0.0.0.0 lokalavisendk.nuggad.net
 0.0.0.0 longhornblogs.us.intellitxt.com

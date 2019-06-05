@@ -1,8 +1,8 @@
 # prigent-ads Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://v.firebog.net/hosts/Prigent-Ads.txt
-# Last Converted - 03.06.2019
-# Total Domains - 3243
+# Last Converted - 05.06.2019
+# Total Domains - 3241
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1419,7 +1419,6 @@
 0.0.0.0 connatix.com
 0.0.0.0 connexity.net
 0.0.0.0 connextra.com
-0.0.0.0 consciouscabbage.com
 0.0.0.0 consciouschairs.com
 0.0.0.0 consensad.com
 0.0.0.0 contadores.miarroba.com
@@ -1913,7 +1912,6 @@
 0.0.0.0 imarketservices.com
 0.0.0.0 imgis.net
 0.0.0.0 img.prohardver.hu
-0.0.0.0 imgpublicidad.clarin.com
 0.0.0.0 immensehoney.com
 0.0.0.0 imp20.com
 0.0.0.0 importedincrease.com

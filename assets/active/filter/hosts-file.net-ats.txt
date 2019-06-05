@@ -1,8 +1,8 @@
 # hosts-file.net-ats Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://hosts-file.net/ad_servers.txt
-# Last Converted - 03.06.2019
-# Total Domains - 40905
+# Last Converted - 05.06.2019
+# Total Domains - 40906
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -15416,7 +15416,6 @@
 0.0.0.0 ad.prismamediadigital.com
 0.0.0.0 adprofessmedia.go2cloud.org
 0.0.0.0 adprofs.com
-0.0.0.0 adprojekt.pl
 0.0.0.0 ad.propellerads.com
 0.0.0.0 adprovider.adlure.net
 0.0.0.0 ad.proxy.sh
@@ -21570,6 +21569,7 @@
 0.0.0.0 cdn1.tags1.revdepo.com
 0.0.0.0 cdn1.traffichaus.com
 0.0.0.0 cdn1.tribalfusion.com
+0.0.0.0 cdn2.adbrau.com
 0.0.0.0 cdn2.ad-center.com
 0.0.0.0 cdn.2app.lk
 0.0.0.0 cdn2.cpmstar.com
@@ -21590,6 +21590,7 @@
 0.0.0.0 cdn5-ref.landing.comcontent.net
 0.0.0.0 cdn5.tribalfusion.com
 0.0.0.0 cdn6.psdvault.com
+0.0.0.0 cdn.adbrau.com
 0.0.0.0 cdn.addnow.com
 0.0.0.0 cdn.adengine.org
 0.0.0.0 cdn.adfoc.us

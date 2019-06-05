@@ -1,8 +1,8 @@
 # anudeep-coinminer Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt
-# Last Converted - 03.06.2019
-# Total Domains - 686
+# Last Converted - 05.06.2019
+# Total Domains - 685
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -616,7 +616,6 @@
 0.0.0.0 xjjjohojeeozv.com
 0.0.0.0 xkotbziugfturl.com
 0.0.0.0 xlc.crypto-coins.club
-0.0.0.0 xmrapi.alimabi.cn
 0.0.0.0 xmr-eu1.nanopool.org
 0.0.0.0 xmr-eu.dwarfpool.com
 0.0.0.0 xmr-eu.suprnova.cc

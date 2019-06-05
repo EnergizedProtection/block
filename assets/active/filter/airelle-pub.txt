@@ -1,8 +1,8 @@
 # airelle-pub Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/mirror/airelle-pub.txt
-# Last Converted - 03.06.2019
-# Total Domains - 67489
+# Last Converted - 05.06.2019
+# Total Domains - 67470
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -15689,7 +15689,6 @@
 0.0.0.0 ad.mylinea.com
 0.0.0.0 ad.mylook.ee
 0.0.0.0 ad.myprice.com.cn
-0.0.0.0 adm.zbinfo.net
 0.0.0.0 ad.n2434.doubleclick.net
 0.0.0.0 ad.n2434.doubleclick.net.22562.9135.302br.net
 0.0.0.0 ad.n2434.doubleclick.net.22565.9135.302br.net
@@ -16458,7 +16457,6 @@
 0.0.0.0 ads58.liteweb.net
 0.0.0.0 ads59.hpg.ig.com.br
 0.0.0.0 ads59.liteweb.net
-0.0.0.0 ads5.adverticum.net
 0.0.0.0 ads5.bigasia.com
 0.0.0.0 ads5.canoe.ca
 0.0.0.0 ads.5ci.lt
@@ -16553,7 +16551,6 @@
 0.0.0.0 ads8.utopiad.com
 0.0.0.0 ads8.utopiad.comcb3.utopiad.com
 0.0.0.0 ads90.hpg.ig.com.br
-0.0.0.0 ads90.liteweb.net
 0.0.0.0 ads91.hpg.ig.com.br
 0.0.0.0 ads91.liteweb.net
 0.0.0.0 ads92.hpg.ig.com.br
@@ -17713,7 +17710,6 @@
 0.0.0.0 ads.hanafos.com
 0.0.0.0 ads.handango.com
 0.0.0.0 ad.shangdu.net
-0.0.0.0 ads.happyidiots.nl
 0.0.0.0 adsharenetwork.com
 0.0.0.0 ads.harpercollins.co.uk
 0.0.0.0 ads.harpers.org
@@ -19165,7 +19161,6 @@
 0.0.0.0 ad.tvb.com
 0.0.0.0 ad.tw.doubleclick.net
 0.0.0.0 ad.twitchguru.com
-0.0.0.0 adubn1.nj.home.com
 0.0.0.0 ad-u.com
 0.0.0.0 aduits.com
 0.0.0.0 ad.uk.doubleclick.net
@@ -22027,7 +22022,6 @@
 0.0.0.0 antland.com
 0.0.0.0 antonetta.com
 0.0.0.0 antonietasofia.com
-0.0.0.0 antoniocafiero.com
 0.0.0.0 antonvideos.com
 0.0.0.0 antoons.com
 0.0.0.0 antque.com
@@ -22271,7 +22265,6 @@
 0.0.0.0 app1.letslowbefast.site
 0.0.0.0 app2.letitbefaster.life
 0.0.0.0 app2.letslowbefast.site
-0.0.0.0 app3.letitbefaster.website
 0.0.0.0 app3.letslowbefast.site
 0.0.0.0 app4.letitbefaster.life
 0.0.0.0 app4.letitbefaster.website
@@ -22280,7 +22273,6 @@
 0.0.0.0 app4.letslowbefast.today
 0.0.0.0 app5.letitbefaster.life
 0.0.0.0 app5.letitbefaster.website
-0.0.0.0 app5.letslowbefast.site
 0.0.0.0 appad.click
 0.0.0.0 app-admincondecontests.advance.net
 0.0.0.0 app.adsbrook.com
@@ -31099,7 +31091,6 @@
 0.0.0.0 connpad.com
 0.0.0.0 conpoder.myradiotoolbar.com
 0.0.0.0 conpst.112.2o7.net
-0.0.0.0 consciouscabbage.com
 0.0.0.0 consciouschairs.com
 0.0.0.0 consensad.com
 0.0.0.0 console.brax-cdn.com
@@ -39545,7 +39536,6 @@
 0.0.0.0 gratis-gokkasten.bestelinks.nl
 0.0.0.0 gratisgratis.mycitytoolbar.com
 0.0.0.0 gratis-hardcore-porno.bestelinks.nl
-0.0.0.0 gratis-links.nl
 0.0.0.0 gratisplaatjes.linkoverzicht.be
 0.0.0.0 gratisporno.linkoverzicht.be
 0.0.0.0 gratissexadvertenties.com
@@ -39657,7 +39647,6 @@
 0.0.0.0 gtmedia.us.intellitxt.com
 0.0.0.0 gtop100.com
 0.0.0.0 gtovrax.89.pl
-0.0.0.0 gtp.advertserve.com
 0.0.0.0 gtplanet.us.intellitxt.com
 0.0.0.0 gtrforums.us.intellitxt.com
 0.0.0.0 gts-ads.twistbox.com
@@ -40252,7 +40241,6 @@
 0.0.0.0 hobbshotel.com
 0.0.0.0 hobbycoinexchange.com
 0.0.0.0 hobbydog.com
-0.0.0.0 hobbyhurenpub.com
 0.0.0.0 hobbyline.com
 0.0.0.0 hobsonsdfx.hitbox.com
 0.0.0.0 hobtron.112.2o7.net
@@ -41174,7 +41162,6 @@
 0.0.0.0 imgn.dt07.com
 0.0.0.0 imgnova.xyz
 0.0.0.0 imgpix.net
-0.0.0.0 imgpublicidad.clarin.com
 0.0.0.0 imgpub.mop.com
 0.0.0.0 img.ruclicks.com
 0.0.0.0 imgs.adverticum.net
@@ -41419,7 +41406,6 @@
 0.0.0.0 innerear.org
 0.0.0.0 innerhealth.com
 0.0.0.0 innerrealm.com
-0.0.0.0 inno.bisrv.com
 0.0.0.0 innocentwax.com
 0.0.0.0 innovative.cityofcarrollton.com
 0.0.0.0 innovid.com
@@ -53671,7 +53657,6 @@
 0.0.0.0 store.payloadz.com
 0.0.0.0 storesurprise.com
 0.0.0.0 storknet.us.intellitxt.com
-0.0.0.0 stormbringers.sixrooms.com
 0.0.0.0 stormclosings.mainetoday.com
 0.0.0.0 stormgoth.proboards.com
 0.0.0.0 stormyachiever.com
@@ -54172,7 +54157,6 @@
 0.0.0.0 tapemoi.com
 0.0.0.0 tapetellsall.com
 0.0.0.0 tapinfluence.com
-0.0.0.0 tapisseriebayeux.com
 0.0.0.0 taqnet.ourtoolbar.com
 0.0.0.0 ta.qq.com
 0.0.0.0 tarantula.together.net
@@ -56868,7 +56852,6 @@
 0.0.0.0 w7.hitbox.com
 0.0.0.0 w8.am15.net
 0.0.0.0 w8.hitbox.com
-0.0.0.0 w9.am15.net
 0.0.0.0 w9.hitbox.com
 0.0.0.0 waa2com.ipage.com
 0.0.0.0 wabashvalleyradioclub.myradiotoolbar.com
@@ -61864,7 +61847,6 @@
 0.0.0.0 www.grassrootsev.com
 0.0.0.0 www.gratis.it
 0.0.0.0 www.gratiskortingscode.nl
-0.0.0.0 www.gratis-links.nl
 0.0.0.0 www.gratissexadvertenties.com
 0.0.0.0 www.gratissex.boogolinks.nl
 0.0.0.0 www.gravityexchange.com
@@ -63640,7 +63622,6 @@
 0.0.0.0 www.motel-lv.com
 0.0.0.0 www.mothersclick.com
 0.0.0.0 www.motime.com
-0.0.0.0 www.moto-ads.com
 0.0.0.0 www.motochat.com
 0.0.0.0 www.motorcyclemyplace.com
 0.0.0.0 www.motorcycleradionetwork.com

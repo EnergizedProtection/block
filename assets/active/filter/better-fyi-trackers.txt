@@ -1,8 +1,8 @@
 # better-fyi-trackers Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/converter/filter/better-fyi-trackers.txt
-# Last Converted - 03.06.2019
-# Total Domains - 524
+# Last Converted - 05.06.2019
+# Total Domains - 523
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -216,7 +216,6 @@
 0.0.0.0 fccinteractive.com
 0.0.0.0 fc.yahoo.com
 0.0.0.0 fdncms.com
-0.0.0.0 filepicker.io
 0.0.0.0 flashtalking.com
 0.0.0.0 flite.com
 0.0.0.0 flyerboard.com

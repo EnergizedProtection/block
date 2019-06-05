@@ -1,8 +1,8 @@
 # fademind-add.risk Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
-# Last Converted - 03.06.2019
-# Total Domains - 2370
+# Last Converted - 05.06.2019
+# Total Domains - 2365
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -169,7 +169,6 @@
 0.0.0.0 aproxtrack2.com
 0.0.0.0 arcadefree.com
 0.0.0.0 areasnap.com
-0.0.0.0 arecio.work
 0.0.0.0 arkinsoftware.in
 0.0.0.0 artcomix.com
 0.0.0.0 ascentive.com
@@ -922,7 +921,6 @@
 0.0.0.0 nl.mediaplayercodecpack.com
 0.0.0.0 nmapquest.com
 0.0.0.0 noredirecto.redirectme.net
-0.0.0.0 notrecommended.co.uk
 0.0.0.0 nryb.com
 0.0.0.0 ns1.ntkrnlpa.info
 0.0.0.0 ns1.the-sinner.net
@@ -964,7 +962,6 @@
 0.0.0.0 overlay.ringtonematcher.com
 0.0.0.0 owpuuzea.angelcities.com
 0.0.0.0 p3nlhclust404.shr.prod.phx3.secureserver.net
-0.0.0.0 pager.site50.net
 0.0.0.0 paime.com
 0.0.0.0 palmebi.popunder.ru
 0.0.0.0 pamoran.net
@@ -1736,7 +1733,6 @@
 0.0.0.0 www.dddcc.com
 0.0.0.0 www.decografix.com
 0.0.0.0 www.deflorationvirgins.com
-0.0.0.0 www.dentairemalin.com
 0.0.0.0 www.digiaquascr.com
 0.0.0.0 www.dimarsbg.com
 0.0.0.0 www.dipli.unipa.it
@@ -1993,7 +1989,6 @@
 0.0.0.0 www.newclick.com
 0.0.0.0 www.neweed.org
 0.0.0.0 www.neyscape.com
-0.0.0.0 www.notrecommended.co.uk
 0.0.0.0 www.nsrecord.org
 0.0.0.0 www.ntkrnlpa.info
 0.0.0.0 wwwnwa.com

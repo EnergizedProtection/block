@@ -1,8 +1,8 @@
 # porn-top1million Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/chadmayfield/pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list
-# Last Converted - 03.06.2019
-# Total Domains - 22811
+# Last Converted - 05.06.2019
+# Total Domains - 22812
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -5360,6 +5360,7 @@
 0.0.0.0 kontaktanzeigen-deutschland.de
 0.0.0.0 kontaktbazar.at
 0.0.0.0 kookporn.com
+0.0.0.0 kopimi.com
 0.0.0.0 korea1818.com
 0.0.0.0 koreancupid.com
 0.0.0.0 koreangirlsdances.com
@@ -16122,6 +16123,7 @@
 0.0.0.0 www.kontaktanzeigen-deutschland.de
 0.0.0.0 www.kontaktbazar.at
 0.0.0.0 www.kookporn.com
+0.0.0.0 www.kopimi.com
 0.0.0.0 www.korea1818.com
 0.0.0.0 www.koreancupid.com
 0.0.0.0 www.koreangirlsdances.com
@@ -19884,7 +19886,6 @@
 0.0.0.0 www.spacefucker.com
 0.0.0.0 www.spagaysearch.com
 0.0.0.0 www.spalumi.com
-0.0.0.0 www.spamfreexxx.com
 0.0.0.0 www.spanishcruising.com
 0.0.0.0 www.spankbang.com
 0.0.0.0 www.spank-cash.com

@@ -1,8 +1,8 @@
 # adguard-japanese-filter Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/converter/filter/adguard-japanese-filter.txt
-# Last Converted - 03.06.2019
-# Total Domains - 215
+# Last Converted - 05.06.2019
+# Total Domains - 214
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -83,7 +83,6 @@
 0.0.0.0 banacity.gasuki.com
 0.0.0.0 bandoo.com
 0.0.0.0 banner.maido3.com
-0.0.0.0 bc.geocities.yahoo.co.jp
 0.0.0.0 b-click.net
 0.0.0.0 bizad.nikkeibp.co.jp
 0.0.0.0 blog.livelog.biz

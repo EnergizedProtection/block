@@ -1,8 +1,8 @@
 # bjornstar-hosts Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/bjornstar/hosts/master/hosts
-# Last Converted - 03.06.2019
-# Total Domains - 5413
+# Last Converted - 05.06.2019
+# Total Domains - 5411
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -123,7 +123,6 @@
 0.0.0.0 a.c0594.com
 0.0.0.0 ac3.msn.com
 0.0.0.0 acache.ilbe.com
-0.0.0.0 acdn.adnxs.com
 0.0.0.0 ace.adoftheyear.com
 0.0.0.0 acffegbg.getmeuncos.com
 0.0.0.0 achiname.info
@@ -681,7 +680,6 @@
 0.0.0.0 ardmall.com
 0.0.0.0 ard.xxxblackbook.com
 0.0.0.0 areasnap.com
-0.0.0.0 arecio.work
 0.0.0.0 arena.altitude-arena.com
 0.0.0.0 arkinhechershedt.info
 0.0.0.0 a.rmgserving.com
@@ -1032,6 +1030,7 @@
 0.0.0.0 cdn2.lockerdome.com
 0.0.0.0 cdn2sitescout.edgesuite.net
 0.0.0.0 cdn2.specificmedia.com
+0.0.0.0 cdn3.adbrau.com
 0.0.0.0 cdn3.adexprt.com
 0.0.0.0 cdn3.glyde.com
 0.0.0.0 cdn4.buysellads.net
@@ -1040,6 +1039,7 @@
 0.0.0.0 cdn77.cdnplanet.com
 0.0.0.0 cdn8.vizury.com
 0.0.0.0 cdn.acloudvideos.com
+0.0.0.0 cdn.adbrau.com
 0.0.0.0 cdn.adimages.go.com
 0.0.0.0 cdn.adk2.com
 0.0.0.0 cdn.adligature.com
@@ -3305,7 +3305,6 @@
 0.0.0.0 puserving.com
 0.0.0.0 pushame.com
 0.0.0.0 pushance.com
-0.0.0.0 pushcrew.com
 0.0.0.0 pushlat.com
 0.0.0.0 pushno.com
 0.0.0.0 push-notifications.top
@@ -5258,7 +5257,6 @@
 0.0.0.0 www.yrxhmallcirx.com
 0.0.0.0 www.ywdg3.in
 0.0.0.0 www.yx3377.com
-0.0.0.0 www.yyqowjogchca.bid
 0.0.0.0 www.zbqblhqlrm.com
 0.0.0.0 www.zergnet.com
 0.0.0.0 www.zff.co

@@ -1,7 +1,7 @@
 # adguard-spanish-portuguese-filter Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/converter/filter/adguard-spanish-portuguese-filter.txt
-# Last Converted - 03.06.2019
+# Last Converted - 05.06.2019
 # Total Domains - 240
 # Energized - ad.porn.malware blocking.
 # https://energized.pro

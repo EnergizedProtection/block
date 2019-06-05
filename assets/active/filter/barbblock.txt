@@ -1,8 +1,8 @@
 # barbblock Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://ssl.bblck.me/blacklists/hosts-file.txt
-# Last Converted - 03.06.2019
-# Total Domains - 520
+# Last Converted - 05.06.2019
+# Total Domains - 519
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -111,7 +111,6 @@
 0.0.0.0 complextoad.com
 0.0.0.0 concernedcondition.com
 0.0.0.0 concernrain.com
-0.0.0.0 consciouscabbage.com
 0.0.0.0 consciouschairs.com
 0.0.0.0 coordinatedcub.com
 0.0.0.0 copperchickens.com

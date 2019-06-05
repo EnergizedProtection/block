@@ -1,7 +1,7 @@
 # fanboy-vietnam Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/converter/filter/fanboy-vietnam.txt
-# Last Converted - 03.06.2019
+# Last Converted - 05.06.2019
 # Total Domains - 138
 # Energized - ad.porn.malware blocking.
 # https://energized.pro

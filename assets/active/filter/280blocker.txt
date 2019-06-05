@@ -1,7 +1,7 @@
 # 280blocker Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://280blocker.net/files/280blocker_domain.txt
-# Last Converted - 03.06.2019
+# Last Converted - 05.06.2019
 # Total Domains - 1095
 # Energized - ad.porn.malware blocking.
 # https://energized.pro

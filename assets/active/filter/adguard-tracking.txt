@@ -1,8 +1,8 @@
 # adguard-tracking Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/converter/filter/adguard-tracking-servers.txt
-# Last Converted - 03.06.2019
-# Total Domains - 2761
+# Last Converted - 05.06.2019
+# Total Domains - 2760
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -511,7 +511,6 @@
 0.0.0.0 confirmational.com
 0.0.0.0 confirmit.com
 0.0.0.0 connexity.net
-0.0.0.0 consciouscabbage.com
 0.0.0.0 contactmonkey.com
 0.0.0.0 contadorgratis.com
 0.0.0.0 contadorgratis.es

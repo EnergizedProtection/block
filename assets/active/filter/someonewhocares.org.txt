@@ -1,8 +1,8 @@
 # someonewhocares.org Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://someonewhocares.org/hosts/hosts
-# Last Converted - 03.06.2019
-# Total Domains - 8271
+# Last Converted - 05.06.2019
+# Total Domains - 8255
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1540,7 +1540,6 @@
 0.0.0.0 answerhub.com
 0.0.0.0 answers.us.intellitxt.com
 0.0.0.0 antispywareexpert.com
-0.0.0.0 antivirus-message.com
 0.0.0.0 antivirus-scanner.com
 0.0.0.0 antyweb.push-ad.com
 0.0.0.0 an.yandex.ru
@@ -1606,7 +1605,6 @@
 0.0.0.0 app2.letmacworkfaster.site
 0.0.0.0 app2.letslowbefast.life
 0.0.0.0 app2.letslowbefast.site
-0.0.0.0 app3.letitbefaster.website
 0.0.0.0 app3.letslowbefast.site
 0.0.0.0 app3.makeitworkfaster.life
 0.0.0.0 app4.greatmacsoft.tech
@@ -1619,7 +1617,6 @@
 0.0.0.0 app5.fastermac.tech
 0.0.0.0 app5.letitbefaster.life
 0.0.0.0 app5.letitbefaster.website
-0.0.0.0 app5.letslowbefast.site
 0.0.0.0 appdatum.com
 0.0.0.0 appdev.addthis.com
 0.0.0.0 app.fancifulapp.cool
@@ -2165,7 +2162,6 @@
 0.0.0.0 cdn.epommarket.com
 0.0.0.0 cdn.fastclick.net
 0.0.0.0 cdn.freefarcy.com
-0.0.0.0 cdn.freehalves.com
 0.0.0.0 cdn.freejars.com
 0.0.0.0 cdn.freejax.com
 0.0.0.0 cdn.geni.us
@@ -2223,7 +2219,6 @@
 0.0.0.0 cgi.sexlist.com
 0.0.0.0 c.gr.msn.com
 0.0.0.0 charging-technology.com
-0.0.0.0 charmedno1.com
 0.0.0.0 charmflirt.com
 0.0.0.0 charmstroy.info
 0.0.0.0 chartbeat.com
@@ -2339,7 +2334,6 @@
 0.0.0.0 c.lomadee.com
 0.0.0.0 clonezilla.es
 0.0.0.0 clonezilla.fr
-0.0.0.0 closeoutproductsreview.com
 0.0.0.0 cloudadservers.com
 0.0.0.0 cloudcrown.com
 0.0.0.0 clownsong.com
@@ -3287,7 +3281,6 @@
 0.0.0.0 forex-signal.hut1.ru
 0.0.0.0 forex-trade.hut1.ru
 0.0.0.0 forextrading.hut1.ru
-0.0.0.0 forgotten-deals.com
 0.0.0.0 formalyzer.com
 0.0.0.0 foroushi.net
 0.0.0.0 foxcom.112.2o7.net
@@ -3519,7 +3512,6 @@
 0.0.0.0 googfle.com
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googletagservices.com
-0.0.0.0 googlewordpad.info
 0.0.0.0 go.onclasrv.com
 0.0.0.0 go.padsdelivery.com
 0.0.0.0 go.padstm.com
@@ -3737,7 +3729,6 @@
 0.0.0.0 hm.baidu.com
 0.0.0.0 hm.l.qq.com
 0.0.0.0 hnfwg.voluumtrk.com
-0.0.0.0 holidayshoppingrewards.com
 0.0.0.0 homehre.bravehost.com
 0.0.0.0 homehre.tripod.com
 0.0.0.0 homeimprovementonus.com
@@ -4587,7 +4578,6 @@
 0.0.0.0 metrics.yellowpages.com
 0.0.0.0 metrics.yousendit.com
 0.0.0.0 metro.uk.intellitxt.com
-0.0.0.0 mexico-mmm.net
 0.0.0.0 m.fr.a2dfp.net
 0.0.0.0 m.friendlyduck.com
 0.0.0.0 mf.sitescout.com
@@ -4890,7 +4880,6 @@
 0.0.0.0 notification-system.tools
 0.0.0.0 notify1.brucelead.com
 0.0.0.0 notifyday.com
-0.0.0.0 novafinanza.com
 0.0.0.0 novellcom.112.2o7.net
 0.0.0.0 novemberrainx.com
 0.0.0.0 novem.onet.pl
@@ -5194,7 +5183,6 @@
 0.0.0.0 pei-ads.thesmokingjacket.com
 0.0.0.0 penton.us.intellitxt.com
 0.0.0.0 performanceadexchange.com
-0.0.0.0 performancetrck.com
 0.0.0.0 persgroepadvertising.nl
 0.0.0.0 petra.nic.gov.jo
 0.0.0.0 pf.tradedoubler.com
@@ -6369,7 +6357,6 @@
 0.0.0.0 thatsphucked.com
 0.0.0.0 the-adblocker.website
 0.0.0.0 thebrighttag.com
-0.0.0.0 thebuzz.today
 0.0.0.0 thecounter.com
 0.0.0.0 the-counter.net
 0.0.0.0 the-gadgeteer.us.intellitxt.com
@@ -6386,7 +6373,6 @@
 0.0.0.0 thestardev.122.2o7.net
 0.0.0.0 thetechzone.us.intellitxt.com
 0.0.0.0 theuseful.com
-0.0.0.0 theuseful.net
 0.0.0.0 thinkgeek.112.2o7.net
 0.0.0.0 thinknyc.eu-adcenter.net
 0.0.0.0 thinktarget.com
@@ -7144,7 +7130,6 @@
 0.0.0.0 w7.hitbox.com
 0.0.0.0 w8.am15.net
 0.0.0.0 w8.hitbox.com
-0.0.0.0 w9.am15.net
 0.0.0.0 w9.hitbox.com
 0.0.0.0 wa.and.co.uk
 0.0.0.0 wac.2ddcc.alphacdn.net
@@ -7715,7 +7700,6 @@
 0.0.0.0 www.goatse.ru
 0.0.0.0 www.goggle.com
 0.0.0.0 www.googleadservices.com
-0.0.0.0 www.googlewordpad.info
 0.0.0.0 www.gopopup.com
 0.0.0.0 www.gparted.fr
 0.0.0.0 www.grabflashsign.win

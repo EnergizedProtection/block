@@ -1,8 +1,8 @@
 # mobile-ad-trackers Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/jawz101/MobileAdTrackers/master/hosts
-# Last Converted - 03.06.2019
-# Total Domains - 13392
+# Last Converted - 05.06.2019
+# Total Domains - 13390
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1502,7 +1502,6 @@
 0.0.0.0 adprimemedia.com
 0.0.0.0 ad.prismamediadigital.com
 0.0.0.0 adpro.com.ua
-0.0.0.0 adprojekt.pl
 0.0.0.0 ad.propellerads.com
 0.0.0.0 adprotected.com
 0.0.0.0 adproxy-eu-west.fyber.com
@@ -9759,7 +9758,6 @@
 0.0.0.0 pushapi.batmobi.net
 0.0.0.0 push.appsgeyser.com
 0.0.0.0 push.apusapps.com
-0.0.0.0 pushcrew.com
 0.0.0.0 pushid-noneu.truecaller.com
 0.0.0.0 push.ksapisrv.com
 0.0.0.0 push.mgage.com

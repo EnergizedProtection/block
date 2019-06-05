@@ -1,8 +1,8 @@
 # airelle-rsk Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/mirror/airelle-rsk.txt
-# Last Converted - 03.06.2019
-# Total Domains - 44314
+# Last Converted - 05.06.2019
+# Total Domains - 44306
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -19724,7 +19724,6 @@
 0.0.0.0 code.superstats.com
 0.0.0.0 codezigns.com
 0.0.0.0 codghostprestigehack.com
-0.0.0.0 codghostshacks.com
 0.0.0.0 codghostshacks.net
 0.0.0.0 codghostsprestigehack.com
 0.0.0.0 codialer.com
@@ -24068,7 +24067,6 @@
 0.0.0.0 eeev.com
 0.0.0.0 eeewax.de
 0.0.0.0 eegad.freeservers.com
-0.0.0.0 eekro.cruisingsmallship.com
 0.0.0.0 eelde.mytowntoolbar.com
 0.0.0.0 eeplrq97g7.adsl.datanet.hu
 0.0.0.0 eeroo.frost-electric-supply.com
@@ -26143,7 +26141,6 @@
 0.0.0.0 file4.qqhelper.com
 0.0.0.0 file5.qqhelper.com
 0.0.0.0 file7.qqhelper.com
-0.0.0.0 file8.qqhelper.com
 0.0.0.0 filebackupsoftware.com
 0.0.0.0 filed12.com
 0.0.0.0 file.donkeyp2p.com
@@ -37534,7 +37531,6 @@
 0.0.0.0 notmyplace.com
 0.0.0.0 notoneway.com
 0.0.0.0 notrailsurf.com
-0.0.0.0 notrecommended.co.uk
 0.0.0.0 notrefamillecomdev.112.2o7.net
 0.0.0.0 nottingham.nswebhost.com
 0.0.0.0 nottingham.ws
@@ -39160,7 +39156,6 @@
 0.0.0.0 pageprivacy.com
 0.0.0.0 pagerank-backlinks.de
 0.0.0.0 pagerank.jklir.net
-0.0.0.0 pager.site50.net
 0.0.0.0 page-safety-fb.my1.ru
 0.0.0.0 pages.intnet.mu
 0.0.0.0 pagesinxt.com
@@ -39918,7 +39913,6 @@
 0.0.0.0 pokecoinshacked.org
 0.0.0.0 pokemongocoinshack.net
 0.0.0.0 pokeronline2000.net
-0.0.0.0 police11.provenprotection.net
 0.0.0.0 policemobile.biz
 0.0.0.0 police-scan-mobile.com
 0.0.0.0 polipcomlodzkiem.545yarrow.com
@@ -42565,7 +42559,6 @@
 0.0.0.0 www.deja-rue.com
 0.0.0.0 www.del-marine.com
 0.0.0.0 www.demelkwegtuk.nl
-0.0.0.0 www.dentairemalin.com
 0.0.0.0 www.depraetere.net
 0.0.0.0 www.destine.broker.go.ro
 0.0.0.0 www.deutschenoote.com
@@ -43667,7 +43660,6 @@
 0.0.0.0 www.secrettorich.com
 0.0.0.0 www.securemecca.com
 0.0.0.0 www.securepccleaner.com
-0.0.0.0 www.secure-softwaremanager.com
 0.0.0.0 www.securitybulletin.net
 0.0.0.0 www.securityearth.cn
 0.0.0.0 www.securityfeature.com

@@ -1,8 +1,8 @@
 # pgl.yoyo.org Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&mimetype=plaintext
-# Last Converted - 03.06.2019
-# Total Domains - 2827
+# Last Converted - 05.06.2019
+# Total Domains - 2829
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1896,6 +1896,7 @@
 0.0.0.0 mmstat.com
 0.0.0.0 mmtro.com
 0.0.0.0 moatads.com
+0.0.0.0 moat.com
 0.0.0.0 moatpixel.com
 0.0.0.0 mobclix.com
 0.0.0.0 mobileiconnect.com
@@ -2164,6 +2165,7 @@
 0.0.0.0 promo.ulust.com
 0.0.0.0 pronetadvertising.com
 0.0.0.0 propellerads.com
+0.0.0.0 proper.io
 0.0.0.0 props.id
 0.0.0.0 proton-tm.com
 0.0.0.0 protraffic.com

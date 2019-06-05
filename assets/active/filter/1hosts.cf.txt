@@ -1,8 +1,8 @@
 # 1hosts.cf Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://1hos.cf
-# Last Converted - 03.06.2019
-# Total Domains - 49830
+# Last Converted - 05.06.2019
+# Total Domains - 49816
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -2029,7 +2029,6 @@
 0.0.0.0 acdektqffm.com
 0.0.0.0 acdid.acdsystems.com
 0.0.0.0 a.cdn3.net
-0.0.0.0 acdn.adnxs.com
 0.0.0.0 a.cdngeek.net
 0.0.0.0 a.cdn.intentmedia.net
 0.0.0.0 acdn.newshuntads.com
@@ -4339,7 +4338,6 @@
 0.0.0.0 ads.guru3d.com
 0.0.0.0 ads.haberler.com
 0.0.0.0 ads.handycafe.com
-0.0.0.0 ads.happyidiots.nl
 0.0.0.0 adsharenetwork.com
 0.0.0.0 adshark.site
 0.0.0.0 ads.harpercollins.com
@@ -12842,7 +12840,6 @@
 0.0.0.0 clickserve.cc-dt.com
 0.0.0.0 clickserve.dartsearch.net
 0.0.0.0 clickserv.sitescout.com
-0.0.0.0 clicksfly.com
 0.0.0.0 clicksgear.com
 0.0.0.0 clickshare.com
 0.0.0.0 clicks.hurriyet.com.tr
@@ -13810,7 +13807,6 @@
 0.0.0.0 connexionsecure.com
 0.0.0.0 connexity.net
 0.0.0.0 connextra.com
-0.0.0.0 consciouscabbage.com
 0.0.0.0 consciouschairs.com
 0.0.0.0 consciousdirt.com
 0.0.0.0 consensad.com
@@ -24613,10 +24609,7 @@
 0.0.0.0 js.honeybadger.io
 0.0.0.0 jshosting.bid
 0.0.0.0 jshosting.date
-0.0.0.0 jshosting.download
 0.0.0.0 jshosting.loan
-0.0.0.0 jshosting.party
-0.0.0.0 jshosting.racing
 0.0.0.0 jshosting.review
 0.0.0.0 jshosting.stream
 0.0.0.0 jshosting.trade
@@ -26386,7 +26379,6 @@
 0.0.0.0 log.voicecloud.cn
 0.0.0.0 log.vov.vn
 0.0.0.0 logw312.ati-host.net
-0.0.0.0 logw349.ati-host.net
 0.0.0.0 log.web.kugou.com
 0.0.0.0 log.webnovel.com
 0.0.0.0 log.worldsoft-cms.info
@@ -27884,7 +27876,6 @@
 0.0.0.0 mevents.trusteer.com
 0.0.0.0 m.exactag.com
 0.0.0.0 me.xdrig.com
-0.0.0.0 mexico-mmm.net
 0.0.0.0 m.exusr.com
 0.0.0.0 meya41w7.com
 0.0.0.0 mezima.com
@@ -29618,7 +29609,6 @@
 0.0.0.0 netcommunities.com
 0.0.0.0 netcore.co.in
 0.0.0.0 netcore.go2affise.com
-0.0.0.0 netcoresmartech.com
 0.0.0.0 netdeal.com.br
 0.0.0.0 netdebit-counter.de
 0.0.0.0 netdirect.nl
@@ -33616,7 +33606,6 @@
 0.0.0.0 push.cnnindonesia.com
 0.0.0.0 push.com2us.net
 0.0.0.0 push.content-ad.net
-0.0.0.0 pushcrew.com
 0.0.0.0 pushdataapi.zc.uae.uc.cn
 0.0.0.0 push-dc.51y5.net
 0.0.0.0 pushdusk.com
@@ -37218,7 +37207,6 @@
 0.0.0.0 shopper.marketforce.com
 0.0.0.0 shopperschoice.demdex.net
 0.0.0.0 shoppingads.com
-0.0.0.0 shoppingbox.leguide.com
 0.0.0.0 shopping.coccoc.com
 0.0.0.0 shopping.com
 0.0.0.0 shopping.dailycamera.com
@@ -42393,7 +42381,6 @@
 0.0.0.0 tracking.validclick.com
 0.0.0.0 tracking.vcommission.com
 0.0.0.0 tracking.veille-referencement.com
-0.0.0.0 tracking.vengovision.ru
 0.0.0.0 tracking.veoxa.com
 0.0.0.0 tracking.vid4u.org
 0.0.0.0 tracking.vietnamnetad.vn
@@ -49510,7 +49497,6 @@
 0.0.0.0 zbvrqrjecs.com
 0.0.0.0 zbwp6ghm.com
 0.0.0.0 zbwttofskjnc.com
-0.0.0.0 zbz.m.qxs.la
 0.0.0.0 zc2ab26b8.webengage.co
 0.0.0.0 zc2ab3738.webengage.co
 0.0.0.0 zc.adswizz.com

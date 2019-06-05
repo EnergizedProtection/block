@@ -1,8 +1,8 @@
 # ador-energized Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/core/hosts
-# Last Converted - 03.06.2019
-# Total Domains - 19495
+# Last Converted - 05.06.2019
+# Total Domains - 19478
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -525,7 +525,6 @@
 0.0.0.0 account.umeng.com
 0.0.0.0 accu-chek.it
 0.0.0.0 accuen.optout.agkn.com
-0.0.0.0 acdn.adnxs.com
 0.0.0.0 acdn.appia.com
 0.0.0.0 acdn.newshuntads.com
 0.0.0.0 acds-a.prod.us-east-1.vidible.tv
@@ -793,6 +792,7 @@
 0.0.0.0 adbooth.com
 0.0.0.0 adbooth.net
 0.0.0.0 adbot.com
+0.0.0.0 adbrau.com
 0.0.0.0 ad.br.doubleclick.net
 0.0.0.0 adbrite.com
 0.0.0.0 ad-brix.com
@@ -1386,7 +1386,6 @@
 0.0.0.0 adpriv.nikkei.com
 0.0.0.0 adprofile.net
 0.0.0.0 ad.profiwin.de
-0.0.0.0 adprojekt.pl
 0.0.0.0 adprotected.com
 0.0.0.0 adproxy.fyber.com
 0.0.0.0 ad.prv.pl
@@ -3473,7 +3472,6 @@
 0.0.0.0 api5.batmobil.net
 0.0.0.0 api9.net
 0.0.0.0 api.9snail.com
-0.0.0.0 api.actionbutton.co
 0.0.0.0 api.ad.ad-stir.com
 0.0.0.0 api.adbuddiz.com
 0.0.0.0 api.ad-center.com
@@ -3833,7 +3831,6 @@
 0.0.0.0 ard.xxxblackbook.com
 0.0.0.0 areametrics.com
 0.0.0.0 areasnap.com
-0.0.0.0 arecio.work
 0.0.0.0 a.republer.com
 0.0.0.0 are-ter.com
 0.0.0.0 ar-gb.adskeeper.co.uk
@@ -4615,7 +4612,6 @@
 0.0.0.0 bitcoin.co.pt
 0.0.0.0 bitcoin.cz
 0.0.0.0 bitcoin.de
-0.0.0.0 bitcoin-doubler.us
 0.0.0.0 bitcoiner.win
 0.0.0.0 bitcoinethereum.eu
 0.0.0.0 bitcoin-game.de
@@ -5231,6 +5227,7 @@
 0.0.0.0 cdn.adacts.com
 0.0.0.0 cdn.adbert.info
 0.0.0.0 cdn.adblade.com
+0.0.0.0 cdn.adbrau.com
 0.0.0.0 cdn.adcash.com
 0.0.0.0 cdn.addapptr.com
 0.0.0.0 cdn.addlnk.com
@@ -5665,7 +5662,6 @@
 0.0.0.0 clicks.enchante.adhese.com
 0.0.0.0 clicks.equantum.com
 0.0.0.0 clickserve.cc-dt.com
-0.0.0.0 clicksfly.com
 0.0.0.0 clicks-lannoo.adhese.com
 0.0.0.0 clicks.mods.de
 0.0.0.0 clicks-newsmonkey.adhese.com
@@ -5982,7 +5978,6 @@
 0.0.0.0 connexity.net
 0.0.0.0 connexplace.com
 0.0.0.0 connextra.com
-0.0.0.0 consciouscabbage.com
 0.0.0.0 consciousdirt.com
 0.0.0.0 consensu.org
 0.0.0.0 console.brightcove.com
@@ -7181,7 +7176,6 @@
 0.0.0.0 email.liverail.com
 0.0.0.0 emails.outbrain.com
 0.0.0.0 emarketer.com
-0.0.0.0 embed.actionbutton.co
 0.0.0.0 embed.insticator.com
 0.0.0.0 embed.sendtonews.com
 0.0.0.0 embed.tawk.to
@@ -7554,7 +7548,6 @@
 0.0.0.0 fbfd396918c60838.com
 0.0.0.0 fblaster.com
 0.0.0.0 fb-plus.com
-0.0.0.0 fb-promotions.com
 0.0.0.0 f.br.bav.baidu.com
 0.0.0.0 fbtsotbs.com
 0.0.0.0 fb.umeng.com
@@ -9651,10 +9644,7 @@
 0.0.0.0 js.grt02.com
 0.0.0.0 jshosting.bid
 0.0.0.0 jshosting.date
-0.0.0.0 jshosting.download
 0.0.0.0 jshosting.loan
-0.0.0.0 jshosting.party
-0.0.0.0 jshosting.racing
 0.0.0.0 jshosting.review
 0.0.0.0 jshosting.stream
 0.0.0.0 jshosting.trade
@@ -9891,7 +9881,6 @@
 0.0.0.0 lapresse.adgear.com
 0.0.0.0 larentisol.com
 0.0.0.0 large-format.net
-0.0.0.0 largeloot.com
 0.0.0.0 larosanotizia.com
 0.0.0.0 laserhairremovalstore.com
 0.0.0.0 laserveradedomaina.com
@@ -10253,7 +10242,6 @@
 0.0.0.0 lumpyleaf.com
 0.0.0.0 lunafluxa.com
 0.0.0.0 lunarads.com
-0.0.0.0 luoxkexp.com
 0.0.0.0 lutereum.com
 0.0.0.0 luxadv.com
 0.0.0.0 luxor.tech
@@ -10541,7 +10529,6 @@
 0.0.0.0 medianet.sync.go.sonobi.com
 0.0.0.0 mediaoaktree.com
 0.0.0.0 mediaon.it
-0.0.0.0 mediaparade.net
 0.0.0.0 media.pepperjamnetwork.com
 0.0.0.0 mediaplazza.com
 0.0.0.0 mediaplex.com
@@ -12672,7 +12659,6 @@
 0.0.0.0 prod.ap-northeast-1.int.vidible.tv
 0.0.0.0 prod.ap-southeast-1.int.vidible.tv
 0.0.0.0 prod.eu-central-1.int.vidible.tv
-0.0.0.0 prod-native.actionbutton.co
 0.0.0.0 production-api.areametrics.com
 0.0.0.0 production.cdn.aerserv.com
 0.0.0.0 production.kixle.com
@@ -17562,7 +17548,6 @@
 0.0.0.0 www.4ogv6.voluumtrk.com
 0.0.0.0 www4.smartadserver.com
 0.0.0.0 www.4strokemedia.com
-0.0.0.0 www.4wnet.com
 0.0.0.0 www.555.in.th
 0.0.0.0 www.5rocks.io
 0.0.0.0 www6.afsanalytics.com
@@ -18191,7 +18176,6 @@
 0.0.0.0 www-googletagmanager.l.google.com
 0.0.0.0 www.googletagservices.com
 0.0.0.0 www.googlew.com
-0.0.0.0 www.googlewordpad.info
 0.0.0.0 www.googlo.co
 0.0.0.0 www.googltrace.com
 0.0.0.0 www.goooooooooogle.com
@@ -18332,6 +18316,7 @@
 0.0.0.0 www.kissmetrics.com
 0.0.0.0 www.kmspico.info
 0.0.0.0 www.koapkmobi.com
+0.0.0.0 www.kopimi.com
 0.0.0.0 www.korea.inmobi.com
 0.0.0.0 www.kqlokjfrnz.com
 0.0.0.0 www.kqzyfj.com
@@ -18512,7 +18497,6 @@
 0.0.0.0 www.outlookemailtech.com
 0.0.0.0 www.outlookproblemshelp.com
 0.0.0.0 www.outlookrepairhelp.com
-0.0.0.0 www.outlooksettings.com
 0.0.0.0 www.p187425.clksite.com
 0.0.0.0 www.p2047.clksite.com
 0.0.0.0 www.p218176.mybestmv.com
@@ -19165,7 +19149,6 @@
 0.0.0.0 xml.pop.adacts.com
 0.0.0.0 xml.popunder.bid
 0.0.0.0 x.mobalert.net
-0.0.0.0 xmrapi.alimabi.cn
 0.0.0.0 xmrig.com
 0.0.0.0 xmrminingpro.com
 0.0.0.0 xmrminingproxy.com

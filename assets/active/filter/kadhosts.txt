@@ -1,8 +1,8 @@
 # kadhosts Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt
-# Last Converted - 03.06.2019
-# Total Domains - 1557
+# Last Converted - 05.06.2019
+# Total Domains - 1496
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -11,7 +11,6 @@
 0.0.0.0 15b37.skroc.pl
 0.0.0.0 1freesoftwareonline.com
 0.0.0.0 20pascals.nl
-0.0.0.0 24drukuj.pl
 0.0.0.0 24-fakty.pl
 0.0.0.0 24hoursready.cf
 0.0.0.0 3000-od-reki.pl
@@ -85,7 +84,6 @@
 0.0.0.0 appiq.mobi
 0.0.0.0 apple.com-care-macbook-system.live
 0.0.0.0 apple.com-improve-macos.live
-0.0.0.0 apple.com-mac-booster.live
 0.0.0.0 apple.com-macos-clean-systems.live
 0.0.0.0 apple.com-repair.live
 0.0.0.0 apple.com-repair-os.live
@@ -99,14 +97,12 @@
 0.0.0.0 ariix.com
 0.0.0.0 arkonfinance.pl
 0.0.0.0 aromagroup.pl
-0.0.0.0 artstructures.pl
 0.0.0.0 asdfz.pro
 0.0.0.0 assat.pl
 0.0.0.0 astrocash.org
 0.0.0.0 atcofiles.com
 0.0.0.0 atlanticgam.online
 0.0.0.0 audio-book.net.pl
-0.0.0.0 avangarza.pl
 0.0.0.0 aveplay.com
 0.0.0.0 aveprize.com
 0.0.0.0 awarialaptopa.pl
@@ -146,7 +142,6 @@
 0.0.0.0 blog.jacekpaciorek.pl
 0.0.0.0 blogonews.com
 0.0.0.0 blos24.pl
-0.0.0.0 bluertvagd.pl
 0.0.0.0 bmgrp.tk
 0.0.0.0 bnewsb.com
 0.0.0.0 bodysecretrevelation.com
@@ -167,7 +162,6 @@
 0.0.0.0 bubblelife70.life
 0.0.0.0 bustcream-pro.com
 0.0.0.0 butypremium.pl
-0.0.0.0 butyua.pl
 0.0.0.0 buz2mobile.com
 0.0.0.0 buzz.mobiapp-games.com
 0.0.0.0 buzzonclick.com
@@ -221,7 +215,6 @@
 0.0.0.0 cpm10.com
 0.0.0.0 crediko.pl
 0.0.0.0 cristianlay.com
-0.0.0.0 csgoskinsproject.pl
 0.0.0.0 cs.nailrr.com
 0.0.0.0 cs.shiporama.com
 0.0.0.0 cs.spotlessweb.com
@@ -256,16 +249,6 @@
 0.0.0.0 dobreprogramy.pro
 0.0.0.0 dobre-programy.xyz
 0.0.0.0 dofinansowania-jezykowe.pl
-0.0.0.0 dofinansowanie-dolnoslaskie.pl
-0.0.0.0 dofinansowanie-kujawsko-pomorskie.pl
-0.0.0.0 dofinansowanie-lodzkie.pl
-0.0.0.0 dofinansowanie-lubelskie.pl
-0.0.0.0 dofinansowanie-malopolskie.pl
-0.0.0.0 dofinansowanie-mazowieckie.pl
-0.0.0.0 dofinansowanie-podkarpackie.pl
-0.0.0.0 dofinansowanie-podlaskie.pl
-0.0.0.0 dofinansowanie-slaskie.pl
-0.0.0.0 dofinansowanie-wielkopolskie.pl
 0.0.0.0 doladowania-telefonu.pl
 0.0.0.0 doladowanie50pln.ujm.pl
 0.0.0.0 doladujfona.net
@@ -301,7 +284,6 @@
 0.0.0.0 easynet.pierre-lang.com
 0.0.0.0 ebeautyportal.com
 0.0.0.0 ebook4all.com.pl
-0.0.0.0 ebookeo.pl
 0.0.0.0 ebookipdf.pl
 0.0.0.0 ebuty.net.pl
 0.0.0.0 e-cda.pl
@@ -312,7 +294,6 @@
 0.0.0.0 eeu.pl
 0.0.0.0 e-fohow.pl
 0.0.0.0 eforsa.pl
-0.0.0.0 egofiles.pw
 0.0.0.0 elavepene.us
 0.0.0.0 electrocity24.pl
 0.0.0.0 elektro24h.pl
@@ -358,9 +339,7 @@
 0.0.0.0 failmobile.net
 0.0.0.0 fajne-filmy.pl
 0.0.0.0 faktopedia.com.pl
-0.0.0.0 fargofinanse.pl
 0.0.0.0 fasterfiles.net
-0.0.0.0 fb-iq.pl
 0.0.0.0 fb-szpieguj.likesyou.org
 0.0.0.0 feed.engage.im
 0.0.0.0 fevitum.pl
@@ -387,7 +366,6 @@
 0.0.0.0 filespeedy.org
 0.0.0.0 fileston.com
 0.0.0.0 filestrue.com
-0.0.0.0 filionline.pl
 0.0.0.0 film-base.pl
 0.0.0.0 filmhd.ek1.pl
 0.0.0.0 filmobox.pl
@@ -398,7 +376,6 @@
 0.0.0.0 filmy-i-seriale.pl
 0.0.0.0 filmyiseriale.pw
 0.0.0.0 financial.org
-0.0.0.0 finanse-payu.pl
 0.0.0.0 findgiftcode.com
 0.0.0.0 firead.org
 0.0.0.0 fireads.online
@@ -452,8 +429,6 @@
 0.0.0.0 garciniacambogiaactives.pl
 0.0.0.0 gazeta-pl.site
 0.0.0.0 gbptest.net
-0.0.0.0 gdb-finance.pl
-0.0.0.0 geldorbank.pl
 0.0.0.0 gemverify.com
 0.0.0.0 generatorkodow.hpu.pl
 0.0.0.0 gerotel.com
@@ -513,17 +488,14 @@
 0.0.0.0 hitlog.tk
 0.0.0.0 hitvisit.com
 0.0.0.0 hksfa.org
-0.0.0.0 holdenavenue.pl
 0.0.0.0 hollisterwarszawa.pl
 0.0.0.0 homeekspert.net
 0.0.0.0 homeexpres.net
 0.0.0.0 homejailbreak.com
 0.0.0.0 host1.5v.pl
 0.0.0.0 hostujmy.pl
-0.0.0.0 hotawards.pl
 0.0.0.0 hothub.pl
 0.0.0.0 hotokazje.com
-0.0.0.0 hotprizes.pl
 0.0.0.0 hp.myway.com
 0.0.0.0 huit.re
 0.0.0.0 humanverify.net
@@ -549,7 +521,6 @@
 0.0.0.0 intconnectltd.com
 0.0.0.0 intelligenttechnologies.pl
 0.0.0.0 interbuty.pl
-0.0.0.0 interia-zabezpieczenia.pl
 0.0.0.0 internet-security-73bd67kl.tk
 0.0.0.0 investreviewier.com
 0.0.0.0 inwestujwrozwoj.pl
@@ -591,7 +562,6 @@
 0.0.0.0 kixshop.pl
 0.0.0.0 kjhkgh.skroc.pl
 0.0.0.0 kl21.pl
-0.0.0.0 klimstat.pl
 0.0.0.0 klub13.pl
 0.0.0.0 klubpracyrodzica.pl
 0.0.0.0 kmavj.ab4all.com
@@ -629,7 +599,6 @@
 0.0.0.0 leadzu.com
 0.0.0.0 leadzupc.com
 0.0.0.0 legalizacja.5v.pl
-0.0.0.0 legitstore.pl
 0.0.0.0 lesemerick.com
 0.0.0.0 lifehackz.net
 0.0.0.0 life-star.pl
@@ -643,7 +612,6 @@
 0.0.0.0 lnktk.com
 0.0.0.0 loktrk.com
 0.0.0.0 longup.co
-0.0.0.0 looool.pl
 0.0.0.0 lopon.pl
 0.0.0.0 losowa-gra.pl
 0.0.0.0 lottoland.pl
@@ -654,7 +622,6 @@
 0.0.0.0 maendo.tv
 0.0.0.0 magadownloader.com
 0.0.0.0 magiskmanager.com
-0.0.0.0 mamkase.pl
 0.0.0.0 manaslu.pl
 0.0.0.0 marekporwol.pl
 0.0.0.0 mariuszpelczarski.pl
@@ -727,7 +694,6 @@
 0.0.0.0 msphackonline.com
 0.0.0.0 msphacks.net
 0.0.0.0 multico.5v.pl
-0.0.0.0 mundialove.pl
 0.0.0.0 muverbo.pl
 0.0.0.0 myacn.eu
 0.0.0.0 myeforsa.pl
@@ -754,9 +720,7 @@
 0.0.0.0 nevotel.com
 0.0.0.0 newmediaz.com
 0.0.0.0 newpassporn.com
-0.0.0.0 news-onet24.pl
 0.0.0.0 newsy-ben24.ml
-0.0.0.0 newsy-onet24.pl
 0.0.0.0 newszone.pro
 0.0.0.0 newtechagd.net
 0.0.0.0 niechoruje.pl
@@ -835,7 +799,6 @@
 0.0.0.0 pl1.slimg0ji-berry.com
 0.0.0.0 pl1.the-titanium.com
 0.0.0.0 pl2.slimg0ji-berry.com
-0.0.0.0 plajerek.pl
 0.0.0.0 pl.allsports4free.club
 0.0.0.0 planetazdrowia.com
 0.0.0.0 platnosc24.com
@@ -860,7 +823,6 @@
 0.0.0.0 pl.fohow.eu
 0.0.0.0 pl.gamemine.com
 0.0.0.0 pl.health-line.me
-0.0.0.0 pliczek.pw
 0.0.0.0 pliki.pw
 0.0.0.0 plikson24.pl
 0.0.0.0 plikson.pl
@@ -879,17 +841,14 @@
 0.0.0.0 pl.team
 0.0.0.0 pl-ticket.today
 0.0.0.0 pl.tvplusnewtab.com
-0.0.0.0 pobeiranie.pl
 0.0.0.0 pobieralnia.com.pl
 0.0.0.0 pobierane.pl
-0.0.0.0 pobierz123.pl
 0.0.0.0 pobierz.biz
 0.0.0.0 pobierzgo.pl
 0.0.0.0 pobierz-online.co.pl
 0.0.0.0 pobierzpliki.pl
 0.0.0.0 pobierzse.pl
 0.0.0.0 pobierzteraz.mobi
-0.0.0.0 pobraniowo.pl
 0.0.0.0 pod004.site
 0.0.0.0 po.fyybox.com
 0.0.0.0 pogotowiekomputerowe.net
@@ -949,7 +908,6 @@
 0.0.0.0 psialapka.pl
 0.0.0.0 ptgame.eu
 0.0.0.0 publisher.lead.network
-0.0.0.0 puna.pl
 0.0.0.0 punkt-pozyczka.pl
 0.0.0.0 push-notification.tools
 0.0.0.0 px1alsry.com
@@ -964,7 +922,6 @@
 0.0.0.0 quizzstar.com
 0.0.0.0 ramissio.com
 0.0.0.0 randki-sex.com
-0.0.0.0 rapideo.pw
 0.0.0.0 rap-share.pl
 0.0.0.0 ratujlaptopa.pl
 0.0.0.0 rbxfree.com
@@ -989,7 +946,6 @@
 0.0.0.0 robloxhack.pl
 0.0.0.0 rosalieeve.pl
 0.0.0.0 roulettenumber.com
-0.0.0.0 rozsadnapozyczka.pl
 0.0.0.0 rtvagdpro.net
 0.0.0.0 ruletkasystem.eu
 0.0.0.0 ruletka-systemy.com
@@ -1011,7 +967,6 @@
 0.0.0.0 secure-eplatnosc.com
 0.0.0.0 sendgrid.net
 0.0.0.0 sendspace.pl
-0.0.0.0 sendspace.pw
 0.0.0.0 senoctis.pl
 0.0.0.0 serendipitygalenite.club
 0.0.0.0 seriale24.com.pl
@@ -1033,13 +988,11 @@
 0.0.0.0 silvets.pl
 0.0.0.0 siniaki.pl
 0.0.0.0 skidrowcrack.com
-0.0.0.0 skidrowreloaded.pl
 0.0.0.0 skinsycs.89.pl
 0.0.0.0 skippyfile.com
 0.0.0.0 sklep466452.shoparena.pl
 0.0.0.0 sklep-colway.com
 0.0.0.0 sklep-colway.pl
-0.0.0.0 skleprtvagd24.pl
 0.0.0.0 skleptiande.pl
 0.0.0.0 skroc-link.ga
 0.0.0.0 skutecznesrodki-tabletkinapotencje.ovh
@@ -1089,11 +1042,9 @@
 0.0.0.0 streamuj.org
 0.0.0.0 strefa-filmu.pl
 0.0.0.0 stuntoffer.com
-0.0.0.0 stylowoimodnie.pl
 0.0.0.0 sug.com.pl
 0.0.0.0 sukces.pl
 0.0.0.0 sundaycashsaver.com
-0.0.0.0 superserwisy.pl
 0.0.0.0 super-tania-chwilowka.pl
 0.0.0.0 sweepstakescentralusa.com
 0.0.0.0 swiezaki.weebly.com
@@ -1151,7 +1102,6 @@
 0.0.0.0 traffic-c.com
 0.0.0.0 trafisz.com
 0.0.0.0 transmisje24.net
-0.0.0.0 tri-book.pl
 0.0.0.0 triggerinstalls.com
 0.0.0.0 truegamers.ga
 0.0.0.0 trustedirectdownload.com
@@ -1187,7 +1137,6 @@
 0.0.0.0 vexacion.com
 0.0.0.0 vfastdownload.com
 0.0.0.0 videorazr.com
-0.0.0.0 video-top.pl
 0.0.0.0 vidplayer.pl
 0.0.0.0 vidzsource.net
 0.0.0.0 viewerfb.glt.pl
@@ -1197,7 +1146,6 @@
 0.0.0.0 vipon.pl
 0.0.0.0 vision2020.pl
 0.0.0.0 vitajuice.com.pl
-0.0.0.0 vivabank.pl
 0.0.0.0 vivenso.pl
 0.0.0.0 vladoblog.info
 0.0.0.0 vod24.pl
@@ -1217,7 +1165,6 @@
 0.0.0.0 wellstar-company.com
 0.0.0.0 wellu.eu
 0.0.0.0 weon.pl
-0.0.0.0 wiadomosci-onet24.pl
 0.0.0.0 widget-eforsa.pl
 0.0.0.0 wielkanagroda.com
 0.0.0.0 wielkaniespodzianka.pl
@@ -1229,11 +1176,9 @@
 0.0.0.0 wisebanc.com
 0.0.0.0 wolysport.pl
 0.0.0.0 wooptrk.com
-0.0.0.0 workwolf.pl
 0.0.0.0 worldinfoclub.com
 0.0.0.0 worldoftankscheats.com
 0.0.0.0 wraplo.pl
-0.0.0.0 wrig.pl
 0.0.0.0 wszystkododomu.net
 0.0.0.0 wtmtrack.com
 0.0.0.0 ww7.openwrt.com
@@ -1259,7 +1204,6 @@
 0.0.0.0 www.appcaptcha.com
 0.0.0.0 www.apple.com-care-macbook-system.live
 0.0.0.0 www.apple.com-improve-macos.live
-0.0.0.0 www.apple.com-mac-booster.live
 0.0.0.0 www.apple.com-repair.live
 0.0.0.0 www.apple.com-scan.live
 0.0.0.0 www.apple.com-speed-macos.live
@@ -1500,13 +1444,11 @@
 0.0.0.0 www.xruletka.pl
 0.0.0.0 www.zaho.pl
 0.0.0.0 www.zarobek4u.com
-0.0.0.0 www.zarobicprzezinternet.com
 0.0.0.0 www.zebrapozyczki.pl
 0.0.0.0 www.zennoa.com
 0.0.0.0 www.zespolbefree.pl
 0.0.0.0 www.zinzino.com
 0.0.0.0 wybierz-nagrode.pl
-0.0.0.0 wybierzpieniadze.pl
 0.0.0.0 wydawca.lead.network
 0.0.0.0 wygrajpsc.eu
 0.0.0.0 wygrana-konkursu.eu
@@ -1539,14 +1481,12 @@
 0.0.0.0 zakupymax.net
 0.0.0.0 zalukajfilmy.pl
 0.0.0.0 zalukaj-online.pl
-0.0.0.0 zamowienia-priorytetowe.pl
 0.0.0.0 zapraszamybowarto.pl
 0.0.0.0 zarabativaisazartom.net
 0.0.0.0 zarabiajwsieci.5v.pl
 0.0.0.0 zarabianiefb.club
 0.0.0.0 zasilkonto.cba.pl
 0.0.0.0 zasil-konto.tk
-0.0.0.0 zastrzyk-gotowki.waw.pl
 0.0.0.0 zbierajnagrody.bo.pl
 0.0.0.0 zcontentlocker7gpa8a.xyz
 0.0.0.0 zdaj-to.pl
@@ -1562,5 +1502,4 @@
 0.0.0.0 zosprp-wagrowiec.pl
 0.0.0.0 zukiewicz.com
 0.0.0.0 zumodi.com
-0.0.0.0 zweryfikuj-sie.pl
 0.0.0.0 zyski-z-innowacji.pl

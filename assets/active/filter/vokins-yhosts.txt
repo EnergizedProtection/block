@@ -1,8 +1,8 @@
 # vokins-yhosts Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/vokins/yhosts/master/hosts
-# Last Converted - 03.06.2019
-# Total Domains - 7495
+# Last Converted - 05.06.2019
+# Total Domains - 7517
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -94,6 +94,8 @@
 0.0.0.0 2.bashenghuo.com
 0.0.0.0 2f3.555b2b.com
 0.0.0.0 2.letvlive.com
+0.0.0.0 2mg898.jim86d.cn
+0.0.0.0 2mg.jim86d.cn
 0.0.0.0 2.nanrenwo.net
 0.0.0.0 2.tuxi.com.cn
 0.0.0.0 2.up.qingdaonews.com
@@ -123,6 +125,7 @@
 0.0.0.0 4171764.fls.doubleclick.net
 0.0.0.0 43242.zh1144.com
 0.0.0.0 4336wang.cn
+0.0.0.0 4au.htf16a.cn
 0.0.0.0 4g0.cc
 0.0.0.0 4.up.qingdaonews.com
 0.0.0.0 4xhyr.shuimujinggong.com
@@ -256,7 +259,6 @@
 0.0.0.0 a.bshu.com
 0.0.0.0 ac3.msn.com
 0.0.0.0 ac.atpanel.com
-0.0.0.0 acdn.adnxs.com
 0.0.0.0 a.clickdata.37wan.com
 0.0.0.0 ac.mmstat.com
 0.0.0.0 a.cn.duoyi.com
@@ -1078,7 +1080,6 @@
 0.0.0.0 bbsimages.zkxf119.com
 0.0.0.0 bbs.search.nkwwnx.com
 0.0.0.0 bce.baidu.com
-0.0.0.0 bc.geocities.yahoo.co.jp
 0.0.0.0 bcjjg.bugsevent.com
 0.0.0.0 bcjxf.bugsevent.com
 0.0.0.0 b.clkservice.youdao.com
@@ -1190,6 +1191,7 @@
 0.0.0.0 blogad02.myweb.hinet.net
 0.0.0.0 bluekai.com
 0.0.0.0 bm.alimama.cn
+0.0.0.0 b.mlion.cn
 0.0.0.0 bmp1.ali213.net
 0.0.0.0 bmp.ali213.net
 0.0.0.0 bmvip.alimama.cn
@@ -2137,6 +2139,7 @@
 0.0.0.0 e.80o4j.cn
 0.0.0.0 e.82uxa.cn
 0.0.0.0 e.91.com
+0.0.0.0 e.95z3a.cn
 0.0.0.0 e.980he.cn
 0.0.0.0 e98fe.luytr.com
 0.0.0.0 e.9mf0a.cn
@@ -2361,6 +2364,7 @@
 0.0.0.0 e.njiet.com
 0.0.0.0 e.nmtouzi.com
 0.0.0.0 e.nnfiy.com
+0.0.0.0 e.nq37f.cn
 0.0.0.0 ent1.12584.cn
 0.0.0.0 entry.adsage.com
 0.0.0.0 entry.baidu.com
@@ -2382,6 +2386,7 @@
 0.0.0.0 e.pomkl.com
 0.0.0.0 e.poonscn.com
 0.0.0.0 e.ppaie.com
+0.0.0.0 e.pt05c.cn
 0.0.0.0 e.pubbirdf.com
 0.0.0.0 e.puooi.com
 0.0.0.0 e.pwjhg.com
@@ -2464,6 +2469,7 @@
 0.0.0.0 e.w6o2c.cn
 0.0.0.0 e.wbanz.com
 0.0.0.0 e.wbies.com
+0.0.0.0 e.wc59b.cn
 0.0.0.0 e.wcaos.com
 0.0.0.0 e.wcenr.com
 0.0.0.0 e.wcjup.com
@@ -3466,6 +3472,7 @@
 0.0.0.0 kim.lfhnkp.com
 0.0.0.0 kingdeecn.cn
 0.0.0.0 kiss.blockplus.cc
+0.0.0.0 kkdm.dhgdp.cn
 0.0.0.0 kkpgv2.kankan.com
 0.0.0.0 kkpgv.kankan.com
 0.0.0.0 klk.jdflower.cn
@@ -3537,6 +3544,7 @@
 0.0.0.0 libs.tvmao.cn
 0.0.0.0 license.lumion3d.com
 0.0.0.0 license.lumion3d.net
+0.0.0.0 license.piriform.com
 0.0.0.0 licenses.ashampoo.com
 0.0.0.0 licensing.tableausoftware.com
 0.0.0.0 linglong.supersuer.com
@@ -3650,6 +3658,7 @@
 0.0.0.0 m.072va.cn
 0.0.0.0 m.08i94.com
 0.0.0.0 m.0cec5.com
+0.0.0.0 m.0vj6i.cn
 0.0.0.0 m.0wnz6g.cn
 0.0.0.0 m.107279.com
 0.0.0.0 m.118ex.cn
@@ -3698,6 +3707,8 @@
 0.0.0.0 m.5vst8h.cn
 0.0.0.0 m.640640.com
 0.0.0.0 m.649649.com
+0.0.0.0 m.65r3g.cn
+0.0.0.0 m.6gv4d.cn
 0.0.0.0 m.6i9th.cn
 0.0.0.0 m.6z1gf.cn
 0.0.0.0 m.77vcd.com
@@ -3706,10 +3717,13 @@
 0.0.0.0 m.7n3e8o.com
 0.0.0.0 m.7nej2.com
 0.0.0.0 m.7wx8f.cn
+0.0.0.0 m.80o4j.cn
 0.0.0.0 m.85rvq.cn
 0.0.0.0 m.937920.com
 0.0.0.0 m947.oadz.com
+0.0.0.0 m.95z3a.cn
 0.0.0.0 m.96mob.com
+0.0.0.0 m.97tuk.cn
 0.0.0.0 m.980he.cn
 0.0.0.0 m981.oadz.com
 0.0.0.0 m.98tpof.cn
@@ -4205,6 +4219,7 @@
 0.0.0.0 m.nmtouzi.com
 0.0.0.0 m.nnfiy.com
 0.0.0.0 m.nouaa.com
+0.0.0.0 m.nq37f.cn
 0.0.0.0 m.nqut.cn
 0.0.0.0 m.nthtcs.com
 0.0.0.0 m.ntxiangtai.com
@@ -4274,6 +4289,7 @@
 0.0.0.0 m.pquea.com
 0.0.0.0 m.prazpf.cn
 0.0.0.0 mps.weekslw.com
+0.0.0.0 m.pt05c.cn
 0.0.0.0 m.ptuoa.com
 0.0.0.0 m.pubbirdf.com
 0.0.0.0 m.puooi.com
@@ -4397,6 +4413,7 @@
 0.0.0.0 munchkin.marketo.net
 0.0.0.0 music.adcome.cn
 0.0.0.0 m.uzhaj.com
+0.0.0.0 m.v76rk.cn
 0.0.0.0 mvads.kugou.com
 0.0.0.0 m.vaxyz.com
 0.0.0.0 m.vbanm.com
@@ -4434,6 +4451,7 @@
 0.0.0.0 m.wbaoz.com
 0.0.0.0 m.wbeiz.com
 0.0.0.0 m.wbiev.com
+0.0.0.0 m.wc59b.cn
 0.0.0.0 m.wcail.com
 0.0.0.0 m.wcaos.com
 0.0.0.0 m.wcenr.com
@@ -4567,6 +4585,7 @@
 0.0.0.0 ne.1rtb.com
 0.0.0.0 neijh.com
 0.0.0.0 net.rayjump.com
+0.0.0.0 netsop.cn
 0.0.0.0 new.cnzz.com
 0.0.0.0 newrelic.com
 0.0.0.0 news.51y5.net
@@ -4828,6 +4847,7 @@
 0.0.0.0 photo.lyghjzs.cn
 0.0.0.0 photo.maimi88.cn
 0.0.0.0 photo.majiang188.cn
+0.0.0.0 photo.njlymyd.cn
 0.0.0.0 photo.ofsja.cn
 0.0.0.0 photo.rdguj.cn
 0.0.0.0 photo.shyexiang.cn
@@ -5601,6 +5621,7 @@
 0.0.0.0 services.wes.df.telemetry.microsoft.com
 0.0.0.0 serving.bepolite.eu
 0.0.0.0 sestat.baidu.com
+0.0.0.0 setqre.cn
 0.0.0.0 setting.rayjump.com
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 setting.snswin.qq.com
@@ -5764,6 +5785,7 @@
 0.0.0.0 ssh.szxiuchang.com
 0.0.0.0 ssh.yezijizhang.com
 0.0.0.0 ss.knet.cn
+0.0.0.0 ssl2.dottexpress.com
 0.0.0.0 ssl2.feihongjiaoyu.com
 0.0.0.0 ssl86.pjshw.cn
 0.0.0.0 ssl.bsriedu.cn
@@ -6945,6 +6967,7 @@
 0.0.0.0 www.inoprosport.su
 0.0.0.0 www.ipinyou.com
 0.0.0.0 www.ipinyou.com.cn
+0.0.0.0 www.isitone.com
 0.0.0.0 www.jagcn.com
 0.0.0.0 www.jav23.com
 0.0.0.0 www.jesgoo.com
@@ -7431,7 +7454,6 @@
 0.0.0.0 z8.cnzz.com
 0.0.0.0 z9.cnzz.com
 0.0.0.0 zae.gzzena.com
-0.0.0.0 zbz.m.qxs.la
 0.0.0.0 zc.adpush.cn
 0.0.0.0 z.clickvip.shop
 0.0.0.0 zeus.ad.xiaomi.com

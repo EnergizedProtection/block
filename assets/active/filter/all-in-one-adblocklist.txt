@@ -1,8 +1,8 @@
 # all-in-one-adblocklist Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/converter/filter/all-in-one-adblocklist.txt
-# Last Converted - 03.06.2019
-# Total Domains - 18702
+# Last Converted - 05.06.2019
+# Total Domains - 18589
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -41,6 +41,7 @@
 0.0.0.0 15gifts.com
 0.0.0.0 168logger.com
 0.0.0.0 197c3b10bab3c1.com
+0.0.0.0 1b8d89551340a.com
 0.0.0.0 1cb70f6b7aab4c70819a.date
 0.0.0.0 1-cl0ud.com
 0.0.0.0 1dmp.io
@@ -64,7 +65,6 @@
 0.0.0.0 200stran.ru
 0.0.0.0 200summit.com
 0.0.0.0 2012hacks.com
-0.0.0.0 2012hacks.info
 0.0.0.0 2013-hacks.net
 0.0.0.0 2014gameshack.com
 0.0.0.0 2014tools.com
@@ -156,6 +156,7 @@
 0.0.0.0 47f624b2e6c6072e.com
 0.0.0.0 4d2911e5a4e352.com
 0.0.0.0 4dsply.com
+0.0.0.0 4fba771f87a0251.com
 0.0.0.0 4jnzhl0d0.com
 0.0.0.0 4kmoviesclub.com
 0.0.0.0 4man9.cf
@@ -182,6 +183,7 @@
 0.0.0.0 713b037362f02.com
 0.0.0.0 720-trail.co.uk
 0.0.0.0 74055djs.info
+0.0.0.0 75ce0f054e9abc.com
 0.0.0.0 76561198132995169.info
 0.0.0.0 765629637995169.space
 0.0.0.0 7667bab1751ff777.com
@@ -393,7 +395,6 @@
 0.0.0.0 addesigner.com
 0.0.0.0 addfreestats.com
 0.0.0.0 addgfxnb.com
-0.0.0.0 addictedgamers.net
 0.0.0.0 addictingcheats.com
 0.0.0.0 addictinginfo.org
 0.0.0.0 addiliate.com
@@ -644,7 +645,6 @@
 0.0.0.0 adultmmogame.com
 0.0.0.0 adultsadv.com
 0.0.0.0 adunity.com
-0.0.0.0 aduobooydxr.com
 0.0.0.0 advancedtracker.appspot.com
 0.0.0.0 advanced-web-analytics.com
 0.0.0.0 advantagemedia.com
@@ -797,6 +797,7 @@
 0.0.0.0 aiwhebey.com
 0.0.0.0 aizopowmtnho.com
 0.0.0.0 aj1110.online
+0.0.0.0 aj1616.online
 0.0.0.0 ajizjpjkrnh.com
 0.0.0.0 ajmwuweeif.com
 0.0.0.0 ajoaorexnieym.com
@@ -870,6 +871,7 @@
 0.0.0.0 allnewspipeline.com
 0.0.0.0 allnvbtrtpku.com
 0.0.0.0 allpass.salemwebnetwork.com
+0.0.0.0 allstat-pp.ru
 0.0.0.0 alltagcloud.info
 0.0.0.0 allthecheats.net
 0.0.0.0 alltracked.com
@@ -1223,7 +1225,6 @@
 0.0.0.0 anonyscrip.com
 0.0.0.0 anormal-tracker.de
 0.0.0.0 anpwsppugpu.com
-0.0.0.0 anqnimezkdjm.com
 0.0.0.0 anrdoezrs.net
 0.0.0.0 an.reflektion.com
 0.0.0.0 answeriqu.com
@@ -1270,7 +1271,6 @@
 0.0.0.0 apicit.net
 0.0.0.0 api.cloudleadia.com
 0.0.0.0 api.content-ad.net
-0.0.0.0 apie-soft.com
 0.0.0.0 api.exc.mob.com
 0.0.0.0 api.flattr.com
 0.0.0.0 api.flocktory.com
@@ -1328,6 +1328,7 @@
 0.0.0.0 apple--iphone5.com
 0.0.0.0 apple-support-online.s3-website-us-west-2.amazonaws.com
 0.0.0.0 apple.www.letv.com
+0.0.0.0 applicalled.club
 0.0.0.0 applicationgrabb.net
 0.0.0.0 app.link
 0.0.0.0 app.livemarketshoppers.com
@@ -1460,7 +1461,6 @@
 0.0.0.0 attantarow.ru
 0.0.0.0 atticwicket.com
 0.0.0.0 attractivecap.com
-0.0.0.0 attractivevideos.com
 0.0.0.0 attributionapp.com
 0.0.0.0 attributiontrackingga.googlecode.com
 0.0.0.0 atwola.com
@@ -1598,6 +1598,7 @@
 0.0.0.0 b1img.com
 0.0.0.0 b1js.com
 0.0.0.0 b2c.com
+0.0.0.0 b3f17a21a3d.com
 0.0.0.0 b3.hoopchina.com.cn
 0.0.0.0 b3z29k1uxb.com
 0.0.0.0 b4e12976c052bbd91c3e.date
@@ -1666,7 +1667,6 @@
 0.0.0.0 battle-mix.com
 0.0.0.0 bavftcgoapga.com
 0.0.0.0 bawdybeast.com
-0.0.0.0 baxcase.com
 0.0.0.0 baykaldrop.top
 0.0.0.0 baynote.net
 0.0.0.0 bazzaro.ru
@@ -1833,7 +1833,6 @@
 0.0.0.0 bestonlinegamecheats.net
 0.0.0.0 bestpriceninja.com
 0.0.0.0 bestsecurepractice.com
-0.0.0.0 best-skins.com
 0.0.0.0 bestskinsdota2.pro
 0.0.0.0 bestskins.su
 0.0.0.0 bestsupertech.com
@@ -1858,7 +1857,6 @@
 0.0.0.0 betfarm.top
 0.0.0.0 bethea-astrology.com
 0.0.0.0 betrad.com
-0.0.0.0 bets-fortune.com
 0.0.0.0 betsonsport.ru
 0.0.0.0 bettermetrics.co
 0.0.0.0 bettersearchtools.com
@@ -1916,6 +1914,7 @@
 0.0.0.0 bigclick.me
 0.0.0.0 bigdoor.com
 0.0.0.0 bigdown10.icu
+0.0.0.0 bigdown27.icu
 0.0.0.0 bigdown34.life
 0.0.0.0 bigdown6.agency
 0.0.0.0 bigfineads.com
@@ -1931,7 +1930,6 @@
 0.0.0.0 bikarane.ir
 0.0.0.0 bikepasture.com
 0.0.0.0 bikuetrh.com
-0.0.0.0 bilbotrade.com
 0.0.0.0 bildirim.net
 0.0.0.0 bileth.pw
 0.0.0.0 biliqpvehf.com
@@ -1956,7 +1954,6 @@
 0.0.0.0 bitcoin-generator.net
 0.0.0.0 bitcoingenerator.org
 0.0.0.0 bitcoin-pay.eu
-0.0.0.0 bitcoinsfree.org
 0.0.0.0 bitdash-reporting.appspot.com
 0.0.0.0 bitdrop.life
 0.0.0.0 bit.ehow.com
@@ -2007,7 +2004,6 @@
 0.0.0.0 blinger.io
 0.0.0.0 blip.bizrate.com
 0.0.0.0 blissinstalls.com
-0.0.0.0 blitzcsgo.com
 0.0.0.0 blkivkplpn.com
 0.0.0.0 blockbreaker.io
 0.0.0.0 blockmetrics.com
@@ -2056,7 +2052,6 @@
 0.0.0.0 bm.adentifi.com
 0.0.0.0 bmcm.ml
 0.0.0.0 bmcm.pw
-0.0.0.0 bmhvaoxr.com
 0.0.0.0 bmichkohfqtnvq.com
 0.0.0.0 bmjwsrcxvnsjne.com
 0.0.0.0 bmlmedia.com
@@ -2091,7 +2086,6 @@
 0.0.0.0 bomb-hack.com
 0.0.0.0 bombhack.com
 0.0.0.0 bombscase.com
-0.0.0.0 bomb-skins.com
 0.0.0.0 bomp.odmedia.net
 0.0.0.0 bonfire.spklw.com
 0.0.0.0 bongacams.com
@@ -2149,7 +2143,6 @@
 0.0.0.0 bouncyproperty.com
 0.0.0.0 bountybets.com
 0.0.0.0 bountycool.com
-0.0.0.0 bountylore.com
 0.0.0.0 bountywin.com
 0.0.0.0 bowqoedgldc.com
 0.0.0.0 boxinghd.net
@@ -2284,7 +2277,6 @@
 0.0.0.0 buysellads.com
 0.0.0.0 buzzbuttons.com
 0.0.0.0 buzzdeck.com
-0.0.0.0 buzzfiles.net
 0.0.0.0 bvanews.com
 0.0.0.0 bvcddoyb.com
 0.0.0.0 bvnmmdelarn.com
@@ -2328,6 +2320,7 @@
 0.0.0.0 c4tracking01.com
 0.0.0.0 c4tw.net
 0.0.0.0 c712236afa001382be31.date
+0.0.0.0 ca0fe9ab61.com
 0.0.0.0 caajevalistl.com
 0.0.0.0 caanalytics.com
 0.0.0.0 caaqyzbpsbtk.com
@@ -2366,6 +2359,7 @@
 0.0.0.0 candydollchan.org
 0.0.0.0 canehoney.com
 0.0.0.0 canlytics.com
+0.0.0.0 cannontwin.com
 0.0.0.0 canopylabs.com
 0.0.0.0 captify.co.uk
 0.0.0.0 captivate.ai
@@ -2387,7 +2381,6 @@
 0.0.0.0 casaherencia.com
 0.0.0.0 casalemedia.com
 0.0.0.0 case4farm.com
-0.0.0.0 case-csgo.com
 0.0.0.0 casejar.net
 0.0.0.0 case-market.com
 0.0.0.0 casemaster-cs.com
@@ -2395,10 +2388,8 @@
 0.0.0.0 caserevenge.com
 0.0.0.0 caserevenge.org
 0.0.0.0 caseruby.com
-0.0.0.0 cases4game.com
 0.0.0.0 cases500.com
 0.0.0.0 cases8csgo.com
-0.0.0.0 casesbite.com
 0.0.0.0 casesfarm.com
 0.0.0.0 caseshappy.com
 0.0.0.0 caseslot.org
@@ -2510,7 +2501,6 @@
 0.0.0.0 cdyiipzo.com
 0.0.0.0 cdyygbzihdh.com
 0.0.0.0 cdzifdzftkmfof.com
-0.0.0.0 ce7.org
 0.0.0.0 cebuled.com
 0.0.0.0 cedexis.com
 0.0.0.0 ceidxneoogpuh.com
@@ -2623,7 +2613,6 @@
 0.0.0.0 cheatsbasis.com
 0.0.0.0 cheatsbomb.com
 0.0.0.0 cheatscastle.com
-0.0.0.0 cheatscave.com
 0.0.0.0 cheatselite.com
 0.0.0.0 cheatsempire.com
 0.0.0.0 cheats-factory.com
@@ -2779,11 +2768,8 @@
 0.0.0.0 clashofclanshackgems.com
 0.0.0.0 clashofclanshack.io
 0.0.0.0 clashofclans-hack.net
-0.0.0.0 clashofclanshackonline.com
 0.0.0.0 clashofclanshackonline.net
 0.0.0.0 clashofclanshackonline.org
-0.0.0.0 clash-of-clans-hacks.com
-0.0.0.0 clashofclans-hacks.com
 0.0.0.0 clashofclanshackunlimitedgems.com
 0.0.0.0 clashofclanshackz.com
 0.0.0.0 clashofclanshelper.com
@@ -2983,12 +2969,9 @@
 0.0.0.0 coaincltxhw.com
 0.0.0.0 coasttocoastam.com
 0.0.0.0 cobaltgroup.com
-0.0.0.0 cocaskins.net
 0.0.0.0 cocfreegems.net
-0.0.0.0 cocgemtool.com
 0.0.0.0 cochacker.top
 0.0.0.0 cochacks.com
-0.0.0.0 cochack.site
 0.0.0.0 coclans.ga
 0.0.0.0 coco2games.com
 0.0.0.0 cod.bitrec.com
@@ -3028,7 +3011,6 @@
 0.0.0.0 codesxblfree.com
 0.0.0.0 codesxboxlive.com
 0.0.0.0 codghostprestigehack.com
-0.0.0.0 codghostshacks.com
 0.0.0.0 codghostshacks.net
 0.0.0.0 cofybuwuc.com
 0.0.0.0 cogmatch.net
@@ -3148,7 +3130,6 @@
 0.0.0.0 connect.facebook.com
 0.0.0.0 connect.nosto.com
 0.0.0.0 connexity.net
-0.0.0.0 consciouscabbage.com
 0.0.0.0 consciouschairs.com
 0.0.0.0 consciouslifenews.com
 0.0.0.0 consensu.org
@@ -3188,7 +3169,6 @@
 0.0.0.0 contextly.com
 0.0.0.0 contineljs.com
 0.0.0.0 continue.com
-0.0.0.0 continuumdownload.com
 0.0.0.0 control.adap.tv
 0.0.0.0 control.cityofcairns.com
 0.0.0.0 convectiontoasterovenreviews.biz
@@ -3384,7 +3364,6 @@
 0.0.0.0 couponbuddy.s3.amazonaws.com
 0.0.0.0 couponcp-a.akamaihd.net
 0.0.0.0 couponsvc.com
-0.0.0.0 covert-case.com
 0.0.0.0 coverweb.org
 0.0.0.0 cowledges.com
 0.0.0.0 cpadoom.com
@@ -3431,7 +3410,6 @@
 0.0.0.0 cracksempire.com
 0.0.0.0 crackserialcodes.com
 0.0.0.0 cracksor.com
-0.0.0.0 cracks-serials.com
 0.0.0.0 crackssite.com
 0.0.0.0 crackswall.com
 0.0.0.0 cracktheworld.com
@@ -3521,11 +3499,9 @@
 0.0.0.0 csfastdrop.com
 0.0.0.0 csgamemarket.com
 0.0.0.0 csgetskin.com
-0.0.0.0 csglobaltrade.pw
 0.0.0.0 csgo111.com
 0.0.0.0 csgo1.com
 0.0.0.0 csgo2x.com
-0.0.0.0 csgo2you.com
 0.0.0.0 csgo500.com
 0.0.0.0 csgo777.com
 0.0.0.0 csgo777magic.pro
@@ -3545,18 +3521,14 @@
 0.0.0.0 csgobasic.online
 0.0.0.0 csgobazar.com
 0.0.0.0 csgobeach.com
-0.0.0.0 csgobeatskins.com
 0.0.0.0 csgoben.com
-0.0.0.0 csgobently.com
 0.0.0.0 csgobestpot.com
 0.0.0.0 csgobet.gg
 0.0.0.0 csgobetlegion.com
 0.0.0.0 csgobet.ru
 0.0.0.0 csgobetsback.com
 0.0.0.0 csgobettingsite.com
-0.0.0.0 csgobigbet.com
 0.0.0.0 csgobigcase.com
-0.0.0.0 csgobigcash.com
 0.0.0.0 csgobig.com
 0.0.0.0 csgobingocase.com
 0.0.0.0 csgoblackjack.com
@@ -3567,12 +3539,10 @@
 0.0.0.0 csgo-brendi.pro
 0.0.0.0 csgobrick.fun
 0.0.0.0 csgobrute.com
-0.0.0.0 csgobuster.com
 0.0.0.0 csgocandy.fun
 0.0.0.0 csgocape.com
 0.0.0.0 csgocardgames.com
 0.0.0.0 csgo-casino.com
-0.0.0.0 csgocasino.pro
 0.0.0.0 csgocasino.su
 0.0.0.0 csgochance.com
 0.0.0.0 csgochecker.net
@@ -3583,19 +3553,15 @@
 0.0.0.0 csgoclubs.com
 0.0.0.0 csgocoat.com
 0.0.0.0 csgocoin.bet
-0.0.0.0 csgocoinbet.com
 0.0.0.0 csgocoolcase.com
 0.0.0.0 csgocpu.com
 0.0.0.0 csgocyz.co
-0.0.0.0 csgodady.com
 0.0.0.0 csgodang.com
 0.0.0.0 csgodarkness.com
 0.0.0.0 csgodawg.com
-0.0.0.0 csgodc.com
 0.0.0.0 csgodealer.com
 0.0.0.0 csgodel.com
 0.0.0.0 csgoden.pro
-0.0.0.0 csgo-dep.net
 0.0.0.0 csgodepo.fun
 0.0.0.0 csgodicegame.com
 0.0.0.0 csgodices.com
@@ -3606,7 +3572,6 @@
 0.0.0.0 csgodoubt.pro
 0.0.0.0 csgodoze.net
 0.0.0.0 csgodrain.net
-0.0.0.0 csgodrone.net
 0.0.0.0 csgodropbet.com
 0.0.0.0 csgo-drop.com
 0.0.0.0 csgodrugs.com
@@ -3617,7 +3582,6 @@
 0.0.0.0 csgoegg.win
 0.0.0.0 csgoelemental.com
 0.0.0.0 csgo-emerald.com
-0.0.0.0 csgoemperialbet.com
 0.0.0.0 csgoend.net
 0.0.0.0 csgoexc.com
 0.0.0.0 csgo-explosion.com
@@ -3631,12 +3595,10 @@
 0.0.0.0 csgofasthack.hostingas.in
 0.0.0.0 csgofastrade.com
 0.0.0.0 csgofenix.net
-0.0.0.0 csgo-fierce.com
 0.0.0.0 csgo-fight.com
 0.0.0.0 csgofight.fun
 0.0.0.0 csgofinecase.com
 0.0.0.0 csgo-fire.pro
-0.0.0.0 csgoflaming.com
 0.0.0.0 csgoflap.com
 0.0.0.0 csgoflashcase.com
 0.0.0.0 csgofloop.com
@@ -3645,28 +3607,23 @@
 0.0.0.0 csgoforces.com
 0.0.0.0 csgoforg.com
 0.0.0.0 csgo-fortune.com
-0.0.0.0 csgofoster.com
 0.0.0.0 csgo-freeknife.com
-0.0.0.0 csgo-fresh.com
 0.0.0.0 csgofresh.com
 0.0.0.0 csgofrogman.pro
 0.0.0.0 csgofunpot.com
 0.0.0.0 csgogabencase.com
 0.0.0.0 csgogamble.com
-0.0.0.0 csgo-gamble.net
 0.0.0.0 csgo-gambler.com
 0.0.0.0 csgogem.trade
 0.0.0.0 csgo-getskins.net
 0.0.0.0 csgo-gg-wp.ru
 0.0.0.0 csgogivers.com
 0.0.0.0 csgo-gold.fun
-0.0.0.0 csgogorila.com
 0.0.0.0 csgograys.com
 0.0.0.0 csgogreedy.com
 0.0.0.0 csgogruz.pro
 0.0.0.0 csgogummi.com
 0.0.0.0 csgogunbet.com
-0.0.0.0 csgoguncase.com
 0.0.0.0 csgogunfire.com
 0.0.0.0 csgo.guru
 0.0.0.0 csgo-hacks.com
@@ -3687,7 +3644,6 @@
 0.0.0.0 csgoice.com
 0.0.0.0 csgoicon.com
 0.0.0.0 csgoid.com
-0.0.0.0 csgo-illusion.net
 0.0.0.0 csgoincome.com
 0.0.0.0 csgoinpace.com
 0.0.0.0 csgoinrate.com
@@ -3695,16 +3651,13 @@
 0.0.0.0 csgojack.fun
 0.0.0.0 csgojackpot.com
 0.0.0.0 csgo-jackpot.net
-0.0.0.0 csgojagger.com
 0.0.0.0 csgojavelin.pro
 0.0.0.0 csgojoe.com
 0.0.0.0 csgoking.de
 0.0.0.0 csgokosmos.ru
-0.0.0.0 csgolaurel.com
 0.0.0.0 csgolden.com
 0.0.0.0 csgolden.site
 0.0.0.0 csgoldpot.com
-0.0.0.0 csgolevar.com
 0.0.0.0 csgolighter.com
 0.0.0.0 csgolitegun.com
 0.0.0.0 csgo-lobby.com
@@ -3727,19 +3680,14 @@
 0.0.0.0 csgoma9ic.pro
 0.0.0.0 csgomagic.co
 0.0.0.0 csgomagic.icu
-0.0.0.0 csgomagic.org
 0.0.0.0 csgomagic.top
-0.0.0.0 csgomagnatcase.com
 0.0.0.0 csgomagnat.com
 0.0.0.0 csgomak.com
-0.0.0.0 csgomana.com
 0.0.0.0 csgo-maniac.com
 0.0.0.0 csgomars.com
 0.0.0.0 csgomax.online
-0.0.0.0 csgomezo.com
 0.0.0.0 csgomoney.money
 0.0.0.0 csgomonies.com
-0.0.0.0 csgomonstercase.com
 0.0.0.0 csgomultiply.com
 0.0.0.0 csgoninja.fun
 0.0.0.0 csgonitecase.com
@@ -3752,14 +3700,12 @@
 0.0.0.0 csgoorders.com
 0.0.0.0 csgopanelx.com
 0.0.0.0 csgoparty.com
-0.0.0.0 csgopassion.com
 0.0.0.0 csgopattern.net
 0.0.0.0 csgopfunny.pro
 0.0.0.0 csgopher.com
 0.0.0.0 csgoplacebet.com
 0.0.0.0 csgoplace.pro
 0.0.0.0 csgoplant.com
-0.0.0.0 csgoplat.com
 0.0.0.0 csgopoints.com
 0.0.0.0 csgopoker.com
 0.0.0.0 csgopolygon.com
@@ -3784,17 +3730,14 @@
 0.0.0.0 csgorapids.com
 0.0.0.0 csgoraptor.com
 0.0.0.0 csgorazes.com
-0.0.0.0 csgoreamer.com
 0.0.0.0 csgoreaper.com
 0.0.0.0 csgoretailer.com
 0.0.0.0 csgori.ch
 0.0.0.0 csgorich.com
 0.0.0.0 csgorider.com
-0.0.0.0 csgoriginal.com
 0.0.0.0 csgorivalry.com
 0.0.0.0 csgorocketcase.com
 0.0.0.0 csgoroll.cash
-0.0.0.0 csgorollin.com
 0.0.0.0 csgo-roulette.net
 0.0.0.0 csgoroulettes.com
 0.0.0.0 csgorouletts.com
@@ -3815,7 +3758,6 @@
 0.0.0.0 csgosick.fun
 0.0.0.0 csgosign.net
 0.0.0.0 csgosimple.com
-0.0.0.0 csgosk1nsfree.blogspot.com
 0.0.0.0 csgoskindraft.com
 0.0.0.0 csgo-skin-raffle.com
 0.0.0.0 csgoskinraffle.com
@@ -3824,8 +3766,6 @@
 0.0.0.0 csgo-skins.pl
 0.0.0.0 csgoskinx.ru
 0.0.0.0 csgoskinz.fun
-0.0.0.0 csgoskulls.com
-0.0.0.0 csgoslayer.com
 0.0.0.0 csgosnakes.com
 0.0.0.0 csgosnapbet.com
 0.0.0.0 csgosniper.net
@@ -3857,9 +3797,7 @@
 0.0.0.0 csgotrain.ru
 0.0.0.0 csgotransaction.com
 0.0.0.0 csgo-try.com
-0.0.0.0 csgotunes.com
 0.0.0.0 csgoultras.com
-0.0.0.0 csgouno.com
 0.0.0.0 csgoupgrader.info
 0.0.0.0 csgouranus.com
 0.0.0.0 csgoutpost.com
@@ -3877,12 +3815,9 @@
 0.0.0.0 csgox5-skins.pro
 0.0.0.0 csgox-mafia.com
 0.0.0.0 csgoxprom.online
-0.0.0.0 csgoxxfree.blogspot.com
 0.0.0.0 csgozerospin.com
 0.0.0.0 csgozone.co.uk
-0.0.0.0 csgozones.net
 0.0.0.0 csground.com
-0.0.0.0 csground.net
 0.0.0.0 csground.org
 0.0.0.0 cs-hate.com
 0.0.0.0 cshzkkihjnweb.com
@@ -4019,7 +3954,6 @@
 0.0.0.0 cytochemistryrecitativewrasse.com
 0.0.0.0 cytoclause.com
 0.0.0.0 cytpfucbb.com
-0.0.0.0 cyufjpvzaf.com
 0.0.0.0 cyveillance.com
 0.0.0.0 czaxrbclfse.com
 0.0.0.0 czbtfksgtcuy.com
@@ -4078,7 +4012,6 @@
 0.0.0.0 d2bingo.com
 0.0.0.0 d2bingo.ru
 0.0.0.0 d2cpw6kwpff7n5.cloudfront.net
-0.0.0.0 d2crazy.com
 0.0.0.0 d2flaw.com
 0.0.0.0 d2flex.com
 0.0.0.0 d2hit.com
@@ -4181,7 +4114,6 @@
 0.0.0.0 daq0d0aotgq0f.cloudfront.net
 0.0.0.0 dark-area.net
 0.0.0.0 darkavenger.hackfree.us
-0.0.0.0 darknesscsgo.com
 0.0.0.0 darkwebpage.eu
 0.0.0.0 dashboard.io
 0.0.0.0 data2.gosquared.com
@@ -4279,7 +4211,6 @@
 0.0.0.0 dejavu.mercadolivre.com.br
 0.0.0.0 dejavu.mlapps.com
 0.0.0.0 delegatediscussion.com
-0.0.0.0 delicatecase.com
 0.0.0.0 delidatax.net
 0.0.0.0 delightdriving.com
 0.0.0.0 deliv.lexpress.fr
@@ -4453,6 +4384,7 @@
 0.0.0.0 dkvzpqcqan.com
 0.0.0.0 dkxeorhjmua.com
 0.0.0.0 dl1d2m8ri9v3j.cloudfront.net
+0.0.0.0 dl6pkf7e.ru
 0.0.0.0 dlahijuwjsv.com
 0.0.0.0 dldzfr.com
 0.0.0.0 dlemeyrkjy.com
@@ -4527,7 +4459,6 @@
 0.0.0.0 dogrose18.com
 0.0.0.0 dojmlztmbrvp.com
 0.0.0.0 doksfyhdtqmipa.com
-0.0.0.0 dolcedrop.com
 0.0.0.0 dollarade.com
 0.0.0.0 dollarsponsor.com
 0.0.0.0 dollarupload.com
@@ -4545,9 +4476,7 @@
 0.0.0.0 dont-tread-on.me
 0.0.0.0 doomna.com
 0.0.0.0 dooshare.net
-0.0.0.0 doppler-coins.com
 0.0.0.0 doppler-giveaways.com
-0.0.0.0 doppler-roulette.com
 0.0.0.0 dopplerxcash.com
 0.0.0.0 dosanrnlq.com
 0.0.0.0 dota2beting.com
@@ -4567,7 +4496,6 @@
 0.0.0.0 dota2-land.com
 0.0.0.0 dota2-land.info
 0.0.0.0 dota2-legends.site
-0.0.0.0 dota2lut.com
 0.0.0.0 dota2-mid.com
 0.0.0.0 dota2mid.site
 0.0.0.0 dota2.money
@@ -4577,7 +4505,6 @@
 0.0.0.0 dota2sat.com
 0.0.0.0 dota2trade.pro
 0.0.0.0 dota2xbet.com
-0.0.0.0 dota4bet.com
 0.0.0.0 dota-crit.com
 0.0.0.0 dotadrops.com
 0.0.0.0 dota-fun.com
@@ -4587,7 +4514,6 @@
 0.0.0.0 dotaserveerr.fun
 0.0.0.0 dotaskins2you.com
 0.0.0.0 dota-skins.com
-0.0.0.0 dota-spin.com
 0.0.0.0 dotmailer-surveys.com
 0.0.0.0 dotmetrics.net
 0.0.0.0 dotnetkicks.com
@@ -4606,7 +4532,6 @@
 0.0.0.0 downfilejd.com
 0.0.0.0 downloadamigo.com
 0.0.0.0 downloadappmarket.com
-0.0.0.0 download-bb.com
 0.0.0.0 downloadboutique.com
 0.0.0.0 downloadcheatshacktools.com
 0.0.0.0 download.cm
@@ -4632,7 +4557,6 @@
 0.0.0.0 download-minecraft.ru
 0.0.0.0 downloadne.com
 0.0.0.0 downloadnt.com
-0.0.0.0 downloadpokemonxy.com
 0.0.0.0 download-provider.org
 0.0.0.0 downloadps3jailbreak.com
 0.0.0.0 downloadsafe.org
@@ -4676,7 +4600,6 @@
 0.0.0.0 dragonballzstream.com
 0.0.0.0 dragonborn.dlcodes.com
 0.0.0.0 dragoncitycheatengine.com
-0.0.0.0 dragoncitycheat.info
 0.0.0.0 dragoncitygems.com
 0.0.0.0 dragoncityhackcheats.com
 0.0.0.0 dragon-city-hack.com
@@ -4865,7 +4788,6 @@
 0.0.0.0 easyhits4u.com
 0.0.0.0 easyinline.com
 0.0.0.0 easy.lv
-0.0.0.0 easypotz.com
 0.0.0.0 easyresearch.se
 0.0.0.0 easy-skins24.com
 0.0.0.0 easysol.net
@@ -4889,7 +4811,6 @@
 0.0.0.0 ebookrich.com
 0.0.0.0 ebookstorm.com
 0.0.0.0 ebtrk1.com
-0.0.0.0 ebuurwhnjdvtau.com
 0.0.0.0 ec2-34-202-192-87.compute-1.amazonaws.com
 0.0.0.0 eca1d7792ad5de43.com
 0.0.0.0 ec-concier.com
@@ -5005,7 +4926,6 @@
 0.0.0.0 elephantqueue.com
 0.0.0.0 elfnwncr.com
 0.0.0.0 elimpfdlss.com
-0.0.0.0 elitecases-cs.com
 0.0.0.0 elitecheats24.com
 0.0.0.0 elite-cheats.net
 0.0.0.0 elitedrop.ru
@@ -5019,7 +4939,6 @@
 0.0.0.0 elitemonetize.com
 0.0.0.0 elitemoneymethods.com
 0.0.0.0 elite-s001.com
-0.0.0.0 elitesfiles.com
 0.0.0.0 elitics.com
 0.0.0.0 elohell.org
 0.0.0.0 elonether.tech
@@ -5110,7 +5029,6 @@
 0.0.0.0 enynwkvdb.com
 0.0.0.0 eocnpszthsf.com
 0.0.0.0 eoecdsfvceebrv.com
-0.0.0.0 eoepqqkg.com
 0.0.0.0 eofaplocyrcxhq.com
 0.0.0.0 eonsmedia.com
 0.0.0.0 eoruxpqn.com
@@ -5156,7 +5074,6 @@
 0.0.0.0 eqrbfjwnmxpy.com
 0.0.0.0 equestriadaily.com
 0.0.0.0 eraeoggritjeo.com
-0.0.0.0 erahvrtzbg.com
 0.0.0.0 erate.co.il
 0.0.0.0 erckgobvi.com
 0.0.0.0 e.reddit.com
@@ -5195,8 +5112,6 @@
 0.0.0.0 eshezwwft.com
 0.0.0.0 eshopcomp.com
 0.0.0.0 eslcase.com
-0.0.0.0 esl-case.org
-0.0.0.0 esl-cases.org
 0.0.0.0 eslcup.net
 0.0.0.0 eslgydoqbedo.com
 0.0.0.0 esm1.net
@@ -5448,7 +5363,6 @@
 0.0.0.0 eytqtjpjnmeas.com
 0.0.0.0 ezakus.net
 0.0.0.0 ezauth.info
-0.0.0.0 ezcase.net
 0.0.0.0 ezec.co.uk
 0.0.0.0 ezeedl.com
 0.0.0.0 e-zeeinternet.com
@@ -5473,11 +5387,11 @@
 0.0.0.0 ezzdrop.com
 0.0.0.0 f1tbit.com
 0.0.0.0 f3c1cc473b337ded.com
+0.0.0.0 f4ceb8490e0d.com
 0.0.0.0 f53mbcg4ak.ru
 0.0.0.0 f6be7033f30.com
 0.0.0.0 f92j5.com
 0.0.0.0 fab.interia.pl
-0.0.0.0 faboshine.com
 0.0.0.0 fabricww.com
 0.0.0.0 fabrkrup.com
 0.0.0.0 fabrtgzehf.com
@@ -5485,10 +5399,8 @@
 0.0.0.0 facebookaccounthack.com
 0.0.0.0 facebookgamecheat.org
 0.0.0.0 facebookgamehacks.com
-0.0.0.0 facebookgameshacks.com
 0.0.0.0 facebookicon.net
 0.0.0.0 facebookpiratage.com
-0.0.0.0 facebooksteal.com
 0.0.0.0 facebypass.com
 0.0.0.0 facedream.ws
 0.0.0.0 face-geek.com
@@ -5525,7 +5437,6 @@
 0.0.0.0 famous-mobile.com
 0.0.0.0 fanconverter.wetpaint.me
 0.0.0.0 fandom-case.com
-0.0.0.0 fandomcase.com
 0.0.0.0 fandommetrics.com
 0.0.0.0 fanplayr.com
 0.0.0.0 fantage.haxdo.com
@@ -5564,7 +5475,6 @@
 0.0.0.0 fathomseo.com
 0.0.0.0 favgame.net
 0.0.0.0 favorite-dropx.pro
-0.0.0.0 fazebet.com
 0.0.0.0 faztplay.com
 0.0.0.0 fbaccounthack.com
 0.0.0.0 fbaccountrecoverer.com
@@ -5573,7 +5483,6 @@
 0.0.0.0 fbcheaterz.com
 0.0.0.0 fbcheats.com
 0.0.0.0 fbcheatshack.com
-0.0.0.0 fbcommentpirateruncompte.com
 0.0.0.0 fbcreditsfree.com
 0.0.0.0 fbfd396918c60838.com
 0.0.0.0 fbforce.net
@@ -5600,7 +5509,6 @@
 0.0.0.0 fbpasswordhacker.com
 0.0.0.0 fbpasswordhacker.in
 0.0.0.0 fbpetrwt.com
-0.0.0.0 fbprofileviewer.com
 0.0.0.0 fb_servpub-a.akamaihd.net
 0.0.0.0 fbsniffing.com
 0.0.0.0 fbstealer.com
@@ -5682,7 +5590,6 @@
 0.0.0.0 fgvjjulaegidb.com
 0.0.0.0 fgzxlngohtg.com
 0.0.0.0 fhluqrhmqs.com
-0.0.0.0 fhlzfxxnqc.com
 0.0.0.0 fhqornueunf.com
 0.0.0.0 fhsohqtif.com
 0.0.0.0 fhtlyoqzyjjof.com
@@ -5703,7 +5610,6 @@
 0.0.0.0 fileak.com
 0.0.0.0 fileam.com
 0.0.0.0 filebandit.net
-0.0.0.0 fileblast.org
 0.0.0.0 fileblckr.com
 0.0.0.0 filecenter.eu
 0.0.0.0 filecm.net
@@ -5780,7 +5686,6 @@
 0.0.0.0 filezzip.com
 0.0.0.0 filingmap.com
 0.0.0.0 filitrac.com
-0.0.0.0 fillmytank4free.com
 0.0.0.0 filmenstreaminggratuit.com
 0.0.0.0 filmenstreaminghdgratuit.com
 0.0.0.0 filmentier-vf.com
@@ -5839,7 +5744,6 @@
 0.0.0.0 fjxssyatdwttqm.com
 0.0.0.0 fjyapvqvgjmwy.com
 0.0.0.0 fkbwtoopwg.com
-0.0.0.0 fkdslgyunikais.com
 0.0.0.0 fkedup.com
 0.0.0.0 fkemshukccjvu.com
 0.0.0.0 fkfmujcudpwdn.com
@@ -5963,7 +5867,6 @@
 0.0.0.0 formulawire.com
 0.0.0.0 fornaxgames.com
 0.0.0.0 fornitepacks.tk
-0.0.0.0 forsedrop.com
 0.0.0.0 fortbegother.ru
 0.0.0.0 forter.com
 0.0.0.0 fortnitefreevbucks.pw
@@ -5982,7 +5885,6 @@
 0.0.0.0 fortpush.com
 0.0.0.0 fort-skins.com
 0.0.0.0 fortunefiles.org
-0.0.0.0 fortuscase.com
 0.0.0.0 fortvision.com
 0.0.0.0 fortyhd.net
 0.0.0.0 forumiklan.com
@@ -6105,7 +6007,6 @@
 0.0.0.0 freefacebookhacking.com
 0.0.0.0 freefacecredits.com
 0.0.0.0 free-fantage.com
-0.0.0.0 freefantagemembership.com
 0.0.0.0 freefifa17coins.net
 0.0.0.0 freefiledownload.net
 0.0.0.0 freegamecards.us
@@ -6117,7 +6018,6 @@
 0.0.0.0 freegames4pc.com
 0.0.0.0 freegamesaddons.com
 0.0.0.0 freegameserver.net
-0.0.0.0 freegamesgiveaways.com
 0.0.0.0 freegameshacks.com
 0.0.0.0 freegamesoz.com
 0.0.0.0 free-gc.com
@@ -6169,7 +6069,6 @@
 0.0.0.0 free-itunes-codes.net
 0.0.0.0 freeitunesforever.com
 0.0.0.0 freeitunesgiftcards.net
-0.0.0.0 freeitunesstorecode.com
 0.0.0.0 freekarmakoins.com
 0.0.0.0 freekeys.win
 0.0.0.0 freelanceroot.com
@@ -6197,7 +6096,6 @@
 0.0.0.0 freemobacoins.com
 0.0.0.0 freemspcodes.com
 0.0.0.0 freemspointsforever.com
-0.0.0.0 freemyfile.com
 0.0.0.0 freenetflixaccount.info
 0.0.0.0 freenetflixaccount.org
 0.0.0.0 freenetflix.dlcodes.com
@@ -6219,7 +6117,6 @@
 0.0.0.0 freeprize4u.com
 0.0.0.0 freeps4system.com
 0.0.0.0 free-psncards.com
-0.0.0.0 freepsncardsgenerator.com
 0.0.0.0 free-psncodegenerator.com
 0.0.0.0 freepsncodes.cc
 0.0.0.0 freepsn-codes.com
@@ -6236,7 +6133,6 @@
 0.0.0.0 freeredeemcodes.net
 0.0.0.0 freeresources2019.tk
 0.0.0.0 freeriotpoint.com
-0.0.0.0 freeriotpointsnow.com
 0.0.0.0 freerobuxandtickets.in
 0.0.0.0 free-serv.com
 0.0.0.0 freesitemapgenerator.com
@@ -6405,6 +6301,7 @@
 0.0.0.0 funrevamp.com
 0.0.0.0 funshared.com
 0.0.0.0 funstage.com
+0.0.0.0 funysmile93.agency
 0.0.0.0 fupgvldb.com
 0.0.0.0 furplay.net
 0.0.0.0 furrydrop.com
@@ -6455,7 +6352,6 @@
 0.0.0.0 fxscape.com
 0.0.0.0 fxvbsnwnwoib.com
 0.0.0.0 fyblldnlr.com
-0.0.0.0 fybrwdikdsvzt.com
 0.0.0.0 fynprrom.com
 0.0.0.0 fyphnmoz.com
 0.0.0.0 fyreball.com
@@ -6572,7 +6468,6 @@
 0.0.0.0 gamersdon.com
 0.0.0.0 gamersgiveaways.com
 0.0.0.0 gamerspro.net
-0.0.0.0 gamersxparadise.com
 0.0.0.0 gamerxskin.com
 0.0.0.0 gamerz123.com
 0.0.0.0 gamerzcheats.com
@@ -7307,6 +7202,7 @@
 0.0.0.0 gxprocord.com
 0.0.0.0 gxptetvbtkfj.com
 0.0.0.0 gxqocoxl.com
+0.0.0.0 gxqotelkdra.com
 0.0.0.0 gxqrjjcsyh.com
 0.0.0.0 gxxkrzrvy.com
 0.0.0.0 gxzfpusmd.com
@@ -7492,7 +7388,6 @@
 0.0.0.0 hacktelecharger.net
 0.0.0.0 hackterritory.info
 0.0.0.0 hacktiger.com
-0.0.0.0 hacktogame.com
 0.0.0.0 hacktokenstopeleven.com
 0.0.0.0 hacktolive.org
 0.0.0.0 hacktool4.com
@@ -7666,7 +7561,6 @@
 0.0.0.0 high-skins.com
 0.0.0.0 highwaystech.co
 0.0.0.0 higishzxn.com
-0.0.0.0 higrbwtxkjuw.com
 0.0.0.0 hi.hellobar.com
 0.0.0.0 hiitwzyvkdyvxn.com
 0.0.0.0 hilariouszinc.com
@@ -7951,7 +7845,6 @@
 0.0.0.0 hxqdddqnuqcwe.com
 0.0.0.0 hxqetblh.com
 0.0.0.0 hxrsjlqnep.com
-0.0.0.0 hxsfrcdrrp.com
 0.0.0.0 hxtrack.com
 0.0.0.0 hxvuuswzydwykb.com
 0.0.0.0 hyc9uc89y379yc78byc873.xyz
@@ -8395,7 +8288,6 @@
 0.0.0.0 iosgameshacks.com
 0.0.0.0 iostweaking.com
 0.0.0.0 ioujbpldicfgm.com
-0.0.0.0 ioupfmge.com
 0.0.0.0 ioyixcprbghm.com
 0.0.0.0 iozpujvmlojzhp.com
 0.0.0.0 ip2location.com
@@ -8599,6 +8491,7 @@
 0.0.0.0 izelshnkrh.com
 0.0.0.0 izerbsjs.info
 0.0.0.0 izhmxwivr.com
+0.0.0.0 izjguvanm.com
 0.0.0.0 izmciznsszatv.com
 0.0.0.0 izooto.com
 0.0.0.0 iztxikfgw.com
@@ -8649,7 +8542,6 @@
 0.0.0.0 jebul.info
 0.0.0.0 jecbbkrnfn.com
 0.0.0.0 jednyqbb.com
-0.0.0.0 jeeng.com
 0.0.0.0 jeeumttalzwt.com
 0.0.0.0 jegugqcvo.com
 0.0.0.0 jeibpremiumdownloads.com
@@ -8663,7 +8555,6 @@
 0.0.0.0 jeuqrslzoxdcz.com
 0.0.0.0 jeuxcheats.com
 0.0.0.0 jeuxclub.com
-0.0.0.0 jeuxgratuitspc.net
 0.0.0.0 jeuxhack.net
 0.0.0.0 jeuxpirate.fr
 0.0.0.0 jeuxpsvitagratuit.com
@@ -8677,6 +8568,7 @@
 0.0.0.0 jfkfojgkrk.com
 0.0.0.0 jfnafbcysy.com
 0.0.0.0 jfvadxjr.com
+0.0.0.0 jfvjtudp.com
 0.0.0.0 jgerrmaktdzyh.com
 0.0.0.0 jgjpicgy.com
 0.0.0.0 jgqcraids.com
@@ -8805,11 +8697,8 @@
 0.0.0.0 jsecoin.com
 0.0.0.0 jshosting.bid
 0.0.0.0 jshosting.date
-0.0.0.0 jshosting.download
 0.0.0.0 jshosting.live
 0.0.0.0 jshosting.loan
-0.0.0.0 jshosting.party
-0.0.0.0 jshosting.racing
 0.0.0.0 jshosting.review
 0.0.0.0 jshosting.stream
 0.0.0.0 jshosting.trade
@@ -8839,6 +8728,7 @@
 0.0.0.0 juioy.gq
 0.0.0.0 jumplead.com
 0.0.0.0 jumplead.io
+0.0.0.0 jumpringpring31.agency
 0.0.0.0 jumpshot.com
 0.0.0.0 jumptime.com
 0.0.0.0 jump-time.net
@@ -9254,6 +9144,7 @@
 0.0.0.0 ldgananrrtx.com
 0.0.0.0 ldigvkkjquvyn.com
 0.0.0.0 ldvmpopwd.com
+0.0.0.0 ldxdpitoeox.com
 0.0.0.0 lead-123.com
 0.0.0.0 leadacity.net
 0.0.0.0 lead-analytics.biz
@@ -9485,6 +9376,7 @@
 0.0.0.0 llgvjtkg.com
 0.0.0.0 llhjbwcjnuii.com
 0.0.0.0 lliumrpvj.com
+0.0.0.0 lljoapkfnwn.com
 0.0.0.0 llluzqrvfyrbt.com
 0.0.0.0 llnxfuxszevf.com
 0.0.0.0 lloogg.com
@@ -9947,7 +9839,6 @@
 0.0.0.0 mcraftgifts.com
 0.0.0.0 mcs.delvenetworks.com
 0.0.0.0 mcsnhbdil.com
-0.0.0.0 mcvyeitc.com
 0.0.0.0 mc.webvisor.com
 0.0.0.0 mc.webvisor.org
 0.0.0.0 mc.webvisor.ru
@@ -10123,7 +10014,6 @@
 0.0.0.0 mgziozplbkzv.com
 0.0.0.0 mhacks.net
 0.0.0.0 mhfivsdhbpfgk.com
-0.0.0.0 mhglrnhcei.com
 0.0.0.0 mhhjdlsnji.com
 0.0.0.0 mhmgeilfkcgov.com
 0.0.0.0 mhuivzojiqe.com
@@ -10643,6 +10533,7 @@
 0.0.0.0 mywebstats.org
 0.0.0.0 myzsyljf.com
 0.0.0.0 mzhcaexrrl.com
+0.0.0.0 mzjotkigwu.com
 0.0.0.0 mzkhhjueazkn.com
 0.0.0.0 mznijqwjkqadk.com
 0.0.0.0 mzwaqcfbx.com
@@ -10756,7 +10647,6 @@
 0.0.0.0 net-ce49.stream
 0.0.0.0 netclickstats.com
 0.0.0.0 netcore.co.in
-0.0.0.0 netcoresmartech.com
 0.0.0.0 netcounter.de
 0.0.0.0 netdeal.com.br
 0.0.0.0 netdebit-counter.de
@@ -10766,7 +10656,6 @@
 0.0.0.0 netflixaccount.org
 0.0.0.0 netflix-accounts.com
 0.0.0.0 netflixaccountsforfree.com
-0.0.0.0 netflixgiftcard.net
 0.0.0.0 netflixhd.com
 0.0.0.0 netflixmoovie.com
 0.0.0.0 netgraviton.net
@@ -11389,7 +11278,6 @@
 0.0.0.0 optnmnstr.com
 0.0.0.0 optnmstr.com
 0.0.0.0 optorb.com
-0.0.0.0 oqgztgtmcxfcic.com
 0.0.0.0 oqvzugnitr.com
 0.0.0.0 oraink.com
 0.0.0.0 oranges88.com
@@ -11754,6 +11642,7 @@
 0.0.0.0 pings.vidpulse.com
 0.0.0.0 pinnacle.com
 0.0.0.0 pinpoll.com
+0.0.0.0 pinpupevent.com
 0.0.0.0 pipe-collect.ebu.io
 0.0.0.0 pipedream.wistia.com
 0.0.0.0 pipfire.com
@@ -11899,6 +11788,7 @@
 0.0.0.0 pleboxviting.pro
 0.0.0.0 plecki.com
 0.0.0.0 pleisty.com
+0.0.0.0 plerdy.com
 0.0.0.0 plex2.com
 0.0.0.0 plexop.com
 0.0.0.0 plexworks.de
@@ -12098,6 +11988,7 @@
 0.0.0.0 printfriendly.com
 0.0.0.0 printscr.ga
 0.0.0.0 printscrreens.info
+0.0.0.0 prism.app-us1.com
 0.0.0.0 prisonplanet.com
 0.0.0.0 privacy-center.org
 0.0.0.0 privacypolicy.trgr.be
@@ -12222,7 +12113,6 @@
 0.0.0.0 psncodesnow.com
 0.0.0.0 psncodesnow.net
 0.0.0.0 psnfreecards.info
-0.0.0.0 psnfreecodes.org
 0.0.0.0 psnfreepoints.com
 0.0.0.0 psnzone.com
 0.0.0.0 pspgamesfd.com
@@ -12327,7 +12217,6 @@
 0.0.0.0 pushcloud.org
 0.0.0.0 push.cnnindonesia.com
 0.0.0.0 push.connect.digital
-0.0.0.0 pushcrew.com
 0.0.0.0 pushdom.co
 0.0.0.0 pushedwebnews.com
 0.0.0.0 pushell.info
@@ -12389,6 +12278,7 @@
 0.0.0.0 pwkzakhq.com
 0.0.0.0 pwlqrkgkk.com
 0.0.0.0 pwrdon.com
+0.0.0.0 pwrjjvjtvmr.com
 0.0.0.0 pxbugrgwy.com
 0.0.0.0 pxc.otto.de
 0.0.0.0 pxcveedcuzy.com
@@ -12751,6 +12641,7 @@
 0.0.0.0 rating-widget.com
 0.0.0.0 rationalan.pro
 0.0.0.0 ravageskins.com
+0.0.0.0 raxlextehqhw.com
 0.0.0.0 razerbets.com
 0.0.0.0 razor1911download.com
 0.0.0.0 razor1991games.org
@@ -12886,6 +12777,8 @@
 0.0.0.0 reitingi.lv
 0.0.0.0 rejbqhagczm.com
 0.0.0.0 rejestr.org
+0.0.0.0 reklamko.pro
+0.0.0.0 reklamtrk.com
 0.0.0.0 rekovers.ru
 0.0.0.0 rek.www.wp.pl
 0.0.0.0 relandssymphoking.info
@@ -13008,7 +12901,6 @@
 0.0.0.0 rhmyiplqmuupmf.com
 0.0.0.0 rhqkduodhizrr.com
 0.0.0.0 rhqrfnkngrhrha.com
-0.0.0.0 rhvgtmgkahm.com
 0.0.0.0 rhypgggd.com
 0.0.0.0 rhzpcnueogbexb.com
 0.0.0.0 riastats.com
@@ -13064,7 +12956,6 @@
 0.0.0.0 rkgznnhikrfphq.com
 0.0.0.0 rktu.com
 0.0.0.0 rkueifizvmwbi.com
-0.0.0.0 rlaiomvkwz.com
 0.0.0.0 rlcdn.com
 0.0.0.0 rlgungosm.com
 0.0.0.0 rl.heise.de
@@ -13319,7 +13210,6 @@
 0.0.0.0 salesviewer.com
 0.0.0.0 salesviewer.org
 0.0.0.0 sal.isanook.com
-0.0.0.0 samaxguides.net
 0.0.0.0 sambaads.com
 0.0.0.0 samhacker.com
 0.0.0.0 sanalytics.ncaa.com
@@ -13421,6 +13311,7 @@
 0.0.0.0 sczcxmaizy.com
 0.0.0.0 sddan.com
 0.0.0.0 sdeadbqsjam.com
+0.0.0.0 sdgvzdksjbl.com
 0.0.0.0 sdk.push7.jp
 0.0.0.0 sdrive.skoda-auto.com
 0.0.0.0 sdtqotoe.com
@@ -14130,6 +14021,7 @@
 0.0.0.0 sp.app.com
 0.0.0.0 sparechange.io
 0.0.0.0 sp.argusleader.com
+0.0.0.0 sparklingnumber.com
 0.0.0.0 sparnove.com
 0.0.0.0 sp.azcentral.com
 0.0.0.0 sp.battlecreekenquirer.com
@@ -14836,7 +14728,6 @@
 0.0.0.0 straightschool.com
 0.0.0.0 strawpoll.ga
 0.0.0.0 strawpolll.ga
-0.0.0.0 stream7.info
 0.0.0.0 streambeam.io
 0.0.0.0 streamerapi.finance.yahoo.com
 0.0.0.0 streamfullmoviehd.com
@@ -15044,6 +14935,7 @@
 0.0.0.0 t2.huluim.com
 0.0.0.0 t2.t2b.click
 0.0.0.0 t4ft.de
+0.0.0.0 t6yyk48.com
 0.0.0.0 t740.pt12kjov.com
 0.0.0.0 t78.net
 0.0.0.0 t7.rbxcdn.com
@@ -15087,6 +14979,7 @@
 0.0.0.0 take-the-bonus.biz
 0.0.0.0 takethestairs.today
 0.0.0.0 t-ak.hulu.com
+0.0.0.0 takshop91.biz
 0.0.0.0 taljdzwer.com
 0.0.0.0 talksense.net
 0.0.0.0 tamedia.ch
@@ -15486,6 +15379,7 @@
 0.0.0.0 tlscdn.com
 0.0.0.0 tl.tradetracker.net
 0.0.0.0 tm1-001.com
+0.0.0.0 tmblaeivephb.com
 0.0.0.0 tmcvwyrqwyp.com
 0.0.0.0 tmdbgmhh.com
 0.0.0.0 t.menepe.com
@@ -15585,7 +15479,6 @@
 0.0.0.0 topgamehax.com
 0.0.0.0 top.gamesby.net
 0.0.0.0 tophackphone.com
-0.0.0.0 tophacks.net
 0.0.0.0 tophits4u.de
 0.0.0.0 top.hsdn.org
 0.0.0.0 topiz.ru
@@ -15951,7 +15844,6 @@
 0.0.0.0 tracking.ukwm.co.uk
 0.0.0.0 tracking.unrealengine.com
 0.0.0.0 tracking.ustream.tv
-0.0.0.0 tracking.vengovision.ru
 0.0.0.0 tracking.vid4u.org
 0.0.0.0 tracking.vitringez.com
 0.0.0.0 tracking.waterfrontmedia.com
@@ -16393,7 +16285,6 @@
 0.0.0.0 tz284.com
 0.0.0.0 tzarmedia.com
 0.0.0.0 tzbdudhsip.com
-0.0.0.0 tzcgpmqij.com
 0.0.0.0 tzelsvxtjvy.com
 0.0.0.0 tzfywuot.com
 0.0.0.0 tzjrmfipwurtc.com
@@ -16469,7 +16360,6 @@
 0.0.0.0 ugmfvqsu.ru
 0.0.0.0 ugobgzeiel.com
 0.0.0.0 ugoptxnm.com
-0.0.0.0 ugvdjzysvfivy.com
 0.0.0.0 ugwkyqdbmpwbbi.com
 0.0.0.0 ugzpvflxa.com
 0.0.0.0 uhboiygnytbql.com
@@ -16480,7 +16370,6 @@
 0.0.0.0 uhvbjjse.com
 0.0.0.0 uhygtf1.com
 0.0.0.0 uhyyacioq.com
-0.0.0.0 uicybyysyllad.com
 0.0.0.0 uigruwtql.com
 0.0.0.0 uihzulkvmdgv.com
 0.0.0.0 uimrmuoztkoia.com
@@ -16899,7 +16788,6 @@
 0.0.0.0 vice-ads.s3.amazonaws.com
 0.0.0.0 vickgdkdrwpdt.com
 0.0.0.0 vicomi.com
-0.0.0.0 vidanko1.blogspot.com
 0.0.0.0 vidapi.expepp.de
 0.0.0.0 vidcpm.com
 0.0.0.0 video-ad-stats.googlesyndication.com
@@ -17158,6 +17046,7 @@
 0.0.0.0 vykcbbytkklxp.com
 0.0.0.0 vyycgqgcpes.com
 0.0.0.0 vzhlsmmboaqxlv.com
+0.0.0.0 vzkyivowceqcsd.com
 0.0.0.0 vzlyapss.com
 0.0.0.0 vzozsebg.com
 0.0.0.0 vzvbhxydn.com
@@ -17541,7 +17430,6 @@
 0.0.0.0 win7phone.net
 0.0.0.0 winaskin.com
 0.0.0.0 win-ayuda-1628.s3.amazonaws.com
-0.0.0.0 winazilmov.blogspot.com
 0.0.0.0 wincase.pro
 0.0.0.0 wincheats.com
 0.0.0.0 winchroll.com
@@ -17654,7 +17542,6 @@
 0.0.0.0 worldofcases.top
 0.0.0.0 worldofgenerators.com
 0.0.0.0 worldoftanksbonus.com
-0.0.0.0 worldoftankspromocode.info
 0.0.0.0 worldpush.co
 0.0.0.0 worldsbestcasestudies.com
 0.0.0.0 worldsoftwaredownloads.com
@@ -17837,7 +17724,6 @@
 0.0.0.0 xbox360downloads.com
 0.0.0.0 xbox360emulator.net
 0.0.0.0 xboxboss.com
-0.0.0.0 xboxcodegenerator.com
 0.0.0.0 xboxcodes.fr
 0.0.0.0 xboxcodesnow.com
 0.0.0.0 xboxjailbreak.com
@@ -18495,6 +18381,7 @@
 0.0.0.0 zesep.com
 0.0.0.0 zeusclicks.com
 0.0.0.0 zevszinklxyf.com
+0.0.0.0 zewkj.com
 0.0.0.0 zfacts.com
 0.0.0.0 zfbnzfyciqzreh.com
 0.0.0.0 zfcjtxosje.com

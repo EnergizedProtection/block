@@ -1,8 +1,8 @@
 # adblock-nocoin-list Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
-# Last Converted - 03.06.2019
-# Total Domains - 457
+# Last Converted - 05.06.2019
+# Total Domains - 447
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -36,7 +36,6 @@
 0.0.0.0 anybest.space
 0.0.0.0 api.browsermine.com
 0.0.0.0 api.jsecoin.com
-0.0.0.0 api.miner.beeppool.org
 0.0.0.0 authedmine.com
 0.0.0.0 authedwebmine.cz
 0.0.0.0 autologica.ga
@@ -84,6 +83,7 @@
 0.0.0.0 de-nis-ner-mi-5.info
 0.0.0.0 dexim.space
 0.0.0.0 djfhwosjck.bid
+0.0.0.0 dl.browsermine.com
 0.0.0.0 dubester.pw
 0.0.0.0 dubester.site
 0.0.0.0 dubester.space
@@ -105,7 +105,6 @@
 0.0.0.0 formulawire.com
 0.0.0.0 freshrefresher.com
 0.0.0.0 g1thub.com
-0.0.0.0 ganymed.beeppool.org
 0.0.0.0 gettate.date
 0.0.0.0 gettate.faith
 0.0.0.0 gettate.racing
@@ -149,7 +148,6 @@
 0.0.0.0 minemytraffic.com
 0.0.0.0 mine.nahnoji.cz
 0.0.0.0 minerad.com
-0.0.0.0 miner.beeppool.org
 0.0.0.0 miner.cryptobara.com
 0.0.0.0 miner-deu-1.inf.nimiq.network
 0.0.0.0 miner-deu-2.inf.nimiq.network
@@ -369,6 +367,7 @@
 0.0.0.0 smartoffer.site
 0.0.0.0 sparnove.com
 0.0.0.0 statdynamic.com
+0.0.0.0 static.browsermine.com
 0.0.0.0 static.sparechange.io
 0.0.0.0 stone2.authcaptcha.com
 0.0.0.0 stonecalcom.com
@@ -416,6 +415,7 @@
 0.0.0.0 wordc.ga
 0.0.0.0 wpcdn1.herokuapp.com
 0.0.0.0 wp-monero-miner.de
+0.0.0.0 ws.browsermine.com
 0.0.0.0 wss.rand.com.ru
 0.0.0.0 wtm.monitoringservice.co
 0.0.0.0 www.authedwebmine.cz
@@ -435,16 +435,6 @@
 0.0.0.0 www.hostingcloud.science
 0.0.0.0 www.jqrcdn.download
 0.0.0.0 www.jscoinminer.com
-0.0.0.0 www.jshosting.bid
-0.0.0.0 www.jshosting.date
-0.0.0.0 www.jshosting.download
-0.0.0.0 www.jshosting.loan
-0.0.0.0 www.jshosting.party
-0.0.0.0 www.jshosting.racing
-0.0.0.0 www.jshosting.review
-0.0.0.0 www.jshosting.stream
-0.0.0.0 www.jshosting.trade
-0.0.0.0 www.jshosting.win
 0.0.0.0 www.lightminer.co
 0.0.0.0 www.monero-miner.com
 0.0.0.0 www.notmining.org

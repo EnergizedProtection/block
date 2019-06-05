@@ -1,8 +1,8 @@
 # mailborder-phishing-bad-sites Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/mirror/mailborder.txt
-# Last Converted - 03.06.2019
-# Total Domains - 14295
+# Last Converted - 05.06.2019
+# Total Domains - 14289
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -2087,7 +2087,6 @@
 0.0.0.0 change2nextlevel.com
 0.0.0.0 changeagentcoaching.com
 0.0.0.0 change_outlookpassword.editor.multiscreensite.com
-0.0.0.0 changko.id
 0.0.0.0 chap321.rf.gd
 0.0.0.0 chapaccd.com
 0.0.0.0 charliehalpin.com
@@ -2960,7 +2959,6 @@
 0.0.0.0 doskainfo.com
 0.0.0.0 dostawcy.emoda.nnn.vc
 0.0.0.0 dota2liga.com
-0.0.0.0 dota2prodaja.com
 0.0.0.0 dotcomcompany.in
 0.0.0.0 dothink-tp.livelai.com
 0.0.0.0 dotzvalepresente.com.br
@@ -4164,7 +4162,6 @@
 0.0.0.0 getethfree.com
 0.0.0.0 getethnow.com
 0.0.0.0 getethpro.com
-0.0.0.0 geteths.live
 0.0.0.0 getethtoday.com
 0.0.0.0 get-files.review
 0.0.0.0 getfortniteapk.com
@@ -4472,7 +4469,6 @@
 0.0.0.0 h62-213-20-50.ip.syzran.ru
 0.0.0.0 haapamaenluomu.fi
 0.0.0.0 habbnews.fr
-0.0.0.0 habsinnovative.com
 0.0.0.0 haccssnwcnnttose.ga
 0.0.0.0 haciendadetorres.com.mx
 0.0.0.0 hackear-fb.net
@@ -13743,7 +13739,6 @@
 0.0.0.0 www.tpreiahouston.org
 0.0.0.0 www.tpreiasouthtexas.org
 0.0.0.0 www.tpz-service.ru
-0.0.0.0 www.tqglobalservices.com
 0.0.0.0 www.trackerbd.com
 0.0.0.0 www.tradespersonnel.biz
 0.0.0.0 www.traditionbuilding.com
@@ -14136,7 +14131,6 @@
 0.0.0.0 yamangensan.net
 0.0.0.0 yankele.com
 0.0.0.0 yantratech.co.in
-0.0.0.0 yanwang1102.wixsite.com
 0.0.0.0 yardforce-tools.com.au
 0.0.0.0 yashasvi.co.in
 0.0.0.0 yasirmughal.tk

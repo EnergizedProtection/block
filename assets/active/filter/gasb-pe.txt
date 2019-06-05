@@ -1,8 +1,8 @@
 # gasb-pe Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://energized.pro/mirror/gasb-pe.txt
-# Last Converted - 03.06.2019
-# Total Domains - 38378
+# Last Converted - 05.06.2019
+# Total Domains - 38360
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -898,7 +898,6 @@
 0.0.0.0 accounts.pkr.com
 0.0.0.0 accucast.com
 0.0.0.0 acculoader.com
-0.0.0.0 acdn.adnxs.com
 0.0.0.0 acecounter.com
 0.0.0.0 acegates.com
 0.0.0.0 acegroup.net
@@ -1487,7 +1486,6 @@
 0.0.0.0 adprofile.net
 0.0.0.0 ad.profiwin.de
 0.0.0.0 adprofs.com
-0.0.0.0 adprojekt.pl
 0.0.0.0 ad.propellerads.com
 0.0.0.0 ad-protect.com
 0.0.0.0 adprotect.com
@@ -2851,7 +2849,6 @@
 0.0.0.0 ads.opera.com
 0.0.0.0 ads.optusnet.com.au
 0.0.0.0 ads.org
-0.0.0.0 ads.originclub.com
 0.0.0.0 ads.originpublishing.co.uk
 0.0.0.0 ads.osdn.jp
 0.0.0.0 ads.otomoto.pl
@@ -3553,7 +3550,6 @@
 0.0.0.0 adultfriendfindersite.com
 0.0.0.0 adultfriendfinders.net
 0.0.0.0 adultfriendfinders.org
-0.0.0.0 adultfriendfinders.us
 0.0.0.0 adultfriendfinderz.com
 0.0.0.0 adultfriendsearch.com
 0.0.0.0 adult-friends-finder.net
@@ -5477,7 +5473,6 @@
 0.0.0.0 banner-net.hypermart.net
 0.0.0.0 banner.netstream.hu
 0.0.0.0 bannernetwork.bearchives.com
-0.0.0.0 bannernetwork.cearchives.com
 0.0.0.0 bannernetwork.gamearchives.com
 0.0.0.0 banner-network.hypermart.net
 0.0.0.0 bannernetwork.javaarchives.com
@@ -7378,21 +7373,25 @@
 0.0.0.0 cdfmedia.com
 0.0.0.0 cdideas.predixis.com
 0.0.0.0 cdn15.acloudimages.com
+0.0.0.0 cdn1.adbrau.com
 0.0.0.0 cdn1.adexprt.com
 0.0.0.0 cdn1.ads.brazzers.com
 0.0.0.0 cdn1.clkoffers.com
 0.0.0.0 cdn1.gigya.com
 0.0.0.0 cdn1.kovla.com
 0.0.0.0 cdn1.tribalfusion.com
+0.0.0.0 cdn2.adbrau.com
 0.0.0.0 cdn2.adexprt.com
 0.0.0.0 cdn2.gigya.com
 0.0.0.0 cdn2.inwemo.com
 0.0.0.0 cdn2.teads.tv
+0.0.0.0 cdn3.adbrau.com
 0.0.0.0 cdn3.adexprt.com
 0.0.0.0 cdn3.gigya.com
 0.0.0.0 cdn3.kovla.com
 0.0.0.0 cdn5.tribalfusion.com
 0.0.0.0 cdn.ad4game.com
+0.0.0.0 cdn.adbrau.com
 0.0.0.0 cdn.adexprt.com
 0.0.0.0 cdn.adgear.com
 0.0.0.0 cdn.adhigh.net
@@ -8378,7 +8377,6 @@
 0.0.0.0 connextra.com
 0.0.0.0 conpoder.myradiotoolbar.com
 0.0.0.0 conqueror.bcentralhost.com
-0.0.0.0 consciouscabbage.com
 0.0.0.0 consciouschairs.com
 0.0.0.0 consent-st.truste.com
 0.0.0.0 consoleads.com
@@ -10257,7 +10255,6 @@
 0.0.0.0 download.alexa.com
 0.0.0.0 downloadalot.com
 0.0.0.0 download.bargain-buddy.net
-0.0.0.0 download.betterinstaller.com
 0.0.0.0 download.bgroom.com
 0.0.0.0 download-boosters.com
 0.0.0.0 download.browseraccelerator.com
@@ -11058,7 +11055,6 @@
 0.0.0.0 erovideos.ru
 0.0.0.0 erowelt.de
 0.0.0.0 errantshed.co.uk
-0.0.0.0 error.99fh.com
 0.0.0.0 errorclean.com
 0.0.0.0 errorfixer.com
 0.0.0.0 errorkiller.com
@@ -12706,7 +12702,6 @@
 0.0.0.0 garrettleeforums.ourtoolbar.com
 0.0.0.0 garudaairlines.com
 0.0.0.0 garyalbright.com
-0.0.0.0 garydineenhockey.com
 0.0.0.0 gastate.com
 0.0.0.0 gatecb.com
 0.0.0.0 gatecs.com
@@ -13360,7 +13355,6 @@
 0.0.0.0 g.thinktarget.com
 0.0.0.0 gtop100.com
 0.0.0.0 gtp20.goldtong.com
-0.0.0.0 gtp.advertserve.com
 0.0.0.0 gtp.dejanews.com
 0.0.0.0 gtsads.com
 0.0.0.0 gt-search.com
@@ -14437,7 +14431,6 @@
 0.0.0.0 imagenes.de
 0.0.0.0 image.providesupport.com
 0.0.0.0 images02.netaddress.usa.net
-0.0.0.0 images.0catch.com
 0.0.0.0 images.15x.net
 0.0.0.0 images.163.com
 0.0.0.0 images2.robofind.com
@@ -16502,7 +16495,6 @@
 0.0.0.0 lunaplayer.com
 0.0.0.0 lunarimpact.com
 0.0.0.0 lunchable.com
-0.0.0.0 luoxkexp.com
 0.0.0.0 lupus.com
 0.0.0.0 lurialibrary.mylibrarytoolbar.com
 0.0.0.0 lust4her.com
@@ -17543,7 +17535,6 @@
 0.0.0.0 mmismm.com
 0.0.0.0 mm.maxthon.com
 0.0.0.0 mmmff.com
-0.0.0.0 mmmike.com
 0.0.0.0 mmpool.org
 0.0.0.0 mmsa.18dx.com
 0.0.0.0 mms.cnn.com
@@ -27366,7 +27357,6 @@
 0.0.0.0 www.0stats.com
 0.0.0.0 www.0xs.com
 0.0.0.0 www.1000downloads.com
-0.0.0.0 www.1000putas.com
 0.0.0.0 www.100bigcoupons.com
 0.0.0.0 www.100free.com
 0.0.0.0 www.100freeteenseries.com
@@ -27675,7 +27665,6 @@
 0.0.0.0 www4.shiftlock.com
 0.0.0.0 www4.sys-con.com
 0.0.0.0 www4.trix.net
-0.0.0.0 www.4-wheelers.com
 0.0.0.0 www.4whw.com
 0.0.0.0 www.4wmarketplace.com
 0.0.0.0 www4.yesadvertising.com
@@ -29830,7 +29819,6 @@
 0.0.0.0 www.coolgx.com
 0.0.0.0 www.coolhardcoresite.com
 0.0.0.0 www.coollocator.com
-0.0.0.0 www.coolmoneysearch.com
 0.0.0.0 www.cool-movie-trivia.com
 0.0.0.0 www.coolnfunny.com
 0.0.0.0 www.cooloralsite.com
@@ -30429,7 +30417,6 @@
 0.0.0.0 www.eaglehousing.com
 0.0.0.0 www.ealliance.com
 0.0.0.0 www.eanthology.net
-0.0.0.0 www.earngames.com
 0.0.0.0 www.earn.itgo.com
 0.0.0.0 www.earnmoney.ws
 0.0.0.0 www.earthlimk.net
@@ -31531,7 +31518,6 @@
 0.0.0.0 www.globaldatabase.info
 0.0.0.0 www.globaldipgaming.com
 0.0.0.0 www.globalefinder.com
-0.0.0.0 www.globalfreecalling.com
 0.0.0.0 www.global.gr
 0.0.0.0 www.globalhighway.com
 0.0.0.0 www.globalhosting.com
@@ -32899,7 +32885,6 @@
 0.0.0.0 www.lo-litas.com
 0.0.0.0 www.lollipopteens.net
 0.0.0.0 www.lolphoto.otelix.biz
-0.0.0.0 www.loltrk.com
 0.0.0.0 www.lomark.com
 0.0.0.0 www.longhornsingles.com
 0.0.0.0 www.longmovies.com
@@ -33981,7 +33966,6 @@
 0.0.0.0 www.ocxxx.com
 0.0.0.0 www.odmp.com
 0.0.0.0 www.odysseusmarketing.com
-0.0.0.0 www.oeconomista.com
 0.0.0.0 www.offercheck.com
 0.0.0.0 www.offercompanion.com
 0.0.0.0 www.offers.dianomi.com
@@ -35162,7 +35146,6 @@
 0.0.0.0 www.sdtweb.com
 0.0.0.0 www.se34.com
 0.0.0.0 www.seachalot.com
-0.0.0.0 www.seaech.com
 0.0.0.0 www.sealogistics.com
 0.0.0.0 www.search163.com
 0.0.0.0 www.search404.com
@@ -37061,7 +37044,6 @@
 0.0.0.0 www.vnu.eu-adcenter.net
 0.0.0.0 www.vnunetblogs.com
 0.0.0.0 www.voblya.com
-0.0.0.0 www.vodkababes.com
 0.0.0.0 www.vodkaescort.com
 0.0.0.0 www.voicefive.com
 0.0.0.0 www.voicefive.net

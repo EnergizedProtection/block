@@ -1,8 +1,8 @@
 # openphish Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://v.firebog.net/hosts/Openphish.txt
-# Last Converted - 03.06.2019
-# Total Domains - 1391
+# Last Converted - 05.06.2019
+# Total Domains - 1389
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -46,7 +46,6 @@
 0.0.0.0 amazon-co-jp-account-update1.com
 0.0.0.0 amazones.mybigcommerce.com
 0.0.0.0 amazon.esp.bravaidea.com
-0.0.0.0 ameriicomtg.com
 0.0.0.0 amexqwbox.7m.pl
 0.0.0.0 amwebprojects.com
 0.0.0.0 anandcreations.in
@@ -178,7 +177,6 @@
 0.0.0.0 complimentall.tk
 0.0.0.0 comsupport247.com
 0.0.0.0 conative-clip.000webhostapp.com
-0.0.0.0 conect01cq.com
 0.0.0.0 conferences.sigcomm.org
 0.0.0.0 conferenciel.com
 0.0.0.0 congnghesgs.com

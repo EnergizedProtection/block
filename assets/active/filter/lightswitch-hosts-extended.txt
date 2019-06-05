@@ -1,8 +1,8 @@
 # lightswitch-hosts-extended Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
-# Last Converted - 03.06.2019
-# Total Domains - 38948
+# Last Converted - 05.06.2019
+# Total Domains - 38992
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1768,6 +1768,7 @@
 0.0.0.0 4953649.fls.doubleclick.net
 0.0.0.0 4953832.fls.doubleclick.net
 0.0.0.0 495420956.keywordblocks.com
+0.0.0.0 4954221.fls.doubleclick.net
 0.0.0.0 495d74868f22.cdn4.forter.com
 0.0.0.0 496725759.keywordblocks.com
 0.0.0.0 4967807.fls.doubleclick.net
@@ -6675,7 +6676,6 @@
 0.0.0.0 accura.containers.piwik.pro
 0.0.0.0 accuradio.deliveryengine.adswizz.com
 0.0.0.0 accuweather-d.openx.net
-0.0.0.0 acdn.adnxs.com
 0.0.0.0 a.cdn.intentmedia.net
 0.0.0.0 acd.theappgrader.com
 0.0.0.0 ace.curalate.com
@@ -7282,6 +7282,7 @@
 0.0.0.0 ads-staging.clrstm.com
 0.0.0.0 ads-stats-limiter-shadow.snapads.com
 0.0.0.0 ads.stg.yieldmo.com
+0.0.0.0 adssyscom.com
 0.0.0.0 ads.taboola.com
 0.0.0.0 adstats-shadow.snapads.com
 0.0.0.0 adstats.snapads.com
@@ -7351,6 +7352,7 @@
 0.0.0.0 adverline.nuggad.net
 0.0.0.0 adverline-s.nuggad.net
 0.0.0.0 adversal.mgr.consensu.org
+0.0.0.0 advertisercommunity.com
 0.0.0.0 advertiser.fyber.com
 0.0.0.0 advertisers.adasiaholdings.com
 0.0.0.0 advertisers.admedia.com
@@ -8722,6 +8724,7 @@
 0.0.0.0 app2.returnpath.net
 0.0.0.0 app2.shopkick.com
 0.0.0.0 app2.videostat.com
+0.0.0.0 app3.keywee.co
 0.0.0.0 app-ab01.marketo.com
 0.0.0.0 app-ab02.marketo.com
 0.0.0.0 app-ab03.marketo.com
@@ -8847,6 +8850,7 @@
 0.0.0.0 appirio.mktoweb.com
 0.0.0.0 app.jivox.com
 0.0.0.0 app-j.marketo.com
+0.0.0.0 app.keywee.co
 0.0.0.0 apple-finance.query.yahoo.comas.jivox.com
 0.0.0.0 appleitunes.demdex.net
 0.0.0.0 applejobstest.112.2o7.net
@@ -11516,6 +11520,7 @@
 0.0.0.0 cdn.iubenda.com
 0.0.0.0 cdn.jivox.com
 0.0.0.0 cdn.kampyle.com
+0.0.0.0 cdn.keywee.co
 0.0.0.0 cdn.krxd.net
 0.0.0.0 cdn-lb.vungle.akadns.net
 0.0.0.0 cdn-lb.vungle.com
@@ -13720,6 +13725,7 @@
 0.0.0.0 de.adcolony.com
 0.0.0.0 deadpool.ops.ir1.inmobi.com
 0.0.0.0 de.adserver.yahoo.com
+0.0.0.0 de.advertisercommunity.com
 0.0.0.0 de.advertising.com
 0.0.0.0 deadxrtb.lfstmedia.com
 0.0.0.0 deakin.sc.omtrdc.net
@@ -15115,6 +15121,7 @@
 0.0.0.0 email.jivox.com
 0.0.0.0 email.kampyle.com
 0.0.0.0 email.keen.io
+0.0.0.0 email.keywee.co
 0.0.0.0 email.kochava.com
 0.0.0.0 email.mail.engagio.com
 0.0.0.0 email.mail.rollbar.com
@@ -15249,6 +15256,7 @@
 0.0.0.0 em.shopkick.com
 0.0.0.0 em.urbanairship.com
 0.0.0.0 en25.com
+0.0.0.0 en.advertisercommunity.com
 0.0.0.0 enbridgeex.co1.qualtrics.com
 0.0.0.0 encbz-1nipt.ads.tremorhub.com
 0.0.0.0 encbz-eugua.ads.tremorhub.com
@@ -15536,6 +15544,7 @@
 0.0.0.0 e.s7.exct.net
 0.0.0.0 e.s8.exct.net
 0.0.0.0 es.adserver.yahoo.com
+0.0.0.0 es.advertisercommunity.com
 0.0.0.0 es.blue7777.simplybest.hop.clickbank.net
 0.0.0.0 es.bucksense.com
 0.0.0.0 escapicon.net
@@ -16910,6 +16919,7 @@
 0.0.0.0 fraad.adtech.de
 0.0.0.0 fra-col.eum-appdynamics.com
 0.0.0.0 fr.adserver.yahoo.com
+0.0.0.0 fr.advertisercommunity.com
 0.0.0.0 fraenkel.kargo.com
 0.0.0.0 fragrantica-d.openx.net
 0.0.0.0 fra-ib.adnxs.com
@@ -17353,6 +17363,7 @@
 0.0.0.0 gigamon.tt.omtrdc.net
 0.0.0.0 gig-v4.pops.fastly-insights.com
 0.0.0.0 gilbert.logs.roku.com
+0.0.0.0 gilda.keywee.co
 0.0.0.0 gillette-on-demand.extole.io
 0.0.0.0 giorgioarmanigroup-mkt-prod1-lb.campaign.adobe.com
 0.0.0.0 giorgiotavazza.clickfunnels.com
@@ -18737,6 +18748,7 @@
 0.0.0.0 ida.ad.gt
 0.0.0.0 id.adnxs.com
 0.0.0.0 id.adserver.yahoo.com
+0.0.0.0 id.advertisercommunity.com
 0.0.0.0 id.adx1.com
 0.0.0.0 idas.ad.gt
 0.0.0.0 idc.ad.gt
@@ -19711,6 +19723,7 @@
 0.0.0.0 is.vsassets.com
 0.0.0.0 iswww.ispot.tv
 0.0.0.0 it.adserver.yahoo.com
+0.0.0.0 it.advertisercommunity.com
 0.0.0.0 italiagal48.clickfunnels.com
 0.0.0.0 italiaonline-d.openx.net
 0.0.0.0 italia.piwik.pro
@@ -19802,6 +19815,7 @@
 0.0.0.0 j61yy-ruw3f.ads.tremorhub.com
 0.0.0.0 j.6sc.co
 0.0.0.0 j71pnmws-android.mobile-sdk-api.intercom.io
+0.0.0.0 ja.advertisercommunity.com
 0.0.0.0 jabo.iad.appboy.com
 0.0.0.0 jaccs.122.2o7.net
 0.0.0.0 jacepayment.airasia.inscname.net
@@ -20298,6 +20312,7 @@
 0.0.0.0 keynotesystemsinc.mktoweb.com
 0.0.0.0 keyrusbelgiumnvpartnersandbox.d3.sc.omtrdc.net
 0.0.0.0 keys.gmial.com
+0.0.0.0 keywee.co
 0.0.0.0 keywordblocks.com
 0.0.0.0 kfforsikring.containers.piwik.pro
 0.0.0.0 kfforsikring.piwik.pro
@@ -21168,6 +21183,7 @@
 0.0.0.0 logger.adthrive.com
 0.0.0.0 loggerhead.omnitagjs.com
 0.0.0.0 logger.kargo.com
+0.0.0.0 logger.keywee.co
 0.0.0.0 logger.krxd.net
 0.0.0.0 logger-prod-us-east-1-vpc-alb-1251201355.us-east-1.elb.amazonaws.com
 0.0.0.0 logger.snackly.co
@@ -24956,6 +24972,7 @@
 0.0.0.0 p20uslbsdkapi.xtify.com
 0.0.0.0 p20uslbsdk.xtify.com
 0.0.0.0 p24-buy.itunes.apple.complay.itunes.apple.comrtb.vindicosuite.com
+0.0.0.0 p2.keywee.co
 0.0.0.0 p2.placed.com
 0.0.0.0 p34-keyvalueservice-current.edge.icloud.apple-dns.nett.skimresources.com
 0.0.0.0 p3.chartboost.com
@@ -25028,6 +25045,7 @@
 0.0.0.0 pages.gitlab.sele.co
 0.0.0.0 pages.instartlogic.com
 0.0.0.0 pages.kampyle.com
+0.0.0.0 pages.keywee.co
 0.0.0.0 pages.localytics.com
 0.0.0.0 pages.optimizely.com
 0.0.0.0 pages.paradym.com
@@ -25802,6 +25820,7 @@
 0.0.0.0 pixel.interactivesales.ru
 0.0.0.0 pixeljson.test.admedo.com
 0.0.0.0 pixeljs.test.admedo.com
+0.0.0.0 pixel.keywee.co
 0.0.0.0 pixel.kiitties.com
 0.0.0.0 pixel---la-ads.lfstmedia.com
 0.0.0.0 pixel-lb10.apc.adsymptotic.com
@@ -25913,6 +25932,7 @@
 0.0.0.0 places.aviasales.ru
 0.0.0.0 places.placed.com
 0.0.0.0 placeyourview.com
+0.0.0.0 pl.advertisercommunity.com
 0.0.0.0 pl.adx1.com
 0.0.0.0 pl.allinviews.com
 0.0.0.0 planday.getambassador.com
@@ -26012,6 +26032,7 @@
 0.0.0.0 pl.m.xhamser.com
 0.0.0.0 plokoon.mediabong.net
 0.0.0.0 pl.placeyourview.com
+0.0.0.0 pl-pubimgs.placester.net
 0.0.0.0 plrdemo.instartlogic.com
 0.0.0.0 pl.shoofle.tv
 0.0.0.0 pl.streamrail.net
@@ -26598,6 +26619,7 @@
 0.0.0.0 psyduck-limiter-prod.snapads.com
 0.0.0.0 psyduck-limiter-shadow.snapads.com
 0.0.0.0 psyduck-limiter-staging.snapads.com
+0.0.0.0 pt.advertisercommunity.com
 0.0.0.0 ptc.imrworldwide.com
 0.0.0.0 ptc.qualtrics.com
 0.0.0.0 pte.ispot.tv
@@ -27720,6 +27742,7 @@
 0.0.0.0 reportsharing.qa.campaign.adobe.com
 0.0.0.0 reports.inmobi.com
 0.0.0.0 reports.internal.outbrain.com
+0.0.0.0 reports.keywee.co
 0.0.0.0 reports.leadnationmedia.com
 0.0.0.0 reports-ono.web.analytics.yahoo.com
 0.0.0.0 reports.outbrain.com
@@ -28290,6 +28313,7 @@
 0.0.0.0 rtze.adj.st
 0.0.0.0 rtzte.adj.st
 0.0.0.0 ru.adserver.yahoo.com
+0.0.0.0 ru.advertisercommunity.com
 0.0.0.0 ru.advidi.com
 0.0.0.0 ruba.iad-03.braze.com
 0.0.0.0 rubicon-dc1.yieldoptimizer.com
@@ -32601,6 +32625,7 @@
 0.0.0.0 t.gscontxt.net
 0.0.0.0 tg.thirdpresence.com
 0.0.0.0 th.adserver.yahoo.com
+0.0.0.0 th.advertisercommunity.com
 0.0.0.0 thaiairways.au1.qualtrics.com
 0.0.0.0 thales.adsrvr.org
 0.0.0.0 thankyou.clinch.co
@@ -33212,6 +33237,7 @@
 0.0.0.0 tracking.imprev.com
 0.0.0.0 tracking.inlocomedia.com
 0.0.0.0 tracking.instantcheckmate.com
+0.0.0.0 tracking.keywee.co
 0.0.0.0 tracking.omnitagjs.com
 0.0.0.0 tracking.photoyee.com
 0.0.0.0 tracking.placelocal.com
@@ -34919,6 +34945,7 @@
 0.0.0.0 vi1he-y5p69.ads.tremorhub.com
 0.0.0.0 viacom-d.openx.net
 0.0.0.0 viadeplayer.112.2o7.net
+0.0.0.0 vi.advertisercommunity.com
 0.0.0.0 via.eu.pendo.io
 0.0.0.0 via.intercom.io
 0.0.0.0 viamtvau.112.2o7.net
@@ -34997,6 +35024,7 @@
 0.0.0.0 video.innovid.com
 0.0.0.0 videointelligence-d.openx.net
 0.0.0.0 video-interstitial-assets-cdn.fyber.com
+0.0.0.0 video.keywee.co
 0.0.0.0 video-log-api.rubiconproject.com
 0.0.0.0 video.mediavine.com
 0.0.0.0 video.meredith.kargo.com
@@ -36279,6 +36307,7 @@
 0.0.0.0 www.ads.panadvert.com
 0.0.0.0 www.adspecs.tapjoy.com
 0.0.0.0 www.adsrvr.org
+0.0.0.0 www.adssyscom.com
 0.0.0.0 www.ads.viewsignage.com
 0.0.0.0 www.adswizz.com
 0.0.0.0 www.ads.wsrs.net
@@ -36292,6 +36321,7 @@
 0.0.0.0 www.adtz.com
 0.0.0.0 www.adv.api.admedia.com
 0.0.0.0 www.adversal.mgr.consensu.org
+0.0.0.0 www.advertisercommunity.com
 0.0.0.0 www.advertisersegment.inmobi.com
 0.0.0.0 www.advertisingbox.com
 0.0.0.0 www.advertising.com
@@ -36672,6 +36702,7 @@
 0.0.0.0 www.dc7.x.lijit.com
 0.0.0.0 www.dcrt.netseer.com
 0.0.0.0 www.ddocsvcs.leadpages.co
+0.0.0.0 www.de.advertisercommunity.com
 0.0.0.0 www.debug.adx1.com
 0.0.0.0 www.decoratordesignerguide.com.pathful.com
 0.0.0.0 www.deepakshukla.leadpages.co
@@ -36781,6 +36812,7 @@
 0.0.0.0 www.email.urbaninsight.com
 0.0.0.0 www.emea-lemonde.netmng.com
 0.0.0.0 www.employee.siliconorchard.com
+0.0.0.0 www.en.advertisercommunity.com
 0.0.0.0 www.end.scorecardresearch.com
 0.0.0.0 www.engage1.silverpop.com
 0.0.0.0 www.engage2.silverpop.com
@@ -36806,6 +36838,7 @@
 0.0.0.0 www.eqschools.leadpages.co
 0.0.0.0 www.ericpbutts.leadpages.co
 0.0.0.0 www.erp.admedia.com
+0.0.0.0 www.es.advertisercommunity.com
 0.0.0.0 www.essads.com
 0.0.0.0 www.estervega.leadpages.co
 0.0.0.0 www.esttrk.com
@@ -36859,6 +36892,7 @@
 0.0.0.0 www.focustraining.intelsad.com
 0.0.0.0 www.forter.com
 0.0.0.0 www.fqtag.com
+0.0.0.0 www.fr.advertisercommunity.com
 0.0.0.0 www.freedome.leadpages.co
 0.0.0.0 www.freeitunestvshow.siliconorchard.com
 0.0.0.0 www.freshmarketer.com
@@ -36902,6 +36936,7 @@
 0.0.0.0 www.ghostboard.io
 0.0.0.0 www.ghostbook.siliconorchard.com
 0.0.0.0 www.gigabud.leadpages.co
+0.0.0.0 www.gilda.keywee.co
 0.0.0.0 www.github.tools.inmobi.com
 0.0.0.0 www.giveforward.com.pathful.com
 0.0.0.0 www.gklfs-ewfo3.ads.tremorhub.com
@@ -37029,12 +37064,14 @@
 0.0.0.0 www.isntthatsew.leadpages.co
 0.0.0.0 www.ispot.ispot.tv
 0.0.0.0 www.ispot.tv
+0.0.0.0 www.it.advertisercommunity.com
 0.0.0.0 www.italy.scorecardresearch.com
 0.0.0.0 www.itcn.ssacdn.com
 0.0.0.0 www.ithd.exacttarget.com
 0.0.0.0 www.iubenda.com
 0.0.0.0 www.iubenda.mgr.consensu.org
 0.0.0.0 www.iwillteach.leadpages.co
+0.0.0.0 www.ja.advertisercommunity.com
 0.0.0.0 www.jagi.buypixelads.com
 0.0.0.0 www.jameswedmore.leadpages.co
 0.0.0.0 www.jane-frankland.leadpages.co
@@ -37063,6 +37100,7 @@
 0.0.0.0 www.keepass.fr
 0.0.0.0 www.kelsoconsulting.leadpages.co
 0.0.0.0 www.ketchapp.org
+0.0.0.0 www.keywee.co
 0.0.0.0 www.khingtracking.com
 0.0.0.0 www.kitchenstewardship.leadpages.co
 0.0.0.0 www.kiwicollection.com.pathful.com
@@ -37396,6 +37434,7 @@
 0.0.0.0 www.placed.com
 0.0.0.0 www.placelocal.com
 0.0.0.0 www.placeyourview.com
+0.0.0.0 www.pl.advertisercommunity.com
 0.0.0.0 www.platform.mobileapptracking.com
 0.0.0.0 www.playbuzz.com
 0.0.0.0 www.playercdn.jivox.com
@@ -37452,6 +37491,7 @@
 0.0.0.0 www.p.skimresources.com
 0.0.0.0 www.pso-imbot.inmobi.com
 0.0.0.0 www.pso.inmobi.com
+0.0.0.0 www.pt.advertisercommunity.com
 0.0.0.0 www.pt.ispot.tv
 0.0.0.0 www.ptvgoalv15.122.2o7.net
 0.0.0.0 www.publishers.playbuzz.com
@@ -37540,6 +37580,7 @@
 0.0.0.0 www.rtbdsp.inmobi.com
 0.0.0.0 www.rtb-lb1.impresionesweb.com
 0.0.0.0 www.rtk.io
+0.0.0.0 www.ru.advertisercommunity.com
 0.0.0.0 www.rubiconproject.com
 0.0.0.0 www.rubiconproject.us
 0.0.0.0 www.rundeck.dynamicyield.com
@@ -37830,6 +37871,7 @@
 0.0.0.0 www.tr1.onlinesucces.nl
 0.0.0.0 www.track.convertexperiments.com
 0.0.0.0 www.tracking.graphly.io
+0.0.0.0 www.tracking.keywee.co
 0.0.0.0 www.trackjs.com
 0.0.0.0 www.track.leadnationmedia.com
 0.0.0.0 www.trackonomics.net
@@ -38031,6 +38073,7 @@
 0.0.0.0 www.zcdn.adx1.com
 0.0.0.0 www.zemanta.com
 0.0.0.0 www.zendesk.sizmek.com
+0.0.0.0 www.zh.advertisercommunity.com
 0.0.0.0 www.z.moatads.com
 0.0.0.0 www.zookeeper-integration.mparticle.com
 0.0.0.0 wwwz.xhamser.com
@@ -38557,6 +38600,7 @@
 0.0.0.0 zfg5qvsk-android.mobile-sdk-api.intercom.io
 0.0.0.0 zfmqzophr1eo6dfetj8vddoab59221555528405.uaid.imrworldwide.com
 0.0.0.0 zgallerie.like2buy.curalate.com
+0.0.0.0 zh.advertisercommunity.com
 0.0.0.0 zhaw.eu.qualtrics.com
 0.0.0.0 zh.help.adjust.com
 0.0.0.0 ziffdavis697674298673.moatads.com

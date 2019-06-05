@@ -1,8 +1,8 @@
 # zerodot1-coinblockerlists-optional Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://zerodot1.gitlab.io/CoinBlockerLists/hosts_optional
-# Last Converted - 03.06.2019
-# Total Domains - 499
+# Last Converted - 05.06.2019
+# Total Domains - 498
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -51,7 +51,6 @@
 0.0.0.0 beta.mycrypto.com
 0.0.0.0 beta-wallet.trezor.io
 0.0.0.0 bfgminer.org
-0.0.0.0 bitcoin-doubler.us
 0.0.0.0 bitcore1.trezor.io
 0.0.0.0 bitcore3.trezor.io
 0.0.0.0 bit.cur.lv

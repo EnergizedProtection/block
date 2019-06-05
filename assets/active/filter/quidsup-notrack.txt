@@ -1,8 +1,8 @@
 # quidsup-notrack Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
-# Last Converted - 03.06.2019
-# Total Domains - 13459
+# Last Converted - 05.06.2019
+# Total Domains - 13460
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -139,6 +139,7 @@
 0.0.0.0 adap.tv
 0.0.0.0 adblade.com
 0.0.0.0 adbrain.com
+0.0.0.0 adbrau.com
 0.0.0.0 adbrn.com
 0.0.0.0 adbutler-tachyon.com
 0.0.0.0 adbutter.net

@@ -1,8 +1,8 @@
 # easyprivacy-tracking-servers Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/converter/filter/easyprivacy-tracking-servers.txt
-# Last Converted - 03.06.2019
-# Total Domains - 2705
+# Last Converted - 05.06.2019
+# Total Domains - 2701
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -544,7 +544,6 @@
 0.0.0.0 conductrics.com
 0.0.0.0 confirmational.com
 0.0.0.0 confirmit.com
-0.0.0.0 consciouscabbage.com
 0.0.0.0 consciouschairs.com
 0.0.0.0 contactatonce.com
 0.0.0.0 contactmonkey.com
@@ -1242,10 +1241,7 @@
 0.0.0.0 jsecoin.com
 0.0.0.0 jshosting.bid
 0.0.0.0 jshosting.date
-0.0.0.0 jshosting.download
 0.0.0.0 jshosting.loan
-0.0.0.0 jshosting.party
-0.0.0.0 jshosting.racing
 0.0.0.0 jshosting.review
 0.0.0.0 jshosting.stream
 0.0.0.0 jshosting.trade
@@ -1361,6 +1357,7 @@
 0.0.0.0 logcounter.com
 0.0.0.0 logdy.com
 0.0.0.0 logentries.com
+0.0.0.0 logger.pw
 0.0.0.0 logmatic.io
 0.0.0.0 lognormal.net
 0.0.0.0 logrocket.io
@@ -1598,7 +1595,6 @@
 0.0.0.0 netbiscuits.net
 0.0.0.0 netclickstats.com
 0.0.0.0 netcore.co.in
-0.0.0.0 netcoresmartech.com
 0.0.0.0 net-filter.com
 0.0.0.0 netflare.info
 0.0.0.0 netgraviton.net

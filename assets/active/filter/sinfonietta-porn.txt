@@ -1,8 +1,8 @@
 # sinfonietta-porn Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/pornography-hosts
-# Last Converted - 03.06.2019
-# Total Domains - 6026
+# Last Converted - 05.06.2019
+# Total Domains - 6011
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -53,7 +53,6 @@
 0.0.0.0 404.elitedollars.com
 0.0.0.0 404.hqhost.net
 0.0.0.0 404.online.net
-0.0.0.0 404.quickbuck.com
 0.0.0.0 40best.com
 0.0.0.0 4affiliate.net
 0.0.0.0 4chan.org
@@ -183,7 +182,6 @@
 0.0.0.0 adultfriendfinder.com
 0.0.0.0 adultfriendfinders.com
 0.0.0.0 adultfriendfinders.net
-0.0.0.0 adultfriendfinders.us
 0.0.0.0 adultfriendfinderz.com
 0.0.0.0 adultfriendsearch.com
 0.0.0.0 adulthostedblogs.com
@@ -343,7 +341,6 @@
 0.0.0.0 angelesurbanos.com
 0.0.0.0 angel-exhib.com
 0.0.0.0 angeleyes.ca
-0.0.0.0 angel-eyes.cjb.net
 0.0.0.0 angelfier.com
 0.0.0.0 angelfuns.over-blog.com
 0.0.0.0 angelgabriel.over-blog.com
@@ -865,7 +862,6 @@
 0.0.0.0 celebflix.us
 0.0.0.0 celeb.gate.cc
 0.0.0.0 celebritiesonvideo.thumblogger.com
-0.0.0.0 celebrity-fakes.net
 0.0.0.0 celebritywar.com
 0.0.0.0 celebsking.com
 0.0.0.0 celebsnudeworld.com
@@ -905,7 +901,6 @@
 0.0.0.0 chrisangel.canalblog.com
 0.0.0.0 christiestevens.com
 0.0.0.0 christinaangel.com
-0.0.0.0 chris.virginradioblog.fr
 0.0.0.0 chubby-teen.com
 0.0.0.0 chunkyangels.com
 0.0.0.0 chunkybutts.com
@@ -2857,7 +2852,6 @@
 0.0.0.0 rarbg.com
 0.0.0.0 rarescandals.xyz
 0.0.0.0 rareteenporn.com
-0.0.0.0 rasazrak.info
 0.0.0.0 rateme.km.ru
 0.0.0.0 ravenbayxxx.com
 0.0.0.0 rawtube.com
@@ -3095,7 +3089,6 @@
 0.0.0.0 shabbyvirgins.com
 0.0.0.0 shamelessangel.com
 0.0.0.0 shameless.com
-0.0.0.0 sharday.us
 0.0.0.0 shared.juicybucks.com
 0.0.0.0 shareporno.com
 0.0.0.0 shawnalenee.tv
@@ -4358,7 +4351,6 @@
 0.0.0.0 www.dirwebcams.com
 0.0.0.0 www.disappointedvirginity.com
 0.0.0.0 www.discreetangels.net
-0.0.0.0 www.disney-xxx.net
 0.0.0.0 www.dla3hotbanat.info
 0.0.0.0 www.dlisted.com
 0.0.0.0 www.dlouha-videa.cz
@@ -4476,9 +4468,7 @@
 0.0.0.0 www.fatbackmedia.com
 0.0.0.0 www.fatchickens.net
 0.0.0.0 www.fatpichunter.com
-0.0.0.0 www.fattyangels.com
 0.0.0.0 www.favouritecash.com
-0.0.0.0 www.fbbtop100.com
 0.0.0.0 www.felonyangel.com
 0.0.0.0 www.femdomdraw.com
 0.0.0.0 www.femdomworld.com
@@ -4684,7 +4674,6 @@
 0.0.0.0 www.hollywoodtuna.com
 0.0.0.0 www.holylol.com
 0.0.0.0 www.holytaco.com
-0.0.0.0 www.holywebcams.com
 0.0.0.0 www.homemadevids.net
 0.0.0.0 www.homemadexxxporn.com
 0.0.0.0 www.homemoviestube.com
@@ -4885,7 +4874,6 @@
 0.0.0.0 www.lucifersdarkangel.co.uk
 0.0.0.0 www.luckyvirginz.com
 0.0.0.0 www.luscious.net
-0.0.0.0 www.lustywebcams.com
 0.0.0.0 www.l-virgin.biz
 0.0.0.0 www.l-virgin.com
 0.0.0.0 www.l-virgin.info
@@ -5588,7 +5576,6 @@
 0.0.0.0 www.usercash.com
 0.0.0.0 www.usexvideos.com
 0.0.0.0 www.usualgirls.com
-0.0.0.0 www.usvirgin.com
 0.0.0.0 www.usvirgins.com
 0.0.0.0 www.utherverse.com
 0.0.0.0 www.va-ua.com
@@ -5622,7 +5609,6 @@
 0.0.0.0 www.virgin-experience.com
 0.0.0.0 www.virgin-films.com
 0.0.0.0 www.virgingalactic.ca
-0.0.0.0 www.virginhaven.com
 0.0.0.0 www.virginhoney.com
 0.0.0.0 www.virginhood.com
 0.0.0.0 www.virginiablueridge.com
@@ -5664,7 +5650,6 @@
 0.0.0.0 www.virgins-off.com
 0.0.0.0 www.virgins.org
 0.0.0.0 www.virgins.pl
-0.0.0.0 www.virginsrus.com
 0.0.0.0 www.virginstories.com
 0.0.0.0 www.virginsuicide.com
 0.0.0.0 www.virgintemple.com

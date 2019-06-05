@@ -1,8 +1,8 @@
 # disconnect.me-malvertising Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
-# Last Converted - 03.06.2019
-# Total Domains - 2401
+# Last Converted - 05.06.2019
+# Total Domains - 2399
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -268,7 +268,6 @@
 0.0.0.0 adprimemedia.com
 0.0.0.0 adprofile.net
 0.0.0.0 ad.profiwin.de
-0.0.0.0 adprojekt.pl
 0.0.0.0 ad.prv.pl
 0.0.0.0 ad.rambler.ru
 0.0.0.0 adrazzi.com
@@ -1310,7 +1309,6 @@
 0.0.0.0 fastclick.com
 0.0.0.0 fastclick.com.edgesuite.net
 0.0.0.0 fastclick.net
-0.0.0.0 fb-promotions.com
 0.0.0.0 fc.webmasterpro.de
 0.0.0.0 feedbackresearch.com
 0.0.0.0 feedjit.com

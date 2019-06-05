@@ -1,8 +1,8 @@
 # matomo.org-spammers Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt
-# Last Converted - 03.06.2019
-# Total Domains - 904
+# Last Converted - 05.06.2019
+# Total Domains - 902
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -306,7 +306,6 @@
 0.0.0.0 francaise-poesie.com
 0.0.0.0 frauplus.ru
 0.0.0.0 freenode.info
-0.0.0.0 free-share-buttons.com
 0.0.0.0 free-video-tool.com
 0.0.0.0 free-website-traffic.com
 0.0.0.0 freewhatsappload.com
@@ -331,7 +330,6 @@
 0.0.0.0 get-more-freeer-visitors.info
 0.0.0.0 get-more-freeish-visitors.info
 0.0.0.0 getpy-click.info
-0.0.0.0 getrichquickly.info
 0.0.0.0 get-seo-help.com
 0.0.0.0 ghazel.ru
 0.0.0.0 gidonline.one

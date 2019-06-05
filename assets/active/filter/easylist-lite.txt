@@ -1,8 +1,8 @@
 # easylist-lite Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/converter/filter/easylist-lite.txt
-# Last Converted - 03.06.2019
-# Total Domains - 5287
+# Last Converted - 05.06.2019
+# Total Domains - 5281
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -597,7 +597,6 @@
 0.0.0.0 adultlinkexchange.com
 0.0.0.0 adultsense.org
 0.0.0.0 adult.xyz
-0.0.0.0 aduobooydxr.com
 0.0.0.0 adup-tech.com
 0.0.0.0 ad.valuecalling.com
 0.0.0.0 advanseads.com
@@ -1035,7 +1034,6 @@
 0.0.0.0 bluetoad.com
 0.0.0.0 bl.wavecdn.de
 0.0.0.0 blwfqlmhi.com
-0.0.0.0 bmhvaoxr.com
 0.0.0.0 bmoshyiypks.com
 0.0.0.0 bnhtml.com
 0.0.0.0 bnmla.com
@@ -1897,7 +1895,6 @@
 0.0.0.0 fgnzizhe.com
 0.0.0.0 fgsjjpjhdlfthp.com
 0.0.0.0 fgvjjulaegidb.com
-0.0.0.0 fhlzfxxnqc.com
 0.0.0.0 fhtlyoqzyjjof.com
 0.0.0.0 ficusoid.xyz
 0.0.0.0 fieejwanbrv.com
@@ -1911,7 +1908,6 @@
 0.0.0.0 fixpass.net
 0.0.0.0 fjeqkpblfb.com
 0.0.0.0 fjszsffyfihqlg.com
-0.0.0.0 fkdslgyunikais.com
 0.0.0.0 fkfmujcudpwdn.com
 0.0.0.0 fkvjntfj.com
 0.0.0.0 flac2flac.xyz
@@ -3964,7 +3960,6 @@
 0.0.0.0 rjxspgol.com
 0.0.0.0 rkbldvgcjebh.com
 0.0.0.0 rkbndiwznhul.com
-0.0.0.0 rlaiomvkwz.com
 0.0.0.0 rlgungosm.com
 0.0.0.0 rljakgkixu.com
 0.0.0.0 rlpabnhvtu.com
@@ -4528,7 +4523,6 @@
 0.0.0.0 tynyh.com
 0.0.0.0 typieced.com
 0.0.0.0 tyyrigtlkny.com
-0.0.0.0 tzcgpmqij.com
 0.0.0.0 tzelsvxtjvy.com
 0.0.0.0 tzfywuot.com
 0.0.0.0 tzjrmfipwurtc.com

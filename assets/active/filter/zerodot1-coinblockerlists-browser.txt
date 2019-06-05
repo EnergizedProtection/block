@@ -1,8 +1,8 @@
 # zerodot1-coinblockerlists-browser Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
-# Last Converted - 03.06.2019
-# Total Domains - 1433
+# Last Converted - 05.06.2019
+# Total Domains - 1417
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -62,7 +62,6 @@
 0.0.0.0 api.coin-hive.com
 0.0.0.0 api.ethereum.hashvault.pro
 0.0.0.0 api.jsecoin.com
-0.0.0.0 api.miner.beeppool.org
 0.0.0.0 api.minero.cc
 0.0.0.0 api.minexmr.com
 0.0.0.0 api.moneroocean.stream
@@ -300,7 +299,6 @@
 0.0.0.0 fxnow.ru
 0.0.0.0 g.0x1f4b0.com
 0.0.0.0 g1thub.com
-0.0.0.0 ganymed.beeppool.org
 0.0.0.0 gay-hotvideo.net
 0.0.0.0 gaypornwave.com
 0.0.0.0 gazanew.com
@@ -372,10 +370,7 @@
 0.0.0.0 jsecoin.com
 0.0.0.0 jshosting.bid
 0.0.0.0 jshosting.date
-0.0.0.0 jshosting.download
 0.0.0.0 jshosting.loan
-0.0.0.0 jshosting.party
-0.0.0.0 jshosting.racing
 0.0.0.0 jshosting.review
 0.0.0.0 jshosting.stream
 0.0.0.0 jshosting.trade
@@ -433,7 +428,6 @@
 0.0.0.0 minemytraffic.com
 0.0.0.0 mine.nahnoji.cz
 0.0.0.0 minerad.com
-0.0.0.0 miner.beeppool.org
 0.0.0.0 minerclaim.net
 0.0.0.0 miner.cryptobara.com
 0.0.0.0 miner-deu-1.inf.nimiq.network
@@ -1249,16 +1243,6 @@
 0.0.0.0 www.jscdndel.com
 0.0.0.0 www.jscoinminer.com
 0.0.0.0 www.jsecoin.com
-0.0.0.0 www.jshosting.bid
-0.0.0.0 www.jshosting.date
-0.0.0.0 www.jshosting.download
-0.0.0.0 www.jshosting.loan
-0.0.0.0 www.jshosting.party
-0.0.0.0 www.jshosting.racing
-0.0.0.0 www.jshosting.review
-0.0.0.0 www.jshosting.stream
-0.0.0.0 www.jshosting.trade
-0.0.0.0 www.jshosting.win
 0.0.0.0 www.jurtym.cf
 0.0.0.0 www.juststatic.info
 0.0.0.0 www.karbowanec.crypto-webminer.com

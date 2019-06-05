@@ -1,8 +1,8 @@
 # zerodot1-coinblockerlists Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://zerodot1.gitlab.io/CoinBlockerLists/hosts
-# Last Converted - 03.06.2019
-# Total Domains - 13871
+# Last Converted - 05.06.2019
+# Total Domains - 13852
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -695,7 +695,6 @@
 0.0.0.0 api.luckypool.io
 0.0.0.0 api.luxor.tech
 0.0.0.0 api-meta.esn.gonspool.com
-0.0.0.0 api.miner.beeppool.org
 0.0.0.0 api.minergate.com
 0.0.0.0 api.minero.cc
 0.0.0.0 api.minexmr.com
@@ -1351,7 +1350,6 @@
 0.0.0.0 bitcoin.cz
 0.0.0.0 bitcoindark.ca
 0.0.0.0 bitcoin.de
-0.0.0.0 bitcoin-doubler.us
 0.0.0.0 bitcoiner.win
 0.0.0.0 bitcoinethereum.eu
 0.0.0.0 bitcoin.fastlink.pl
@@ -4221,7 +4219,6 @@
 0.0.0.0 games.nanopool.org
 0.0.0.0 games.qp.si
 0.0.0.0 gamma.hiveon.net
-0.0.0.0 ganymed.beeppool.org
 0.0.0.0 garlicpool.org
 0.0.0.0 gate.hiveon.net
 0.0.0.0 gateway.hiveon.net
@@ -5009,10 +5006,7 @@
 0.0.0.0 jsecoin.com
 0.0.0.0 jshosting.bid
 0.0.0.0 jshosting.date
-0.0.0.0 jshosting.download
 0.0.0.0 jshosting.loan
-0.0.0.0 jshosting.party
-0.0.0.0 jshosting.racing
 0.0.0.0 jshosting.review
 0.0.0.0 jshosting.stream
 0.0.0.0 jshosting.trade
@@ -5453,7 +5447,6 @@
 0.0.0.0 lu.hiveon.net
 0.0.0.0 lumanajaska.ml
 0.0.0.0 lumeneo.modpool.org
-0.0.0.0 luoxkexp.com
 0.0.0.0 lux.f2pool.com
 0.0.0.0 lux.futurecoins.club
 0.0.0.0 lux.mine.zpool.ca
@@ -5831,7 +5824,6 @@
 0.0.0.0 miner2.sighash.info
 0.0.0.0 miner.ad
 0.0.0.0 minerad.com
-0.0.0.0 miner.beeppool.org
 0.0.0.0 miner.bitcoin.cz
 0.0.0.0 minercartel.com
 0.0.0.0 miner.center
@@ -11835,16 +11827,6 @@
 0.0.0.0 www.jscdndel.com
 0.0.0.0 www.jscoinminer.com
 0.0.0.0 www.jsecoin.com
-0.0.0.0 www.jshosting.bid
-0.0.0.0 www.jshosting.date
-0.0.0.0 www.jshosting.download
-0.0.0.0 www.jshosting.loan
-0.0.0.0 www.jshosting.party
-0.0.0.0 www.jshosting.racing
-0.0.0.0 www.jshosting.review
-0.0.0.0 www.jshosting.stream
-0.0.0.0 www.jshosting.trade
-0.0.0.0 www.jshosting.win
 0.0.0.0 www.judge.pool.mn
 0.0.0.0 www.jurtym.cf
 0.0.0.0 www.juststatic.info
@@ -13345,7 +13327,6 @@
 0.0.0.0 xmr.alpha.nanopool.org
 0.0.0.0 xmralpha.nanopool.org
 0.0.0.0 xmr.altpool.pro
-0.0.0.0 xmrapi.alimabi.cn
 0.0.0.0 xmr.arhash.xyz
 0.0.0.0 xmr-asia1.nanopool.org
 0.0.0.0 xmr-asial.nanopool.org

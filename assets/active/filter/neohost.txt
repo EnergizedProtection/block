@@ -1,8 +1,8 @@
 # neohost Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/active/filter/neohost.txt
-# Last Converted - 03.06.2019
-# Total Domains - 3212
+# Last Converted - 05.06.2019
+# Total Domains - 3209
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -95,7 +95,6 @@
 0.0.0.0 ac3.msn.com
 0.0.0.0 ac.atpanel.com
 0.0.0.0 acceptable.a-ads.com
-0.0.0.0 acdn.adnxs.com
 0.0.0.0 acjs.aliyun.com
 0.0.0.0 ac.mmstat.com
 0.0.0.0 a.cn.miaozhen.com
@@ -481,7 +480,6 @@
 0.0.0.0 bazinga.mse.sogou.com
 0.0.0.0 b.bdstatic.com
 0.0.0.0 bce.baidu.com
-0.0.0.0 bc.geocities.yahoo.co.jp
 0.0.0.0 bcjjg.bugsevent.com
 0.0.0.0 bcjxf.bugsevent.com
 0.0.0.0 b.clkservice.youdao.com
@@ -3178,7 +3176,6 @@
 0.0.0.0 z8.cnzz.com
 0.0.0.0 z9.cnzz.com
 0.0.0.0 zbrushcn.com
-0.0.0.0 zbz.m.qxs.la
 0.0.0.0 zc.adpush.cn
 0.0.0.0 z.clickvip.shop
 0.0.0.0 zeus.ad.xiaomi.com
