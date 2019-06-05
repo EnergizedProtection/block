@@ -1,7 +1,7 @@
 # easylist-adult-specific Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_specific_block.txt
-# Last Converted - 03.06.2019
+# Last Converted - 05.06.2019
 # Total Domains - 68
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
@@ -30,6 +30,7 @@
 0.0.0.0 b.xcafe.com
 0.0.0.0 cams.pornrabbit.com
 0.0.0.0 camvideos.tv
+0.0.0.0 cf1c0.thisav.com
 0.0.0.0 cloudfront.net
 0.0.0.0 creatives.cliphunter.com
 0.0.0.0 creatives.pichunter.com
@@ -65,13 +66,12 @@
 0.0.0.0 static.kinghost.com
 0.0.0.0 sub.avgle.com
 0.0.0.0 s.xvideos.com
-0.0.0.0 tbib.org
 0.0.0.0 thedoujin.com
 0.0.0.0 tkn.4tube.com
 0.0.0.0 tkn.fux.com
 0.0.0.0 tkn.pornerbros.com
 0.0.0.0 tkn.porntube.com
-0.0.0.0 t.xtubetv.net
 0.0.0.0 x.eroticity.net
 0.0.0.0 x.vipergirls.to
 0.0.0.0 youporn.com
+0.0.0.0 yourdarkdesires.com

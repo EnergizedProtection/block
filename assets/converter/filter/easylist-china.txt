@@ -1,8 +1,8 @@
 # easylist-china Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last Converted - 03.06.2019
-# Total Domains - 4560
+# Last Converted - 05.06.2019
+# Total Domains - 4568
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -995,6 +995,7 @@
 0.0.0.0 bdunion1.suxiazai.com
 0.0.0.0 bdwmhz.120askimages.com
 0.0.0.0 bdx.playnext.cn
+0.0.0.0 bdyxzx.com
 0.0.0.0 bebelait.com
 0.0.0.0 becode.qiushibaike.com
 0.0.0.0 becode.xiao84.com
@@ -1534,6 +1535,7 @@
 0.0.0.0 dm.zuowenku.net
 0.0.0.0 dn189.com
 0.0.0.0 dnfeu.com
+0.0.0.0 dnskuu.com
 0.0.0.0 dnvus.com
 0.0.0.0 doko.moe
 0.0.0.0 doniv.net
@@ -2405,6 +2407,7 @@
 0.0.0.0 jifeidandar.com
 0.0.0.0 jiirz.com
 0.0.0.0 jiliw.com
+0.0.0.0 jim86d.cn
 0.0.0.0 j.imdb.cn
 0.0.0.0 jimeilm.com
 0.0.0.0 jinchaoyu.com
@@ -3661,6 +3664,7 @@
 0.0.0.0 tg.1155t.cn
 0.0.0.0 tgjkbx.cn
 0.0.0.0 th21333.com
+0.0.0.0 thefifthera.com
 0.0.0.0 themee.cn
 0.0.0.0 thescenseproject.com
 0.0.0.0 thetestpage.39.net
@@ -3914,6 +3918,7 @@
 0.0.0.0 w3989.com
 0.0.0.0 w51t.com
 0.0.0.0 w65p.com
+0.0.0.0 w859u.cn
 0.0.0.0 wabdb1.52pk.com
 0.0.0.0 wagenlux.cn
 0.0.0.0 waihui518.com
@@ -3978,6 +3983,7 @@
 0.0.0.0 whale123.com
 0.0.0.0 whfpbc.99.com.cn
 0.0.0.0 whpxy.com
+0.0.0.0 whrles.com
 0.0.0.0 whshangsha.com
 0.0.0.0 whsjg.cn
 0.0.0.0 whxhhjx.com
@@ -4011,6 +4017,8 @@
 0.0.0.0 wole.us
 0.0.0.0 wonwg.com
 0.0.0.0 workbizs.com
+0.0.0.0 worldcup1.com
+0.0.0.0 woshiyunying.com
 0.0.0.0 wowad.wow-classic.com
 0.0.0.0 wowips.com
 0.0.0.0 wo-x.cn

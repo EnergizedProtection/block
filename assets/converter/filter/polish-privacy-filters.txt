@@ -1,8 +1,8 @@
 # polish-privacy-filters Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/olegwukr/polish-privacy-filters/master/adblock.txt
-# Last Converted - 03.06.2019
-# Total Domains - 67
+# Last Converted - 05.06.2019
+# Total Domains - 68
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -42,6 +42,7 @@
 0.0.0.0 nextclick.pl
 0.0.0.0 nsaudience.pl
 0.0.0.0 pixel.solvemedia.com
+0.0.0.0 pixel.wp.pl
 0.0.0.0 plugin.management
 0.0.0.0 px.wp.pl
 0.0.0.0 quantserve.com

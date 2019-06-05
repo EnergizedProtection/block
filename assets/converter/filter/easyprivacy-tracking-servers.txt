@@ -1,8 +1,8 @@
 # easyprivacy-tracking-servers Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers.txt
-# Last Converted - 03.06.2019
-# Total Domains - 3187
+# Last Converted - 05.06.2019
+# Total Domains - 3188
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1650,6 +1650,7 @@
 0.0.0.0 logcounter.com
 0.0.0.0 logdy.com
 0.0.0.0 logentries.com
+0.0.0.0 logger.pw
 0.0.0.0 loggly.com
 0.0.0.0 logmatic.io
 0.0.0.0 lognormal.net

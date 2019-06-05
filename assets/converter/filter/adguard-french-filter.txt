@@ -1,8 +1,8 @@
 # adguard-french-filter Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/16.txt
-# Last Converted - 03.06.2019
-# Total Domains - 5712
+# Last Converted - 05.06.2019
+# Total Domains - 5716
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -3216,6 +3216,7 @@
 0.0.0.0 loudads.net
 0.0.0.0 lovacmar.click
 0.0.0.0 lovelinebabydesign.com
+0.0.0.0 lovilialaceyville.com
 0.0.0.0 lownet.fr
 0.0.0.0 lrcdn.net
 0.0.0.0 lslsd.ovh
@@ -3503,6 +3504,7 @@
 0.0.0.0 muqson0kgr.com
 0.0.0.0 murrietaullin.com
 0.0.0.0 musclerku.com
+0.0.0.0 musticizeded.info
 0.0.0.0 mutuza.win
 0.0.0.0 mvchallenges.s3-website-eu-west-1.amazonaws.com
 0.0.0.0 mw19c3mi5a.com
@@ -4275,6 +4277,7 @@
 0.0.0.0 pwwysydh.com
 0.0.0.0 px1alsry.com
 0.0.0.0 px9y26.com
+0.0.0.0 pxlad.io
 0.0.0.0 pxltgr.com
 0.0.0.0 pxrbl.megafilms.me
 0.0.0.0 pxt-networks.com
@@ -4986,6 +4989,7 @@
 0.0.0.0 thukrubs.com
 0.0.0.0 tidafors.xyz
 0.0.0.0 tidido.com
+0.0.0.0 tidiouteburket.com
 0.0.0.0 tinypic.com
 0.0.0.0 tipslz.com
 0.0.0.0 tiredduck.com

@@ -1,8 +1,8 @@
 # easyprivacy-thirdparty Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last Converted - 03.06.2019
-# Total Domains - 1136
+# Last Converted - 05.06.2019
+# Total Domains - 1137
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -720,6 +720,7 @@
 0.0.0.0 powersearch.us.com
 0.0.0.0 pr.blogflux.com
 0.0.0.0 prd-collector-anon.playbuzz.com
+0.0.0.0 prism.app-us1.com
 0.0.0.0 production-eqbc.lvp.llnw.net
 0.0.0.0 production.mcs.delve.cust.lldns.net
 0.0.0.0 production-mcs.lvp.llnw.net

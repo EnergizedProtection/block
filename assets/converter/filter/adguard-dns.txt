@@ -1,8 +1,8 @@
 # adguard-dns Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/15.txt
-# Last Converted - 03.06.2019
-# Total Domains - 27893
+# Last Converted - 05.06.2019
+# Total Domains - 27927
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1594,7 +1594,6 @@
 0.0.0.0 adnxsid.com
 0.0.0.0 adnxs.net
 0.0.0.0 adnz.co
-0.0.0.0 adobedtm.com
 0.0.0.0 adobetag.com
 0.0.0.0 adocean.cz
 0.0.0.0 adocean.pl
@@ -2298,6 +2297,7 @@
 0.0.0.0 adwiretracker.fwix.com
 0.0.0.0 adwods.com
 0.0.0.0 adwolf.ru
+0.0.0.0 adword.ge
 0.0.0.0 adwordsservicapi.com
 0.0.0.0 adworkmedia.com
 0.0.0.0 adworldmedia.com
@@ -3844,6 +3844,7 @@
 0.0.0.0 bab.frb.io
 0.0.0.0 bablace.com
 0.0.0.0 bablogon.net
+0.0.0.0 babsedrinhi.info
 0.0.0.0 babyboomboomads.com
 0.0.0.0 baby.yf898.com
 0.0.0.0 backbeatmedia.com
@@ -5336,6 +5337,7 @@
 0.0.0.0 cdn-highwinds.unityads.unity3d.com
 0.0.0.0 cdn.hiido.cn
 0.0.0.0 cdn.hiperadverts.com
+0.0.0.0 cdn.hunteryvely.com
 0.0.0.0 cdn-image.com
 0.0.0.0 cdn-jquery.host
 0.0.0.0 cdn.jquery-uim.download
@@ -5467,6 +5469,7 @@
 0.0.0.0 cgicounter.oneandone.co.uk
 0.0.0.0 cgicounter.onlinehome.de
 0.0.0.0 cgicounter.puretec.de
+0.0.0.0 cgjbizumzm.com
 0.0.0.0 cgjyesqhxzzm.com
 0.0.0.0 cgkpwhkgjxo.com
 0.0.0.0 cglpmszvpzzxj.com
@@ -5709,6 +5712,7 @@
 0.0.0.0 clickable.com
 0.0.0.0 clickable.net
 0.0.0.0 click.ad1.ru
+0.0.0.0 clickadilla.com
 0.0.0.0 clickad.pl
 0.0.0.0 clickads.name
 0.0.0.0 clickadu.com
@@ -7634,6 +7638,7 @@
 0.0.0.0 dkvzpqcqan.com
 0.0.0.0 dkxeorhjmua.com
 0.0.0.0 dl1d2m8ri9v3j.cloudfront.net
+0.0.0.0 dl6pkf7e.ru
 0.0.0.0 dlahijuwjsv.com
 0.0.0.0 dlemeyrkjy.com
 0.0.0.0 dle-news.pw
@@ -8039,6 +8044,7 @@
 0.0.0.0 dy2xcjk8s1dbz.cloudfront.net
 0.0.0.0 dyazeqpeoykf.com
 0.0.0.0 dybxezbel1g44.cloudfront.net
+0.0.0.0 dycej.com
 0.0.0.0 dydxtkvmktumjp.com
 0.0.0.0 dyerbegytfkj.com
 0.0.0.0 dygadan.info
@@ -8052,6 +8058,7 @@
 0.0.0.0 dymzcxgdvf.com
 0.0.0.0 dynad.net
 0.0.0.0 dynamic-advertising.de
+0.0.0.0 dynamicadx.com
 0.0.0.0 dynamicdn.com
 0.0.0.0 dynamicoxygen.com
 0.0.0.0 dynamitedata.com
@@ -8598,6 +8605,7 @@
 0.0.0.0 ergoledo.com
 0.0.0.0 ergs4.com
 0.0.0.0 erificyggw.com
+0.0.0.0 erileni.ru
 0.0.0.0 erireiejv.com
 0.0.0.0 erkaseriilan.com.tr
 0.0.0.0 erkwkjfompvt.com
@@ -9115,6 +9123,7 @@
 0.0.0.0 fcstats.altervista.org
 0.0.0.0 fcveilhtok.com
 0.0.0.0 fc.webmasterpro.de
+0.0.0.0 fcwpxsmiyy.com
 0.0.0.0 fd84e9a464aec4387a.com
 0.0.0.0 fdbqwtqdgcsceh.com
 0.0.0.0 fdbrwxtm.com
@@ -10139,6 +10148,7 @@
 0.0.0.0 getrotas.ru
 0.0.0.0 getrotaw.ru
 0.0.0.0 getscorecash.com
+0.0.0.0 getscriptjs.com
 0.0.0.0 getsidecar.com
 0.0.0.0 getsmartcontent.com
 0.0.0.0 getsmartlook.com
@@ -10751,6 +10761,7 @@
 0.0.0.0 gxpijskyqwqfjw.com
 0.0.0.0 gxptetvbtkfj.com
 0.0.0.0 gxqocoxl.com
+0.0.0.0 gxqotelkdra.com
 0.0.0.0 gxqrjjcsyh.com
 0.0.0.0 gxvbogvbcivs.com
 0.0.0.0 gxwjkbxubfjd.com
@@ -10939,6 +10950,7 @@
 0.0.0.0 hebiichigo.com
 0.0.0.0 hechaocheng.cn
 0.0.0.0 heckhaphanofres.info
+0.0.0.0 hedtgodingsincy.info
 0.0.0.0 hedthertsu.pro
 0.0.0.0 hedvid.com
 0.0.0.0 heefwozhlxgz.com
@@ -10957,6 +10969,7 @@
 0.0.0.0 hemnes.win
 0.0.0.0 henharat.ru
 0.0.0.0 hentaicounter.com
+0.0.0.0 hephedronwa.ru
 0.0.0.0 heprisitho.ru
 0.0.0.0 hepuzqrx.com
 0.0.0.0 heqcvweqvqf.com
@@ -12507,6 +12520,7 @@
 0.0.0.0 izitizi.ru
 0.0.0.0 iziwhlafxitn.com
 0.0.0.0 izixtxrvogaq.com
+0.0.0.0 izjguvanm.com
 0.0.0.0 izmciznsszatv.com
 0.0.0.0 izmwtewwobxy.com
 0.0.0.0 izmyatin.info
@@ -12642,6 +12656,7 @@
 0.0.0.0 jfnafbcysy.com
 0.0.0.0 jfribvstvcqy.com
 0.0.0.0 jfvadxjr.com
+0.0.0.0 jfvjtudp.com
 0.0.0.0 jfx61qca.site
 0.0.0.0 jfxjpswhcwwq.com
 0.0.0.0 jgchq.com
@@ -13257,6 +13272,7 @@
 0.0.0.0 kinfly.ru
 0.0.0.0 kingads.net
 0.0.0.0 kinley.com
+0.0.0.0 kinoaction.ru
 0.0.0.0 kinobol.ru
 0.0.0.0 kinoclub.org
 0.0.0.0 kinogo.r.worldssl.net
@@ -13775,6 +13791,7 @@
 0.0.0.0 ldt1duixoe.com
 0.0.0.0 lduhtrp.net
 0.0.0.0 ldvmpopwd.com
+0.0.0.0 ldxdpitoeox.com
 0.0.0.0 ldyiuvdoahxz.com
 0.0.0.0 ldzqhq.biz
 0.0.0.0 lead-123.com
@@ -14150,6 +14167,7 @@
 0.0.0.0 llgvjtkg.com
 0.0.0.0 llhjbwcjnuii.com
 0.0.0.0 lliumrpvj.com
+0.0.0.0 lljoapkfnwn.com
 0.0.0.0 lljtgiwhqtue.com
 0.0.0.0 llladiez.click
 0.0.0.0 llladiez.org
@@ -16013,6 +16031,7 @@
 0.0.0.0 mzbetmhucxih.com
 0.0.0.0 mzguykhxnuap.com
 0.0.0.0 mzhcaexrrl.com
+0.0.0.0 mzjotkigwu.com
 0.0.0.0 mzkhhjueazkn.com
 0.0.0.0 mznijqwjkqadk.com
 0.0.0.0 mzol7lbm.com
@@ -16519,6 +16538,7 @@
 0.0.0.0 nobpgppgbucy.com
 0.0.0.0 nobsetfinvestor.com
 0.0.0.0 node.market-place.su
+0.0.0.0 nofejectontrab.info
 0.0.0.0 nofhtrsaz.com
 0.0.0.0 nofoxnalt.com
 0.0.0.0 nogxucpaktrya.com
@@ -17132,6 +17152,7 @@
 0.0.0.0 onelead.ru
 0.0.0.0 one.lg.ua
 0.0.0.0 onelink-translations.com
+0.0.0.0 onemontay.ru
 0.0.0.0 onenetworkdirect.com
 0.0.0.0 onenetworkdirect.net
 0.0.0.0 onenima.com
@@ -18802,6 +18823,7 @@
 0.0.0.0 pusbamejpkxq.com
 0.0.0.0 puserving.com
 0.0.0.0 push2check.com
+0.0.0.0 pushads.biz
 0.0.0.0 pushagim.com
 0.0.0.0 pushame.com
 0.0.0.0 pushance.com
@@ -18904,7 +18926,9 @@
 0.0.0.0 pwlqrkgkk.com
 0.0.0.0 pwnz.org
 0.0.0.0 pwrads.net
+0.0.0.0 pwrjjvjtvmr.com
 0.0.0.0 pwufxar8.top
+0.0.0.0 pw.wpu.sh
 0.0.0.0 pwynoympqwgg.com
 0.0.0.0 pwzn9ze.com
 0.0.0.0 px.247inc.net
@@ -19489,10 +19513,12 @@
 0.0.0.0 rationalan.pro
 0.0.0.0 ratkalol.com
 0.0.0.0 ratke.biz
+0.0.0.0 ratrencalrep.com
 0.0.0.0 ratyakhu.ru
 0.0.0.0 ravalynn.pw
 0.0.0.0 ravnovesienews.ru
 0.0.0.0 rawasy.com
+0.0.0.0 raxlextehqhw.com
 0.0.0.0 raz-raz-mataz.com
 0.0.0.0 razwrite.com
 0.0.0.0 rbaleno.info
@@ -20650,6 +20676,7 @@
 0.0.0.0 sddan.com
 0.0.0.0 sdeadbqsjam.com
 0.0.0.0 sdemctwaiazt.com
+0.0.0.0 sdgvzdksjbl.com
 0.0.0.0 sdk.adincube.com
 0.0.0.0 sdk.adtiming.com
 0.0.0.0 sdk.api.kaffnet.com
@@ -21148,6 +21175,7 @@
 0.0.0.0 sksalqvpoc.com
 0.0.0.0 skspurybnv.com
 0.0.0.0 skurki.info
+0.0.0.0 skwstat.ru
 0.0.0.0 skyactivate.com
 0.0.0.0 skyad1.ru
 0.0.0.0 skyad5.ru
@@ -22921,6 +22949,7 @@
 0.0.0.0 thowytaoo.com
 0.0.0.0 thpsflsjw.com
 0.0.0.0 thqwivyhdpoem.com
+0.0.0.0 threedrive.su
 0.0.0.0 thrilling.ru
 0.0.0.0 throattrees.com
 0.0.0.0 thrtle.com
@@ -22969,6 +22998,7 @@
 0.0.0.0 tinbuadserv.com
 0.0.0.0 tinggalklik.com
 0.0.0.0 tinkerta.com
+0.0.0.0 tinnaveran.ru
 0.0.0.0 tin.pornoset.org
 0.0.0.0 t.insigit.com
 0.0.0.0 tin-tin-win.com
@@ -23103,6 +23133,7 @@
 0.0.0.0 tm1-001.com
 0.0.0.0 tm1.hoiplay.com
 0.0.0.0 tm-banners.gamingadult.com
+0.0.0.0 tmblaeivephb.com
 0.0.0.0 tm-core.net
 0.0.0.0 tmcvwyrqwyp.com
 0.0.0.0 tmdbgmhh.com
@@ -25619,6 +25650,7 @@
 0.0.0.0 vzhbfwpo.com
 0.0.0.0 vzhjnorkudcxbiy.com
 0.0.0.0 vzhlsmmboaqxlv.com
+0.0.0.0 vzkyivowceqcsd.com
 0.0.0.0 vzlyapss.com
 0.0.0.0 vzmnvqiqgxqk.com
 0.0.0.0 vzozsebg.com
@@ -26891,6 +26923,7 @@
 0.0.0.0 xy.nullrefexcep.com
 0.0.0.0 xynutvdh.com
 0.0.0.0 xywdvhd.com
+0.0.0.0 xyz0k4gfs.xyz
 0.0.0.0 xyztanitim.com
 0.0.0.0 xyztraffic.com
 0.0.0.0 xyzzyxxyzzyx.com
@@ -27814,6 +27847,7 @@
 0.0.0.0 zumhice.pw
 0.0.0.0 zupeaoohmntp.com
 0.0.0.0 zurgerya.ru
+0.0.0.0 zursiicizyhd.com
 0.0.0.0 zusrd.cn
 0.0.0.0 zutnlpnzxtt.com
 0.0.0.0 zuuwfrphdgxk.com

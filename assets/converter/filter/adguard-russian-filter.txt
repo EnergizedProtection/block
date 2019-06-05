@@ -1,8 +1,8 @@
 # adguard-russian-filter Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last Converted - 03.06.2019
-# Total Domains - 3735
+# Last Converted - 05.06.2019
+# Total Domains - 3746
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -160,6 +160,7 @@
 0.0.0.0 ad.mail.ru
 0.0.0.0 admaster.net
 0.0.0.0 admaxer.ru
+0.0.0.0 admediator.ru
 0.0.0.0 admelon.ru
 0.0.0.0 admilk.ru
 0.0.0.0 admitlead.ru
@@ -506,6 +507,7 @@
 0.0.0.0 bcggo.ru
 0.0.0.0 bcli.flash-xxx.com
 0.0.0.0 bcoolandjustrelax.org
+0.0.0.0 bcprn.club
 0.0.0.0 b.ddestiny.ru
 0.0.0.0 b.dotbrataev.ru
 0.0.0.0 bdros.com
@@ -680,6 +682,7 @@
 0.0.0.0 cdn7.space
 0.0.0.0 cdn.actiflex.org
 0.0.0.0 cdn.amzuu.com
+0.0.0.0 cdn.hunteryvely.com
 0.0.0.0 cdn-library.su
 0.0.0.0 cdn.malokacha.club
 0.0.0.0 cdn-my1.ru
@@ -910,6 +913,7 @@
 0.0.0.0 djchfgacdfaaadfdc.ru
 0.0.0.0 djpff.top
 0.0.0.0 djuzsbnnm.biz
+0.0.0.0 dl6pkf7e.ru
 0.0.0.0 dlfja.gdn
 0.0.0.0 dl.qcash.ws
 0.0.0.0 dlyamedikov.ru
@@ -1025,6 +1029,7 @@
 0.0.0.0 eqtaxag.ru
 0.0.0.0 eradek.ru
 0.0.0.0 ergs4.com
+0.0.0.0 erileni.ru
 0.0.0.0 ero2you.com
 0.0.0.0 eroksen.ru
 0.0.0.0 eropays2.com
@@ -1332,6 +1337,7 @@
 0.0.0.0 hellywood.ru
 0.0.0.0 helpls.ru
 0.0.0.0 henharat.ru
+0.0.0.0 hephedronwa.ru
 0.0.0.0 heprisitho.ru
 0.0.0.0 her-ber.top
 0.0.0.0 hermes-studio.net
@@ -1605,6 +1611,7 @@
 0.0.0.0 kinak.top
 0.0.0.0 kinderfinder.ru
 0.0.0.0 kinfly.ru
+0.0.0.0 kinoaction.ru
 0.0.0.0 kinobol.ru
 0.0.0.0 kinoclub.org
 0.0.0.0 kinogo.r.worldssl.net
@@ -2262,6 +2269,7 @@
 0.0.0.0 one-klick.ru
 0.0.0.0 onelead.ru
 0.0.0.0 one.lg.ua
+0.0.0.0 onemontay.ru
 0.0.0.0 onenima.com
 0.0.0.0 onepixshare.ru
 0.0.0.0 oneund.com
@@ -2826,6 +2834,7 @@
 0.0.0.0 skidl.ru
 0.0.0.0 skimresources.com
 0.0.0.0 s.kma1.biz
+0.0.0.0 skwstat.ru
 0.0.0.0 skyad1.ru
 0.0.0.0 skyad5.ru
 0.0.0.0 skyadsvideo1.ru
@@ -3054,10 +3063,12 @@
 0.0.0.0 thetabdot.com
 0.0.0.0 thor-media.ru
 0.0.0.0 thor-z.com
+0.0.0.0 threedrive.su
 0.0.0.0 thrilling.ru
 0.0.0.0 tibrashadow.ru
 0.0.0.0 timedirect.ru
 0.0.0.0 timeophone.com
+0.0.0.0 tinnaveran.ru
 0.0.0.0 tin.pornoset.org
 0.0.0.0 tin.xpornoset.com
 0.0.0.0 tisagama.com

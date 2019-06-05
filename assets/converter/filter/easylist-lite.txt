@@ -1,7 +1,7 @@
 # easylist-lite Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://cdn.adblockcdn.com/filters/easylist_lite.txt
-# Last Converted - 03.06.2019
+# Last Converted - 05.06.2019
 # Total Domains - 6504
 # Energized - ad.porn.malware blocking.
 # https://energized.pro

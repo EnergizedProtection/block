@@ -1,8 +1,8 @@
 # easyprivacy Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://easylist.to/easylist/easyprivacy.txt
-# Last Converted - 03.06.2019
-# Total Domains - 6934
+# Last Converted - 05.06.2019
+# Total Domains - 6936
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -3359,6 +3359,7 @@
 0.0.0.0 logger.kataweb.it
 0.0.0.0 logger.logidea.info
 0.0.0.0 logger.nerdwallet.com
+0.0.0.0 logger.pw
 0.0.0.0 logger.rm.uol.com.br
 0.0.0.0 logger.snackly.co
 0.0.0.0 logger.sociablelabs.com
@@ -4399,6 +4400,7 @@
 0.0.0.0 presentationtracking.netflix.com
 0.0.0.0 presjots.ga
 0.0.0.0 prfct.co
+0.0.0.0 prism.app-us1.com
 0.0.0.0 pr-link.eu
 0.0.0.0 pr-linktausch.de
 0.0.0.0 prnetwork.de

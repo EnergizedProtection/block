@@ -1,8 +1,8 @@
 # all-in-one-adblocklist Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/hl2guide/All-in-One-Customized-Adblock-List/master/deanoman-adblocklist.txt
-# Last Converted - 03.06.2019
-# Total Domains - 28450
+# Last Converted - 05.06.2019
+# Total Domains - 28484
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -49,6 +49,7 @@
 0.0.0.0 176162nd.in
 0.0.0.0 197c3b10bab3c1.com
 0.0.0.0 19jan-update13.azurewebsites.net
+0.0.0.0 1b8d89551340a.com
 0.0.0.0 1beb2a44.space
 0.0.0.0 1.bp.blogspot.com
 0.0.0.0 1cb70f6b7aab4c70819a.date
@@ -208,6 +209,7 @@
 0.0.0.0 4.bp.blogspot.com
 0.0.0.0 4d2911e5a4e352.com
 0.0.0.0 4dsply.com
+0.0.0.0 4fba771f87a0251.com
 0.0.0.0 4jnzhl0d0.com
 0.0.0.0 4kmoviesclub.com
 0.0.0.0 4man9.cf
@@ -243,6 +245,7 @@
 0.0.0.0 720-trail.co.uk
 0.0.0.0 72hdownload.com
 0.0.0.0 74055djs.info
+0.0.0.0 75ce0f054e9abc.com
 0.0.0.0 76561198132995169.info
 0.0.0.0 765629637995169.space
 0.0.0.0 7667bab1751ff777.com
@@ -1025,6 +1028,7 @@
 0.0.0.0 aiwhebey.com
 0.0.0.0 aizopowmtnho.com
 0.0.0.0 aj1110.online
+0.0.0.0 aj1616.online
 0.0.0.0 ajaeihzlcwvn.com
 0.0.0.0 a.jango.com
 0.0.0.0 ajax.cloudflare.com
@@ -1151,6 +1155,7 @@
 0.0.0.0 allpass.salemwebnetwork.com
 0.0.0.0 allpsncodes.com
 0.0.0.0 all-screenshots.net
+0.0.0.0 allstat-pp.ru
 0.0.0.0 alltagcloud.info
 0.0.0.0 allthecheats.net
 0.0.0.0 alltracked.com
@@ -1718,6 +1723,7 @@
 0.0.0.0 apple-visit-reply.com
 0.0.0.0 apple-warnings-security247.info
 0.0.0.0 apple.www.letv.com
+0.0.0.0 applicalled.club
 0.0.0.0 applicationgrabb.net
 0.0.0.0 applicationshacks.eu
 0.0.0.0 app.link
@@ -2118,6 +2124,7 @@
 0.0.0.0 b2c.com
 0.0.0.0 b2c-wsinsight.crowdfactory.com
 0.0.0.0 b36df47b3d.site.internapcdn.net
+0.0.0.0 b3f17a21a3d.com
 0.0.0.0 b3.hoopchina.com.cn
 0.0.0.0 b3z29k1uxb.com
 0.0.0.0 b4e12976c052bbd91c3e.date
@@ -2607,6 +2614,7 @@
 0.0.0.0 bigclick.me
 0.0.0.0 bigdoor.com
 0.0.0.0 bigdown10.icu
+0.0.0.0 bigdown27.icu
 0.0.0.0 bigdown34.life
 0.0.0.0 bigdown6.agency
 0.0.0.0 bigfineads.com
@@ -3246,6 +3254,7 @@
 0.0.0.0 c4tracking01.com
 0.0.0.0 c4tw.net
 0.0.0.0 c712236afa001382be31.date
+0.0.0.0 ca0fe9ab61.com
 0.0.0.0 caaarss.us
 0.0.0.0 caajevalistl.com
 0.0.0.0 caanalytics.com
@@ -3311,6 +3320,7 @@
 0.0.0.0 candydollchan.org
 0.0.0.0 canehoney.com
 0.0.0.0 canlytics.com
+0.0.0.0 cannontwin.com
 0.0.0.0 canopylabs.com
 0.0.0.0 canvas-ping.conduit-data.com
 0.0.0.0 canvas-usage-v2.conduit-data.com
@@ -6338,6 +6348,7 @@
 0.0.0.0 dkxeorhjmua.com
 0.0.0.0 dl1d2m8ri9v3j.cloudfront.net
 0.0.0.0 dl3dsemulator.com
+0.0.0.0 dl6pkf7e.ru
 0.0.0.0 dlahijuwjsv.com
 0.0.0.0 dldzfr.com
 0.0.0.0 dlemeyrkjy.com
@@ -7908,6 +7919,7 @@
 0.0.0.0 f1tbit.com
 0.0.0.0 f2phacks.com
 0.0.0.0 f3c1cc473b337ded.com
+0.0.0.0 f4ceb8490e0d.com
 0.0.0.0 f53mbcg4ak.ru
 0.0.0.0 f6be7033f30.com
 0.0.0.0 f92j5.com
@@ -9487,6 +9499,7 @@
 0.0.0.0 funruncoinsgenerator.com
 0.0.0.0 funshared.com
 0.0.0.0 funstage.com
+0.0.0.0 funysmile93.agency
 0.0.0.0 fupgvldb.com
 0.0.0.0 furiousfiles.com
 0.0.0.0 furplay.net
@@ -10926,6 +10939,7 @@
 0.0.0.0 gxptetvbtkfj.com
 0.0.0.0 gxqjoqpkexn.bid
 0.0.0.0 gxqocoxl.com
+0.0.0.0 gxqotelkdra.com
 0.0.0.0 gxqrjjcsyh.com
 0.0.0.0 gxuibhjxssnrol.bid
 0.0.0.0 gxvbogvbcivs.com
@@ -13027,6 +13041,7 @@
 0.0.0.0 izhmxwivr.com
 0.0.0.0 iziwhlafxitn.com
 0.0.0.0 izixtxrvogaq.com
+0.0.0.0 izjguvanm.com
 0.0.0.0 izlzayrcegfvke.bid
 0.0.0.0 izmciznsszatv.com
 0.0.0.0 izmwtewwobxy.com
@@ -13187,6 +13202,7 @@
 0.0.0.0 jfnafbcysy.com
 0.0.0.0 jfribvstvcqy.com
 0.0.0.0 jfvadxjr.com
+0.0.0.0 jfvjtudp.com
 0.0.0.0 jfvoyuxmp.bid
 0.0.0.0 jfwfnxsdzhvxax.bid
 0.0.0.0 jfxiirxbl.bid
@@ -13486,6 +13502,7 @@
 0.0.0.0 jumhqsxgnkuvfn.bid
 0.0.0.0 jumplead.com
 0.0.0.0 jumplead.io
+0.0.0.0 jumpringpring31.agency
 0.0.0.0 jumpshot.com
 0.0.0.0 jumptime.com
 0.0.0.0 jump-time.net
@@ -14227,6 +14244,7 @@
 0.0.0.0 ldkyzudgbksh.com
 0.0.0.0 ldlritslfej.bid
 0.0.0.0 ldvmpopwd.com
+0.0.0.0 ldxdpitoeox.com
 0.0.0.0 ldybupeeeoq.bid
 0.0.0.0 ldyiuvdoahxz.com
 0.0.0.0 lead-123.com
@@ -14576,6 +14594,7 @@
 0.0.0.0 llgvjtkg.com
 0.0.0.0 llhjbwcjnuii.com
 0.0.0.0 lliumrpvj.com
+0.0.0.0 lljoapkfnwn.com
 0.0.0.0 lljtgiwhqtue.com
 0.0.0.0 llluzqrvfyrbt.com
 0.0.0.0 llnxfuxszevf.com
@@ -16387,6 +16406,7 @@
 0.0.0.0 myzsyljf.com
 0.0.0.0 mzhcaexrrl.com
 0.0.0.0 mzhyrgyo.bid
+0.0.0.0 mzjotkigwu.com
 0.0.0.0 mzkhhjueazkn.com
 0.0.0.0 mznijqwjkqadk.com
 0.0.0.0 mzqxeqrmgzxv.com
@@ -18167,6 +18187,7 @@
 0.0.0.0 ping.tvmaze.com
 0.0.0.0 pinnacle.com
 0.0.0.0 pinpoll.com
+0.0.0.0 pinpupevent.com
 0.0.0.0 pipe-collect.ebu.io
 0.0.0.0 pipedream.wistia.com
 0.0.0.0 pipeline.realtime.active.com
@@ -18433,6 +18454,7 @@
 0.0.0.0 pleboxviting.pro
 0.0.0.0 plecki.com
 0.0.0.0 pleisty.com
+0.0.0.0 plerdy.com
 0.0.0.0 plex2.com
 0.0.0.0 plexcoin.info
 0.0.0.0 plexop.com
@@ -18744,6 +18766,7 @@
 0.0.0.0 print-picture.com
 0.0.0.0 printscr.ga
 0.0.0.0 printscrreens.info
+0.0.0.0 prism.app-us1.com
 0.0.0.0 prism.pandora.tv
 0.0.0.0 prisonplanet.com
 0.0.0.0 privacy-center.org
@@ -19156,6 +19179,7 @@
 0.0.0.0 pwkzakhq.com
 0.0.0.0 pwlqrkgkk.com
 0.0.0.0 pwrdon.com
+0.0.0.0 pwrjjvjtvmr.com
 0.0.0.0 pwsdbnngexc.bid
 0.0.0.0 pwynoympqwgg.com
 0.0.0.0 pwzffpolfs.bid
@@ -19759,6 +19783,7 @@
 0.0.0.0 rat.rakuten.co.jp
 0.0.0.0 ravageskins.com
 0.0.0.0 rawybznxrp.bid
+0.0.0.0 raxlextehqhw.com
 0.0.0.0 razerbets.com
 0.0.0.0 razergiveaway.com
 0.0.0.0 razergo.com
@@ -19954,6 +19979,8 @@
 0.0.0.0 reitingi.lv
 0.0.0.0 rejbqhagczm.com
 0.0.0.0 rejestr.org
+0.0.0.0 reklamko.pro
+0.0.0.0 reklamtrk.com
 0.0.0.0 rekovers.ru
 0.0.0.0 rek.www.wp.pl
 0.0.0.0 relandssymphoking.info
@@ -20792,6 +20819,7 @@
 0.0.0.0 sdeadbqsjam.com
 0.0.0.0 sdemctwaiazt.com
 0.0.0.0 sdfmxhdj.bid
+0.0.0.0 sdgvzdksjbl.com
 0.0.0.0 sdk.push7.jp
 0.0.0.0 sdmfzlswxgzl.com
 0.0.0.0 sdmhsxlp.bid
@@ -21747,6 +21775,7 @@
 0.0.0.0 sparechange.io
 0.0.0.0 sp.argusleader.com
 0.0.0.0 sparkcodes.com
+0.0.0.0 sparklingnumber.com
 0.0.0.0 sparnove.com
 0.0.0.0 sp.azcentral.com
 0.0.0.0 sp.battlecreekenquirer.com
@@ -22970,6 +22999,7 @@
 0.0.0.0 t2.huluim.com
 0.0.0.0 t2.t2b.click
 0.0.0.0 t4ft.de
+0.0.0.0 t6yyk48.com
 0.0.0.0 t740.pt12kjov.com
 0.0.0.0 t78.net
 0.0.0.0 t7.rbxcdn.com
@@ -23025,6 +23055,7 @@
 0.0.0.0 take-the-bonus.biz
 0.0.0.0 takethestairs.today
 0.0.0.0 t-ak.hulu.com
+0.0.0.0 takshop91.biz
 0.0.0.0 taljdzwer.com
 0.0.0.0 talker4speak.com
 0.0.0.0 talk-for.com
@@ -23613,6 +23644,7 @@
 0.0.0.0 tl.tradetracker.net
 0.0.0.0 tlzovwtootkvbj.bid
 0.0.0.0 tm1-001.com
+0.0.0.0 tmblaeivephb.com
 0.0.0.0 tmcvwyrqwyp.com
 0.0.0.0 tmdbgmhh.com
 0.0.0.0 t.menepe.com
@@ -26025,6 +26057,7 @@
 0.0.0.0 vzhjnorkudcxbiy.com
 0.0.0.0 vzhlsmmboaqxlv.com
 0.0.0.0 vzkrfuzxoh.bid
+0.0.0.0 vzkyivowceqcsd.com
 0.0.0.0 vzlyapss.com
 0.0.0.0 vzmnvqiqgxqk.com
 0.0.0.0 vzozsebg.com
@@ -28116,6 +28149,7 @@
 0.0.0.0 zeusclicks.com
 0.0.0.0 zeuwuxfzvaoqp.bid
 0.0.0.0 zevszinklxyf.com
+0.0.0.0 zewkj.com
 0.0.0.0 zeyiihbqbswtn.bid
 0.0.0.0 zezowfisdfyn.com
 0.0.0.0 zfacts.com

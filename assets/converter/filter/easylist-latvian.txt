@@ -1,8 +1,8 @@
 # easylist-latvian Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://easylist-downloads.adblockplus.org/latvianlist+easylist.txt
-# Last Converted - 03.06.2019
-# Total Domains - 21015
+# Last Converted - 05.06.2019
+# Total Domains - 21034
 # Energized - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1269,6 +1269,7 @@
 0.0.0.0 adqic.com
 0.0.0.0 adquantix.com
 0.0.0.0 adquest3d.com
+0.0.0.0 adqy6rzwcs.com
 0.0.0.0 ad.rambler.ru
 0.0.0.0 a.draugiem.lv
 0.0.0.0 adrcdn.com
@@ -2608,6 +2609,7 @@
 0.0.0.0 babereporters.info
 0.0.0.0 babes.picrush.com
 0.0.0.0 babi.gdn
+0.0.0.0 babsedrinhi.info
 0.0.0.0 babyboomboomads.com
 0.0.0.0 ba.ccm2.net
 0.0.0.0 backbeatmedia.com
@@ -3820,6 +3822,7 @@
 0.0.0.0 cewviaslxyyr.com
 0.0.0.0 ceywprmvjy.com
 0.0.0.0 cf0aac5b4b68f728b22.com
+0.0.0.0 cf1c0.thisav.com
 0.0.0.0 cf26d627adf5.com
 0.0.0.0 cfasync.cf
 0.0.0.0 cfasync.ga
@@ -4031,6 +4034,7 @@
 0.0.0.0 click4free.info
 0.0.0.0 clickable.com
 0.0.0.0 click.absoluteagency.com
+0.0.0.0 clickadilla.com
 0.0.0.0 clickadin.com
 0.0.0.0 clickad.pl
 0.0.0.0 clickadu.com
@@ -7365,6 +7369,7 @@
 0.0.0.0 getresponse.com
 0.0.0.0 get.rubyroyal.com
 0.0.0.0 getscorecash.com
+0.0.0.0 getscriptjs.com
 0.0.0.0 getsecuredfiles.com
 0.0.0.0 get.slotocash.com
 0.0.0.0 gets-web.space
@@ -7858,6 +7863,7 @@
 0.0.0.0 gxptetvbtkfj.com
 0.0.0.0 gxqjoqpkexn.bid
 0.0.0.0 gxqocoxl.com
+0.0.0.0 gxqotelkdra.com
 0.0.0.0 gxqrjjcsyh.com
 0.0.0.0 gxuibhjxssnrol.bid
 0.0.0.0 gxvbogvbcivs.com
@@ -9293,6 +9299,7 @@
 0.0.0.0 izhvnderudte.com
 0.0.0.0 iziwhlafxitn.com
 0.0.0.0 izixtxrvogaq.com
+0.0.0.0 izjguvanm.com
 0.0.0.0 izlzayrcegfvke.bid
 0.0.0.0 izmciznsszatv.com
 0.0.0.0 izmwtewwobxy.com
@@ -9441,6 +9448,7 @@
 0.0.0.0 jfresi.com
 0.0.0.0 jfribvstvcqy.com
 0.0.0.0 jfvadxjr.com
+0.0.0.0 jfvjtudp.com
 0.0.0.0 jfvoyuxmp.bid
 0.0.0.0 jfwfnxsdzhvxax.bid
 0.0.0.0 jfx61qca.site
@@ -10480,6 +10488,7 @@
 0.0.0.0 ldt1duixoe.com
 0.0.0.0 lduhtrp.net
 0.0.0.0 ldvmpopwd.com
+0.0.0.0 ldxdpitoeox.com
 0.0.0.0 ldybupeeeoq.bid
 0.0.0.0 ldyiuvdoahxz.com
 0.0.0.0 ldzqhq.biz
@@ -10729,6 +10738,7 @@
 0.0.0.0 llgvjtkg.com
 0.0.0.0 llhjbwcjnuii.com
 0.0.0.0 lliumrpvj.com
+0.0.0.0 lljoapkfnwn.com
 0.0.0.0 lljtgiwhqtue.com
 0.0.0.0 llluzqrvfyrbt.com
 0.0.0.0 llnxfuxszevf.com
@@ -11999,6 +12009,7 @@
 0.0.0.0 mzguykhxnuap.com
 0.0.0.0 mzhcaexrrl.com
 0.0.0.0 mzhyrgyo.bid
+0.0.0.0 mzjotkigwu.com
 0.0.0.0 mzkhhjueazkn.com
 0.0.0.0 mznijqwjkqadk.com
 0.0.0.0 mzol7lbm.com
@@ -12399,6 +12410,7 @@
 0.0.0.0 nocwsbtdiiufa.bid
 0.0.0.0 nodvmmtniokbz.bid
 0.0.0.0 noelshack.com
+0.0.0.0 nofejectontrab.info
 0.0.0.0 nofhtrsaz.com
 0.0.0.0 nofoxnalt.com
 0.0.0.0 nogxucpaktrya.com
@@ -14232,6 +14244,7 @@
 0.0.0.0 pusbamejpkxq.com
 0.0.0.0 puserving.com
 0.0.0.0 push2check.com
+0.0.0.0 pushads.biz
 0.0.0.0 pushagim.com
 0.0.0.0 pushame.com
 0.0.0.0 pushance.com
@@ -14317,8 +14330,10 @@
 0.0.0.0 pwkzakhq.com
 0.0.0.0 pwlqrkgkk.com
 0.0.0.0 pwrads.net
+0.0.0.0 pwrjjvjtvmr.com
 0.0.0.0 pwsdbnngexc.bid
 0.0.0.0 pwufxar8.top
+0.0.0.0 pw.wpu.sh
 0.0.0.0 pwynoympqwgg.com
 0.0.0.0 pwzffpolfs.bid
 0.0.0.0 pwzjsujf.bid
@@ -14927,8 +14942,10 @@
 0.0.0.0 ratari.ru
 0.0.0.0 rateaccept.net
 0.0.0.0 ratkalol.com
+0.0.0.0 ratrencalrep.com
 0.0.0.0 rawasy.com
 0.0.0.0 rawybznxrp.bid
+0.0.0.0 raxlextehqhw.com
 0.0.0.0 raz-raz-mataz.com
 0.0.0.0 razwrite.com
 0.0.0.0 rbaleno.info
@@ -15770,6 +15787,7 @@
 0.0.0.0 sdeadbqsjam.com
 0.0.0.0 sdemctwaiazt.com
 0.0.0.0 sdfmxhdj.bid
+0.0.0.0 sdgvzdksjbl.com
 0.0.0.0 sdjkldfhy.com
 0.0.0.0 sdmfzlswxgzl.com
 0.0.0.0 sdmhsxlp.bid
@@ -16779,7 +16797,6 @@
 0.0.0.0 tbaffiliate.com
 0.0.0.0 tbeouuheoyl.com
 0.0.0.0 tbhmqjpm.com
-0.0.0.0 tbib.org
 0.0.0.0 tbihymlvb.bid
 0.0.0.0 tbisruladc.bid
 0.0.0.0 tbjjzhkwfezt.com
@@ -17128,6 +17145,7 @@
 0.0.0.0 tlvmedia.com
 0.0.0.0 tlzhxxfeteeimoonsegagetpulbygiqyfvulvemqnfqnoazccg.com
 0.0.0.0 tlzovwtootkvbj.bid
+0.0.0.0 tmblaeivephb.com
 0.0.0.0 tm-core.net
 0.0.0.0 tmcs.net
 0.0.0.0 tmcvwyrqwyp.com
@@ -17640,7 +17658,6 @@
 0.0.0.0 txgklvrqjfubzn.bid
 0.0.0.0 txjzxbykbaflu.bid
 0.0.0.0 txknowcznfp.bid
-0.0.0.0 t.xtubetv.net
 0.0.0.0 txvivugnikdq.com
 0.0.0.0 txvsifff.com
 0.0.0.0 txvxzkwyelnvb.bid
@@ -18826,6 +18843,7 @@
 0.0.0.0 vzhbfwpo.com
 0.0.0.0 vzhlsmmboaqxlv.com
 0.0.0.0 vzkrfuzxoh.bid
+0.0.0.0 vzkyivowceqcsd.com
 0.0.0.0 vzlyapss.com
 0.0.0.0 vzmnvqiqgxqk.com
 0.0.0.0 vzoozv.com
@@ -20322,6 +20340,7 @@
 0.0.0.0 youradexchange.com
 0.0.0.0 your-big.com
 0.0.0.0 yourbittorrent2.com
+0.0.0.0 yourdarkdesires.com
 0.0.0.0 yourdatelink.com
 0.0.0.0 yourfastpaydayloans.com
 0.0.0.0 yourfuckbook.com
