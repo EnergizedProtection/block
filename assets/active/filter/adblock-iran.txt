@@ -1,0 +1,60 @@
+# adblock-iran Custom Hosts Build
+# Builds Maintainer: Nayem Ador - nayemador.com
+# Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/converter/filter/adblock-iran.txt
+# Last Converted - 17.07.2019
+# Total Domains - 51
+# Energized - ad.porn.malware blocking.
+# https://energized.pro
+# License: MIT; https://energized.pro/license
+
+0.0.0.0 ad.utop.ir
+0.0.0.0 adnegah.net
+0.0.0.0 ads.sahandar.com
+0.0.0.0 adtube.ir
+0.0.0.0 akhbarrasmi.com
+0.0.0.0 alef.ir
+0.0.0.0 anetwork.ir
+0.0.0.0 atighgasht.com
+0.0.0.0 backority.ir
+0.0.0.0 cdn.asriran.com
+0.0.0.0 cdn.iranweb.click
+0.0.0.0 clickyab.com
+0.0.0.0 dariconline.ir
+0.0.0.0 deema.agency
+0.0.0.0 emalls.ir
+0.0.0.0 foxpush.net
+0.0.0.0 irandigitalads.com
+0.0.0.0 iranweb.click
+0.0.0.0 irblue.ml
+0.0.0.0 irgreen.ml
+0.0.0.0 irjo.ga
+0.0.0.0 js.foxpush.com
+0.0.0.0 kaprila.com
+0.0.0.0 kimexa.com
+0.0.0.0 magnetadservices.com
+0.0.0.0 mediaad.org
+0.0.0.0 netbina.com
+0.0.0.0 p30rank.ir
+0.0.0.0 paypop.org
+0.0.0.0 poparya.com
+0.0.0.0 popbox.skinak.ir
+0.0.0.0 popupha.com
+0.0.0.0 popupplus.ir
+0.0.0.0 qoo.sh
+0.0.0.0 r.hitplus.ir
+0.0.0.0 radar.bayan.ir
+0.0.0.0 rajanews.com
+0.0.0.0 rzb.ir
+0.0.0.0 s.hitplus.ir
+0.0.0.0 sabavision.com
+0.0.0.0 sigmaad.com
+0.0.0.0 ssads.net
+0.0.0.0 tapsell.ir
+0.0.0.0 up.video-learn.net
+0.0.0.0 uploado.xyz
+0.0.0.0 vista.ir
+0.0.0.0 weclick.ir
+0.0.0.0 widget.congoro.com
+0.0.0.0 yasell.biz
+0.0.0.0 yektanet.com
+0.0.0.0 zarpop.com

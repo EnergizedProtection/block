@@ -1,0 +1,40 @@
+# adblock-estonian Custom Hosts Build
+# Builds Maintainer: Nayem Ador - nayemador.com
+# Converted From - http://gurud.ee/ab.txt
+# Last Converted - 17.07.2019
+# Total Domains - 31
+# Energized - ad.porn.malware blocking.
+# https://energized.pro
+# License: MIT; https://energized.pro/license
+
+0.0.0.0 ad.mylook.ee
+0.0.0.0 ado.delfi.ee
+0.0.0.0 ads2.opensubtitles.org
+0.0.0.0 ap.delfi.ee
+0.0.0.0 appever.com
+0.0.0.0 banners.adnetmedia.ee
+0.0.0.0 bnrs.ilm.ee
+0.0.0.0 cdn.advertserve.com
+0.0.0.0 cdn.onedmp.com
+0.0.0.0 content.yieldmanager.edgesuite.net
+0.0.0.0 dating.lt
+0.0.0.0 doubleclick.net
+0.0.0.0 exoclick.com
+0.0.0.0 ggamesrevenue.com
+0.0.0.0 googlesyndication.com
+0.0.0.0 i.pmo.ee
+0.0.0.0 ib.adnxs.com
+0.0.0.0 imgg.mgid.com
+0.0.0.0 isgroterbeter.com
+0.0.0.0 mg.mgid.com
+0.0.0.0 mmoframes.com
+0.0.0.0 pay4results.ee
+0.0.0.0 pussysaga.com
+0.0.0.0 rubiconproject.com
+0.0.0.0 sexgangsters.com
+0.0.0.0 sgreen.erne.co
+0.0.0.0 static.ads.crakmedia.com
+0.0.0.0 taboola.com
+0.0.0.0 vcdn.adnxs.com
+0.0.0.0 worldssl.net
+0.0.0.0 zizu.ee

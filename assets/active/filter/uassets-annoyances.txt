@@ -1,0 +1,13 @@
+# uassets-annoyances Custom Hosts Build
+# Builds Maintainer: Nayem Ador - nayemador.com
+# Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/converter/filter/uassets-annoyances.txt
+# Last Converted - 17.07.2019
+# Total Domains - 4
+# Energized - ad.porn.malware blocking.
+# https://energized.pro
+# License: MIT; https://energized.pro/license
+
+0.0.0.0 foxpush.net
+0.0.0.0 g17media.com
+0.0.0.0 holyclock.com
+0.0.0.0 lightboxcdn.com

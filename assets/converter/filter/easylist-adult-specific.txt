@@ -1,0 +1,80 @@
+# easylist-adult-specific Custom Hosts Build
+# Builds Maintainer: Nayem Ador - nayemador.com
+# Converted From - https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_specific_block.txt
+# Last Converted - 17.07.2019
+# Total Domains - 71
+# Energized - ad.porn.malware blocking.
+# https://energized.pro
+# License: MIT; https://energized.pro/license
+
+0.0.0.0 22pixx.xyz
+0.0.0.0 a.eporner.com
+0.0.0.0 a.heavy-r.com
+0.0.0.0 a.killergram-girls.com
+0.0.0.0 a2.hotpornfile.org
+0.0.0.0 ad.eporner.com
+0.0.0.0 ad.slutload.com
+0.0.0.0 ad.thisav.com
+0.0.0.0 ads.xxxbunker.com
+0.0.0.0 affiliates.goodvibes.com
+0.0.0.0 analsexstars.com
+0.0.0.0 anyporn.com
+0.0.0.0 ashot.txxx.com
+0.0.0.0 b.boyfriendtv.com
+0.0.0.0 b.pornoxo.com
+0.0.0.0 b.xcafe.com
+0.0.0.0 banner1.pornhost.com
+0.0.0.0 banners.cams.com
+0.0.0.0 bnnr.pornpics.com
+0.0.0.0 bob.crazyshit.com
+0.0.0.0 brcache.madthumbs.com
+0.0.0.0 bugel.pronpic.org
+0.0.0.0 cams.pornrabbit.com
+0.0.0.0 camvideos.tv
+0.0.0.0 cf1c0.thisav.com
+0.0.0.0 cloudfront.net
+0.0.0.0 creatives.cliphunter.com
+0.0.0.0 creatives.pichunter.com
+0.0.0.0 d1wi563t0137vz.cloudfront.net
+0.0.0.0 d2q52i8yx3j68p.cloudfront.net
+0.0.0.0 d39hdzmeufnl50.cloudfront.net
+0.0.0.0 delivery.porn.com
+0.0.0.0 dildo.tnaflix.com
+0.0.0.0 dot.eporner.com
+0.0.0.0 dot2.eporner.com
+0.0.0.0 dyn.tnaflix.com
+0.0.0.0 exit.macandbumble.com
+0.0.0.0 fantasti.cc
+0.0.0.0 go.strpjmp.com
+0.0.0.0 lw1.cdmediaworld.com
+0.0.0.0 media1.realgfporn.com
+0.0.0.0 myashot.txxx.com
+0.0.0.0 newmail.pronpic.org
+0.0.0.0 partners.keezmovies.com
+0.0.0.0 placeholder.com
+0.0.0.0 plx.porndig.com
+0.0.0.0 pornomovies.com
+0.0.0.0 pr-static.empflix.com
+0.0.0.0 pr-static.tnaflix.com
+0.0.0.0 pronpic.org
+0.0.0.0 pussyspace.com
+0.0.0.0 px.boundhub.com
+0.0.0.0 r.radikal.ru
+0.0.0.0 rev.fapdu.com
+0.0.0.0 rulirieter.com
+0.0.0.0 s.xvideos.com
+0.0.0.0 s3.amazonaws.com
+0.0.0.0 sexykittenporn.com
+0.0.0.0 site.img.4tube.com
+0.0.0.0 static.kinghost.com
+0.0.0.0 sub.avgle.com
+0.0.0.0 t.co
+0.0.0.0 thedoujin.com
+0.0.0.0 tkn.4tube.com
+0.0.0.0 tkn.fux.com
+0.0.0.0 tkn.pornerbros.com
+0.0.0.0 tkn.porntube.com
+0.0.0.0 x.eroticity.net
+0.0.0.0 x.vipergirls.to
+0.0.0.0 youporn.com
+0.0.0.0 yourdarkdesires.com

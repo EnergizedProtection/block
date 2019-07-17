@@ -1,0 +1,96 @@
+# easylist-czech-and-slovak Custom Hosts Build
+# Builds Maintainer: Nayem Ador - nayemador.com
+# Converted From - https://raw.githubusercontent.com/tomasko126/easylistczechandslovak/master/filters.txt
+# Last Converted - 17.07.2019
+# Total Domains - 87
+# Energized - ad.porn.malware blocking.
+# https://energized.pro
+# License: MIT; https://energized.pro/license
+
+0.0.0.0 001shop.cz
+0.0.0.0 10.im.cz
+0.0.0.0 a.blesk.cz
+0.0.0.0 a.csfd.cz
+0.0.0.0 a.denik.cz
+0.0.0.0 a.stats.cz
+0.0.0.0 ad.autobazar.cz
+0.0.0.0 ad.citynet.cz
+0.0.0.0 ad.czechia.com
+0.0.0.0 ad.eva.cz
+0.0.0.0 ad.seznam.cz
+0.0.0.0 ad.surtep.cz
+0.0.0.0 ad1.kde.cz
+0.0.0.0 adb.azet.sk
+0.0.0.0 adexpert.cz
+0.0.0.0 adform.net
+0.0.0.0 ads.cars.cz
+0.0.0.0 ads.esports.cz
+0.0.0.0 adverts.cz
+0.0.0.0 automodul.cz
+0.0.0.0 ban.tipsport.sk
+0.0.0.0 banan.cz
+0.0.0.0 banner.ifortuna.cz
+0.0.0.0 banners.onebit.cz
+0.0.0.0 bannersector.sector.sk
+0.0.0.0 bannery.ccb.cz
+0.0.0.0 betclick.com
+0.0.0.0 bidmax.cz
+0.0.0.0 campaigns.caroda.io
+0.0.0.0 chartbeat.com
+0.0.0.0 chartbeat.net
+0.0.0.0 chrek.stdout.cz
+0.0.0.0 cryweb.github.io
+0.0.0.0 d.vvbox.cz
+0.0.0.0 d.wedosas.net
+0.0.0.0 data.itiscali.cz
+0.0.0.0 dev.youcan.cz
+0.0.0.0 dmp.mall.tv
+0.0.0.0 dot.idot.cz
+0.0.0.0 ecigareta.eu
+0.0.0.0 fastshare.cz
+0.0.0.0 g.cz
+0.0.0.0 gjc.mall.tv
+0.0.0.0 heureka.cz
+0.0.0.0 heureka.sk
+0.0.0.0 ibillboard.com
+0.0.0.0 idvert.cz
+0.0.0.0 imedia.cz
+0.0.0.0 imr.sk
+0.0.0.0 inclick.sk
+0.0.0.0 intext.billboard.cz
+0.0.0.0 intext.lookit.cz
+0.0.0.0 intext.wdt.cz
+0.0.0.0 kamery.praha.eu
+0.0.0.0 liveagent.mobilbonus.cz
+0.0.0.0 megadarky.cz
+0.0.0.0 motorkari.cz
+0.0.0.0 n.hyperinzerce.cz
+0.0.0.0 netadvert.cz
+0.0.0.0 netsuccess.sk
+0.0.0.0 onthe.io
+0.0.0.0 out-ng.sklik.cz
+0.0.0.0 out.sklik.cz
+0.0.0.0 partner.mrtns.eu
+0.0.0.0 performax.cz
+0.0.0.0 pizzamodena.cz
+0.0.0.0 potenza.cz
+0.0.0.0 productads.cz
+0.0.0.0 productads.sk
+0.0.0.0 r.i0.cz
+0.0.0.0 recycle-static.zoznam.sk
+0.0.0.0 reklama.warforum.cz
+0.0.0.0 reklamy.s3.amazonaws.com
+0.0.0.0 rival.cz
+0.0.0.0 salesmanago.pl
+0.0.0.0 sda.online-systemy.cz
+0.0.0.0 stat.novinky.cz
+0.0.0.0 stat.sport.cz
+0.0.0.0 stat.super.cz
+0.0.0.0 supersouteze.best4man.cz
+0.0.0.0 sys.starnets.io
+0.0.0.0 trackad.cz
+0.0.0.0 videoad.cz
+0.0.0.0 xzone.cz
+0.0.0.0 zachej.sk
+0.0.0.0 zombiezone.cz
+0.0.0.0 zumail.cz

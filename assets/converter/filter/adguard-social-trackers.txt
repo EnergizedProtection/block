@@ -1,0 +1,59 @@
+# adguard-social-trackers Custom Hosts Build
+# Builds Maintainer: Nayem Ador - nayemador.com
+# Converted From - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SocialFilter/sections/social_trackers.txt
+# Last Converted - 17.07.2019
+# Total Domains - 50
+# Energized - ad.porn.malware blocking.
+# https://energized.pro
+# License: MIT; https://energized.pro/license
+
+0.0.0.0 addthis.com
+0.0.0.0 addthiscdn.com
+0.0.0.0 button.flattr.com
+0.0.0.0 cdn.wibiya.com
+0.0.0.0 changetip.com
+0.0.0.0 cim.meebo.com
+0.0.0.0 coverweb.org
+0.0.0.0 d.line-scdn.net
+0.0.0.0 filamentapp-assets.s3.amazonaws.com
+0.0.0.0 filamentapp.s3.amazonaws.com
+0.0.0.0 getbtn.com
+0.0.0.0 goodshare.ru
+0.0.0.0 hn-button.herokuapp.com
+0.0.0.0 i.po.st
+0.0.0.0 iknopo.ru
+0.0.0.0 img-trkcllcropy.mncdn.com
+0.0.0.0 lessbuttons.com
+0.0.0.0 likebtn.com
+0.0.0.0 linksalpha.com
+0.0.0.0 mediabuttons.ru
+0.0.0.0 nwidget.networkedblogs.com
+0.0.0.0 platform.linkedin.com
+0.0.0.0 plusone.google.com
+0.0.0.0 share.itraffic.su
+0.0.0.0 share.pluso.ru
+0.0.0.0 share.yandex.net
+0.0.0.0 share.yandex.ru
+0.0.0.0 shareaholic.com
+0.0.0.0 sharethis.com
+0.0.0.0 shorte.st
+0.0.0.0 snapwidget.com
+0.0.0.0 socpost.net
+0.0.0.0 static.addtoany.com
+0.0.0.0 static.hootsuite.com
+0.0.0.0 sumome-140a.kxcdn.com
+0.0.0.0 taboolasyndication.com
+0.0.0.0 tgwidget.com
+0.0.0.0 traq.li
+0.0.0.0 usocial.pro
+0.0.0.0 w.uptolike.com
+0.0.0.0 weheartit.com
+0.0.0.0 widget.instagramm.ru
+0.0.0.0 widget.instodom.com
+0.0.0.0 widget.pushbullet.com
+0.0.0.0 widgets-code.websta.me
+0.0.0.0 widgets.bufferapp.com
+0.0.0.0 widgets.getpocket.com
+0.0.0.0 woobox.com
+0.0.0.0 x.pluso.ru
+0.0.0.0 xing-share.com

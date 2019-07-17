@@ -1,0 +1,78 @@
+# polish-privacy-filters Custom Hosts Build
+# Builds Maintainer: Nayem Ador - nayemador.com
+# Converted From - https://raw.githubusercontent.com/olegwukr/polish-privacy-filters/master/adblock.txt
+# Last Converted - 17.07.2019
+# Total Domains - 69
+# Energized - ad.porn.malware blocking.
+# https://energized.pro
+# License: MIT; https://energized.pro/license
+
+0.0.0.0 0daib.pl
+0.0.0.0 adkontekst.pl
+0.0.0.0 adnxs.com
+0.0.0.0 analytics.ceneo.pl
+0.0.0.0 analytics.gazeta.pl
+0.0.0.0 api.useinsider.com
+0.0.0.0 audienceinsights.net
+0.0.0.0 back.marketing
+0.0.0.0 behavioralengine.com
+0.0.0.0 clickcounters.com
+0.0.0.0 clickmeter.com
+0.0.0.0 clickserve.dartsearch.net
+0.0.0.0 clk.tradedoubler.com
+0.0.0.0 cod.bitrec.com
+0.0.0.0 coin-hive.com
+0.0.0.0 connect-lb.islay.tech
+0.0.0.0 counter.hitslink.com
+0.0.0.0 creativecdn.com
+0.0.0.0 daib.pl
+0.0.0.0 devhub.pl
+0.0.0.0 edrone.me
+0.0.0.0 entryhit.wp.pl
+0.0.0.0 gcontent.services.tvn.pl
+0.0.0.0 gemius.pl
+0.0.0.0 histats.com
+0.0.0.0 hit.gemius.pl
+0.0.0.0 hitslink.interia.com.pl
+0.0.0.0 int.sitestat.com
+0.0.0.0 intrack.pl
+0.0.0.0 legenhit.com
+0.0.0.0 mis.em.nscontext.eu
+0.0.0.0 mklik.gazeta.pl
+0.0.0.0 netmng.com
+0.0.0.0 nextclick.pl
+0.0.0.0 nsaudience.pl
+0.0.0.0 pixel.solvemedia.com
+0.0.0.0 pixel.wp.pl
+0.0.0.0 plugin.management
+0.0.0.0 px.wp.pl
+0.0.0.0 quantserve.com
+0.0.0.0 revsci.net
+0.0.0.0 salesbee.pl
+0.0.0.0 salesbeehive.com
+0.0.0.0 salesmanago.pl
+0.0.0.0 smartclick.pl
+0.0.0.0 smpl.hit.ppdb.pl
+0.0.0.0 stat.4u.pl
+0.0.0.0 stat.dziennik.pl
+0.0.0.0 stat.onestat.com
+0.0.0.0 stat.pl
+0.0.0.0 stat24.com
+0.0.0.0 statcounter.com
+0.0.0.0 static.chartbeat.com
+0.0.0.0 stats-srv.rp.pl
+0.0.0.0 stats.goldenline.pl
+0.0.0.0 stats.wordpress.com
+0.0.0.0 stg.wp.pl
+0.0.0.0 sylaba.net
+0.0.0.0 track.buybox.click
+0.0.0.0 track.omgpl.com
+0.0.0.0 track.reinvigorate.net
+0.0.0.0 tracker.twenga.pl
+0.0.0.0 tracking.affiliate44.com.pl
+0.0.0.0 tracking.quisma.com
+0.0.0.0 unknow.now.sh
+0.0.0.0 ut.o2.pl
+0.0.0.0 vendimob.pl
+0.0.0.0 x.sare25.com
+0.0.0.0 ymetrica.com

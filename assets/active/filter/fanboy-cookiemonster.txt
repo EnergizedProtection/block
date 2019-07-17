@@ -1,0 +1,86 @@
+# fanboy-cookiemonster Custom Hosts Build
+# Builds Maintainer: Nayem Ador - nayemador.com
+# Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/converter/filter/fanboy-cookiemonster.txt
+# Last Converted - 17.07.2019
+# Total Domains - 77
+# Energized - ad.porn.malware blocking.
+# https://energized.pro
+# License: MIT; https://energized.pro/license
+
+0.0.0.0 admiral.mgr.consensu.org
+0.0.0.0 app.livemarketshoppers.com
+0.0.0.0 appconsent.io
+0.0.0.0 axept.io
+0.0.0.0 axeptio.eu
+0.0.0.0 clickio.mgr.consensu.org
+0.0.0.0 clickiocdn.com
+0.0.0.0 cmp.infopro-digital.com
+0.0.0.0 cmp.network-n.com
+0.0.0.0 cmp.nextday.media
+0.0.0.0 cnil.links-lab.fr
+0.0.0.0 consent.23g.io
+0.0.0.0 consent.subscriptions.archant.co.uk
+0.0.0.0 consent.theneweuropean.co.uk
+0.0.0.0 cookie-accept.com
+0.0.0.0 cookie-script.com
+0.0.0.0 cookie.aerostatonet.it
+0.0.0.0 cookie.gazeta.pl
+0.0.0.0 cookie.support
+0.0.0.0 cookie.vrt.be
+0.0.0.0 cookie.wieni.be
+0.0.0.0 cookieassistant.com
+0.0.0.0 cookiechoices.org
+0.0.0.0 cookieinformation.com
+0.0.0.0 cookieinfoscript.com
+0.0.0.0 cookielaw.org
+0.0.0.0 cookiemanager1.contentforces.com
+0.0.0.0 cookiepro.com
+0.0.0.0 cookieq.com
+0.0.0.0 cookiereports.com
+0.0.0.0 cookies.fakt.pl
+0.0.0.0 cookies.forbes.pl
+0.0.0.0 cookies.gardena.net
+0.0.0.0 cookies.innershed.co.uk
+0.0.0.0 cookies.leadplace.fr
+0.0.0.0 cookies.nos.nl
+0.0.0.0 cookies.unidadeditorial.es
+0.0.0.0 cookiescript.info
+0.0.0.0 dmgmediaprivacy.co.uk
+0.0.0.0 fundingchoices.google.com
+0.0.0.0 gazette-news-gb.gazette-news.co.uk
+0.0.0.0 gdpr.internetbrands.com
+0.0.0.0 gdpr.prisa.com
+0.0.0.0 global.mgr.consensu.org
+0.0.0.0 intermarkets.net
+0.0.0.0 iubenda.com
+0.0.0.0 marfeel.mgr.consensu.org
+0.0.0.0 mycookies.it
+0.0.0.0 oil.axelspringer.com
+0.0.0.0 onetag.mgr.consensu.org
+0.0.0.0 onetrust.com
+0.0.0.0 optanon.blob.core.windows.net
+0.0.0.0 privacy-center.org
+0.0.0.0 privacy.purch.com
+0.0.0.0 privacy.schibsted.com
+0.0.0.0 privacypolicy.trgr.be
+0.0.0.0 privacyportal.fatergroup.com
+0.0.0.0 publy.net
+0.0.0.0 rodo.agora.pl
+0.0.0.0 sharethis.mgr.consensu.org
+0.0.0.0 signatu.com
+0.0.0.0 skryptcookies.pl
+0.0.0.0 smartadserver.mgr.consensu.org
+0.0.0.0 smartcookies.it
+0.0.0.0 societe.mgr.consensu.org
+0.0.0.0 sourcepoint.mgr.consensu.org
+0.0.0.0 sp.knowyourmeme.com
+0.0.0.0 sthelensstar-gb.sthelensstar.co.uk
+0.0.0.0 tarteaucitron.ml
+0.0.0.0 thenational-gb.thenational.scot
+0.0.0.0 thirdfloor.it
+0.0.0.0 trustarc.com
+0.0.0.0 usercentrics.eu
+0.0.0.0 vendorlist.consensu.org
+0.0.0.0 worcesternews-gb.worcesternews.co.uk
+0.0.0.0 yourlocalguardian-gb.yourlocalguardian.co.uk
+0.0.0.0 zgody.infor.pl

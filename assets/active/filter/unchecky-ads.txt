@@ -1,0 +1,15 @@
+# unchecky-ads Custom Hosts Build
+# Builds Maintainer: Nayem Ador - nayemador.com
+# Converted From - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts
+# Last Converted - 17.07.2019
+# Total Domains - 6
+# Energized - ad.porn.malware blocking.
+# https://energized.pro
+# License: MIT; https://energized.pro/license
+
+0.0.0.0 cdn.appround.biz
+0.0.0.0 cdn.download.sweetpacks.com
+0.0.0.0 cdn.insta.playbryte.com
+0.0.0.0 cdn.msdwnld.com
+0.0.0.0 cdn.mypcbackup.com
+0.0.0.0 tracking.opencandy.com.s3.amazonaws.com

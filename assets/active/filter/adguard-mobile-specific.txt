@@ -1,0 +1,34 @@
+# adguard-mobile-specific Custom Hosts Build
+# Builds Maintainer: Nayem Ador - nayemador.com
+# Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/converter/filter/adguard-mobile-specific.txt
+# Last Converted - 17.07.2019
+# Total Domains - 25
+# Energized - ad.porn.malware blocking.
+# https://energized.pro
+# License: MIT; https://energized.pro/license
+
+0.0.0.0 adcs.rqmob.com
+0.0.0.0 adywind.com
+0.0.0.0 api-a.op-mobile.opera.com
+0.0.0.0 api.mobpowertech.com
+0.0.0.0 app.adjust.com
+0.0.0.0 batmobil.net
+0.0.0.0 cloudservice14.kingsoft-office-service.com
+0.0.0.0 com.europosit.polygon2d.coloringpuzzle
+0.0.0.0 d1si3tbndbzwz9.cloudfront.net
+0.0.0.0 d27tpsznug51gz.cloudfront.net
+0.0.0.0 dj1d6o6ftflzi.cloudfront.net
+0.0.0.0 facemap.foldlife.net
+0.0.0.0 feed.4wnet.com
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 hasmobi.net
+0.0.0.0 loc.map.baidu.com
+0.0.0.0 mcdp-nydc1.outbrain.com
+0.0.0.0 mobimagic.com
+0.0.0.0 mtag.mman.kr
+0.0.0.0 newad.ifeng.com
+0.0.0.0 outbrain.com
+0.0.0.0 preitem.wshareit.com
+0.0.0.0 promotion.polarisoffice.com
+0.0.0.0 taboola.com
+0.0.0.0 v.ssacdn.com

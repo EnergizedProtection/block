@@ -1,0 +1,25 @@
+# easylist-india Custom Hosts Build
+# Builds Maintainer: Nayem Ador - nayemador.com
+# Converted From - https://easylist-downloads.adblockplus.org/indianlist.txt
+# Last Converted - 17.07.2019
+# Total Domains - 16
+# Energized - ad.porn.malware blocking.
+# https://energized.pro
+# License: MIT; https://energized.pro/license
+
+0.0.0.0 adstudio.cloud
+0.0.0.0 bigyapan.hamropatro.com
+0.0.0.0 blogspot.com
+0.0.0.0 desipearl.com
+0.0.0.0 e4media.net
+0.0.0.0 fbs.com
+0.0.0.0 feedify.net
+0.0.0.0 gceleritasads.com
+0.0.0.0 hometamil.info
+0.0.0.0 imgur.com
+0.0.0.0 manithan.xyz
+0.0.0.0 royalharbinger.com
+0.0.0.0 ssl-images-amazon.com
+0.0.0.0 thepark63.com
+0.0.0.0 tinkerta.com
+0.0.0.0 wizardsbd.com

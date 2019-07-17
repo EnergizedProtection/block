@@ -1,0 +1,30 @@
+# wowdude-pornlist Custom Hosts Build
+# Builds Maintainer: Nayem Ador - nayemador.com
+# Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/converter/filter/wowdude-pornlist.txt
+# Last Converted - 17.07.2019
+# Total Domains - 21
+# Energized - ad.porn.malware blocking.
+# https://energized.pro
+# License: MIT; https://energized.pro/license
+
+0.0.0.0 0--e.info
+0.0.0.0 aahvz.top
+0.0.0.0 adsgem.com
+0.0.0.0 adultsadv.com
+0.0.0.0 bigclick.me
+0.0.0.0 dircont3.com
+0.0.0.0 flyflv.com
+0.0.0.0 gaysphoto.com
+0.0.0.0 greenpics.com
+0.0.0.0 hwcdn.net
+0.0.0.0 leanporn.com
+0.0.0.0 mpay4.info
+0.0.0.0 new.kdmmart.com
+0.0.0.0 nudisticcash.com
+0.0.0.0 pto.ptawe.com
+0.0.0.0 redtube.com
+0.0.0.0 sex.com
+0.0.0.0 smadultrade.com
+0.0.0.0 tmozs.com
+0.0.0.0 tubecup.org
+0.0.0.0 xvhvm.top

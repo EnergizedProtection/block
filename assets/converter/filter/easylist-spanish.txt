@@ -1,0 +1,83 @@
+# easylist-spanish Custom Hosts Build
+# Builds Maintainer: Nayem Ador - nayemador.com
+# Converted From - https://easylist-downloads.adblockplus.org/easylistspanish.txt
+# Last Converted - 17.07.2019
+# Total Domains - 74
+# Energized - ad.porn.malware blocking.
+# https://energized.pro
+# License: MIT; https://energized.pro/license
+
+0.0.0.0 aclaritics.info
+0.0.0.0 acortar.net
+0.0.0.0 adcarem.co
+0.0.0.0 adcloud.us
+0.0.0.0 adsrv4k.com
+0.0.0.0 adturtle.biz
+0.0.0.0 ainder.club
+0.0.0.0 algocashmaster.com
+0.0.0.0 algocashmaster.net
+0.0.0.0 alicdn.com
+0.0.0.0 amazonaws.com
+0.0.0.0 apendit.com
+0.0.0.0 asasfasdf.xyz
+0.0.0.0 authorne.info
+0.0.0.0 bannersweb.s3.amazonaws.com
+0.0.0.0 bit.ly
+0.0.0.0 brand.ad
+0.0.0.0 butlercdn.com
+0.0.0.0 canuckmethodprofit.co
+0.0.0.0 cinemalek.com
+0.0.0.0 cinmaland.com
+0.0.0.0 cloudfront.net
+0.0.0.0 copiapop.net
+0.0.0.0 cortanas.net
+0.0.0.0 cuponidad.pe
+0.0.0.0 cxrbw.aquipelis.net
+0.0.0.0 d2d8qsxiai9qwj.cloudfront.net
+0.0.0.0 demand.supply
+0.0.0.0 desbloqueador.org
+0.0.0.0 do67etikr7pwz.cloudfront.net
+0.0.0.0 doctoconve.club
+0.0.0.0 doragonborusupa.com
+0.0.0.0 earnco.in
+0.0.0.0 enlarget.com
+0.0.0.0 freelotto.com
+0.0.0.0 fuegodevida.com
+0.0.0.0 futbolbase.us
+0.0.0.0 goo.gl
+0.0.0.0 images.sprinklecontent.com
+0.0.0.0 imgur.com
+0.0.0.0 jlflzjdt.com
+0.0.0.0 kwinder.club
+0.0.0.0 leadzutw.com
+0.0.0.0 liveadoptimizer.com
+0.0.0.0 millionairedream.co
+0.0.0.0 mmoframes.com
+0.0.0.0 mundodescuento.s3.amazonaws.com
+0.0.0.0 musicatorrents.com
+0.0.0.0 niceduckies.com
+0.0.0.0 noddus.com
+0.0.0.0 onclicktop.com
+0.0.0.0 palmshapednontransferable.com
+0.0.0.0 paraisowebcam.com
+0.0.0.0 partner.leguide.com
+0.0.0.0 pvclouds.com
+0.0.0.0 ra.poringa.net
+0.0.0.0 rvv.emol.com
+0.0.0.0 secure-cloud.pro
+0.0.0.0 shinkme.com
+0.0.0.0 solidopinion.com
+0.0.0.0 sorteos.cf
+0.0.0.0 stact.megawarez.org
+0.0.0.0 static.playspace.com
+0.0.0.0 supportcorner.co
+0.0.0.0 t.co
+0.0.0.0 the-ufo.com
+0.0.0.0 todopuebla.com
+0.0.0.0 traffic.getmyads.com
+0.0.0.0 tvoy-million.co
+0.0.0.0 vitalads.net
+0.0.0.0 wekiss.co
+0.0.0.0 whipcountry.pw
+0.0.0.0 witholiced.info
+0.0.0.0 zeulo.anime-extremo.com

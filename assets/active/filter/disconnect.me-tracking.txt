@@ -1,0 +1,39 @@
+# disconnect.me-tracking Custom Hosts Build
+# Builds Maintainer: Nayem Ador - nayemador.com
+# Converted From - https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
+# Last Converted - 17.07.2019
+# Total Domains - 30
+# Energized - ad.porn.malware blocking.
+# https://energized.pro
+# License: MIT; https://energized.pro/license
+
+0.0.0.0 adjust.io
+0.0.0.0 airbrake.io
+0.0.0.0 appboy.com
+0.0.0.0 appsflyer.com
+0.0.0.0 apsalar.com
+0.0.0.0 bango.net
+0.0.0.0 basic-check.disconnect.me
+0.0.0.0 bkrtx.com
+0.0.0.0 bluekai.com
+0.0.0.0 bugsense.com
+0.0.0.0 burstly.com
+0.0.0.0 chartboost.com
+0.0.0.0 count.ly
+0.0.0.0 crittercism.com
+0.0.0.0 do-not-tracker.org
+0.0.0.0 eviltracker.net
+0.0.0.0 flurry.com
+0.0.0.0 getexceptional.com
+0.0.0.0 inmobi.com
+0.0.0.0 jumptap.com
+0.0.0.0 localytics.com
+0.0.0.0 mobile-collector.newrelic.com
+0.0.0.0 mobileapptracking.com
+0.0.0.0 playtomic.com
+0.0.0.0 stathat.com
+0.0.0.0 supercell.net
+0.0.0.0 tapjoy.com
+0.0.0.0 trackersimulator.org
+0.0.0.0 usergrid.com
+0.0.0.0 vungle.com

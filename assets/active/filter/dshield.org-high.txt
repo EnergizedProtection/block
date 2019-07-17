@@ -1,0 +1,11 @@
+# dshield.org-high Custom Hosts Build
+# Builds Maintainer: Nayem Ador - nayemador.com
+# Converted From - https://www.dshield.org/feeds/suspiciousdomains_High.txt
+# Last Converted - 17.07.2019
+# Total Domains - 2
+# Energized - ad.porn.malware blocking.
+# https://energized.pro
+# License: MIT; https://energized.pro/license
+
+0.0.0.0 i01001.dgn.vn
+0.0.0.0 pagaldaily.com

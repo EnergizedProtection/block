@@ -1,0 +1,52 @@
+# fanboy-indian Custom Hosts Build
+# Builds Maintainer: Nayem Ador - nayemador.com
+# Converted From - https://fanboy.co.nz/fanboy-indian.txt
+# Last Converted - 17.07.2019
+# Total Domains - 43
+# Energized - ad.porn.malware blocking.
+# https://energized.pro
+# License: MIT; https://energized.pro/license
+
+0.0.0.0 addynamo.com
+0.0.0.0 adfonic.net
+0.0.0.0 admagnet.net
+0.0.0.0 adohana.com
+0.0.0.0 ads.sampurn.com
+0.0.0.0 ads.webindia123.com
+0.0.0.0 atomex.net
+0.0.0.0 axill.in
+0.0.0.0 azadmob.in
+0.0.0.0 besttop.mobi
+0.0.0.0 c-stat.eu
+0.0.0.0 c.waplog.net
+0.0.0.0 c.wen.ru
+0.0.0.0 clickwinks.com
+0.0.0.0 contentxn.com
+0.0.0.0 countreg.com
+0.0.0.0 daylogs.com
+0.0.0.0 eduads.net
+0.0.0.0 hindiranks.com
+0.0.0.0 hyperwebads.com
+0.0.0.0 inmobi.com
+0.0.0.0 mpression.net
+0.0.0.0 net-filter.com
+0.0.0.0 netklix.com
+0.0.0.0 nkl4u.in
+0.0.0.0 ontoplist.com
+0.0.0.0 pakranks.com
+0.0.0.0 profile.bharatmatrimony.com
+0.0.0.0 sexgoesmobile.com
+0.0.0.0 shaadi.com
+0.0.0.0 smaato.net
+0.0.0.0 statistics.infowap.info
+0.0.0.0 stats.ozwebsites.biz
+0.0.0.0 top.nash-kovcheg.ru
+0.0.0.0 topindia.org
+0.0.0.0 toplinkxchange.com
+0.0.0.0 tracksongs.dhingana.com
+0.0.0.0 tscounter.com
+0.0.0.0 vserv.mobi
+0.0.0.0 waptarget.com
+0.0.0.0 waptrack.net
+0.0.0.0 whosread.com
+0.0.0.0 zadserver.com

@@ -1,0 +1,54 @@
+# adversity-anti-social Custom Hosts Build
+# Builds Maintainer: Nayem Ador - nayemador.com
+# Converted From - https://raw.githubusercontent.com/Hubird-au/Adversity/master/Antisocial.txt
+# Last Converted - 17.07.2019
+# Total Domains - 45
+# Energized - ad.porn.malware blocking.
+# https://energized.pro
+# License: MIT; https://energized.pro/license
+
+0.0.0.0 addthis.com
+0.0.0.0 assets.pinterest.com
+0.0.0.0 assets.tumblr.com
+0.0.0.0 badge.empireavenue.com
+0.0.0.0 badge.facebook.com
+0.0.0.0 bufferapp.com
+0.0.0.0 buzzbuttons.com
+0.0.0.0 buzzfeed.com
+0.0.0.0 digg.com
+0.0.0.0 doubleclick.net
+0.0.0.0 fbcdn.net
+0.0.0.0 graph.facebook.com
+0.0.0.0 linkedin.com
+0.0.0.0 linksalpha.com
+0.0.0.0 niftybuttons.com
+0.0.0.0 pinit-cdn.pinterest.com
+0.0.0.0 platform.foursquare.com
+0.0.0.0 platform.tumblr.com
+0.0.0.0 reddit.com
+0.0.0.0 sharethis.com
+0.0.0.0 slashdot.org
+0.0.0.0 socialguide.com
+0.0.0.0 socialize-it.com
+0.0.0.0 sociallist.org
+0.0.0.0 socialmarker.com
+0.0.0.0 socialtwist.com
+0.0.0.0 static.addtoany.com
+0.0.0.0 stumble-upon.com
+0.0.0.0 stumbleupon.com
+0.0.0.0 tinker.com
+0.0.0.0 tools.awe.sm
+0.0.0.0 topsy.com
+0.0.0.0 tweetboard.com
+0.0.0.0 tweetmeme.com
+0.0.0.0 twitbuttons.com
+0.0.0.0 twittercounter.com
+0.0.0.0 twitthis.com
+0.0.0.0 wibiya.com
+0.0.0.0 widgets.awe.sm
+0.0.0.0 widgets.dzone.com
+0.0.0.0 widgets.getglue.com
+0.0.0.0 widgets.klout.com
+0.0.0.0 widgets.twimg.com
+0.0.0.0 widgetsplus.com
+0.0.0.0 xing-share.com

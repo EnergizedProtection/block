@@ -1,0 +1,35 @@
+# uassets-privacy Custom Hosts Build
+# Builds Maintainer: Nayem Ador - nayemador.com
+# Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/converter/filter/uassets-privacy.txt
+# Last Converted - 17.07.2019
+# Total Domains - 26
+# Energized - ad.porn.malware blocking.
+# https://energized.pro
+# License: MIT; https://energized.pro/license
+
+0.0.0.0 adblockanalytics.com
+0.0.0.0 addthis.com
+0.0.0.0 adnotbad.com
+0.0.0.0 adserv.info
+0.0.0.0 callreports.com
+0.0.0.0 colpirio.com
+0.0.0.0 icontent.us
+0.0.0.0 jsfuel.com
+0.0.0.0 lnkr.us
+0.0.0.0 log.logrocket.io
+0.0.0.0 metrext.com
+0.0.0.0 mutinyhq.com
+0.0.0.0 pubexchange.com
+0.0.0.0 qip.ng
+0.0.0.0 qip.ru
+0.0.0.0 ratexchange.net
+0.0.0.0 scappoosebirds.com
+0.0.0.0 serverads.net
+0.0.0.0 silkenthreadiness.info
+0.0.0.0 spaceshipad.com
+0.0.0.0 taboola.com
+0.0.0.0 takethatad.com
+0.0.0.0 thisisacoolthing.com
+0.0.0.0 thisisanothercoolthing.com
+0.0.0.0 tradeadsexchange.com
+0.0.0.0 trendtext.eu

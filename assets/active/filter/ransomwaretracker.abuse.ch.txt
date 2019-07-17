@@ -1,0 +1,69 @@
+# ransomwaretracker.abuse.ch Custom Hosts Build
+# Builds Maintainer: Nayem Ador - nayemador.com
+# Converted From - https://v.firebog.net/hosts/RansomTrack.txt
+# Last Converted - 17.07.2019
+# Total Domains - 60
+# Energized - ad.porn.malware blocking.
+# https://energized.pro
+# License: MIT; https://energized.pro/license
+
+0.0.0.0 25z5g623wpqpdwis.onion.to
+0.0.0.0 32kl2rwsjvqjeui7.onion.cab
+0.0.0.0 32kl2rwsjvqjeui7.onion.to
+0.0.0.0 32kl2rwsjvqjeui7.tor2web.org
+0.0.0.0 6dtxgqam4crv6rr6.onion.cab
+0.0.0.0 6g4ds.froekuge.com
+0.0.0.0 88fga.ketteaero.com
+0.0.0.0 974gfbjhb23hbfkyfaby3byqlyuebvly5q254y.mendilobo.com
+0.0.0.0 as3ws.fopyirr.com
+0.0.0.0 b4youfred5485jgsa3453f.italazudda.com
+0.0.0.0 corefitness.info
+0.0.0.0 d34fa.lasmeio.com
+0.0.0.0 dyoravdkiavfkbkx.pw
+0.0.0.0 f5xraa2y2ybtrefz.onion.to
+0.0.0.0 gfkuwflbhsjdabnu4nfukerfqwlfwr4rw.ringbalor.com
+0.0.0.0 gitybdjgbxd.nl
+0.0.0.0 gwbak.nickymaru.com
+0.0.0.0 gwe32fdr74bhfsyujb34gfszfv.zatcurr.com
+0.0.0.0 h3ds4.maconslab.com
+0.0.0.0 h5nuwefkuh134ljngkasdbasfg.corolbugan.com
+0.0.0.0 hrfgd74nfksjdcnnklnwefvdsf.materdunst.com
+0.0.0.0 i01001.dgn.vn
+0.0.0.0 i3ezlvkoi7fwyood.onion.to
+0.0.0.0 i3ezlvkoi7fwyood.tor2web.org
+0.0.0.0 irudhkunrlfu25fhkaqw34blr5qlby4tgq43t.orrisbirth.com
+0.0.0.0 jhomitevd2abj3fk.onion.to
+0.0.0.0 k234s.ascotsprue.com
+0.0.0.0 k34ew.keyedgell.com
+0.0.0.0 k3cxd.pileanoted.com
+0.0.0.0 k47d3.proporr.com
+0.0.0.0 kh5jfnvkk5twerfnku5twuilrnglnuw45yhlw.vealsithe.com
+0.0.0.0 kkr4hbwdklf234bfl84uoqleflqwrfqwuelfh.brazabaya.com
+0.0.0.0 lpholfnvwbukqwye.onion.cab
+0.0.0.0 lpholfnvwbukqwye.onion.to
+0.0.0.0 mphtadhci5mrdlju.onion.to
+0.0.0.0 mphtadhci5mrdlju.tor2web.org
+0.0.0.0 muuojcu.xyz
+0.0.0.0 nnrtsdf34dsjhb23rsdf.spannflow.com
+0.0.0.0 oehknf74ohqlfnpq9rhfgcq93g.hateflux.com
+0.0.0.0 ozfin.ru
+0.0.0.0 pagaldaily.com
+0.0.0.0 prest54538hnksjn4kjfwdbhwere.hotchunman.com
+0.0.0.0 pts764gt354fder34fsqw45gdfsavadfgsfg.kraskula.com
+0.0.0.0 rbg4hfbilrf7to452p89hrfq.boonmower.com
+0.0.0.0 t54ndnku456ngkwsudqer.wallymac.com
+0.0.0.0 tdhyjfxltpj.pw
+0.0.0.0 twbers4hmi6dc65f.onion.cab
+0.0.0.0 twbers4hmi6dc65f.onion.to
+0.0.0.0 twbers4hmi6dc65f.tor2web.org
+0.0.0.0 u24er.ovaarmor.com
+0.0.0.0 u54bbnhf354fbkh254tbkhjbgy8258gnkwerg.tahaplap.com
+0.0.0.0 uhufnlsad7bhf4ykqfbevmxergwrth.himfinn.com
+0.0.0.0 uiredn4njfsa4234bafb32ygjdawfvs.frascuft.com
+0.0.0.0 uj5nj.onanwhit.com
+0.0.0.0 wpvvusso.xyz
+0.0.0.0 www.1axb.com
+0.0.0.0 www.newtonpaiva.br
+0.0.0.0 zjfq4lnfbs7pncr5.onion.to
+0.0.0.0 zjfq4lnfbs7pncr5.tor2web.org
+0.0.0.0 zutzt67dcxr6mxcn.onion.to

@@ -1,0 +1,68 @@
+# fanboy-annoyance Custom Hosts Build
+# Builds Maintainer: Nayem Ador - nayemador.com
+# Converted From - https://raw.githubusercontent.com/hectorm/hMirror/master/data/fanboy-annoyance/list.txt
+# Last Converted - 17.07.2019
+# Total Domains - 59
+# Energized - ad.porn.malware blocking.
+# https://energized.pro
+# License: MIT; https://energized.pro/license
+
+0.0.0.0 alerts.ndtv.com
+0.0.0.0 alerts.thedailystar.net
+0.0.0.0 appconsent.io
+0.0.0.0 cf-particle-html.eip.telegraph.co.uk
+0.0.0.0 cmp.infopro-digital.com
+0.0.0.0 cmp.network-n.com
+0.0.0.0 cmp.nextday.media
+0.0.0.0 cnil.links-lab.fr
+0.0.0.0 consent.23g.io
+0.0.0.0 consent.subscriptions.archant.co.uk
+0.0.0.0 consent.theneweuropean.co.uk
+0.0.0.0 cookie.aerostatonet.it
+0.0.0.0 cookie.gazeta.pl
+0.0.0.0 cookie.vrt.be
+0.0.0.0 cookie.wieni.be
+0.0.0.0 cookies.fakt.pl
+0.0.0.0 cookies.forbes.pl
+0.0.0.0 cookies.gardena.net
+0.0.0.0 cookies.innershed.co.uk
+0.0.0.0 cookies.leadplace.fr
+0.0.0.0 cookies.nos.nl
+0.0.0.0 cookies.unidadeditorial.es
+0.0.0.0 d15r06k2ko210l.cloudfront.net
+0.0.0.0 d2ip7iv1l4ergv.cloudfront.net
+0.0.0.0 d2r1yp2w7bby2u.cloudfront.net
+0.0.0.0 d5k6iufjynyu8.cloudfront.net
+0.0.0.0 d9etzk30b05yg.cloudfront.net
+0.0.0.0 dhpikd1t89arn.cloudfront.net
+0.0.0.0 ds-recommender.styria.hr
+0.0.0.0 emailing.rfi.fr
+0.0.0.0 forms.windowsitpro.com
+0.0.0.0 gazette-news-gb.gazette-news.co.uk
+0.0.0.0 gdpr.internetbrands.com
+0.0.0.0 gdpr.prisa.com
+0.0.0.0 mailmunch.s3.amazonaws.com
+0.0.0.0 mdsngpush.finanzen.net
+0.0.0.0 newsletter.bdnews24.com
+0.0.0.0 newsletters.vocento.com
+0.0.0.0 notifiche.secoloditalia.it
+0.0.0.0 notify.hindustantimes.com
+0.0.0.0 optanon.blob.core.windows.net
+0.0.0.0 privacy.purch.com
+0.0.0.0 privacy.schibsted.com
+0.0.0.0 privacypolicy.trgr.be
+0.0.0.0 privacyportal.fatergroup.com
+0.0.0.0 push.cnnindonesia.com
+0.0.0.0 rodo.agora.pl
+0.0.0.0 share.baidu.com
+0.0.0.0 social.dw.de
+0.0.0.0 sp.knowyourmeme.com
+0.0.0.0 sthelensstar-gb.sthelensstar.co.uk
+0.0.0.0 subscriptions.cbc.ca
+0.0.0.0 thenational-gb.thenational.scot
+0.0.0.0 traffic.styria.hr
+0.0.0.0 twitter-badges.s3.amazonaws.com
+0.0.0.0 widgets.sprinkletxt.com
+0.0.0.0 worcesternews-gb.worcesternews.co.uk
+0.0.0.0 yourlocalguardian-gb.yourlocalguardian.co.uk
+0.0.0.0 zgody.infor.pl
