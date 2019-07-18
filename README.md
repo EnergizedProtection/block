@@ -4,7 +4,7 @@
 
 <div align="center">
   <!-- Version -->
-    <img src="https://img.shields.io/badge/Version-19.07.198-blue.svg?longCache=true&style=flat-square"
+     <img src="https://img.shields.io/badge/Version-19.07.198-blue.svg?longCache=true&style=flat-square"
       alt="19.07.198" />
   <!-- Last Updated -->
     <img src="https://img.shields.io/badge/Updated-Jul 17, 2019-orange.svg?longCache=true&style=flat-square"
@@ -12,6 +12,8 @@
   <!-- Status -->
     <img src="https://img.shields.io/badge/Status-Stable-green.svg?longCache=true&style=flat-square"
       alt="_time_stamp_" />
+  <!-- Open Collective -->
+  <a href="https://opencollective.com/energizedprotection" alt="Financial Contributors on Open Collective"><img src="https://opencollective.com/energizedprotection/all/badge.svg?label=financial+contributors&style=flat-square" /></a>
 </div>
 
 <div align="center">
@@ -387,6 +389,36 @@ This donation is for our services, not for any pack, resource or any other mean.
 
 Energized Protection Block Lists are basically `blacklists` files to block access to domains. If you don't know how it works, then please try this at your own risk. I won't be responsible for any damage or loss. Never forget to make backup.
 
+
+## Contributors
+
+### Code Contributors
+
+This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
+<a href="https://github.com/EnergizedProtection/block/graphs/contributors"><img src="https://opencollective.com/energizedprotection/contributors.svg?width=890&button=false" /></a>
+
+### Financial Contributors
+
+Become a financial contributor and help us sustain our community. [[Contribute](https://opencollective.com/energizedprotection/contribute)]
+
+#### Individuals
+
+<a href="https://opencollective.com/energizedprotection"><img src="https://opencollective.com/energizedprotection/individuals.svg?width=890"></a>
+
+#### Organizations
+
+Support this project with your organization. Your logo will show up here with a link to your website. [[Contribute](https://opencollective.com/energizedprotection/contribute)]
+
+<a href="https://opencollective.com/energizedprotection/organization/0/website"><img src="https://opencollective.com/energizedprotection/organization/0/avatar.svg"></a>
+<a href="https://opencollective.com/energizedprotection/organization/1/website"><img src="https://opencollective.com/energizedprotection/organization/1/avatar.svg"></a>
+<a href="https://opencollective.com/energizedprotection/organization/2/website"><img src="https://opencollective.com/energizedprotection/organization/2/avatar.svg"></a>
+<a href="https://opencollective.com/energizedprotection/organization/3/website"><img src="https://opencollective.com/energizedprotection/organization/3/avatar.svg"></a>
+<a href="https://opencollective.com/energizedprotection/organization/4/website"><img src="https://opencollective.com/energizedprotection/organization/4/avatar.svg"></a>
+<a href="https://opencollective.com/energizedprotection/organization/5/website"><img src="https://opencollective.com/energizedprotection/organization/5/avatar.svg"></a>
+<a href="https://opencollective.com/energizedprotection/organization/6/website"><img src="https://opencollective.com/energizedprotection/organization/6/avatar.svg"></a>
+<a href="https://opencollective.com/energizedprotection/organization/7/website"><img src="https://opencollective.com/energizedprotection/organization/7/avatar.svg"></a>
+<a href="https://opencollective.com/energizedprotection/organization/8/website"><img src="https://opencollective.com/energizedprotection/organization/8/avatar.svg"></a>
+<a href="https://opencollective.com/energizedprotection/organization/9/website"><img src="https://opencollective.com/energizedprotection/organization/9/avatar.svg"></a>
 
 ## License
 
