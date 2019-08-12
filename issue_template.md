@@ -95,7 +95,7 @@ Write us a lil bit more about your issue or query. You can attach any screen sho
 
 
 <!------------------ Type before this tag ------------------>
-<!-- Just a desciption of the issue when you visit the site/use app/software. Or steps on reproducing this -->
+<!-- Just a description of the issue when you visit the site/use app/software. Or steps on reproducing this -->
 <hr>
 
 <!-- IF YOU ARE DONE TYPING ALL THE INFO, KINDLY PREVIEW YOUR INPUT AND CHECK YOU AREN'T MISSING ANYTHING. -->
