@@ -130,10 +130,10 @@ IP Extension | Malicious IP protection. | MID - HIGH END | 56,228 | 792K | [/e/i
 
 You can use any `practical` way you want to use Energized Protection on your devices, if you know what you are doing. But if you are clueless, there are few suggestions.
 
-- __rooted android:__ `Energized Protection` Magisk Module makes your experience better on Magisk-ly Rooted Android devices. Grab it from `Magisk Manager > Download`. If you aren't that familiar with that stuff, then you can use `AdAway (Latest)` with GIT RAW Sources now. 
-- __non-rooted android:__ If you are not using any root solution, then you can use `DNS66`, `BLOKADA` or `Perosnal DNS Filter` with any of the Energized Source.
+- __rooted android:__ `Energized Protection` Magisk Module makes your experience better on Magisk-ly Rooted Android devices. Grab it from `Magisk Manager > Download`. If you aren't that familiar with that stuff, then you can use [`AdAway (Latest)`](https://adaway.org/) with GIT RAW Sources now. 
+- __non-rooted android:__ If you are not using any root solution, then you can use [`DNS66`](https://github.com/julian-klode/dns66), [`BLOKADA`](https://blokada.org/) or [`Personal DNS Filter`](https://www.zenz-solutions.de/personaldnsfilter/) with any of the Energized Source.
 - __ios:__ Use any `Adblocking Client` app with Energized Source.
-- __windows:__ On Windows, you can use `HostsMan` to get the best Windows Hosts Usage Experience.
+- __windows:__ On Windows, you can use [`HostsMan`](http://www.abelhadigital.com/hostsman/) to get the best Windows Hosts Usage Experience.
 - __linux:__ `Energized Protection` Linux Script is there for you! Check [here](https://github.com/EnergizedProtection/Energized_Linux) for more info. 
 
 For further assistance, knock us on our [Telegram Group](http://go.energized.pro/telegram) or visit our [instructions](https://energized.pro/instructions) page.
@@ -429,4 +429,3 @@ The content of this project itself is licensed under the [MIT](https://github.co
 <p align="center"><sub>A project by <a href="https://nayemador.com" target="_blank">Ador</a> with ❤<p>
 
 <p align="center"><a href="https://saythanks.io/to/AdroitAdorKhan" target="_blank"><img src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg?longCache=true&style=flat-square"></a><p>
-
