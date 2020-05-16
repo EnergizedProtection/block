@@ -1,0 +1,3 @@
+# Check page support
+0.0.0.0 watchdog-blugo.energized.pro
+#
