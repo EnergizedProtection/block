@@ -127,7 +127,7 @@ You can use any `practical` way you want to use Energized Protection on your dev
 - __non-rooted android:__ If you are not using any root solution, then you can use [`DNS66`](https://github.com/julian-klode/dns66), [`BLOKADA`](https://blokada.org/), [`Personal DNS Filter`](https://www.zenz-solutions.de/personaldnsfilter/) or [`Nebulo`](https://nebulo.app/source) with any of the Energized Source.
 - __ios:__ Use any `Adblocking Client` app with Energized Protection Source.
 - __windows:__ On Windows, you can use [`HostsMan`](http://www.abelhadigital.com/hostsman/) to get the best Windows Hosts Usage Experience. Make sure to disable DNS Client Service.
-- __linux:__ `Energized Protection` Linux Script is there for you! Check [here](https://github.com/EnergizedProtection/Energized_Linux) for more info. Or, simply use hosts!
+- __linux:__ `Energized Protection` Linux Script is there for you! Check [here](https://github.com/sequielo/Energized_Linux) for more info. Or, simply use hosts!
 - __adblockers:__ Use filter format with [`uBlock`](https://github.com/gorhill/uBlock), [`AdGuard`](https://adguard.com/en/welcome.html) or any other extension, software & app.
 
 For further assistance, knock us on our [Telegram Group](http://go.energized.pro/telegram) or visit our [instructions](https://energized.pro/instructions) page.
