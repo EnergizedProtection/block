@@ -1,8 +1,9 @@
 ![Cover](https://energized.pro/assets/cover/block_cover.svg)
 
 <div align="center">
-  <h1 align="center">Energized Protection - block ⚡</h1> 
-  
+  <h1>Energized Protection - block ⚡</h1> 
+</div>
+<div align="center">
   <!-- Version -->
     <img src="https://img.shields.io/badge/Version-20.06.160.18-blue.svg?longCache=true&style=flat-square"
       alt="20.06.160.18" />
