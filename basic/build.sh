@@ -148,7 +148,7 @@ cat $fileDir/hexxium-creations-threat-list.txt; \
 cat $fileDir/hosts-file.net-ats.txt; \
 cat $fileDir/hosts-file.net-emd.txt; \
 cat $fileDir/kadhosts.txt; \
-cat $fileDir/lightswitch-ads-tracking; \
+cat $fileDir/lightswitch-ads-tracking.txt; \
 cat $fileDir/lightswitch-hosts-extended.txt; \
 cat $fileDir/malwaredomainlist.com.txt; \
 cat $fileDir/malwaredomains.com-immortaldomains.txt; \
