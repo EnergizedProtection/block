@@ -177,6 +177,7 @@ cat $fileDir/hosts-file.net-hjk.txt; \
 cat $fileDir/hosts-file.net-mmt.txt; \
 cat $fileDir/hosts-file.net-psh.txt; \
 cat $fileDir/kadhosts.txt; \
+cat $fileDir/lightswitch-ads-tracking; \
 cat $fileDir/lightswitch-hosts-extended.txt; \
 cat $fileDir/mailborder-phishing-bad-sites.txt; \
 cat $fileDir/malwaredomainlist.com.txt; \

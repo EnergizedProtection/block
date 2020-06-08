@@ -79,7 +79,7 @@ buildVersion=$(date +%y.%m.%j)
 releaseVersion=$(date +%j)
 packCode="EXR3G1094L-P"
 license="MIT, https://energized.pro/license"
-raw="https://gitlab.com/EnergizedProtection/block/raw/master/extensions/$pack/formats"
+raw="https://block.energized.pro/extensions/$pack/formats"
 updateDate=$(date +"%a, %d %b %y %H:%M:%S")
 expiry="1 day (update frequency)"
 echo -n "# $dividerTiny\n# E N E R G I Z E D  E N D S\n# $dividerTiny\n#\n# - - - -  S T A Y  E N E R G I Z E D  - - - -" >> $footer
@@ -124,6 +124,7 @@ cat $fileDir/easylist-thailand.txt; \
 cat $fileDir/fanboy-indian.txt; \
 cat $fileDir/fanboy-vietnam.txt; \
 cat $fileDir/hosts-vn.txt; \
+cat $fileDir/hufilter.txt; \
 cat $fileDir/liste-ar.txt; \
 cat $fileDir/polish-adblock-filters.txt; \
 cat $fileDir/polish-privacy-filters.txt; \

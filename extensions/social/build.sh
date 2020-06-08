@@ -80,7 +80,7 @@ buildVersion=$(date +%y.%m.%j)
 releaseVersion=$(date +%j)
 packCode="EX50C14L-P"
 license="MIT, https://energized.pro/license"
-raw="https://gitlab.com/EnergizedProtection/block/raw/master/extensions/$pack/formats"
+raw="https://block.energized.pro/extensions/$pack/formats"
 updateDate=$(date +"%a, %d %b %y %H:%M:%S")
 expiry="1 day (update frequency)"
 echo -n "# $dividerTiny\n# E N E R G I Z E D  E N D S\n# $dividerTiny\n#\n# - - - -  S T A Y  E N E R G I Z E D  - - - -" >> $footer
