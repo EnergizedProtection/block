@@ -46,6 +46,7 @@
   {"name": "cameleon",                           "enabled": true,    "filter": "active",    "format": "plain",    "url": "http://sysctl.org/cameleon/hosts"},
   {"name": "clefspeare-pornhosts",               "enabled": true,    "filter": "active",    "format": "plain",    "url": "https://raw.githubusercontent.com/Clefspeare13/pornhosts/master/0.0.0.0/hosts"},
   {"name": "cybercrime",                         "enabled": true,    "filter": "active",    "format": "plain",    "url": "https://v.firebog.net/hosts/Cybercrime.txt"},
+  {"name": "dandelion-sprouts-nordic-filters",   "enabled": true,    "filter": "active",    "format": "adblock",  "url": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/NordicFiltersAdGuardHome.txt"},
   {"name": "digitalside-threat-intel",           "enabled": true,    "filter": "active",    "format": "plain",    "url": "https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt"},
   {"name": "disconnect.me-ad",                   "enabled": true,    "filter": "active",    "format": "plain",    "url": "https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt"},
   {"name": "disconnect.me-malvertising",         "enabled": true,    "filter": "active",    "format": "plain",    "url": "https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt"},
