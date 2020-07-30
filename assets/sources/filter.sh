@@ -47,7 +47,8 @@ read TOKEN
 #-------------------------------------------------------------------------------#
 #----------------------------- W H I T E L I S T -------------------------------#
 #-------------------------------------------------------------------------------#
-curl -s -o $whitelist -L https://$TOKEN@raw.githubusercontent.com/AdroitAdorKhan/Energized-Protection-Core/master/builds/whitelist.txt
+#curl -s -o $whitelist -L https://$TOKEN@raw.githubusercontent.com/AdroitAdorKhan/Energized-Protection-Core/master/builds/whitelist.txt
+curl -s -o $whitelist -L -H "Authorization: token $TOKEN" https://raw.githubusercontent.com/AdroitAdorKhan/Energized-Protection-Core/master/builds/whitelist.txt
 clear		
 # Upper > Lower Case
 tr '[:upper:]' '[:lower:]' < $whitelist > $wtemp
