@@ -104,6 +104,7 @@ cat $fileDir/adguard-japanese-filter.txt; \
 cat $fileDir/adguard-russian-filter.txt; \
 cat $fileDir/adguard-turkish-filter.txt; \
 cat $fileDir/adguard-spanish-portuguese-filter.txt; \
+cat $fileDir/dandelion-sprouts-nordic-filters.txt; \
 cat $fileDir/easylist-brasil.txt; \
 cat $fileDir/easylist-bulgarian.txt; \
 cat $fileDir/easylist-china.txt; \
