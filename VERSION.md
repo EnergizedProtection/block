@@ -2,13 +2,13 @@
 
 ! Description: ad.porn.malware blocking.
 
-! Version: 6.0.1.20.07.212.14
+! Version: 6.0.1.20.07.212.18
 
-! Build Version: 20.07.212.14
+! Build Version: 20.07.212.18
 
-! Build Date: Thu, 30 Jul 20 14:53:12
+! Build Date: Thu, 30 Jul 20 18:00:09
 
-! Version Code: 2121453
+! Version Code: 2121800
 
 ! License: CC BY-NC-SA 4.0, https://energized.pro/license
 
