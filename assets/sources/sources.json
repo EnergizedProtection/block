@@ -121,7 +121,7 @@
   {"name": "mitchellkrogza-badd-boyz-hosts",     "enabled": true,    "filter": "active",    "format": "plain",    "url": "https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts"},
   {"name": "mobile-ad-trackers",                 "enabled": true,    "filter": "active",    "format": "plain",    "url": "https://raw.githubusercontent.com/jawz101/MobileAdTrackers/master/hosts"},
   {"name": "molinero-hblock",                    "enabled": true,    "filter": "active",    "format": "plain",    "url": "https://hblock.molinero.dev/hosts"},
-  {"name": "neohost",                            "enabled": true,    "filter": "active",    "format": "plain",    "url": "https://hosts.nfz.moe/full/hosts"},
+  {"name": "neohost",                            "enabled": true,    "filter": "active",    "format": "plain",    "url": "https://hosts.nfz.moe/basic/hosts"},
   {"name": "notracking",                         "enabled": true,    "filter": "active",    "format": "plain",    "url": "https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt"},
   {"name": "openphish",                          "enabled": true,    "filter": "active",    "format": "plain",    "url": "https://v.firebog.net/hosts/Openphish.txt"},
   {"name": "pgl.yoyo.org",                       "enabled": true,    "filter": "active",    "format": "plain",    "url": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&mimetype=plaintext"},
