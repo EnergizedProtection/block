@@ -144,6 +144,8 @@ sed '/#/d' -i $file
 sed '/.blogspot./d;/.wixsite./d;/.wordpress./d;/\//d;/:/d;/(/d;/|/d;/\[/d;/\]/d' -i $file
 # Remove Blank/Empty Lines
 sed '/^$/d' -i $file
+# Remove entries with two successive dots
+sed '/../d' -i $file
 # Removes Whitespace
 cat $file | tr -d '\r' >> $temp
 # Sort, Remove Duplicate and Write
@@ -348,7 +350,8 @@ mv -f $atemp $domains
 rm -f $temp $atemp
 echo $G"! Building "$N$Y"adblock filter"$N$G" Format"$N
 # Adblock Filter Header
-echo "$headerLogoAB
+echo "[Adblock Plus 3.6]
+$headerLogoAB
 ! $dividerTiny
 ! P A C K  D E T A I L S
 ! $dividerTiny
