@@ -106,6 +106,8 @@ sed '/.blogspot./d;/.wixsite./d;/.wordpress./d' -i $file
 sed '/^$/d' -i $file
 # Attempts to remove entries that end with backslashes
 sed '/\\$/d' -i $file
+# Attempts to remove entries that end with dots
+sed '/.$/d' -i $file
 # Removes Whitespace
 cat $file | tr -d '\r' >> $temp
 # Sort, Remove Duplicate and Write
