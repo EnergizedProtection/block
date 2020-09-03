@@ -237,6 +237,8 @@ tr -cd '\11\12\40-\176' < $file > $temp
 mv -f $temp $file
 # Remove Blank/Empty Lines
 sed '/^$/d' -i $file
+# Attempts to remove entries that have backslashes in the middle of them
+sed '/[a-z0-9]\\[a-z0-9]/d' -i $file
 # Removes Whitespace
 cat $file | tr -d '\r' >> $temp
 # Sort, Remove Duplicate and Write
