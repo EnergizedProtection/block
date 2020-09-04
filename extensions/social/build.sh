@@ -128,6 +128,8 @@ sed '/#/d' -i $file
 sed '/\//d;/:/d;/(/d;/|/d;/\[/d;/\]/d' -i $file
 # Remove Blank/Empty Lines
 sed '/^$/d' -i $file
+# Remove entries that were actually website elements
+sed '/</d' -i $file
 # Removes Whitespace
 cat $file | tr -d '\r' >> $temp
 # Sort, Remove Duplicate and Write
