@@ -105,7 +105,7 @@ sed '/.blogspot./d;/.wixsite./d;/.wordpress./d' -i $file
 # Remove Blank/Empty Lines
 sed '/^$/d' -i $file
 # Attempts to remove entries that end with backslashes
-sed '/\\$/d' -i $file
+sed '/\$/d' -i $file
 # Attempts to remove entries that end with dots
 sed '/.$/d' -i $file
 # Removes Whitespace
