@@ -350,7 +350,7 @@ mv -f $atemp $domains
 rm -f $temp $atemp
 echo $G"! Building "$N$Y"adblock filter"$N$G" Format"$N
 # Adblock Filter Header
-echo "[Adblock Plus 3.6]
+echo "\[Adblock Plus 3\.6\]
 $headerLogoAB
 ! $dividerTiny
 ! P A C K  D E T A I L S
