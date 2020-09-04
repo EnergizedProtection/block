@@ -112,7 +112,7 @@ wget -qO- https://block.energized.pro/assets/sources/filter/adguard-social-filte
 wget -qO- https://block.energized.pro/assets/sources/filter/adguard-social-popups.txt; \
 wget -qO- https://block.energized.pro/assets/sources/filter/adguard-social-trackers.txt; \
 wget -qO- https://block.energized.pro/assets/sources/filter/adversity-anti-social.txt; \
-wget -qO- https://block.energized.pro/assets/mirror/ut1-social-networks.txt; \
+### wget -qO- https://block.energized.pro/assets/mirror/ut1-social-networks.txt; \
 wget -qO- https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/hosts/hosts_facebook0.txt; \
 wget -qO- https://ep.nayemador.com/core/social; \
 } > $file
