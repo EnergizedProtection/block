@@ -43,7 +43,6 @@ file=list
 fileTemp=list.temp
 urls=urls
 footer=$formats/footer
-footerAB=$formats/footerAB
 footerRPZ=$formats/footerRPZ
 footerOL=$formats/footerOL
 temp=$formats/temp
@@ -57,6 +56,7 @@ divider='------------------------------------------------------------' 2>/dev/nu
 #-------------------------------------------------------------------------------#
 pack="regional"
 dividerTiny="--------------------------------------------"
+headerAdblock="[Adblock Plus 2.0]"
 headerLogo="#    _____  _________  _____________  _______\n#   / __/ |/ / __/ _ \/ ___/  _/_  / / __/ _ \ \n#  / _// ,  / _// , _/ (_ // /  / /_/ _// // /\n# /___/_/|_/___/_/|_|\___/___/ /___/___/____/\n#\n#    P   R   O   T   E   C   T   I   O   N\n# $dividerTiny\n#          ad.porn.malware blocking.\n#                   ------\n#      Merged collection of hosts from\n#             reputable sources.\n# $dividerTiny\n#               energized.pro\n#    github.com/EnergizedProtection/block\n# $dividerTiny\n#\n#        Let's make an annoyance free\n#      better open internet. Altogether.\n#                  ------\n#"
 headerLogoAB="!    _____  _________  _____________  _______\n!   / __/ |/ / __/ _ \/ ___/  _/_  / / __/ _ \ \n!  / _// ,  / _// , _/ (_ // /  / /_/ _// // /\n! /___/_/|_/___/_/|_|\___/___/ /___/___/____/\n!\n!    P   R   O   T   E   C   T   I   O   N\n! $dividerTiny\n!          ad.porn.malware blocking.\n!                   ------\n!      Merged collection of hosts from\n!             reputable sources.\n! $dividerTiny\n!               energized.pro\n!    github.com/EnergizedProtection/block\n! $dividerTiny\n!\n!        Let's make an annoyance free\n!      better open internet. Altogether.\n!                  ------\n!"
 headerLogoRPZ=";    _____  _________  _____________  _______\n;   / __/ |/ / __/ _ \/ ___/  _/_  / / __/ _ \ \n;  / _// ,  / _// , _/ (_ // /  / /_/ _// // /\n; /___/_/|_/___/_/|_|\___/___/ /___/___/____/\n;\n;    P   R   O   T   E   C   T   I   O   N\n; $dividerTiny\n;          ad.porn.malware blocking.\n;                   ------\n;      Merged collection of hosts from\n;             reputable sources.\n; $dividerTiny\n;               energized.pro\n;    github.com/EnergizedProtection/block\n; $dividerTiny\n;\n;        Let's make an annoyance free\n;      better open internet. Altogether.\n;                  ------\n;"
@@ -160,7 +160,7 @@ awk '$0="0.0.0.0 "$0' $file > $hostsTXT
 awk '$0=":: "$0' $file > $hostsV6
 awk '$0=$0' $file > $domains
 awk '$0="||"$0"^"' $file > $filter
-awk '$0="address=/"$0"/0.0.0.0/"' $file > $dnsMasq
+awk '$0="address=/"$0"/#"' $file > $dnsMasq
 awk '$0="address=/"$0"/::1/"' $file > $dnsMasqIPV6
 awk '$0="local-zone: \""$0"\" static"' $file > $unbound
 awk '$0=$0" CNAME ."' $file > $rpz
@@ -350,7 +350,8 @@ mv -f $atemp $domains
 rm -f $temp $atemp
 echo $G"! Building "$N$Y"adblock filter"$N$G" Format"$N
 # Adblock Filter Header
-echo "$headerLogoAB
+echo "$headerAdblock
+$headerLogoAB
 ! $dividerTiny
 ! P A C K  D E T A I L S
 ! $dividerTiny
