@@ -167,6 +167,10 @@ then
     egrep "([a-z0-9|-]+\.)*[a-z0-9|-]+\.[a-z]+" $hosts > $temp
     # Removes this - domain.xyz.[[:blank:]]
     sed -i '/\.[.*]*$/d' $temp
+    # Attempts to remove entries with backslashes
+    sed -i '/\\/d' $temp
+    # Attempts to remove entries ending with periods
+    sed -i '/\.$/d' $temp
     # Removes Blank - Beginning and Ending
     sed 's/^ *//; s/ *$//; /^$/d' $temp > $atemp
   
@@ -209,6 +213,10 @@ then
   sed -i '/^\./d' $temp
   # Removes lines without any single dot
   sed -i '/\./!d' $temp
+  # Attempts to remove entries with backslashes
+  sed -i '/\\/d' $temp
+  # Attempts to remove entries ending with periods
+  sed -i '/\.$/d' $temp
   # Removes Whitespace
   sed -r 's/\s+//g' $temp > $atemp
   # Again
