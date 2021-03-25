@@ -29,7 +29,7 @@ date=$(date +%d.%m.%Y)
 fileDir=../assets/sources/filter
 oFileDir=./
 whitelist=whitelist
-whitelistURL="https://ep.nayemador.com/core/filter/whitelist"
+whitelistURL="https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/filter/whitelist"
 formats=formats
 hosts=$formats/hosts
 hostsTXT=$formats/hosts.txt
@@ -108,7 +108,7 @@ rm -f $temp
 #-------------------------------------------------------------------------------#
 #-------------------------------- S O U R C E S --------------------------------#
 #-------------------------------------------------------------------------------# 
-{ wget -qO- https://ep.nayemador.com/core/hosts; \
+{ wget -qO- https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts; \
 } > $file
 { cat $oFileDir/domains.txt; \
 cat $fileDir/adaway.org.txt; \

@@ -6,12 +6,14 @@ PUB=http://rlwpx.free.fr/WPFF/hpub.7z
 RSK=http://rlwpx.free.fr/WPFF/hrsk.7z
 SEX=http://rlwpx.free.fr/WPFF/hsex.7z
 TRC=http://rlwpx.free.fr/WPFF/htrc.7z
+TWOEIGHTY=https://filter.futa.gg/280blocker/280blocker_domain_ag.txt
 
 echo "[+] Saving Airelles"
 wget -O hpub.7z $PUB
 wget -O hrsk.7z $RSK
 wget -O hsex.7z $SEX
 wget -O htrc.7z $TRC
+wget -O 280blocker_domain_ag.txt $TWOEIGHTY
 
 # Decompress 7z
 7z x hpub.7z

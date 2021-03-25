@@ -55,7 +55,7 @@ echo "! Project: $project
 
 ! Description: $projectDesc
 
-! Version: 6.0.1.$buildVersion
+! Version: 6.21.0325.$buildVersion
 
 ! Build Version: $buildVersion
 
@@ -66,9 +66,6 @@ echo "! Project: $project
 ! License: $license
 
 ! Github: $git
-
-! Gitlab: $gitlab
-
 
 ! Web: $website" >> $versionMD
 

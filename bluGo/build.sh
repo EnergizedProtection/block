@@ -29,7 +29,7 @@ date=$(date +%d.%m.%Y)
 fileDir=../assets/sources/filter
 oFileDir=./
 whitelist=whitelist
-whitelistURL="https://ep.nayemador.com/core/filter/whitelist"
+whitelistURL="https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/filter/whitelist"
 formats=formats
 hosts=$formats/hosts
 hostsTXT=$formats/hosts.txt
@@ -108,7 +108,7 @@ rm -f $temp
 #-------------------------------------------------------------------------------#
 #-------------------------------- S O U R C E S --------------------------------#
 #-------------------------------------------------------------------------------# 
-{ wget -qO- https://ep.nayemador.com/core/hosts; \
+{ wget -qO- https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts; \
 } > $file
 { cat $oFileDir/domains.txt; \
 cat $fileDir/280blocker.txt; \
@@ -133,9 +133,7 @@ cat $fileDir/pgl.yoyo.org.txt; \
 cat $fileDir/someonewhocares.org.txt; \
 cat $fileDir/spam404.com-adblocklist.txt; \
 cat $fileDir/sbc.txt; \
-cat $fileDir/streaming-ads.txt; \
 cat $fileDir/winhelp2002.mvps.org.txt; \
-cat $fileDir/zerodot1-coinblockerlists.txt; \
 cat $fileDir/zeustracker.abuse.ch.txt; \
 } >> $file
 

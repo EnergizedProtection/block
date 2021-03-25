@@ -29,7 +29,7 @@ date=$(date +%d.%m.%Y)
 fileDir=../assets/sources/filter
 oFileDir=./
 whitelist=whitelist
-whitelistURL="https://ep.nayemador.com/core/filter/whitelist-porn"
+whitelistURL="https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/filter/whitelist-porn"
 formats=formats
 hosts=$formats/hosts
 hostsTXT=$formats/hosts.txt
@@ -108,7 +108,7 @@ rm -f $temp
 #-------------------------------------------------------------------------------#
 #-------------------------------- S O U R C E S --------------------------------#
 #-------------------------------------------------------------------------------# 
-{ wget -qO- https://ep.nayemador.com/core/hosts; \
+{ wget -qO- https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts; \
 wget -qO- https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts; \
 } > $file
 { cat $oFileDir/domains.txt; \
@@ -134,7 +134,6 @@ cat $fileDir/airelle-sex.txt; \
 cat $fileDir/airelle-trc.txt; \
 cat $fileDir/antipopads.txt; \
 cat $fileDir/anudeep-adservers.txt; \
-cat $fileDir/anudeep-coinminer.txt; \
 cat $fileDir/barbblock.txt; \
 cat $fileDir/better-fyi-trackers.txt; \
 cat $fileDir/bjornstar-hosts.txt; \
@@ -146,9 +145,6 @@ cat $fileDir/digitalside-threat-intel.txt; \
 cat $fileDir/disconnect.me-ad.txt; \
 cat $fileDir/disconnect.me-malvertising.txt; \
 cat $fileDir/disconnect.me-tracking.txt; \
-cat $fileDir/dshield.org-high.txt; \
-cat $fileDir/dshield.org-low.txt; \
-cat $fileDir/dshield.org-medium.txt; \
 cat $fileDir/easylist.txt; \
 cat $fileDir/easylist-adservers.txt; \
 cat $fileDir/easylist-adult-adservers.txt; \
@@ -163,10 +159,6 @@ cat $fileDir/fademind-add.2o7net.txt; \
 cat $fileDir/fademind-add.dead.txt; \
 cat $fileDir/fademind-add.risk.txt; \
 cat $fileDir/fademind-add.spam.txt; \
-cat $fileDir/fanboy-annoyance.txt; \
-cat $fileDir/fanboy-complete.txt; \
-cat $fileDir/fanboy-cookiemonster.txt; \
-cat $fileDir/fanboy-enhanced-stats.txt; \
 cat $fileDir/gnuzilla.txt; \
 cat $fileDir/hexxium-creations-threat-list.txt; \
 cat $fileDir/hosts-file.net-ats.txt; \
@@ -178,7 +170,6 @@ cat $fileDir/hosts-file.net-mmt.txt; \
 cat $fileDir/hosts-file.net-psh.txt; \
 cat $fileDir/kadhosts.txt; \
 cat $fileDir/lightswitch-ads-tracking.txt; \
-cat $fileDir/lightswitch-hosts-extended.txt; \
 cat $fileDir/mailborder-phishing-bad-sites.txt; \
 cat $fileDir/malwaredomainlist.com.txt; \
 cat $fileDir/malwaredomains.com-immortaldomains.txt; \
@@ -207,7 +198,6 @@ cat $fileDir/someonewhocares.org.txt; \
 cat $fileDir/spam404.com-adblocklist.txt; \
 cat $fileDir/sbc.txt; \
 cat $fileDir/stopforumspam.com.txt; \
-cat $fileDir/streaming-ads.txt; \
 cat $fileDir/uassets-annoyances.txt; \
 cat $fileDir/uassets-badware.txt; \
 cat $fileDir/uassets-filters.txt; \
@@ -217,9 +207,7 @@ cat $fileDir/windows-spy-blocker.txt; \
 cat $fileDir/winhelp2002.mvps.org.txt; \
 cat $fileDir/yhosts.txt; \
 cat $fileDir/youslist.txt; \
-cat $fileDir/zerodot1-coinblockerlists.txt; \
 cat $fileDir/zerodot1-coinblockerlists-browser.txt; \
-cat $fileDir/zerodot1-coinblockerlists-optional.txt; \
 cat $fileDir/zeustracker.abuse.ch.txt; \
 } >> $file
 

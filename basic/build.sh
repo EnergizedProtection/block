@@ -29,7 +29,7 @@ date=$(date +%d.%m.%Y)
 fileDir=../assets/sources/filter
 oFileDir=./
 whitelist=whitelist
-whitelistURL="https://ep.nayemador.com/core/filter/whitelist"
+whitelistURL="https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/filter/whitelist"
 formats=formats
 hosts=$formats/hosts
 hostsTXT=$formats/hosts.txt
@@ -108,7 +108,7 @@ rm -f $temp
 #-------------------------------------------------------------------------------#
 #-------------------------------- S O U R C E S --------------------------------#
 #-------------------------------------------------------------------------------# 
-{ wget -qO- https://ep.nayemador.com/core/hosts; \
+{ wget -qO- https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts; \
 wget -qO- https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts; \
 } > $file
 { cat $oFileDir/domains.txt; \
@@ -132,7 +132,6 @@ cat $fileDir/better-fyi-trackers.txt; \
 cat $fileDir/blackbook.txt; \
 cat $fileDir/digitalside-threat-intel.txt; \
 cat $fileDir/disconnect.me-ad.txt; \
-cat $fileDir/dshield.org-low.txt; \
 cat $fileDir/easylist.txt; \
 cat $fileDir/easylist-adservers.txt; \
 cat $fileDir/easyprivacy.txt; \
@@ -141,20 +140,14 @@ cat $fileDir/fademind-add.2o7net.txt; \
 cat $fileDir/fademind-add.dead.txt; \
 cat $fileDir/fademind-add.risk.txt; \
 cat $fileDir/fademind-add.spam.txt; \
-cat $fileDir/fanboy-annoyance.txt; \
-cat $fileDir/fanboy-cookiemonster.txt; \
 cat $fileDir/gnuzilla.txt; \
 cat $fileDir/hexxium-creations-threat-list.txt; \
 cat $fileDir/hosts-file.net-ats.txt; \
 cat $fileDir/hosts-file.net-emd.txt; \
 cat $fileDir/kadhosts.txt; \
-cat $fileDir/lightswitch-ads-tracking.txt; \
-cat $fileDir/lightswitch-hosts-extended.txt; \
-cat $fileDir/malwaredomainlist.com.txt; \
 cat $fileDir/malwaredomains.com-immortaldomains.txt; \
 cat $fileDir/malwaredomains.com-justdomains.txt; \
 cat $fileDir/mobile-ad-trackers.txt; \
-cat $fileDir/molinero-hblock.txt; \
 cat $fileDir/neohost.txt; \
 cat $fileDir/notracking.txt; \
 cat $fileDir/pgl.yoyo.org.txt; \
@@ -165,7 +158,6 @@ cat $fileDir/quidsup-notrack-malware.txt; \
 cat $fileDir/someonewhocares.org.txt; \
 cat $fileDir/spam404.com-adblocklist.txt; \
 cat $fileDir/sbc.txt; \
-cat $fileDir/streaming-ads.txt; \
 cat $fileDir/uassets-badware.txt; \
 cat $fileDir/uassets-filters.txt; \
 cat $fileDir/uassets-privacy.txt; \
@@ -174,7 +166,6 @@ cat $fileDir/yhosts.txt; \
 cat $fileDir/windows-spy-blocker.txt; \
 cat $fileDir/winhelp2002.mvps.org.txt; \
 cat $fileDir/youslist.txt; \
-cat $fileDir/zerodot1-coinblockerlists.txt; \
 cat $fileDir/zeustracker.abuse.ch.txt; \
 } >> $file
 #-------------------------------------------------------------------------------#
