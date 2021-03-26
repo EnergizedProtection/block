@@ -129,6 +129,7 @@ cat $fileDir/fademind-add.dead.txt; \
 cat $fileDir/fademind-add.risk.txt; \
 cat $fileDir/fademind-add.spam.txt; \
 cat $fileDir/mobile-ad-trackers.txt; \
+cat $fileDir/oisd.nl-basic.txt; \
 cat $fileDir/pgl.yoyo.org.txt; \
 cat $fileDir/someonewhocares.org.txt; \
 cat $fileDir/spam404.com-adblocklist.txt; \

@@ -128,10 +128,7 @@ cat $fileDir/adguard-spyware.txt; \
 cat $fileDir/adguard-spyware-firstparty.txt; \
 cat $fileDir/adguard-tracking.txt; \
 cat $fileDir/adware-filters.txt; \
-cat $fileDir/airelle-pub.txt; \
-cat $fileDir/airelle-rsk.txt; \
 cat $fileDir/airelle-sex.txt; \
-cat $fileDir/airelle-trc.txt; \
 cat $fileDir/antipopads.txt; \
 cat $fileDir/anudeep-adservers.txt; \
 cat $fileDir/barbblock.txt; \
@@ -180,6 +177,7 @@ cat $fileDir/mobile-ad-trackers.txt; \
 cat $fileDir/molinero-hblock.txt; \
 cat $fileDir/neohost.txt; \
 cat $fileDir/notracking.txt; \
+cat $fileDir/oisd.nl-basic.txt; \
 cat $fileDir/openphish.txt; \
 cat $fileDir/pgl.yoyo.org.txt; \
 cat $fileDir/phishing-hosts.txt; \

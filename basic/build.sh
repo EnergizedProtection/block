@@ -125,7 +125,6 @@ cat $fileDir/adguard-mobile-specific.txt; \
 cat $fileDir/adguard-spyware.txt; \
 cat $fileDir/adguard-spyware-firstparty.txt; \
 cat $fileDir/adguard-tracking.txt; \
-cat $fileDir/airelle-rsk.txt; \
 cat $fileDir/antipopads.txt; \
 cat $fileDir/anudeep-adservers.txt; \
 cat $fileDir/better-fyi-trackers.txt; \
@@ -150,6 +149,7 @@ cat $fileDir/malwaredomains.com-justdomains.txt; \
 cat $fileDir/mobile-ad-trackers.txt; \
 cat $fileDir/neohost.txt; \
 cat $fileDir/notracking.txt; \
+cat $fileDir/oisd.nl-basic.txt; \
 cat $fileDir/pgl.yoyo.org.txt; \
 cat $fileDir/prigent-ads.txt; \
 cat $fileDir/prigent-cryptojacking.txt; \

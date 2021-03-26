@@ -140,6 +140,7 @@ cat $fileDir/malwaredomains.com-immortaldomains.txt; \
 cat $fileDir/mobile-ad-trackers.txt; \
 cat $fileDir/neohost.txt; \
 cat $fileDir/notracking.txt; \
+cat $fileDir/oisd.nl-basic.txt; \
 cat $fileDir/pgl.yoyo.org.txt; \
 cat $fileDir/someonewhocares.org.txt; \
 cat $fileDir/spam404.com-adblocklist.txt; \
