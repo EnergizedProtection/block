@@ -55,7 +55,7 @@ echo "! Project: $project
 
 ! Description: $projectDesc
 
-! Version: 6.21.0325.$buildVersion
+! Version: 6.21.0326.$buildVersion
 
 ! Build Version: $buildVersion
 
