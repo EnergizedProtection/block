@@ -83,7 +83,7 @@ releaseVersion=$(date +%j)
 packCode="E5P4RK-P"
 license="MIT, https://energized.pro/license"
 raw="https://block.energized.pro/$pack/formats"
-updateDate=$(date +"%a, %d %b %y %H:%M:%S")
+updateDate=$(date +"%a, %d %b %y %H:%M:%S %Z")
 expiry="1 day (update frequency)"
 echo -n "# $dividerTiny\n# E N E R G I Z E D  E N D S\n# $dividerTiny\n#\n# - - - -  S T A Y  E N E R G I Z E D  - - - -" >> $footer
 echo -n "! $dividerTiny\n! E N E R G I Z E D  E N D S\n! $dividerTiny\n!\n! - - - -  S T A Y  E N E R G I Z E D  - - - -" >> $footerAB
@@ -114,12 +114,10 @@ rm -f $temp
 cat $fileDir/adaway.org.txt; \
 cat $fileDir/ador-energized.txt; \
 cat $fileDir/adguard-mobile-ads.txt; \
-cat $fileDir/easylist-lite.txt; \
 cat $fileDir/pgl.yoyo.org.txt; \
 cat $fileDir/someonewhocares.org.txt; \
 cat $fileDir/sbc-hosts.txt; \
 cat $fileDir/winhelp2002.mvps.org.txt; \
-cat $fileDir/zeustracker.abuse.ch.txt; \
 } >> $file
 
 #-------------------------------------------------------------------------------#

@@ -41,7 +41,7 @@ license="CC BY-NC-SA 4.0, https://energized.pro/license"
 git="https://github.com/EnergizedProtection/block"
 gitlab="https://gitlab.com/EnergizedProtection/block"
 website="https://energized.pro"
-updateDate=$(date +"%a, %d %b %y %H:%M:%S")
+updateDate=$(date +"%a, %d %b %y %H:%M:%S %Z")
 
 
 #-------------------------------------------------------------------------------#
@@ -55,7 +55,7 @@ echo "! Project: $project
 
 ! Description: $projectDesc
 
-! Version: 6.21.0326.$buildVersion
+! Version: 6.31.0809.$buildVersion
 
 ! Build Version: $buildVersion
 

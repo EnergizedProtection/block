@@ -21,7 +21,7 @@ I won't be responsible for any damage or loss. Never forget to make backup.
 
 <h2 align="center">Issue Submit Form</h2>
 <div align="center">
-  Provide the following infos properly, which will help us to resolve your issue quickly.
+  Provide the following info properly, which will help us to resolve your issue quickly.
 </div>
 
 
@@ -86,7 +86,7 @@ Make sure you are running Energized Protection Service only.
 <!------------------ Type before this tag ------------------>
 <hr>
 
-### Details:
+### Detail:
 Write us a lil bit more about your issue or query. You can attach any screen shot or log of the issue or advert, this will help to highlight it.
 <!------------------ Type after this tag ------------------->
 - Your Issue Detail: 

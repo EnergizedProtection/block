@@ -83,7 +83,7 @@ releaseVersion=$(date +%j)
 packCode="EU91F13D-P"
 license="MIT, https://energized.pro/license"
 raw="https://block.energized.pro/$pack/formats"
-updateDate=$(date +"%a, %d %b %y %H:%M:%S")
+updateDate=$(date +"%a, %d %b %y %H:%M:%S %Z")
 expiry="1 day (update frequency)"
 echo -n "# $dividerTiny\n# E N E R G I Z E D  E N D S\n# $dividerTiny\n#\n# - - - -  S T A Y  E N E R G I Z E D  - - - -" >> $footer
 echo -n "! $dividerTiny\n! E N E R G I Z E D  E N D S\n! $dividerTiny\n!\n! - - - -  S T A Y  E N E R G I Z E D  - - - -" >> $footerAB
@@ -118,16 +118,14 @@ cat $fileDir/ad-wars.txt; \
 cat $fileDir/adaway.org.txt; \
 cat $fileDir/ador-energized.txt; \
 cat $fileDir/ador-energized-porn.txt; \
-cat $fileDir/adblock-nocoin-list.txt; \
 cat $fileDir/adguard-dns.txt; \
 cat $fileDir/adguard-mobile-ads.txt; \
 cat $fileDir/adguard-mobile-ads-filter.txt; \
 cat $fileDir/adguard-mobile-specific.txt; \
 cat $fileDir/adguard-safari.txt; \
-cat $fileDir/adguard-spyware.txt; \
-cat $fileDir/adguard-spyware-firstparty.txt; \
-cat $fileDir/adguard-tracking.txt; \
-cat $fileDir/adware-filters.txt; \
+cat $fileDir/adguard-tracking-protection.txt; \
+cat $fileDir/adguard-tracking-firstparty.txt; \
+cat $fileDir/adguard-tracking-servers.txt; \
 cat $fileDir/airelle-sex.txt; \
 cat $fileDir/antipopads.txt; \
 cat $fileDir/anudeep-adservers.txt; \
@@ -135,7 +133,6 @@ cat $fileDir/barbblock.txt; \
 cat $fileDir/better-fyi-trackers.txt; \
 cat $fileDir/bjornstar-hosts.txt; \
 cat $fileDir/blackbook.txt; \
-cat $fileDir/cameleon.txt; \
 cat $fileDir/clefspeare-pornhosts.txt; \
 cat $fileDir/cybercrime.txt; \
 cat $fileDir/digitalside-threat-intel.txt; \
@@ -158,22 +155,10 @@ cat $fileDir/fademind-add.risk.txt; \
 cat $fileDir/fademind-add.spam.txt; \
 cat $fileDir/gnuzilla.txt; \
 cat $fileDir/hexxium-creations-threat-list.txt; \
-cat $fileDir/hosts-file.net-ats.txt; \
-cat $fileDir/hosts-file.net-emd.txt; \
-cat $fileDir/hosts-file.net-exp.txt; \
-cat $fileDir/hosts-file.net-grm.txt; \
-cat $fileDir/hosts-file.net-hjk.txt; \
-cat $fileDir/hosts-file.net-mmt.txt; \
-cat $fileDir/hosts-file.net-psh.txt; \
 cat $fileDir/kadhosts.txt; \
 cat $fileDir/lightswitch-ads-tracking.txt; \
 cat $fileDir/mailborder-phishing-bad-sites.txt; \
-cat $fileDir/malwaredomainlist.com.txt; \
-cat $fileDir/malwaredomains.com-immortaldomains.txt; \
-cat $fileDir/malwaredomains.com-justdomains.txt; \
 cat $fileDir/matomo.org-spammers.txt; \
-cat $fileDir/mitchellkrogza-badd-boyz-hosts.txt; \
-cat $fileDir/mobile-ad-trackers.txt; \
 cat $fileDir/molinero-hblock.txt; \
 cat $fileDir/neohost.txt; \
 cat $fileDir/notracking.txt; \
@@ -186,26 +171,16 @@ cat $fileDir/porn-top1million.txt; \
 cat $fileDir/prigent-ads.txt; \
 cat $fileDir/prigent-cryptojacking.txt; \
 cat $fileDir/prigent-gambling.txt; \
-cat $fileDir/prigent-malware.txt; \
 cat $fileDir/prigent-phishing.txt; \
 cat $fileDir/quidsup-notrack.txt; \
 cat $fileDir/quidsup-notrack-malware.txt; \
-cat $fileDir/sinfonietta-snuff.txt; \
 cat $fileDir/sinfonietta-porn.txt; \
 cat $fileDir/someonewhocares.org.txt; \
-cat $fileDir/spam404.com-adblocklist.txt; \
 cat $fileDir/sbc.txt; \
-cat $fileDir/stopforumspam.com.txt; \
-cat $fileDir/uassets-annoyances.txt; \
-cat $fileDir/uassets-badware.txt; \
-cat $fileDir/uassets-filters.txt; \
-cat $fileDir/uassets-privacy.txt; \
-cat $fileDir/unchecky-ads.txt; \
 cat $fileDir/windows-spy-blocker.txt; \
 cat $fileDir/winhelp2002.mvps.org.txt; \
 cat $fileDir/yhosts.txt; \
 cat $fileDir/youslist.txt; \
-cat $fileDir/zerodot1-coinblockerlists-browser.txt; \
 cat $fileDir/zeustracker.abuse.ch.txt; \
 } >> $file
 

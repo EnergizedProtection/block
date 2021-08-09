@@ -83,7 +83,7 @@ releaseVersion=$(date +%j)
 packCode="EP0R9-P"
 license="MIT, https://energized.pro/license"
 raw="https://block.energized.pro/$pack/formats"
-updateDate=$(date +"%a, %d %b %y %H:%M:%S")
+updateDate=$(date +"%a, %d %b %y %H:%M:%S %Z")
 expiry="1 day (update frequency)"
 echo -n "# $dividerTiny\n# E N E R G I Z E D  E N D S\n# $dividerTiny\n#\n# - - - -  S T A Y  E N E R G I Z E D  - - - -" >> $footer
 echo -n "! $dividerTiny\n! E N E R G I Z E D  E N D S\n! $dividerTiny\n!\n! - - - -  S T A Y  E N E R G I Z E D  - - - -" >> $footerAB

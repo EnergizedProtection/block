@@ -83,7 +83,7 @@ releaseVersion=$(date +%j)
 packCode="E8LUG0-P"
 license="MIT, https://energized.pro/license"
 raw="https://block.energized.pro/$pack/formats"
-updateDate=$(date +"%a, %d %b %y %H:%M:%S")
+updateDate=$(date +"%a, %d %b %y %H:%M:%S %Z")
 expiry="1 day (update frequency)"
 echo -n "# $dividerTiny\n# E N E R G I Z E D  E N D S\n# $dividerTiny\n#\n# - - - -  S T A Y  E N E R G I Z E D  - - - -" >> $footer
 echo -n "! $dividerTiny\n! E N E R G I Z E D  E N D S\n! $dividerTiny\n!\n! - - - -  S T A Y  E N E R G I Z E D  - - - -" >> $footerAB
@@ -118,24 +118,20 @@ cat $fileDir/ador-energized.txt; \
 cat $fileDir/adguard-mobile-ads.txt; \
 cat $fileDir/adguard-mobile-ads-filter.txt; \
 cat $fileDir/adguard-mobile-specific.txt; \
-cat $fileDir/adguard-spyware-firstparty.txt; \
+cat $fileDir/adguard-tracking-firstparty.txt; \
 cat $fileDir/antipopads.txt; \
 cat $fileDir/blackbook.txt; \
 cat $fileDir/easylist-adservers.txt; \
-cat $fileDir/easylist-lite.txt; \
 cat $fileDir/easyprivacy.txt; \
 cat $fileDir/fademind-add.2o7net.txt; \
 cat $fileDir/fademind-add.dead.txt; \
 cat $fileDir/fademind-add.risk.txt; \
 cat $fileDir/fademind-add.spam.txt; \
-cat $fileDir/mobile-ad-trackers.txt; \
 cat $fileDir/oisd.nl-basic.txt; \
 cat $fileDir/pgl.yoyo.org.txt; \
 cat $fileDir/someonewhocares.org.txt; \
-cat $fileDir/spam404.com-adblocklist.txt; \
 cat $fileDir/sbc.txt; \
 cat $fileDir/winhelp2002.mvps.org.txt; \
-cat $fileDir/zeustracker.abuse.ch.txt; \
 } >> $file
 
 #-------------------------------------------------------------------------------#

@@ -81,7 +81,7 @@ releaseVersion=$(date +%j)
 packCode="EX50C14L-P"
 license="MIT, https://energized.pro/license"
 raw="https://block.energized.pro/extensions/$pack/formats"
-updateDate=$(date +"%a, %d %b %y %H:%M:%S")
+updateDate=$(date +"%a, %d %b %y %H:%M:%S %Z")
 expiry="1 day (update frequency)"
 echo -n "# $dividerTiny\n# E N E R G I Z E D  E N D S\n# $dividerTiny\n#\n# - - - -  S T A Y  E N E R G I Z E D  - - - -" >> $footer
 echo -n "! $dividerTiny\n! E N E R G I Z E D  E N D S\n! $dividerTiny\n!\n! - - - -  S T A Y  E N E R G I Z E D  - - - -" >> $footerAB
@@ -113,7 +113,7 @@ wget -qO- https://block.energized.pro/assets/sources/filter/adguard-social-popup
 wget -qO- https://block.energized.pro/assets/sources/filter/adguard-social-trackers.txt; \
 wget -qO- https://block.energized.pro/assets/sources/filter/adversity-anti-social.txt; \
 wget -qO- https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/hosts/hosts_facebook0.txt; \
-wget -qO- https://ep.nayemador.com/core/social; \
+wget -qO- https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/social; \
 } > $file
 
 #-------------------------------------------------------------------------------#

@@ -83,7 +83,7 @@ releaseVersion=$(date +%j)
 packCode="E84S1C-P"
 license="MIT, https://energized.pro/license"
 raw="https://block.energized.pro/$pack/formats"
-updateDate=$(date +"%a, %d %b %y %H:%M:%S")
+updateDate=$(date +"%a, %d %b %y %H:%M:%S %Z")
 expiry="1 day (update frequency)"
 echo -n "# $dividerTiny\n# E N E R G I Z E D  E N D S\n# $dividerTiny\n#\n# - - - -  S T A Y  E N E R G I Z E D  - - - -" >> $footer
 echo -n "! $dividerTiny\n! E N E R G I Z E D  E N D S\n! $dividerTiny\n!\n! - - - -  S T A Y  E N E R G I Z E D  - - - -" >> $footerAB
@@ -117,14 +117,14 @@ cat $fileDir/280blocker.txt; \
 cat $fileDir/ad-wars.txt; \
 cat $fileDir/adaway.org.txt; \
 cat $fileDir/ador-energized.txt; \
-cat $fileDir/adblock-nocoin-list.txt; \
 cat $fileDir/adguard-dns.txt; \
 cat $fileDir/adguard-mobile-ads.txt; \
 cat $fileDir/adguard-mobile-ads-filter.txt; \
 cat $fileDir/adguard-mobile-specific.txt; \
 cat $fileDir/adguard-spyware.txt; \
-cat $fileDir/adguard-spyware-firstparty.txt; \
-cat $fileDir/adguard-tracking.txt; \
+cat $fileDir/adguard-tracking-firstparty.txt; \
+cat $fileDir/adguard-tracking-protection.txt; \
+cat $fileDir/adguard-tracking-servers.txt; \
 cat $fileDir/antipopads.txt; \
 cat $fileDir/anudeep-adservers.txt; \
 cat $fileDir/better-fyi-trackers.txt; \
@@ -141,12 +141,7 @@ cat $fileDir/fademind-add.risk.txt; \
 cat $fileDir/fademind-add.spam.txt; \
 cat $fileDir/gnuzilla.txt; \
 cat $fileDir/hexxium-creations-threat-list.txt; \
-cat $fileDir/hosts-file.net-ats.txt; \
-cat $fileDir/hosts-file.net-emd.txt; \
 cat $fileDir/kadhosts.txt; \
-cat $fileDir/malwaredomains.com-immortaldomains.txt; \
-cat $fileDir/malwaredomains.com-justdomains.txt; \
-cat $fileDir/mobile-ad-trackers.txt; \
 cat $fileDir/neohost.txt; \
 cat $fileDir/notracking.txt; \
 cat $fileDir/oisd.nl-basic.txt; \
@@ -156,17 +151,11 @@ cat $fileDir/prigent-cryptojacking.txt; \
 cat $fileDir/prigent-gambling.txt; \
 cat $fileDir/quidsup-notrack-malware.txt; \
 cat $fileDir/someonewhocares.org.txt; \
-cat $fileDir/spam404.com-adblocklist.txt; \
 cat $fileDir/sbc.txt; \
-cat $fileDir/uassets-badware.txt; \
-cat $fileDir/uassets-filters.txt; \
-cat $fileDir/uassets-privacy.txt; \
-cat $fileDir/unchecky-ads.txt; \
 cat $fileDir/yhosts.txt; \
 cat $fileDir/windows-spy-blocker.txt; \
 cat $fileDir/winhelp2002.mvps.org.txt; \
 cat $fileDir/youslist.txt; \
-cat $fileDir/zeustracker.abuse.ch.txt; \
 } >> $file
 #-------------------------------------------------------------------------------#
 #--------------------------- P R O C E S S  P A C K ----------------------------#
