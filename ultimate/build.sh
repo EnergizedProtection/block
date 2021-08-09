@@ -149,16 +149,15 @@ cat $fileDir/fademind-add.risk.txt; \
 cat $fileDir/fademind-add.spam.txt; \
 cat $fileDir/gnuzilla.txt; \
 cat $fileDir/hexxium-creations-threat-list.txt; \
+cat $fileDir/hosts-blocklists.txt; \
 cat $fileDir/kadhosts.txt; \
 cat $fileDir/lightswitch-ads-tracking.txt; \
 cat $fileDir/matomo.org-spammers.txt; \
 cat $fileDir/molinero-hblock.txt; \
-cat $fileDir/neohost.txt; \
-cat $fileDir/notracking.txt; \
+cat $fileDir/neohosts.txt; \
 cat $fileDir/oisd.nl-basic.txt; \
 cat $fileDir/openphish.txt; \
 cat $fileDir/pgl.yoyo.org.txt; \
-cat $fileDir/phishing-hosts.txt; \
 cat $fileDir/prigent-ads.txt; \
 cat $fileDir/prigent-cryptojacking.txt; \
 cat $fileDir/prigent-gambling.txt; \
@@ -168,11 +167,9 @@ cat $fileDir/quidsup-notrack-malware.txt; \
 cat $fileDir/someonewhocares.org.txt; \
 cat $fileDir/sbc.txt; \
 cat $fileDir/stopforumspam.com.txt; \
-cat $fileDir/yhosts.txt; \
 cat $fileDir/windows-spy-blocker.txt; \
 cat $fileDir/winhelp2002.mvps.org.txt; \
 cat $fileDir/youslist.txt; \
-cat $fileDir/zeustracker.abuse.ch.txt; \
 } >> $file
 
 #-------------------------------------------------------------------------------#

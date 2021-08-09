@@ -135,14 +135,13 @@ cat $fileDir/fademind-add.dead.txt; \
 cat $fileDir/fademind-add.risk.txt; \
 cat $fileDir/fademind-add.spam.txt; \
 cat $fileDir/hexxium-creations-threat-list.txt; \
+cat $fileDir/hosts-blocklists.txt; \
 cat $fileDir/kadhosts.txt; \
-cat $fileDir/neohost.txt; \
-cat $fileDir/notracking.txt; \
+cat $fileDir/neohosts.txt; \
 cat $fileDir/oisd.nl-basic.txt; \
 cat $fileDir/pgl.yoyo.org.txt; \
 cat $fileDir/someonewhocares.org.txt; \
 cat $fileDir/sbc.txt; \
-cat $fileDir/yhosts.txt; \
 cat $fileDir/winhelp2002.mvps.org.txt; \
 cat $fileDir/youslist.txt; \
 } >> $file

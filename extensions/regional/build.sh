@@ -27,7 +27,7 @@ N='\033[0m'     # No Color
 #-------------------------------------------------------------------------------#
 date=$(date +%d.%m.%Y)
 fileDir=../../assets/sources/filter
-oFileDir=..
+oFileDir=../
 formats=formats
 hosts=$formats/hosts
 hostsTXT=$formats/hosts.txt
@@ -43,6 +43,7 @@ file=list
 fileTemp=list.temp
 urls=urls
 footer=$formats/footer
+footerAB=$formats/footerAB
 footerRPZ=$formats/footerRPZ
 footerOL=$formats/footerOL
 temp=$formats/temp
@@ -106,19 +107,15 @@ cat $fileDir/adguard-turkish-filter.txt; \
 cat $fileDir/adguard-spanish-portuguese-filter.txt; \
 cat $fileDir/dandelion-sprouts-nordic-filters.txt; \
 cat $fileDir/easylist-brasil.txt; \
-cat $fileDir/easylist-bulgarian.txt; \
 cat $fileDir/easylist-china.txt; \
 cat $fileDir/easylist-czech-and-slovak.txt; \
 cat $fileDir/easylist-dutch.txt; \
 cat $fileDir/easylist-french.txt; \
 cat $fileDir/easylist-germany.txt; \
-cat $fileDir/easylist-hebrew.txt; \
 cat $fileDir/easylist-italy.txt; \
 cat $fileDir/easylist-india.txt; \
 cat $fileDir/easylist-korea.txt; \
-cat $fileDir/easylist-latvian.txt; \
 cat $fileDir/easylist-polish.txt; \
-cat $fileDir/easylist-romanian.txt; \
 cat $fileDir/easylist-russian.txt; \
 cat $fileDir/easylist-spanish.txt; \
 cat $fileDir/easylist-thailand.txt; \

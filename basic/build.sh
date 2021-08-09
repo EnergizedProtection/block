@@ -121,7 +121,6 @@ cat $fileDir/adguard-dns.txt; \
 cat $fileDir/adguard-mobile-ads.txt; \
 cat $fileDir/adguard-mobile-ads-filter.txt; \
 cat $fileDir/adguard-mobile-specific.txt; \
-cat $fileDir/adguard-spyware.txt; \
 cat $fileDir/adguard-tracking-firstparty.txt; \
 cat $fileDir/adguard-tracking-protection.txt; \
 cat $fileDir/adguard-tracking-servers.txt; \
@@ -141,9 +140,9 @@ cat $fileDir/fademind-add.risk.txt; \
 cat $fileDir/fademind-add.spam.txt; \
 cat $fileDir/gnuzilla.txt; \
 cat $fileDir/hexxium-creations-threat-list.txt; \
+cat $fileDir/hosts-blocklists.txt; \
 cat $fileDir/kadhosts.txt; \
-cat $fileDir/neohost.txt; \
-cat $fileDir/notracking.txt; \
+cat $fileDir/neohosts.txt; \
 cat $fileDir/oisd.nl-basic.txt; \
 cat $fileDir/pgl.yoyo.org.txt; \
 cat $fileDir/prigent-ads.txt; \
@@ -152,7 +151,6 @@ cat $fileDir/prigent-gambling.txt; \
 cat $fileDir/quidsup-notrack-malware.txt; \
 cat $fileDir/someonewhocares.org.txt; \
 cat $fileDir/sbc.txt; \
-cat $fileDir/yhosts.txt; \
 cat $fileDir/windows-spy-blocker.txt; \
 cat $fileDir/winhelp2002.mvps.org.txt; \
 cat $fileDir/youslist.txt; \
