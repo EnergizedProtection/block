@@ -9,11 +9,11 @@ TRC=http://rlwpx.free.fr/WPFF/htrc.7z
 TWOEIGHTY=https://filter.futa.gg/280blocker/280blocker_domain_ag.txt
 
 echo "[+] Saving Airelles"
-wget -O hpub.7z $PUB
-wget -O hrsk.7z $RSK
-wget -O hsex.7z $SEX
-wget -O htrc.7z $TRC
-wget -O 280blocker_domain_ag.txt $TWOEIGHTY
+curl -o hpub.7z $PUB
+curl -o hrsk.7z $RSK
+curl -o hsex.7z $SEX
+curl -o htrc.7z $TRC
+curl -o 280blocker_domain_ag.txt $TWOEIGHTY
 
 # Decompress 7z
 7z x hpub.7z
@@ -51,7 +51,6 @@ ut1Social=ftp://ftp.ut-capitole.fr/pub/reseau/cache/squidguard_contrib/social_ne
 wget $ut1Adult
 wget $ut1Cryptojacking
 wget $ut1Gambling
-wget $ut1Malware
 wget $ut1Phishing
 wget $ut1Publicite
 wget $ut1Social
@@ -90,3 +89,4 @@ cd ../
 rm -r social_networks
 
 rm -f *.tar.gz
+
