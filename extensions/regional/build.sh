@@ -121,7 +121,7 @@ cat $fileDir/easylist-spanish.txt; \
 cat $fileDir/easylist-thailand.txt; \
 cat $fileDir/hosts-vn.txt; \
 cat $fileDir/liste-ar.txt; \
-} > $file
+} >> $file
 
 #-------------------------------------------------------------------------------#
 #--------------------------- P R O C E S S  P A C K ----------------------------#
