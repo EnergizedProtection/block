@@ -157,7 +157,6 @@ cat $fileDir/gnuzilla.txt; \
 cat $fileDir/hexxium-creations-threat-list.txt; \
 cat $fileDir/hosts-blocklists.txt; \
 cat $fileDir/kadhosts.txt; \
-cat $fileDir/lightswitch-ads-tracking.txt; \
 cat $fileDir/matomo.org-spammers.txt; \
 cat $fileDir/molinero-hblock.txt; \
 cat $fileDir/neohosts.txt; \

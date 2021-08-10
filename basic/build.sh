@@ -112,7 +112,7 @@ rm -f $temp
 wget -qO- https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts; \
 } > $file
 { cat $oFileDir/domains.txt; \
-cat $fileDir/1hosts.cf.txt; \
+cat $fileDir/1hosts.cf-pro.txt; \
 cat $fileDir/280blocker.txt; \
 cat $fileDir/ad-wars.txt; \
 cat $fileDir/adaway.org.txt; \

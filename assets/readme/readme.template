@@ -170,12 +170,12 @@ Sources each pack and extension uses.
 | Package | Sources | Total |
 |---------|:-------:|:-----:|
 **Spark** | *Core List + Adaway, Adguard Mobile Ads, MVPS hosts file, someonewhocares, Steven Black's Hosts and PGL yoyo.org* | **7**
-**Blu Go** | *Core List + Spark + 280blocker, add.207Net, add.Dead, add.Risk, add.Spam, ad-wars, AdGuard Mobile Ads Filter, Mobile Specific & Spyware Firstparty, AntiPopAds, blackbook, EasyList Adservers and EasyPrivacy* | **21** |
-**Blu** | *Core List + Blu Go + AdGuard DNS & Tracking, Anudeep's Adservers, Better.fyi Trackers, Disconnect Advertising Filter List, EasyPrivacy, Hexxium Creations Threat List, hosts-blocklists, KADhosts, lightswitch Ads & Tracking Extended, neoHosts, oisd.nl - Basic, and YousList* | **32** |
-**Basic** | *Core List + Blu +  1Hosts, Adguard Tracking Servers & Tracking Firstparty, DigitalSide Threat-Intel, ETH Phishing Detect, GNU Blacklist, Prigent Ads, Cryptojacking & Gambling, Quidsup Notrack Malware and WindowsSpyBlocker Hosts Spy* | **42** |
+**Blu Go** | *Core List + Spark + 280blocker, add.207Net, add.Dead, add.Risk, add.Spam, ad-wars, AdGuard Mobile Ads Filter, Mobile Specific & Spyware Firstparty, AntiPopAds, blackbook, EasyList Adservers, EasyPrivacy and Steven Black's Hosts* | **21** |
+**Blu** | *Core List + Blu Go + AdGuard DNS & Tracking, Anudeep's Adservers, Better.fyi Trackers, Disconnect Advertising Filter List, EasyPrivacy, Hexxium Creations Threat List, hosts-blocklists, KADhosts, neoHosts, and YousList* | **30** |
+**Basic** | *Core List + Blu +  1Hosts PRO, Adguard Tracking Servers & Tracking Firstparty, DigitalSide Threat-Intel, ETH Phishing Detect, GNU Blacklist, Prigent Ads, Cryptojacking & Gambling, Quidsup Notrack Malware and WindowsSpyBlocker Hosts Spy* | **42** |
 **Porn** | *Core Porn List + Airelle's Anti-Sex Hosts, Clefspeare's Pornhosts, EasyList Adult Adservers, Specific & Thirdparty, PornAway Blacklist, Porn List Light and Sinfonietta's Pornhosts* | **9** |
-**Ultimate** | *Core List + Basic + 1Hosts (Pro), BarbBlock, Bjornstar's Hosts, Cybercrime, Disconnect Malvertising & Tracking Filter List, EasyPrivacy Specific, Thirdparty & Tracking Servers, Matomo Referrer Spam Blacklist, Openphish, Phishing Bad Sites, Phishing Hosts, Prigent's Malware & Phishing, Quidsup NoTrack and StopForumSpam* | **61** |
-**Unified** | *Core List + Core Porn List + Ultimate and Porn* | **70** |
+**Ultimate** | *Core List + Basic + 1Hosts (Pro), BarbBlock, Bjornstar's Hosts, Cybercrime, Disconnect Malvertising & Tracking Filter List, EasyPrivacy Specific, Thirdparty & Tracking Servers, Matomo Referrer Spam Blacklist, Openphish, Phishing Bad Sites, Phishing Hosts, Prigent's Malware & Phishing, Quidsup NoTrack and StopForumSpam* | **57** |
+**Unified** | *Core List + Core Porn List + Ultimate and Porn* | **66** |
 
 ### Extensions
 

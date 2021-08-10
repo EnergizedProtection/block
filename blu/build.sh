@@ -123,7 +123,6 @@ cat $fileDir/adguard-mobile-specific.txt; \
 cat $fileDir/adguard-tracking-firstparty.txt; \
 cat $fileDir/adguard-tracking-servers.txt; \
 cat $fileDir/antipopads.txt; \
-cat $fileDir/anudeep-adservers.txt; \
 cat $fileDir/blackbook.txt; \
 cat $fileDir/better-fyi-trackers.txt; \
 cat $fileDir/disconnect.me-ad.txt; \
@@ -136,7 +135,6 @@ cat $fileDir/fademind-add.risk.txt; \
 cat $fileDir/fademind-add.spam.txt; \
 cat $fileDir/hexxium-creations-threat-list.txt; \
 cat $fileDir/hosts-blocklists.txt; \
-cat $fileDir/kadhosts.txt; \
 cat $fileDir/neohosts.txt; \
 cat $fileDir/oisd.nl-basic.txt; \
 cat $fileDir/pgl.yoyo.org.txt; \

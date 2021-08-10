@@ -112,7 +112,7 @@ rm -f $temp
 wget -qO- https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts; \
 } > $file
 { cat $oFileDir/domains.txt; \
-cat $fileDir/1hosts.cf.txt; \
+cat $fileDir/1hosts.cf-pro.txt; \
 cat $fileDir/280blocker.txt; \
 cat $fileDir/ad-wars.txt; \
 cat $fileDir/adaway.org.txt; \
@@ -151,7 +151,6 @@ cat $fileDir/gnuzilla.txt; \
 cat $fileDir/hexxium-creations-threat-list.txt; \
 cat $fileDir/hosts-blocklists.txt; \
 cat $fileDir/kadhosts.txt; \
-cat $fileDir/lightswitch-ads-tracking.txt; \
 cat $fileDir/matomo.org-spammers.txt; \
 cat $fileDir/molinero-hblock.txt; \
 cat $fileDir/neohosts.txt; \

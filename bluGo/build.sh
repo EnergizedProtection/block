@@ -121,16 +121,16 @@ cat $fileDir/adguard-mobile-specific.txt; \
 cat $fileDir/adguard-tracking-firstparty.txt; \
 cat $fileDir/antipopads.txt; \
 cat $fileDir/blackbook.txt; \
+cat $fileDir/easylist.txt; \
 cat $fileDir/easylist-adservers.txt; \
 cat $fileDir/easyprivacy.txt; \
 cat $fileDir/fademind-add.2o7net.txt; \
 cat $fileDir/fademind-add.dead.txt; \
 cat $fileDir/fademind-add.risk.txt; \
 cat $fileDir/fademind-add.spam.txt; \
-cat $fileDir/oisd.nl-basic.txt; \
 cat $fileDir/pgl.yoyo.org.txt; \
+cat $fileDir/sbc-hosts.txt; \
 cat $fileDir/someonewhocares.org.txt; \
-cat $fileDir/sbc.txt; \
 cat $fileDir/winhelp2002.mvps.org.txt; \
 } >> $file
 
