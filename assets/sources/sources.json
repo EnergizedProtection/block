@@ -646,5 +646,11 @@
 	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
 	"url": "https://raw.githubusercontent.com/yous/YousList/master/hosts.txt",
 	"homepage": "https://github.com/yous/YousList"
+  },
+  {
+    "source": "cname-trackers",   "maintainer": "AdguardTeam",    "name": "cname-trackers",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
+	"url": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt",
+	"homepage": "https://github.com/AdguardTeam/cname-trackers"
   }
 ]}
