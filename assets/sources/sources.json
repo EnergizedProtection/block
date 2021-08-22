@@ -1,7 +1,7 @@
 {"sources": [
   {
     "source": "1Hosts",   "maintainer": "badmojr",   "name": "1hosts.cf",
-	"enabled": true,   "update": "latest",   "filter": "active",   "format": "plain",    
+	"enabled": true,   "update": "latest",   "filter": "active",   "format": "plain",
 	"url": "https://badmojr.github.io/1Hosts/mini/hosts.txt",
 	"homepage": "https://github.com/badmojr/1Hosts"
   },
@@ -12,7 +12,7 @@
 	"homepage": "https://github.com/badmojr/1Hosts"
   },
   {
-    "source": "280blocker",   "maintainer": "280blocker",   "name": "280blocker", 
+    "source": "280blocker",   "maintainer": "280blocker",   "name": "280blocker",
     "enabled": true,    "update": "latest",    "filter": "active",    "format": "adblock",
 	"url": "https://energized.pro/mirror/280blocker_domain_ag.txt",
 	"homepage": "https://280blocker.net/"
@@ -125,7 +125,7 @@
 	"url": "https://filters.adtidy.org/extension/chromium/filters/1.txt",
 	"homepage": "https://github.com/AdguardTeam/AdGuardFilters"
   },
-  {  
+  {
     "source": "AdGuard Suffari filter",   "maintainer": "AdguardTeam",   "name": "adguard-safari",
 	"enabled": true,    "update": "latest",    "filter": "active",    "format": "adblock",
 	"url": "https://filters.adtidy.org/extension/chromium/filters/12.txt",
@@ -242,7 +242,7 @@
   {
     "source": "pornhosts",   "maintainer": "Clefspeare13",    "name": "clefspeare-pornhosts",
 	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
-	"url": "https://raw.githubusercontent.com/Clefspeare13/pornhosts/master/0.0.0.0/hosts",
+	"url": "https://raw.githubusercontent.com/Clefspeare13/pornhosts/master/download_here/0.0.0.0/hosts",
 	"homepage": "https://github.com/Clefspeare13/pornhosts"
   },
   {
@@ -478,7 +478,7 @@
 	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
 	"url": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN",
 	"homepage": "https://bigdargon.github.io/hostsVN/"
-  }, 
+  },
   {
     "source": "KADhosts",   "maintainer": "PolishFiltersTeam",    "name": "kadhosts",
 	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
@@ -532,7 +532,7 @@
 	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
 	"url": "https://hosts.oisd.nl/",
 	"homepage": "https://oisd.nl"
-  }, 
+  },
   {
     "source": "OpenPhish",   "maintainer": "openphish",    "name": "openphish",
 	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",

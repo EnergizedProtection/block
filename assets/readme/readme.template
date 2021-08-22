@@ -1,10 +1,10 @@
 ![Cover](https://cdn.energized.pro/images/block_cover.svg)
 
 <div align="center">
-  <h1>Energized Protection - block ⚡</h1> 
+  <h1>Energized Protection - block ⚡</h1>
 </div>
 
-<div align="center">  
+<div align="center">
   <!-- Version -->
     <img src="https://img.shields.io/badge/Version-_version_-blue.svg?longCache=true&style=flat-square"
       alt="_version_" />
@@ -72,7 +72,7 @@
 - __privacy:__ helps to `increase` privacy by blocking spyware and tracking systems.
 - __saves expense:__ `reduces` bandwidth usage.
 - __support:__ user friendly chat group got `your` back!
-- __clean:__ no `extra` abracadabra! 
+- __clean:__ no `extra` abracadabra!
 
 ## What is this for?
 
@@ -121,7 +121,7 @@ IP Extension | Malicious IP protection. | MID - HIGH END | _ipsext_ | _ipsexts_ 
 
 You can use any `practical` way you want to use Energized Protection on your devices, if you know what you are doing. But if you are clueless, there are few suggestions.
 
-- __rooted android:__ `Energized Protection` Magisk Module makes your experience better on Magisk-ly Rooted Android devices. Grab it from `Magisk Manager > Download`. If you aren't that familiar with that stuff, then you can use [`AdAway (Latest)`](https://adaway.org/) with GIT RAW Sources now. 
+- __rooted android:__ `Energized Protection` Magisk Module makes your experience better on Magisk-ly Rooted Android devices. Grab it from `Magisk Manager > Download`. If you aren't that familiar with that stuff, then you can use [`AdAway (Latest)`](https://adaway.org/) with GIT RAW Sources now.
 - __non-rooted android:__ If you are not using any root solution, then you can use [`DNS66`](https://github.com/julian-klode/dns66), [`BLOKADA`](https://blokada.org/), [`Personal DNS Filter`](https://www.zenz-solutions.de/personaldnsfilter/) , [`Nebulo`](https://nebulo.app/source), or [`RethinkDNS + Firewall`](https://github.com/celzero/rethink-app) with any of the Energized Source.
 - __ios:__ Use any `Adblocking Client` app with Energized Protection Source.
 - __windows:__ On Windows, you can use [`HostsMan`](http://www.abelhadigital.com/hostsman/) to get the best Windows Hosts Usage Experience. Make sure to disable DNS Client Service.
@@ -133,9 +133,9 @@ For further assistance, knock us on our [Telegram Group](http://go.energized.pro
 
 ## Formats
 
-Different formats for various devices. 
+Different formats for various devices.
 
-### Packs 
+### Packs
 
 | PACKAGE | ENTRIES | HOSTS RAW | HOSTS IPV6 | HOSTS TXT | ADBLOCK FILTER | DOMAINS | ONE-LINE | DNSMASQ| DNSMASQ IPV6 | UNBOUND | RPZ | RULESET |
 |---------|:-------:|:---------:|:----------:|:---------:|:--------------:|:-------:|:--------:|:------:|:------------:|:-------:|:---:|:-------:|
@@ -189,8 +189,8 @@ Sources each pack and extension uses.
 
 ## Sources
 
-Updated sources from the following locations are always merged and included. 
-`Note.` Active Source means the hosts file we use after whitelisting legit domains and removing dead inactive domains. Social and IP sources don't have active lists as for now. 
+Updated sources from the following locations are always merged and included.
+`Note.` Active Source means the hosts file we use after whitelisting legit domains and removing dead inactive domains. Social and IP sources don't have active lists as for now.
 
 | Source | Maintainer(s) | Description | Home Page | RAW Source | License | Active/Filter Source |
 |--------|:-------------:|-------------|:---------:|:----------:|:-------:|:--------------------:|
@@ -236,7 +236,7 @@ Better.fyi Trackers | Better.fyi | Better.fyi Trackers Blocklist | [LINK](https:
 Bjornstar's Hosts | Bjorn Stromberg | Hosts file, filled with advertisers and other purveyors of worthless content | [LINK](https://github.com/bjornstar/hosts) | [RAW](https://raw.githubusercontent.com/bjornstar/hosts/master/hosts) | The Unlicense | [SOURCE](https://block.energized.pro/assets/sources/filter/bjornstar-hosts.txt) |
 blackbook | stamparm | Newly reported entries from public lists of malicious URLs | [LINK](https://github.com/stamparm/blackbook) | [RAW](https://raw.githubusercontent.com/stamparm/blackbook/master/blackbook.txt) | The Unlicense | [SOURCE](https://block.energized.pro/assets/sources/filter/blackbook.txt) |
 Bulgarian List + EasyList | The EasyList Authors & Alex Stanev | A list combining Bulgarian List and EasyList | [LINK](https://github.com/easylist/easylist/) | [RAW](https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_thirdparty.txt) | GPLv3 | [SOURCE](https://block.energized.pro/assets/sources/filter/easylist-bulgarian.txt) |
-Clefspeare's Pornhosts | Clefspeare13 | A consolidated anti porn hosts file | [LINK](https://github.com/Clefspeare13/pornhosts) | [RAW](https://raw.githubusercontent.com/Clefspeare13/pornhosts/master/0.0.0.0/hosts) | MIT | [SOURCE](https://block.energized.pro/assets/sources/filter/clefspeare-pornhosts.txt) |
+Clefspeare's Pornhosts | Clefspeare13 | A consolidated anti porn hosts file | [LINK](https://github.com/Clefspeare13/pornhosts) | [RAW](https://raw.githubusercontent.com/Clefspeare13/pornhosts/master/download_here/0.0.0.0/hosts) | MIT | [SOURCE](https://block.energized.pro/assets/sources/filter/clefspeare-pornhosts.txt) |
 Cybercrime | - | - |[LINK](https://cybercrime-tracker.net/) | [RAW](https://v.firebog.net/hosts/Cybercrime.txt) | - | [SOURCE](https://block.energized.pro/assets/sources/filter/cybercrime.txt) |
 Dandelion Sprout's Nordic Filters | Dandelion Sprout | Removes adverts on Norwegian-, Danish- and Icelandic-language websites | [LINK](https://github.com/DandelionSprout/adfilt) | [RAW](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/NordicFiltersAdGuardHome.txt) | Dandelicence | [SOURCE](https://block.energized.pro/assets/sources/filter/dandelion-sprouts-nordic-filters.txt) |
 DigitalSide Threat-Intel | Davide Baglieri | Cyber Threat URLs, IPs and domains | [LINK](https://github.com/davidonzo/Threat-Intel) | [RAW](https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt) | MIT | [SOURCE]() |
@@ -286,7 +286,7 @@ hBlock | hectorm | Improve your security and privacy by blocking ads, tracking a
 Hexxium Creations Threat List | HexxiumCreations | Blocks scams/phishing/malware/malvertising/exploits - and other general threats | [LINK](https://www.hexxiumcreations.com/projects/malicious-domain-blocking/) | [RAW](https://raw.githubusercontent.com/HexxiumCreations/threat-list/gh-pages/hexxiumthreatlist.txt) | All Rights Reserved | [SOURCE](https://block.energized.pro/assets/sources/filter/hexxium-creations-threat-list.txt) |
 hosts-blocklists | Notracking | Blocks ads, fake sites, shock sites, malware hosts and trackers |[LINK](https://github.com/notracking/hosts-blocklists) | [RAW](https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt) | All Rights Reserved | [SOURCE](https://block.energized.pro/assets/sources/filter/notracking.txt) |
 HostsVN | bigdargon | Blocks ads and tracking in Vietnam | [RAW](https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN) | [LINK](https://github.com/bigdargon/hostsVN/) | MIT | [SOURCE](https://block.energized.pro/assets/sources/filter/hosts-vn.txt) |
-IPsum | Miroslav Stampar | Daily feed of bad IPs | [LINK](https://github.com/stamparm/ipsum) | [RAW](https://raw.githubusercontent.com/stamparm/ipsum/master/ipsum.txt) | All Rights Reserved | - | 
+IPsum | Miroslav Stampar | Daily feed of bad IPs | [LINK](https://github.com/stamparm/ipsum) | [RAW](https://raw.githubusercontent.com/stamparm/ipsum/master/ipsum.txt) | All Rights Reserved | - |
 KADhosts | azet12 | Fraud/adware/scam websites | [LINK](https://github.com/azet12/KADhosts) | [RAW](https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt) | CC BY-SA 4.0 | [SOURCE](https://block.energized.pro/assets/sources/filter/kadhosts.txt) |
 lightswitch Ads & Tracking | lightswitch05 | Expanded list of hosts used for advertisements and tracking | [LINK](https://www.github.developerdan.com/hosts/) | [RAW](https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt) | Apache 2.0 | [SOURCE](https://block.energized.pro/assets/sources/filter/lightswitch-hosts-extended.txt) |
 lightswitch Ads & Tracking Extended | lightswitch05 | Aggressive block list for tracking, geo-targeting, & ads | [LINK](https://www.github.developerdan.com/hosts/) | [RAW](https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt) | Apache 2.0 | [SOURCE](https://block.energized.pro/assets/sources/filter/lightswitch-hosts-extended.txt) |
@@ -337,7 +337,7 @@ Check whether Energized Protection is working or not! Check via our checking pag
 Maintaining a quality blocking project takes a lot of time. Energized Protection is completely independently funded. We fight for our users. This does mean
 however that we also have to spend our owns to pay the bills. This is where you can help: by chipping in you can ensure more time is spent improving Energized rather than dealing with distractions.
 
-This donation is for our services, not for any pack, resource or any other mean. Your support will help us keep the project running and provide you quality service. 
+This donation is for our services, not for any pack, resource or any other mean. Your support will help us keep the project running and provide you quality service.
 
 <a href="https://paypal.me/shadmansaleh" target="_blank"><img src="https://www.paypalobjects.com/webstatic/mktg/logo/bdg_now_accepting_pp_2line_w.png"></a>
 
