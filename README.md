@@ -1,13 +1,13 @@
 ![Cover](https://cdn.energized.pro/images/block_cover.svg)
 
 <div align="center">
-  <h1>Energized Protection - block ⚡</h1> 
+  <h1>Energized Protection - block ⚡</h1>
 </div>
 
-<div align="center">  
+<div align="center">
   <!-- Version -->
-    <img src="https://img.shields.io/badge/Version-21.08.234.11-blue.svg?longCache=true&style=flat-square"
-      alt="21.08.234.11" />
+    <img src="https://img.shields.io/badge/Version-21.08.234.23-blue.svg?longCache=true&style=flat-square"
+      alt="21.08.234.23" />
   <!-- Last Updated -->
     <img src="https://img.shields.io/badge/Updated-Aug 22, 2021-orange.svg?longCache=true&style=flat-square"
       alt="_time_stamp_" />
@@ -72,7 +72,7 @@
 - __privacy:__ helps to `increase` privacy by blocking spyware and tracking systems.
 - __saves expense:__ `reduces` bandwidth usage.
 - __support:__ user friendly chat group got `your` back!
-- __clean:__ no `extra` abracadabra! 
+- __clean:__ no `extra` abracadabra!
 
 ## What is this for?
 
@@ -94,13 +94,13 @@ Basic info about all Energized Protection packs.
 
 | PACK NAME | DESCRIPTION | BEST USE DEVICE | UNIQUE ENTRIES | SIZE (AVG.) | SOURCE |
 |:---------:|:-----------:|:---------------:|:--------------:|:-----------:|--------|
-Spark | True lightweight protection. | ANY | 41,893 | 1.2M | [/spark](https://github.com/EnergizedProtection/block/tree/master/spark) |
-Blu Go | Mid range lightweight protection-go! | MID END | 78,069 | 2.1M | [/bluGo](https://github.com/EnergizedProtection/block/tree/master/bluGo) |
-Blu | Mid range lightweight protection. | MID END | 161,764 | 4.3M | [/blu](https://github.com/EnergizedProtection/block/tree/master/blu) |
-Basic | Balanced protection. | HIGH END | 274,345 | 7.5M | [/basic](https://github.com/EnergizedProtection/block/tree/master/basic) |
-Porn | Pornware blocking.| HIGH END | 256,738 | 6.5M | [/porn](https://github.com/EnergizedProtection/block/tree/master/porn) |
-Ultimate | Flagship protection. | HIGH END | 568,271 | 17M | [/ultimate](https://github.com/EnergizedProtection/block/tree/master/ultimate) |
-Unified | Flagship protection with pornware blocking. | HIGH END | 821,107 | 23M | [/unified](https://github.com/EnergizedProtection/block/tree/master/unified) |
+Spark | True lightweight protection. | ANY | 41,920 | 1.2M | [/spark](https://github.com/EnergizedProtection/block/tree/master/spark) |
+Blu Go | Mid range lightweight protection-go! | MID END | 78,105 | 2.1M | [/bluGo](https://github.com/EnergizedProtection/block/tree/master/bluGo) |
+Blu | Mid range lightweight protection. | MID END | 161,807 | 4.3M | [/blu](https://github.com/EnergizedProtection/block/tree/master/blu) |
+Basic | Balanced protection. | HIGH END | 275,074 | 7.5M | [/basic](https://github.com/EnergizedProtection/block/tree/master/basic) |
+Porn | Pornware blocking.| HIGH END | 262,975 | 6.7M | [/porn](https://github.com/EnergizedProtection/block/tree/master/porn) |
+Ultimate | Flagship protection. | HIGH END | 569,172 | 17M | [/ultimate](https://github.com/EnergizedProtection/block/tree/master/ultimate) |
+Unified | Flagship protection with pornware blocking. | HIGH END | 828,074 | 23M | [/unified](https://github.com/EnergizedProtection/block/tree/master/unified) |
 
 ### Extensions
 
@@ -110,9 +110,9 @@ Basic info about all the available extensions.
 |:---------:|:-----------:|:---------------:|:--------------:|:-----------:|--------|
 Xtreme Extension | Privacy protection at its best. | ANY | 8,612 | 243K | [/e/xtreme](https://github.com/EnergizedProtection/block/tree/master/extensions/xtreme) |
 Social Extension | Block social apps and sites. | ANY | 6,960 | 220K | [/e/social](https://github.com/EnergizedProtection/block/tree/master/extensions/social) |
-Porn Lite Extension | Lite pornware blocking. | ANY | 38,585 | 962K | [/e/porn-lite](https://github.com/EnergizedProtection/block/tree/master/extensions/porn-lite) |
-Regional Extension | Regional annoyance blocking. | MID - HIGH END | 32,606 | 757K | [/e/regional](https://github.com/EnergizedProtection/block/tree/master/extensions/regional) |
-IP Extension | Malicious IP protection. | MID - HIGH END | 170,043 | 2.4M | [/e/ips](https://github.com/EnergizedProtection/block/tree/master/extensions/ips) |
+Porn Lite Extension | Lite pornware blocking. | ANY | 45,233 | 1.2M | [/e/porn-lite](https://github.com/EnergizedProtection/block/tree/master/extensions/porn-lite) |
+Regional Extension | Regional annoyance blocking. | MID - HIGH END | 32,638 | 758K | [/e/regional](https://github.com/EnergizedProtection/block/tree/master/extensions/regional) |
+IP Extension | Malicious IP protection. | MID - HIGH END | 173,550 | 2.4M | [/e/ips](https://github.com/EnergizedProtection/block/tree/master/extensions/ips) |
 
 **Expectation**: These unified packs should serve all devices, regardless of OS.
 
@@ -121,7 +121,7 @@ IP Extension | Malicious IP protection. | MID - HIGH END | 170,043 | 2.4M | [/e/
 
 You can use any `practical` way you want to use Energized Protection on your devices, if you know what you are doing. But if you are clueless, there are few suggestions.
 
-- __rooted android:__ `Energized Protection` Magisk Module makes your experience better on Magisk-ly Rooted Android devices. Grab it from `Magisk Manager > Download`. If you aren't that familiar with that stuff, then you can use [`AdAway (Latest)`](https://adaway.org/) with GIT RAW Sources now. 
+- __rooted android:__ `Energized Protection` Magisk Module makes your experience better on Magisk-ly Rooted Android devices. Grab it from `Magisk Manager > Download`. If you aren't that familiar with that stuff, then you can use [`AdAway (Latest)`](https://adaway.org/) with GIT RAW Sources now.
 - __non-rooted android:__ If you are not using any root solution, then you can use [`DNS66`](https://github.com/julian-klode/dns66), [`BLOKADA`](https://blokada.org/), [`Personal DNS Filter`](https://www.zenz-solutions.de/personaldnsfilter/) , [`Nebulo`](https://nebulo.app/source), or [`RethinkDNS + Firewall`](https://github.com/celzero/rethink-app) with any of the Energized Source.
 - __ios:__ Use any `Adblocking Client` app with Energized Protection Source.
 - __windows:__ On Windows, you can use [`HostsMan`](http://www.abelhadigital.com/hostsman/) to get the best Windows Hosts Usage Experience. Make sure to disable DNS Client Service.
@@ -133,19 +133,19 @@ For further assistance, knock us on our [Telegram Group](http://go.energized.pro
 
 ## Formats
 
-Different formats for various devices. 
+Different formats for various devices.
 
-### Packs 
+### Packs
 
 | PACKAGE | ENTRIES | HOSTS RAW | HOSTS IPV6 | HOSTS TXT | ADBLOCK FILTER | DOMAINS | ONE-LINE | DNSMASQ| DNSMASQ IPV6 | UNBOUND | RPZ | RULESET |
 |---------|:-------:|:---------:|:----------:|:---------:|:--------------:|:-------:|:--------:|:------:|:------------:|:-------:|:---:|:-------:|
-Spark | **41,893** | [RAW](https://block.energized.pro/spark/formats/hosts) (1.2M) | [TXT](https://block.energized.pro/spark/formats/hosts-ipv6.txt) (942K) | [TXT](https://block.energized.pro/spark/formats/hosts.txt) (1.2M) | [FILTER](https://block.energized.pro/spark/formats/filter) (941K) | [LIST](https://block.energized.pro/spark/formats/domains.txt) (819K) | [TXT](https://block.energized.pro/spark/formats/one-line.txt) (819K) | [CONF](https://block.energized.pro/spark/formats/dnsmasq.conf) (1.6M) | [CONF IPV6](https://block.energized.pro/spark/formats/dnsmasq-ipv6.conf) (1.4M) | [CONF](https://block.energized.pro/spark/formats/unbound.conf) (1.7M) | [TXT](https://block.energized.pro/spark/formats/rpz.txt) (1.2M) | [DAT](https://block.energized.pro/spark/formats/filter.dat) (1.5M) |
-Blu Go | **78,069** | [RAW](https://block.energized.pro/bluGo/formats/hosts) (2.1M) | [TXT](https://block.energized.pro/bluGo/formats/hosts-ipv6.txt) (1.7M) | [TXT](https://block.energized.pro/bluGo/formats/hosts.txt) (2.1M) | [FILTER](https://block.energized.pro/bluGo/formats/filter) (1.7M) | [LIST](https://block.energized.pro/bluGo/formats/domains.txt) (1.5M) | [TXT](https://block.energized.pro/bluGo/formats/one-line.txt) (1.5M) | [CONF](https://block.energized.pro/bluGo/formats/dnsmasq.conf) (2.8M) | [CONF IPV6](https://block.energized.pro/bluGo/formats/dnsmasq-ipv6.conf) (2.5M) | [CONF](https://block.energized.pro/bluGo/formats/unbound.conf) (3.0M) | [TXT](https://block.energized.pro/bluGo/formats/rpz.txt) (2.1M) | [DAT](https://block.energized.pro/bluGo/formats/filter.dat) (2.7M) |
-Blu | **161,764** | [RAW](https://block.energized.pro/blu/formats/hosts) (4.3M) | [TXT](https://block.energized.pro/blu/formats/hosts-ipv6.txt) (3.6M) | [TXT](https://block.energized.pro/blu/formats/hosts.txt) (4.3M) | [FILTER](https://block.energized.pro/blu/formats/filter) (3.5M) | [LIST](https://block.energized.pro/blu/formats/domains.txt) (3.1M) | [TXT](https://block.energized.pro/blu/formats/one-line.txt) (3.1M) | [CONF](https://block.energized.pro/blu/formats/dnsmasq.conf) (5.9M) | [CONF IPV6](https://block.energized.pro/blu/formats/dnsmasq-ipv6.conf) (5.2M) | [CONF](https://block.energized.pro/blu/formats/unbound.conf) (6.3M) | [TXT](https://block.energized.pro/blu/formats/rpz.txt) (4.3M) | [DAT](https://block.energized.pro/blu/formats/filter.dat) (5.7M) |
-Basic | **274,345** | [RAW](https://block.energized.pro/basic/formats/hosts) (7.5M) | [TXT](https://block.energized.pro/basic/formats/hosts-ipv6.txt) (6.2M) | [TXT](https://block.energized.pro/basic/formats/hosts.txt) (7.5M) | [FILTER](https://block.energized.pro/basic/formats/filter) (6.2M) | [LIST](https://block.energized.pro/basic/formats/domains.txt) (5.4M) | [TXT](https://block.energized.pro/basic/formats/one-line.txt) (5.4M) | [CONF](https://block.energized.pro/basic/formats/dnsmasq.conf) (11M) | [CONF IPV6](https://block.energized.pro/basic/formats/dnsmasq-ipv6.conf) (9.1M) | [CONF](https://block.energized.pro/basic/formats/unbound.conf) (11M) | [TXT](https://block.energized.pro/basic/formats/rpz.txt) (7.5M) | - |
-Porn | **256,738** | [RAW](https://block.energized.pro/porn/formats/hosts) (6.5M) | [TXT](https://block.energized.pro/porn/formats/hosts-ipv6.txt) (5.3M) | [TXT](https://block.energized.pro/porn/formats/hosts.txt) (6.5M) | [FILTER](https://block.energized.pro/porn/formats/filter) (5.3M) | [LIST](https://block.energized.pro/porn/formats/domains.txt) (4.5M) | [TXT](https://block.energized.pro/porn/formats/one-line.txt) (4.5M) | [CONF](https://block.energized.pro/porn/formats/dnsmasq.conf) (9.0M) | [CONF IPV6](https://block.energized.pro/porn/formats/dnsmasq-ipv6.conf) (8.0M) | [CONF](https://block.energized.pro/porn/formats/unbound.conf) (9.7M) | [TXT](https://block.energized.pro/porn/formats/rpz.txt) (6.5M) | - |
-Ultimate | **568,271** | [RAW](https://block.energized.pro/ultimate/formats/hosts) (17M) | [TXT](https://block.energized.pro/ultimate/formats/hosts) (14M) | [TXT](https://block.energized.pro/ultimate/formats/hosts.txt) (17M) | [FILTER](https://block.energized.pro/ultimate/formats/filter) (14M) | [LIST](https://block.energized.pro/ultimate/formats/domains.txt) (12M) | [TXT](https://block.energized.pro/ultimate/formats/one-line.txt) (12M) | [CONF](https://block.energized.pro/ultimate/formats/dnsmasq.conf) (22M) | [CONF IPV6](https://block.energized.pro/ultimate/formats/dnsmasq-ipv6.conf) (20M) | [CONF](https://block.energized.pro/ultimate/formats/unbound.conf) (24M) | [TXT](https://block.energized.pro/ultimate/formats/rpz.txt) (17M) | - |
-Unified | **821,107** | [RAW](https://block.energized.pro/unified/formats/hosts) (23M) | [TXT](https://block.energized.pro/unified/formats/hosts) (19M) | [TXT](https://block.energized.pro/unified/formats/hosts.txt) (23M) | [FILTER](https://block.energized.pro/unified/formats/filter) (19M) | [LIST](https://block.energized.pro/unified/formats/domains.txt) (17M) | [TXT](https://block.energized.pro/unified/formats/one-line.txt) (17M) | [CONF](https://block.energized.pro/unified/formats/dnsmasq.conf) (31M) | [CONF IPV6](https://block.energized.pro/unified/formats/dnsmasq-ipv6.conf) (28M) | [CONF](https://block.energized.pro/unified/formats/unbound.conf) (33M) | [TXT](https://block.energized.pro/unified/formats/rpz.txt) (23M) | - |
+Spark | **41,920** | [RAW](https://block.energized.pro/spark/formats/hosts) (1.2M) | [TXT](https://block.energized.pro/spark/formats/hosts-ipv6.txt) (943K) | [TXT](https://block.energized.pro/spark/formats/hosts.txt) (1.2M) | [FILTER](https://block.energized.pro/spark/formats/filter) (942K) | [LIST](https://block.energized.pro/spark/formats/domains.txt) (819K) | [TXT](https://block.energized.pro/spark/formats/one-line.txt) (819K) | [CONF](https://block.energized.pro/spark/formats/dnsmasq.conf) (1.6M) | [CONF IPV6](https://block.energized.pro/spark/formats/dnsmasq-ipv6.conf) (1.4M) | [CONF](https://block.energized.pro/spark/formats/unbound.conf) (1.7M) | [TXT](https://block.energized.pro/spark/formats/rpz.txt) (1.2M) | [DAT](https://block.energized.pro/spark/formats/filter.dat) (1.5M) |
+Blu Go | **78,105** | [RAW](https://block.energized.pro/bluGo/formats/hosts) (2.1M) | [TXT](https://block.energized.pro/bluGo/formats/hosts-ipv6.txt) (1.7M) | [TXT](https://block.energized.pro/bluGo/formats/hosts.txt) (2.1M) | [FILTER](https://block.energized.pro/bluGo/formats/filter) (1.7M) | [LIST](https://block.energized.pro/bluGo/formats/domains.txt) (1.5M) | [TXT](https://block.energized.pro/bluGo/formats/one-line.txt) (1.5M) | [CONF](https://block.energized.pro/bluGo/formats/dnsmasq.conf) (2.8M) | [CONF IPV6](https://block.energized.pro/bluGo/formats/dnsmasq-ipv6.conf) (2.5M) | [CONF](https://block.energized.pro/bluGo/formats/unbound.conf) (3.0M) | [TXT](https://block.energized.pro/bluGo/formats/rpz.txt) (2.1M) | [DAT](https://block.energized.pro/bluGo/formats/filter.dat) (2.7M) |
+Blu | **161,807** | [RAW](https://block.energized.pro/blu/formats/hosts) (4.3M) | [TXT](https://block.energized.pro/blu/formats/hosts-ipv6.txt) (3.6M) | [TXT](https://block.energized.pro/blu/formats/hosts.txt) (4.3M) | [FILTER](https://block.energized.pro/blu/formats/filter) (3.6M) | [LIST](https://block.energized.pro/blu/formats/domains.txt) (3.1M) | [TXT](https://block.energized.pro/blu/formats/one-line.txt) (3.1M) | [CONF](https://block.energized.pro/blu/formats/dnsmasq.conf) (5.9M) | [CONF IPV6](https://block.energized.pro/blu/formats/dnsmasq-ipv6.conf) (5.2M) | [CONF](https://block.energized.pro/blu/formats/unbound.conf) (6.3M) | [TXT](https://block.energized.pro/blu/formats/rpz.txt) (4.3M) | [DAT](https://block.energized.pro/blu/formats/filter.dat) (5.7M) |
+Basic | **275,074** | [RAW](https://block.energized.pro/basic/formats/hosts) (7.5M) | [TXT](https://block.energized.pro/basic/formats/hosts-ipv6.txt) (6.2M) | [TXT](https://block.energized.pro/basic/formats/hosts.txt) (7.5M) | [FILTER](https://block.energized.pro/basic/formats/filter) (6.2M) | [LIST](https://block.energized.pro/basic/formats/domains.txt) (5.4M) | [TXT](https://block.energized.pro/basic/formats/one-line.txt) (5.4M) | [CONF](https://block.energized.pro/basic/formats/dnsmasq.conf) (11M) | [CONF IPV6](https://block.energized.pro/basic/formats/dnsmasq-ipv6.conf) (9.1M) | [CONF](https://block.energized.pro/basic/formats/unbound.conf) (11M) | [TXT](https://block.energized.pro/basic/formats/rpz.txt) (7.5M) | - |
+Porn | **262,975** | [RAW](https://block.energized.pro/porn/formats/hosts) (6.7M) | [TXT](https://block.energized.pro/porn/formats/hosts-ipv6.txt) (5.4M) | [TXT](https://block.energized.pro/porn/formats/hosts.txt) (6.7M) | [FILTER](https://block.energized.pro/porn/formats/filter) (5.4M) | [LIST](https://block.energized.pro/porn/formats/domains.txt) (4.7M) | [TXT](https://block.energized.pro/porn/formats/one-line.txt) (4.7M) | [CONF](https://block.energized.pro/porn/formats/dnsmasq.conf) (9.2M) | [CONF IPV6](https://block.energized.pro/porn/formats/dnsmasq-ipv6.conf) (8.2M) | [CONF](https://block.energized.pro/porn/formats/unbound.conf) (9.9M) | [TXT](https://block.energized.pro/porn/formats/rpz.txt) (6.7M) | - |
+Ultimate | **569,172** | [RAW](https://block.energized.pro/ultimate/formats/hosts) (17M) | [TXT](https://block.energized.pro/ultimate/formats/hosts) (14M) | [TXT](https://block.energized.pro/ultimate/formats/hosts.txt) (17M) | [FILTER](https://block.energized.pro/ultimate/formats/filter) (14M) | [LIST](https://block.energized.pro/ultimate/formats/domains.txt) (12M) | [TXT](https://block.energized.pro/ultimate/formats/one-line.txt) (12M) | [CONF](https://block.energized.pro/ultimate/formats/dnsmasq.conf) (22M) | [CONF IPV6](https://block.energized.pro/ultimate/formats/dnsmasq-ipv6.conf) (20M) | [CONF](https://block.energized.pro/ultimate/formats/unbound.conf) (24M) | [TXT](https://block.energized.pro/ultimate/formats/rpz.txt) (17M) | - |
+Unified | **828,074** | [RAW](https://block.energized.pro/unified/formats/hosts) (23M) | [TXT](https://block.energized.pro/unified/formats/hosts) (19M) | [TXT](https://block.energized.pro/unified/formats/hosts.txt) (23M) | [FILTER](https://block.energized.pro/unified/formats/filter) (19M) | [LIST](https://block.energized.pro/unified/formats/domains.txt) (17M) | [TXT](https://block.energized.pro/unified/formats/one-line.txt) (17M) | [CONF](https://block.energized.pro/unified/formats/dnsmasq.conf) (31M) | [CONF IPV6](https://block.energized.pro/unified/formats/dnsmasq-ipv6.conf) (28M) | [CONF](https://block.energized.pro/unified/formats/unbound.conf) (33M) | [TXT](https://block.energized.pro/unified/formats/rpz.txt) (23M) | - |
 
 `Note.` Due to size issue, filter DAT (Ruleset) format is only available for Spark, Blu, BluGo and Extensions.
 
@@ -155,9 +155,9 @@ Unified | **821,107** | [RAW](https://block.energized.pro/unified/formats/hosts)
 |---------|:-------:|:---------:|:----------:|:--------------:|:-----------:|:--------:|:------------:|:-------:|:------:|:---:|:-------:|
 Xtreme Extension | **8,612** | [RAW](https://block.energized.pro/extensions/xtreme/formats/hosts) | [TXT](https://block.energized.pro/extensions/xtreme/formats/hosts-ipv6.txt) | [FILTER](https://block.energized.pro/extensions/xtreme/formats/filter) | [LIST](https://block.energized.pro/extensions/xtreme/formats/domains.txt) | [TXT](https://block.energized.pro/extensions/xtreme/formats/one-line.txt) | [CONF](https://block.energized.pro/extensions/xtreme/formats/dnsmasq.conf) | [CONF IPV6](https://block.energized.pro/extensions/xtreme/formats/dnsmasq-ipv6.conf) | [CONF](https://block.energized.pro/extensions/xtreme/formats/unbound.conf) | [TXT](https://block.energized.pro/extensions/xtreme/formats/rpz.txt) | [DAT](https://block.energized.pro/extensions/xtreme/formats/filter.dat) |
 Social Extension | **6,960** | [RAW](https://block.energized.pro/extensions/social/formats/hosts) | [TXT](https://block.energized.pro/extensions/social/formats/hosts-ipv6.txt) | [FILTER](https://block.energized.pro/extensions/social/formats/filter) | [LIST](https://block.energized.pro/extensions/social/formats/domains.txt) | [TXT](https://block.energized.pro/extensions/social/formats/one-line.txt) | [CONF](https://block.energized.pro/extensions/social/formats/dnsmasq.conf) | [CONF IPV6](https://block.energized.pro/extensions/social/formats/dnsmasq-ipv6.conf) | [CONF](https://block.energized.pro/extensions/social/formats/unbound.conf) | [TXT](https://block.energized.pro/extensions/social/formats/rpz.txt) | [DAT](https://block.energized.pro/extensions/social/formats/filter.dat) |
-Porn Lite Extension | **38,585** | [RAW](https://block.energized.pro/extensions/porn-lite/formats/hosts) | [TXT](https://block.energized.pro/extensions/porn-lite/formats/hosts-ipv6.txt) | [FILTER](https://block.energized.pro/extensions/porn-lite/formats/filter) | [LIST](https://block.energized.pro/extensions/porn-lite/formats/domains.txt) | [TXT](https://block.energized.pro/extensions/porn-lite/formats/one-line.txt) | [CONF](https://block.energized.pro/extensions/porn-lite/formats/dnsmasq.conf) | [CONF IPV6](https://block.energized.pro/extensions/porn-lite/formats/dnsmasq-ipv6.conf) | [CONF](https://block.energized.pro/extensions/porn-lite/formats/unbound.conf) | [TXT](https://block.energized.pro/extensions/porn-lite/formats/rpz.txt) | [DAT](https://block.energized.pro/extensions/porn-lite/formats/filter.dat) |
-Regional Extension | **32,606** | [RAW](https://block.energized.pro/extensions/regional/formats/hosts) | [TXT](https://block.energized.pro/extensions/regional/formats/hosts-ipv6.txt) | [FILTER](https://block.energized.pro/extensions/regional/formats/filter) | [LIST](https://block.energized.pro/extensions/regional/formats/domains.txt) | [TXT](https://block.energized.pro/extensions/regional/formats/one-line.txt) | [CONF](https://block.energized.pro/extensions/regional/formats/dnsmasq.conf) | [CONF IPV6](https://block.energized.pro/extensions/regional/formats/dnsmasq-ipv6.conf) | [CONF](https://block.energized.pro/extensions/regional/formats/unbound.conf) | [TXT](https://block.energized.pro/extensions/regional/formats/rpz.txt) | [DAT](https://block.energized.pro/extensions/regional/formats/filter.dat) |
-IP Extension | **170,043** | - | - | - | [LIST](https://block.energized.pro/extensions/ips/formats/list.txt) | - | - | - | - | - | - |
+Porn Lite Extension | **45,233** | [RAW](https://block.energized.pro/extensions/porn-lite/formats/hosts) | [TXT](https://block.energized.pro/extensions/porn-lite/formats/hosts-ipv6.txt) | [FILTER](https://block.energized.pro/extensions/porn-lite/formats/filter) | [LIST](https://block.energized.pro/extensions/porn-lite/formats/domains.txt) | [TXT](https://block.energized.pro/extensions/porn-lite/formats/one-line.txt) | [CONF](https://block.energized.pro/extensions/porn-lite/formats/dnsmasq.conf) | [CONF IPV6](https://block.energized.pro/extensions/porn-lite/formats/dnsmasq-ipv6.conf) | [CONF](https://block.energized.pro/extensions/porn-lite/formats/unbound.conf) | [TXT](https://block.energized.pro/extensions/porn-lite/formats/rpz.txt) | [DAT](https://block.energized.pro/extensions/porn-lite/formats/filter.dat) |
+Regional Extension | **32,638** | [RAW](https://block.energized.pro/extensions/regional/formats/hosts) | [TXT](https://block.energized.pro/extensions/regional/formats/hosts-ipv6.txt) | [FILTER](https://block.energized.pro/extensions/regional/formats/filter) | [LIST](https://block.energized.pro/extensions/regional/formats/domains.txt) | [TXT](https://block.energized.pro/extensions/regional/formats/one-line.txt) | [CONF](https://block.energized.pro/extensions/regional/formats/dnsmasq.conf) | [CONF IPV6](https://block.energized.pro/extensions/regional/formats/dnsmasq-ipv6.conf) | [CONF](https://block.energized.pro/extensions/regional/formats/unbound.conf) | [TXT](https://block.energized.pro/extensions/regional/formats/rpz.txt) | [DAT](https://block.energized.pro/extensions/regional/formats/filter.dat) |
+IP Extension | **173,550** | - | - | - | [LIST](https://block.energized.pro/extensions/ips/formats/list.txt) | - | - | - | - | - | - |
 
 `Note.` **Xtreme** Pack is an enhanced protection pack. May break apps and sites.
 
@@ -189,8 +189,8 @@ Sources each pack and extension uses.
 
 ## Sources
 
-Updated sources from the following locations are always merged and included. 
-`Note.` Active Source means the hosts file we use after whitelisting legit domains and removing dead inactive domains. Social and IP sources don't have active lists as for now. 
+Updated sources from the following locations are always merged and included.
+`Note.` Active Source means the hosts file we use after whitelisting legit domains and removing dead inactive domains. Social and IP sources don't have active lists as for now.
 
 | Source | Maintainer(s) | Description | Home Page | RAW Source | License | Active/Filter Source |
 |--------|:-------------:|-------------|:---------:|:----------:|:-------:|:--------------------:|
@@ -236,7 +236,7 @@ Better.fyi Trackers | Better.fyi | Better.fyi Trackers Blocklist | [LINK](https:
 Bjornstar's Hosts | Bjorn Stromberg | Hosts file, filled with advertisers and other purveyors of worthless content | [LINK](https://github.com/bjornstar/hosts) | [RAW](https://raw.githubusercontent.com/bjornstar/hosts/master/hosts) | The Unlicense | [SOURCE](https://block.energized.pro/assets/sources/filter/bjornstar-hosts.txt) |
 blackbook | stamparm | Newly reported entries from public lists of malicious URLs | [LINK](https://github.com/stamparm/blackbook) | [RAW](https://raw.githubusercontent.com/stamparm/blackbook/master/blackbook.txt) | The Unlicense | [SOURCE](https://block.energized.pro/assets/sources/filter/blackbook.txt) |
 Bulgarian List + EasyList | The EasyList Authors & Alex Stanev | A list combining Bulgarian List and EasyList | [LINK](https://github.com/easylist/easylist/) | [RAW](https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_thirdparty.txt) | GPLv3 | [SOURCE](https://block.energized.pro/assets/sources/filter/easylist-bulgarian.txt) |
-Clefspeare's Pornhosts | Clefspeare13 | A consolidated anti porn hosts file | [LINK](https://github.com/Clefspeare13/pornhosts) | [RAW](https://raw.githubusercontent.com/Clefspeare13/pornhosts/master/0.0.0.0/hosts) | MIT | [SOURCE](https://block.energized.pro/assets/sources/filter/clefspeare-pornhosts.txt) |
+Clefspeare's Pornhosts | Clefspeare13 | A consolidated anti porn hosts file | [LINK](https://github.com/Clefspeare13/pornhosts) | [RAW](https://raw.githubusercontent.com/Clefspeare13/pornhosts/master/download_here/0.0.0.0/hosts) | MIT | [SOURCE](https://block.energized.pro/assets/sources/filter/clefspeare-pornhosts.txt) |
 Cybercrime | - | - |[LINK](https://cybercrime-tracker.net/) | [RAW](https://v.firebog.net/hosts/Cybercrime.txt) | - | [SOURCE](https://block.energized.pro/assets/sources/filter/cybercrime.txt) |
 Dandelion Sprout's Nordic Filters | Dandelion Sprout | Removes adverts on Norwegian-, Danish- and Icelandic-language websites | [LINK](https://github.com/DandelionSprout/adfilt) | [RAW](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/NordicFiltersAdGuardHome.txt) | Dandelicence | [SOURCE](https://block.energized.pro/assets/sources/filter/dandelion-sprouts-nordic-filters.txt) |
 DigitalSide Threat-Intel | Davide Baglieri | Cyber Threat URLs, IPs and domains | [LINK](https://github.com/davidonzo/Threat-Intel) | [RAW](https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt) | MIT | [SOURCE]() |
@@ -286,7 +286,7 @@ hBlock | hectorm | Improve your security and privacy by blocking ads, tracking a
 Hexxium Creations Threat List | HexxiumCreations | Blocks scams/phishing/malware/malvertising/exploits - and other general threats | [LINK](https://www.hexxiumcreations.com/projects/malicious-domain-blocking/) | [RAW](https://raw.githubusercontent.com/HexxiumCreations/threat-list/gh-pages/hexxiumthreatlist.txt) | All Rights Reserved | [SOURCE](https://block.energized.pro/assets/sources/filter/hexxium-creations-threat-list.txt) |
 hosts-blocklists | Notracking | Blocks ads, fake sites, shock sites, malware hosts and trackers |[LINK](https://github.com/notracking/hosts-blocklists) | [RAW](https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt) | All Rights Reserved | [SOURCE](https://block.energized.pro/assets/sources/filter/notracking.txt) |
 HostsVN | bigdargon | Blocks ads and tracking in Vietnam | [RAW](https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN) | [LINK](https://github.com/bigdargon/hostsVN/) | MIT | [SOURCE](https://block.energized.pro/assets/sources/filter/hosts-vn.txt) |
-IPsum | Miroslav Stampar | Daily feed of bad IPs | [LINK](https://github.com/stamparm/ipsum) | [RAW](https://raw.githubusercontent.com/stamparm/ipsum/master/ipsum.txt) | All Rights Reserved | - | 
+IPsum | Miroslav Stampar | Daily feed of bad IPs | [LINK](https://github.com/stamparm/ipsum) | [RAW](https://raw.githubusercontent.com/stamparm/ipsum/master/ipsum.txt) | All Rights Reserved | - |
 KADhosts | azet12 | Fraud/adware/scam websites | [LINK](https://github.com/azet12/KADhosts) | [RAW](https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt) | CC BY-SA 4.0 | [SOURCE](https://block.energized.pro/assets/sources/filter/kadhosts.txt) |
 lightswitch Ads & Tracking | lightswitch05 | Expanded list of hosts used for advertisements and tracking | [LINK](https://www.github.developerdan.com/hosts/) | [RAW](https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt) | Apache 2.0 | [SOURCE](https://block.energized.pro/assets/sources/filter/lightswitch-hosts-extended.txt) |
 lightswitch Ads & Tracking Extended | lightswitch05 | Aggressive block list for tracking, geo-targeting, & ads | [LINK](https://www.github.developerdan.com/hosts/) | [RAW](https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt) | Apache 2.0 | [SOURCE](https://block.energized.pro/assets/sources/filter/lightswitch-hosts-extended.txt) |
@@ -337,7 +337,7 @@ Check whether Energized Protection is working or not! Check via our checking pag
 Maintaining a quality blocking project takes a lot of time. Energized Protection is completely independently funded. We fight for our users. This does mean
 however that we also have to spend our owns to pay the bills. This is where you can help: by chipping in you can ensure more time is spent improving Energized rather than dealing with distractions.
 
-This donation is for our services, not for any pack, resource or any other mean. Your support will help us keep the project running and provide you quality service. 
+This donation is for our services, not for any pack, resource or any other mean. Your support will help us keep the project running and provide you quality service.
 
 <a href="https://paypal.me/shadmansaleh" target="_blank"><img src="https://www.paypalobjects.com/webstatic/mktg/logo/bdg_now_accepting_pp_2line_w.png"></a>
 
@@ -383,4 +383,5 @@ The content of this project itself is licensed under the [MIT](https://github.co
   <h2>Let's make an annoyance free better open internet, altogether!</h2>
   <sub>A project by <a href="https://nayemador.com" target="_blank">Ador</a> with ❤<pub>
 </div>
+
 
