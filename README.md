@@ -1,4 +1,4 @@
-![Cover](https://cdn.energized.pro/images/block_cover.svg)
+![Cover](https://energized.pro/assets/images/block_cover.svg)
 
 <div align="center">
   <h1>Energized Protection - block ⚡</h1>
