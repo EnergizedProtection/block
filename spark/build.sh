@@ -107,17 +107,14 @@ rm -f $temp
 
 #-------------------------------------------------------------------------------#
 #-------------------------------- S O U R C E S --------------------------------#
-#-------------------------------------------------------------------------------# 
+#-------------------------------------------------------------------------------#
 { wget -qO- https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts; \
 } > $file
 { cat $oFileDir/domains.txt; \
 cat $fileDir/adaway.org.txt; \
 cat $fileDir/ador-energized.txt; \
 cat $fileDir/adguard-mobile-ads.txt; \
-cat $fileDir/pgl.yoyo.org.txt; \
 cat $fileDir/someonewhocares.org.txt; \
-cat $fileDir/sbc-hosts.txt; \
-cat $fileDir/winhelp2002.mvps.org.txt; \
 } >> $file
 
 #-------------------------------------------------------------------------------#

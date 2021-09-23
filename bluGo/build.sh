@@ -107,7 +107,7 @@ rm -f $temp
 
 #-------------------------------------------------------------------------------#
 #-------------------------------- S O U R C E S --------------------------------#
-#-------------------------------------------------------------------------------# 
+#-------------------------------------------------------------------------------#
 { wget -qO- https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts; \
 } > $file
 { cat $oFileDir/domains.txt; \
@@ -115,6 +115,7 @@ cat $fileDir/280blocker.txt; \
 cat $fileDir/ad-wars.txt; \
 cat $fileDir/adaway.org.txt; \
 cat $fileDir/ador-energized.txt; \
+cat $fileDir/adguard-dns.txt; \
 cat $fileDir/adguard-mobile-ads.txt; \
 cat $fileDir/adguard-mobile-ads-filter.txt; \
 cat $fileDir/adguard-mobile-specific.txt; \
