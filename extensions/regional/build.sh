@@ -96,7 +96,6 @@ echo -n "\n# $dividerTiny\n# E N E R G I Z E D  E N D S\n# $dividerTiny\n#\n# - 
 cat $fileDir/abpindo.txt; \
 cat $fileDir/adblock-estonian.txt; \
 cat $fileDir/adblock-id.txt; \
-cat $fileDir/adblock-iran.txt; \
 cat $fileDir/adguard-dutch-filter.txt; \
 cat $fileDir/adguard-english-filter.txt; \
 cat $fileDir/adguard-french-filter.txt; \
@@ -121,6 +120,7 @@ cat $fileDir/easylist-spanish.txt; \
 cat $fileDir/easylist-thailand.txt; \
 cat $fileDir/hosts-vn.txt; \
 cat $fileDir/liste-ar.txt; \
+cat $fileDir/persianblockerhosts.txt; \
 } >> $file
 
 #-------------------------------------------------------------------------------#
