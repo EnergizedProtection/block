@@ -534,7 +534,7 @@
 	"homepage": "https://www.openphish.com/"
   },
   {
-    "source": "PersianBlocker (Hosts)",   "maintainer": "MasterKia",   "name": "persianblocker-hosts",
+    "source": "PersianBlocker (Hosts)",   "maintainer": "MasterKia",   "name": "persianblockerhosts",
 	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
 	"url": "https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerHosts.txt",
 	"homepage": "https://github.com/MasterKia/PersianBlocker"
