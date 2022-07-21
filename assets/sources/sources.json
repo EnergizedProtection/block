@@ -48,12 +48,6 @@
 	"homepage": "https://github.com/realodix/AdBlockID"
   },
   {
-    "source": "Adblock-Iran",   "maintainer": "farrokhi",   "name": "adblock-iran",
-	"enabled": true,    "update": "latest",    "filter": "active",    "format": "adblock",
-	"url": "https://raw.githubusercontent.com/farrokhi/adblock-iran/master/filter.txt",
-	"homepage": "https://github.com/farrokhi/adblock-iran"
-  },
-  {
     "source": "Ador's Energized Pro List",   "maintainer": "Ador",   "name": "ador-energized",
 	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
 	"url": "https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts",
@@ -538,6 +532,12 @@
 	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
 	"url": "https://v.firebog.net/hosts/Openphish.txt",
 	"homepage": "https://www.openphish.com/"
+  },
+  {
+    "source": "PersianBlocker (Hosts)",   "maintainer": "MasterKia",   "name": "persianblocker-hosts",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
+	"url": "https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerHosts.txt",
+	"homepage": "https://github.com/MasterKia/PersianBlocker"
   },
   {
     "source": "pgl.yoyo.org",   "maintainer": "pgl.yoyo.org",    "name": "pgl.yoyo.org",
