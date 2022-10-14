@@ -6,8 +6,8 @@
 
 <div align="center">
   <!-- Version -->
-    <img src="https://img.shields.io/badge/Version-22.10.287.17-blue.svg?longCache=true&style=flat-square"
-      alt="22.10.287.17" />
+    <img src="https://img.shields.io/badge/Version-22.10.287.21-blue.svg?longCache=true&style=flat-square"
+      alt="22.10.287.21" />
   <!-- Last Updated -->
     <img src="https://img.shields.io/badge/Updated-Oct 14, 2022-orange.svg?longCache=true&style=flat-square"
       alt="_time_stamp_" />
@@ -112,7 +112,7 @@ Xtreme Extension | Privacy protection at its best. | ANY | 4,315 | 123K | [/e/xt
 Social Extension | Block social apps and sites. | ANY | 6,974 | 220K | [/e/social](https://github.com/EnergizedProtection/block/tree/master/extensions/social) |
 Porn Lite Extension | Lite pornware blocking. | ANY | 51,356 | 1.3M | [/e/porn-lite](https://github.com/EnergizedProtection/block/tree/master/extensions/porn-lite) |
 Regional Extension | Regional annoyance blocking. | MID - HIGH END | 47,099 | 1.1M | [/e/regional](https://github.com/EnergizedProtection/block/tree/master/extensions/regional) |
-IP Extension | Malicious IP protection. | MID - HIGH END | 138,067 | 1.9M | [/e/ips](https://github.com/EnergizedProtection/block/tree/master/extensions/ips) |
+IP Extension | Malicious IP protection. | MID - HIGH END | 138,127 | 1.9M | [/e/ips](https://github.com/EnergizedProtection/block/tree/master/extensions/ips) |
 
 **Expectation**: These unified packs should serve all devices, regardless of OS.
 
@@ -157,7 +157,7 @@ Xtreme Extension | **4,315** | [RAW](https://block.energized.pro/extensions/xtre
 Social Extension | **6,974** | [RAW](https://block.energized.pro/extensions/social/formats/hosts) | [TXT](https://block.energized.pro/extensions/social/formats/hosts-ipv6.txt) | [FILTER](https://block.energized.pro/extensions/social/formats/filter) | [LIST](https://block.energized.pro/extensions/social/formats/domains.txt) | [TXT](https://block.energized.pro/extensions/social/formats/one-line.txt) | [CONF](https://block.energized.pro/extensions/social/formats/dnsmasq.conf) | [CONF IPV6](https://block.energized.pro/extensions/social/formats/dnsmasq-ipv6.conf) | [CONF](https://block.energized.pro/extensions/social/formats/unbound.conf) | [TXT](https://block.energized.pro/extensions/social/formats/rpz.txt) | [DAT](https://block.energized.pro/extensions/social/formats/filter.dat) |
 Porn Lite Extension | **51,356** | [RAW](https://block.energized.pro/extensions/porn-lite/formats/hosts) | [TXT](https://block.energized.pro/extensions/porn-lite/formats/hosts-ipv6.txt) | [FILTER](https://block.energized.pro/extensions/porn-lite/formats/filter) | [LIST](https://block.energized.pro/extensions/porn-lite/formats/domains.txt) | [TXT](https://block.energized.pro/extensions/porn-lite/formats/one-line.txt) | [CONF](https://block.energized.pro/extensions/porn-lite/formats/dnsmasq.conf) | [CONF IPV6](https://block.energized.pro/extensions/porn-lite/formats/dnsmasq-ipv6.conf) | [CONF](https://block.energized.pro/extensions/porn-lite/formats/unbound.conf) | [TXT](https://block.energized.pro/extensions/porn-lite/formats/rpz.txt) | [DAT](https://block.energized.pro/extensions/porn-lite/formats/filter.dat) |
 Regional Extension | **47,099** | [RAW](https://block.energized.pro/extensions/regional/formats/hosts) | [TXT](https://block.energized.pro/extensions/regional/formats/hosts-ipv6.txt) | [FILTER](https://block.energized.pro/extensions/regional/formats/filter) | [LIST](https://block.energized.pro/extensions/regional/formats/domains.txt) | [TXT](https://block.energized.pro/extensions/regional/formats/one-line.txt) | [CONF](https://block.energized.pro/extensions/regional/formats/dnsmasq.conf) | [CONF IPV6](https://block.energized.pro/extensions/regional/formats/dnsmasq-ipv6.conf) | [CONF](https://block.energized.pro/extensions/regional/formats/unbound.conf) | [TXT](https://block.energized.pro/extensions/regional/formats/rpz.txt) | [DAT](https://block.energized.pro/extensions/regional/formats/filter.dat) |
-IP Extension | **138,067** | - | - | - | [LIST](https://block.energized.pro/extensions/ips/formats/list.txt) | - | - | - | - | - | - |
+IP Extension | **138,127** | - | - | - | [LIST](https://block.energized.pro/extensions/ips/formats/list.txt) | - | - | - | - | - | - |
 
 `Note.` **Xtreme** Pack is an enhanced protection pack. May break apps and sites.
 
