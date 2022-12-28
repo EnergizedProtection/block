@@ -111,7 +111,7 @@ rm -f $temp
 { cat $oFileDir/domains.txt; \
 cat $fileDir/ador-energized-porn.txt; \
 cat $fileDir/airelle-sex.txt; \
-cat $fileDir/clefspeare-pornhosts.txt; \
+cat $fileDir/mypdns-pornhosts.txt; \
 cat $fileDir/easylist-adult-adservers.txt; \
 cat $fileDir/easylist-adult-specific.txt; \
 cat $fileDir/easylist-adult-thirdparty.txt; \

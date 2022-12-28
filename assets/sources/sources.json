@@ -240,10 +240,10 @@
 	"homepage": "https://github.com/stamparm/blackbook/"
   },
   {
-    "source": "pornhosts",   "maintainer": "Clefspeare13",    "name": "clefspeare-pornhosts",
+    "source": "pornhosts",   "maintainer": "spirillen",    "name": "mypdns-pornhosts",
 	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
-	"url": "https://raw.githubusercontent.com/Clefspeare13/pornhosts/master/download_here/0.0.0.0/hosts",
-	"homepage": "https://github.com/Clefspeare13/pornhosts"
+	"url": "https://mypdns.org/clefspeare13/pornhosts/-/raw/master/download_here/0.0.0.0/hosts",
+	"homepage": "https://mypdns.org/clefspeare13/pornhosts"
   },
   {
     "source": "cybercrime",   "maintainer": "-",    "name": "cybercrime",
