@@ -240,10 +240,18 @@
 	"homepage": "https://github.com/stamparm/blackbook/"
   },
   {
-    "source": "pornhosts",   "maintainer": "Clefspeare13",    "name": "clefspeare-pornhosts",
-	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
-	"url": "https://raw.githubusercontent.com/Clefspeare13/pornhosts/master/download_here/0.0.0.0/hosts",
-	"homepage": "https://github.com/Clefspeare13/pornhosts"
+    "source": "pornhosts", "maintainer": "My Privacy DNS",
+    "name": "My Privacy DNS Porn Hosts based file", "enabled": true, "update": "latest",
+    "filter": "active",    "format": "plain",
+    "url": "https://0xacab.org/my-privacy-dns/hosts/-/raw/master/download/porn.txt",
+	  "homepage": "https://mypdns.eu.org/"
+  },
+  {
+    "source": "pornhosts", "maintainer": "My Privacy DNS",
+    "name": "My Privacy DNS Fast Ring Porn Hosts based file (Probably includes FP)",
+    "enabled": true, "update": "latest", "filter": "active", "format": "plain",
+    "url": "https://0xacab.org/my-privacy-dns/hosts/-/raw/master/download/porn.fastring.txt",
+    "homepage": "https://mypdns.eu.org/"
   },
   {
     "source": "cybercrime",   "maintainer": "-",    "name": "cybercrime",
