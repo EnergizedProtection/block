@@ -1,0 +1,656 @@
+{"sources": [
+  {
+    "source": "1Hosts",   "maintainer": "badmojr",   "name": "1hosts.cf",
+	"enabled": true,   "update": "latest",   "filter": "active",   "format": "plain",
+	"url": "https://badmojr.github.io/1Hosts/mini/hosts.txt",
+	"homepage": "https://github.com/badmojr/1Hosts"
+  },
+  {
+    "source": "1Hosts Pro",   "maintainer": "badmojr",   "name": "1hosts.cf-pro",
+	"enabled": true,   "update": "latest",   "filter": "active",   "format": "plain",
+	"url": "https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/domains.txt",
+	"homepage": "https://github.com/badmojr/1Hosts"
+  },
+  {
+    "source": "280blocker",   "maintainer": "280blocker",   "name": "280blocker",
+    "enabled": true,    "update": "latest",    "filter": "active",    "format": "adblock",
+	"url": "https://energized.pro/mirror/280blocker_domain_ag.txt",
+	"homepage": "https://280blocker.net/"
+  },
+  {
+    "source": "ABPindo",   "maintainer": "ABPindo",   "name": "abpindo",
+	"enabled": true,   "update": "latest",   "filter": "active",   "format": "adblock",
+	"url": "https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt",
+	"homepage": "https://github.com/ABPindo/indonesianadblockrules/"
+  },
+  {
+    "source": "ADAway",   "maintainer": "ADAway",   "name": "adaway.org",
+	"enabled": true,   "update": "latest",   "filter": "active",   "format": "plain",
+	"url": "https://adaway.org/hosts.txt",
+	"homepage": "https://adaway.org/"
+  },
+  {
+    "source": "ad-wars",   "maintainer": "jdlingyu",   "name": "ad-wars",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
+	"url": "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts",
+	"homepage": "https://github.com/jdlingyu/ad-wars"
+  },
+  {
+    "source": "Adblock Filters by Gurud.ee",   "maintainer": "Gurud OÜ",   "name": "adblock-estonian",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "adblock",
+	"url": "https://gurud.ee/ab.txt",
+	"homepage": "http://gurud.ee"
+  },
+  {
+    "source": "Adblock Filters by Gurud.ee",   "maintainer": "realodix",   "name": "adblock-id",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "adblock",
+	"url": "https://raw.githubusercontent.com/realodix/AdBlockID/master/output/adblockid.txt",
+	"homepage": "https://github.com/realodix/AdBlockID"
+  },
+  {
+    "source": "Adblock-Iran",   "maintainer": "farrokhi",   "name": "adblock-iran",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "adblock",
+	"url": "https://raw.githubusercontent.com/farrokhi/adblock-iran/master/filter.txt",
+	"homepage": "https://github.com/farrokhi/adblock-iran"
+  },
+  {
+    "source": "Ador's Energized Pro List",   "maintainer": "Ador",   "name": "ador-energized",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
+	"url": "https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts",
+	"homepage": "https://github.com/AdroitAdorKhan/EnergizedProtection"
+  },
+  {
+    "source": "Ador's Energized Pro Porn List",   "maintainer": "Ador",   "name": "ador-energized-porn",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
+	"url": "https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts-porn",
+	"homepage": "https://github.com/AdroitAdorKhan/EnergizedProtection"
+  },
+  {
+    "source": "AdGuard DNS filter",   "maintainer": "AdguardTeam",   "name": "adguard-dns",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "adblock",
+	"url": "https://filters.adtidy.org/extension/chromium/filters/15.txt",
+	"homepage": "https://github.com/AdguardTeam/AdguardSDNSFilter"
+  },
+  {
+    "source": "AdGuard Dutch filter",   "maintainer": "AdguardTeam",   "name": "adguard-dutch-filter",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "adblock",
+	"url": "https://filters.adtidy.org/extension/chromium/filters/8.txt",
+	"homepage": "https://github.com/AdguardTeam/AdGuardFilters"
+  },
+  {
+    "source": "AdGuard Base filter (English)",   "maintainer": "AdguardTeam",   "name": "adguard-english-filter",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "adblock",
+	"url": "https://filters.adtidy.org/extension/chromium/filters/2.txt",
+	"homepage": "https://github.com/AdguardTeam/AdGuardFilters"
+  },
+  {
+    "source": "AdGuard French filter",   "maintainer": "AdguardTeam",   "name": "adguard-french-filter",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "adblock",
+	"url": "https://filters.adtidy.org/extension/chromium/filters/16.txt",
+	"homepage": "https://github.com/AdguardTeam/AdGuardFilters"
+  },
+  {
+    "source": "AdGuard German filter",   "maintainer": "AdguardTeam",   "name": "adguard-german-filter",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "adblock",
+	"url": "https://filters.adtidy.org/extension/chromium/filters/6.txt",
+	"homepage": "https://github.com/AdguardTeam/AdGuardFilters"
+  },
+  {
+    "source": "AdGuard Japanese filter",   "maintainer": "AdguardTeam",   "name": "adguard-japanese-filter",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "adblock",
+	"url": "https://filters.adtidy.org/extension/chromium/filters/7.txt",
+	"homepage": "https://github.com/AdguardTeam/AdGuardFilters"
+  },
+  {
+    "source": "AdGuard Mobile Adservers",   "maintainer": "AdguardTeam",   "name": "adguard-mobile-ads",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "adblock",
+	"url": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt",
+	"homepage": "https://github.com/AdguardTeam/AdGuardFilters"
+  },
+  {
+    "source": "AdGuard Mobile Ads filter",   "maintainer": "AdguardTeam",   "name": "adguard-mobile-ads-filter",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "adblock",
+	"url": "https://filters.adtidy.org/extension/chromium/filters/11.txt",
+	"homepage": "https://github.com/AdguardTeam/AdGuardFilters"
+  },
+  {
+    "source": "AdGuard Mobile Specific",   "maintainer": "AdguardTeam",   "name": "adguard-mobile-specific",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "adblock",
+	"url": "https://github.com/AdguardTeam/AdguardFilters/raw/master/MobileFilter/sections/specific_app.txt",
+	"homepage": "https://github.com/AdguardTeam/AdGuardFilters"
+  },
+  {
+    "source": "AdGuard Russian filter",   "maintainer": "AdguardTeam",   "name": "adguard-russian-filter",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "adblock",
+	"url": "https://filters.adtidy.org/extension/chromium/filters/1.txt",
+	"homepage": "https://github.com/AdguardTeam/AdGuardFilters"
+  },
+  {
+    "source": "AdGuard Suffari filter",   "maintainer": "AdguardTeam",   "name": "adguard-safari",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "adblock",
+	"url": "https://filters.adtidy.org/extension/chromium/filters/12.txt",
+	"homepage": "https://github.com/AdguardTeam/AdGuardFilters"
+  },
+  {
+    "source": "AdGuard Social Media filter",   "maintainer": "AdguardTeam",   "name": "adguard-social-filter",
+	"enabled": true,    "update": "latest",    "filter": "original",  "format": "adblock",
+	"url": "https://filters.adtidy.org/extension/chromium/filters/4.txt",
+	"homepage": "https://github.com/AdguardTeam/AdGuardFilters"
+  },
+  {
+    "source": "AdGuard Social Trackers",   "maintainer": "AdguardTeam",   "name": "adguard-social-trackers",
+	"enabled": true,    "update": "latest",    "filter": "original",  "format": "adblock",
+	"url": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SocialFilter/sections/social_trackers.txt",
+	"homepage": "https://github.com/AdguardTeam/AdGuardFilters"
+  },
+  {
+    "source": "AdGuard Spanish/Portuguese filter",   "maintainer": "AdguardTeam",   "name": "adguard-spanish-portuguese-filter",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "adblock",
+	"url": "https://filters.adtidy.org/extension/chromium/filters/9.txt",
+	"homepage": "https://github.com/AdguardTeam/AdGuardFilters"
+  },
+  {
+    "source": "AdGuard Tracking Protection filter",   "maintainer": "AdguardTeam",   "name": "adguard-tracking-protection",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "adblock",
+	"url": "https://filters.adtidy.org/extension/chromium/filters/3.txt",
+	"homepage": "https://github.com/AdguardTeam/AdGuardFilters"
+  },
+  {
+    "source": "AdGuard Tracking Firstparty",   "maintainer": "AdguardTeam",   "name": "adguard-tracking-firstparty",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "adblock",
+	"url": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers_firstparty.txt",
+	"homepage": "https://github.com/AdguardTeam/AdGuardFilters"
+  },
+  {
+    "source": "AdGuard Tracking Servers",   "maintainer": "AdguardTeam",   "name": "adguard-tracking-servers",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "adblock",
+	"url": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt",
+	"homepage": "https://github.com/AdguardTeam/AdGuardFilters"
+  },
+  {
+    "source": "AdGuard Turkish filter",   "maintainer": "AdguardTeam",   "name": "adguard-turkish-filter",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "adblock",
+	"url": "https://filters.adtidy.org/extension/chromium/filters/13.txt",
+	"homepage": "https://github.com/AdguardTeam/AdGuardFilters"
+  },
+  {
+    "source": "Adversity Anti Social",   "maintainer": "Hubird-au",   "name": "adversity-anti-social",
+	"enabled": true,    "update": "latest",    "filter": "original",  "format": "adblock",
+	"url": "https://raw.githubusercontent.com/Hubird-au/Adversity/master/Antisocial.txt",
+	"homepage": "https://github.com/Hubird-au/Adversity/"
+  },
+  {
+    "source": "Airelle PUB",   "maintainer": "Airelle",   "name": "airelle-pub",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
+	"url": "https://block.energized.pro/mirror/airelle-pub.txt",
+	"homepage": "http://rlwpx.free.fr/WPFF"
+  },
+  {
+    "source": "Airelle RSK",   "maintainer": "Airelle",   "name": "airelle-rsk",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
+	"url": "https://block.energized.pro/mirror/airelle-rsk.txt",
+	"homepage": "http://rlwpx.free.fr/WPFF"
+  },
+  {
+    "source": "Airelle SEX",   "maintainer": "Airelle",   "name": "airelle-sex",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
+	"url": "https://block.energized.pro/mirror/airelle-sex.txt",
+	"homepage": "http://rlwpx.free.fr/WPFF"
+  },
+  {
+    "source": "Airelle TRC",   "maintainer": "Airelle",   "name": "airelle-trc",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
+	"url": "https://block.energized.pro/mirror/airelle-trc.txt",
+	"homepage": "http://rlwpx.free.fr/WPFF"
+  },
+  {
+    "source": "antipopads",   "maintainer": "Yhonay",   "name": "antipopads",
+	"enabled": true,    "update": "latest",    "filter": "original",  "format": "plain",
+	"url": "https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts",
+	"homepage": "https://github.com/Yhonay/antipopads/"
+  },
+  {
+    "source": "Anudeep's Blacklist",   "maintainer": "Anudeep",   "name": "anudeep-adservers",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
+	"url": "https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt",
+	"homepage": "https://github.com/anudeepND/blacklist"
+  },
+  {
+    "source": "BarbBlock",   "maintainer": "paulgb",   "name": "barbblock",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
+	"url": "https://paulgb.github.io/BarbBlock/blacklists/domain-list.txt",
+	"homepage": "https://github.com/paulgb/BarbBlock"
+  },
+  {
+    "source": "Better.fyi Trackers",   "maintainer": "anarki999",    "name": "better-fyi-trackers",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "adblock",
+	"url": "https://raw.githubusercontent.com/anarki999/Adblock-List-Archive/master/Better.fyiTrackersBlocklist.txt",
+	"homepage": "https://better.fyi/trackers/"
+  },
+  {
+    "source": "bjornstar hosts",   "maintainer": "bjornstar",    "name": "bjornstar-hosts",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
+	"url": "https://raw.githubusercontent.com/bjornstar/hosts/master/hosts",
+	"homepage": "https://github.com/bjornstar/hosts"
+  },
+  {
+    "source": "blackbook",   "maintainer": "stamparm",    "name": "blackbook",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
+	"url": "https://raw.githubusercontent.com/stamparm/blackbook/master/blackbook.txt",
+	"homepage": "https://github.com/stamparm/blackbook/"
+  },
+  {
+    "source": "pornhosts",   "maintainer": "Clefspeare13",    "name": "clefspeare-pornhosts",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
+	"url": "https://raw.githubusercontent.com/Clefspeare13/pornhosts/master/download_here/0.0.0.0/hosts",
+	"homepage": "https://github.com/Clefspeare13/pornhosts"
+  },
+  {
+    "source": "cybercrime",   "maintainer": "-",    "name": "cybercrime",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
+	"url": "https://v.firebog.net/hosts/Cybercrime.txt",
+	"homepage": "https://cybercrime-tracker.net/"
+  },
+  {
+    "source": "Dandelion Sprouts nordiske filtre",   "maintainer": "DandelionSprout",    "name": "dandelion-sprouts-nordic-filters",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "adblock",
+	"url": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/NordicFiltersAdGuardHome.txt",
+	"homepage": "https://github.com/DandelionSprout/adfilt"
+  },
+  {
+    "source": "DigitalSide Threat-Intel",   "maintainer": "DigitalSide",    "name": "digitalside-threat-intel",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
+	"url": "https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt",
+	"homepage": "https://osint.digitalside.it/"
+  },
+  {
+    "source": "disconnect.me Simple Ad",   "maintainer": "disconnect.me",    "name": "disconnect.me-ad",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
+	"url": "https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt",
+	"homepage": "https://disconnect.me/"
+  },
+  {
+    "source": "disconnect.me Malvertising",   "maintainer": "disconnect.me",    "name": "disconnect.me-malvertising",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
+	"url": "https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt",
+	"homepage": "https://disconnect.me/"
+  },
+  {
+    "source": "disconnect.me Tracking",   "maintainer": "disconnect.me",    "name": "disconnect.me-tracking",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
+	"url": "https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt",
+	"homepage": "https://disconnect.me/"
+  },
+  {
+    "source": "EasyList",   "maintainer": "EasyList",    "name": "easylist",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "adblock",
+	"url": "https://easylist.to/easylist/easylist.txt",
+	"homepage": "https://easylist.to/"
+  },
+  {
+    "source": "EasyList Adservers",   "maintainer": "EasyList",    "name": "easylist-adservers",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "adblock",
+	"url": "https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt",
+	"homepage": "https://easylist.to/"
+  },
+  {
+    "source": "EasyList Adult Adservers",   "maintainer": "EasyList",    "name": "easylist-adult-adservers",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "adblock",
+	"url": "https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_adservers.txt",
+	"homepage": "https://easylist.to/"
+  },
+  {
+    "source": "EasyList Adult Thirdparty",   "maintainer": "EasyList",    "name": "easylist-adult-thirdparty",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "adblock",
+	"url": "https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_thirdparty.txt",
+	"homepage": "https://easylist.to/"
+  },
+  {
+    "source": "EasyList Adult Specific",   "maintainer": "EasyList",    "name": "easylist-adult-specific",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "adblock",
+	"url": "https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_specific_block.txt",
+	"homepage": "https://easylist.to/"
+  },
+  {
+    "source": "EasyList Brasil",   "maintainer": "EasyList",    "name": "easylist-brasil",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "adblock",
+	"url": "https://raw.githubusercontent.com/easylistbrasil/easylistbrasil/filtro/easylistbrasil.txt",
+	"homepage": "https://easylistbrasil.github.io/"
+  },
+  {
+    "source": "Easylist Czech and Slovak filter",   "maintainer": "EasyList",    "name": "easylist-china",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "adblock",
+	"url": "https://easylist-downloads.adblockplus.org/easylistchina.txt",
+	"homepage": "http://abpchina.org/forum/"
+  },
+  {
+    "source": "EasyList China",   "maintainer": "adblock.sk",    "name": "easylist-czech-and-slovak",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "adblock",
+	"url": "https://raw.githubusercontent.com/tomasko126/easylistczechandslovak/master/filters.txt",
+	"homepage": "https://github.com/tomasko126/easylistczechandslovak"
+  },
+  {
+    "source": "EasyList Dutch",   "maintainer": "EasyList",    "name": "easylist-dutch",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "adblock",
+	"url": "https://easylist-downloads.adblockplus.org/easylistdutch.txt",
+	"homepage": "https://easylist.to/"
+  },
+  {
+    "source": "EasyList French",   "maintainer": "EasyList",    "name": "easylist-french",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "adblock",
+	"url": "https://easylist-downloads.adblockplus.org/liste_fr.txt",
+	"homepage": "https://easylist.to/"
+  },
+  {
+    "source": "EasyList Germany",   "maintainer": "EasyList",    "name": "easylist-germany",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "adblock",
+	"url": "https://easylist-downloads.adblockplus.org/easylistgermany.txt",
+	"homepage": "https://easylist.to/"
+  },
+  {
+    "source": "EasyList Italy",   "maintainer": "EasyList",    "name": "easylist-italy",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "adblock",
+	"url": "https://easylist-downloads.adblockplus.org/easylistitaly.txt",
+	"homepage": "https://easylist.to/"
+  },
+  {
+    "source": "EasyList India",   "maintainer": "EasyList",    "name": "easylist-india",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "adblock",
+	"url": "https://easylist-downloads.adblockplus.org/indianlist.txt",
+	"homepage": "https://easylist.to/"
+  },
+  {
+    "source": "EasyList Korea",   "maintainer": "EasyList",    "name": "easylist-korea",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "adblock",
+	"url": "https://easylist-downloads.adblockplus.org/koreanlist.txt",
+	"homepage": "https://easylist.to/"
+  },
+  {
+    "source": "EasyList Polish",   "maintainer": "EasyList",    "name": "easylist-polish",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "adblock",
+	"url": "https://easylist-downloads.adblockplus.org/easylistpolish.txt",
+	"homepage": "https://easylist.to/"
+  },
+  {
+    "source": "EasyList Russian",   "maintainer": "EasyList",    "name": "easylist-russian",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "adblock",
+	"url": "https://easylist-downloads.adblockplus.org/advblock.txt",
+	"homepage": "https://easylist.to/"
+  },
+  {
+    "source": "EasyList Spanish",   "maintainer": "EasyList",    "name": "easylist-spanish",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "adblock",
+	"url": "https://easylist-downloads.adblockplus.org/easylistspanish.txt",
+	"homepage": "https://easylist.to/"
+  },
+  {
+    "source": "EasyList Thailand",   "maintainer": "EasyList-Thailand",    "name": "easylist-thailand",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "adblock",
+	"url": "https://raw.githubusercontent.com/easylist-thailand/easylist-thailand/master/subscription/easylist-thailand.txt",
+	"homepage": "https://easylist-thailand.github.io/"
+  },
+  {
+    "source": "EasyPrivacy",   "maintainer": "EasyList",    "name": "easyprivacy",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "adblock",
+	"url": "https://easylist.to/easylist/easyprivacy.txt",
+	"homepage": "https://easylist.to/"
+  },
+  {
+    "source": "EasyPrivacy Specific",   "maintainer": "EasyList",    "name": "easyprivacy-specific",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "adblock",
+	"url": "https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt",
+	"homepage": "https://easylist.to/"
+  },
+  {
+    "source": "EasyPrivacy Thirdparty",   "maintainer": "EasyList",    "name": "easyprivacy-thirdparty",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "adblock",
+	"url": "https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt",
+	"homepage": "https://easylist.to/"
+  },
+  {
+    "source": "EasyPrivacy Tracking Servers",   "maintainer": "EasyList",    "name": "easyprivacy-tracking-servers",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "adblock",
+	"url": "https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers.txt",
+	"homepage": "https://easylist.to/"
+  },
+  {
+    "source": "eth-phishing-detect",   "maintainer": "MetaMask",    "name": "eth-phishing-detect",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
+	"url": "https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.txt",
+	"homepage": "https://github.com/MetaMask/eth-phishing-detect"
+  },
+  {
+    "source": "FadeMind-add.2o7net",   "maintainer": "FadeMind",    "name": "fademind-add.2o7net",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
+	"url": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts",
+	"homepage": "https://github.com/FadeMind/hosts.extras"
+  },
+  {
+    "source": "FadeMind-add.dead",   "maintainer": "FadeMind",    "name": "fademind-add.dead",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
+	"url": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Dead/hosts",
+	"homepage": "https://github.com/FadeMind/hosts.extras"
+  },
+  {
+    "source": "FadeMind-add.risk",   "maintainer": "FadeMind",    "name": "fademind-add.risk",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
+	"url": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts",
+	"homepage": "https://github.com/FadeMind/hosts.extras"
+  },
+  {
+    "source": "FadeMind-add.spam",   "maintainer": "FadeMind",    "name": "fademind-add.spam",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
+	"url": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts",
+	"homepage": "https://github.com/FadeMind/hosts.extras"
+  },
+  {
+    "source": "Fanboy's Annoyance List",   "maintainer": "EasyList",    "name": "fanboy-annoyance",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
+	"url": "https://secure.fanboy.co.nz/fanboy-annoyance.txt",
+	"homepage": "http://www.fanboy.co.nz/"
+  },
+  {
+    "source": "Fanboy's Complete List",   "maintainer": "EasyList",    "name": "fanboy-complete",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "adblock",
+	"url": "https://fanboy.co.nz/r/fanboy-complete.txt",
+	"homepage": "http://www.fanboy.co.nz/"
+  },
+  {
+    "source": "Fanboy's Enhanced Tracking List",   "maintainer": "EasyList",    "name": "fanboy-enhanced-stats",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "adblock",
+	"url": "https://www.fanboy.co.nz/enhancedstats.txt",
+	"homepage": "http://www.fanboy.co.nz/"
+  },
+  {
+    "source": "gnuzilla",   "maintainer": "gnuzilla",    "name": "gnuzilla",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "adblock",
+	"url": "https://gnuzilla.gnu.org/filters/blacklist.txt",
+	"homepage": "https://gnuzilla.gnu.org/filters"
+  },
+  {
+    "source": "Hexxium Creations Threat List",   "maintainer": "Hexxium Creations",    "name": "hexxium-creations-threat-list",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "adblock",
+	"url": "https://raw.githubusercontent.com/HexxiumCreations/threat-list/gh-pages/hexxiumthreatlist.txt",
+	"homepage": "https://hexxiumcreations.github.io/threat-list/"
+  },
+  {
+    "source": "hostsVN",   "maintainer": "bigdargon",    "name": "hosts-vn",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
+	"url": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN",
+	"homepage": "https://bigdargon.github.io/hostsVN/"
+  },
+  {
+    "source": "KADhosts",   "maintainer": "PolishFiltersTeam",    "name": "kadhosts",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
+	"url": "https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt",
+	"homepage": "https://github.com/PolishFiltersTeam/KADhosts"
+  },
+  {
+    "source": "lightswitch05 - Ads & Tracking",   "maintainer": "lightswitch05",    "name": "lightswitch-ads-tracking",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
+	"url": "https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt",
+	"homepage": "https://github.com/lightswitch05/hosts/"
+  },
+  {
+    "source": "Liste AR",   "maintainer": "EasyList",    "name": "liste-ar",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "adblock",
+	"url": "https://easylist-downloads.adblockplus.org/Liste_AR.txt",
+	"homepage": "https://easylist.to/"
+  },
+  {
+    "source": "Referrer Spam List",   "maintainer": "matomo.org",    "name": "matomo.org-spammers",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
+	"url": "https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt",
+	"homepage": "https://github.com/matomo-org/referrer-spam-list"
+  },
+  {
+    "source": "hBlock",   "maintainer": "hectorm",    "name": "molinero-hblock",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
+	"url": "https://hblock.molinero.dev/hosts",
+	"homepage": "https://github.com/hectorm/hblock"
+  },
+  {
+    "source": "neohosts",   "maintainer": "neoFelhz",    "name": "neohosts",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
+	"url": "https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/basic/hosts.txt",
+	"homepage": "https://github.com/neoFelhz/neohosts"
+  },
+  {
+    "source": "hosts-blocklists",   "maintainer": "notracking",    "name": "hosts-blocklists",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
+	"url": "https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt",
+	"homepage": "https://github.com/notracking/hosts-blocklists"
+  },
+  {
+    "source": "oisd.nl-basic",   "maintainer": "sjhgvr",    "name": "oisd.nl-basic",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
+	"url": "https://hosts.oisd.nl/basic/",
+	"homepage": "https://oisd.nl"
+  },
+  {
+    "source": "oisd.nl-full",   "maintainer": "sjhgvr",    "name": "oisd.nl-full",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
+	"url": "https://hosts.oisd.nl/",
+	"homepage": "https://oisd.nl"
+  },
+  {
+    "source": "OpenPhish",   "maintainer": "openphish",    "name": "openphish",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
+	"url": "https://v.firebog.net/hosts/Openphish.txt",
+	"homepage": "https://www.openphish.com/"
+  },
+  {
+    "source": "pgl.yoyo.org",   "maintainer": "pgl.yoyo.org",    "name": "pgl.yoyo.org",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
+	"url": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&mimetype=plaintext",
+	"homepage": "https://pgl.yoyo.org/adservers/"
+  },
+  {
+    "source": "PornAway",   "maintainer": "mhxion",    "name": "pornaway",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
+	"url": "https://raw.githubusercontent.com/mhxion/pornaway/master/hosts/porn_sites.txt",
+	"homepage": "https://github.com/mhxion/pornaway"
+  },
+  {
+    "source": "porn-top1million",   "maintainer": "chadmayfield",    "name": "porn-top1million",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
+	"url": "https://raw.githubusercontent.com/chadmayfield/pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list",
+	"homepage": "https://github.com/chadmayfield/my-pihole-blocklists"
+  },
+  {
+    "source": "Prigent Ads",   "maintainer": "Fabrice Prigent",    "name": "prigent-ads",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
+	"url": "https://block.energized.pro/mirror/ut1-publicite.txt",
+	"homepage": "https://dsi.ut-capitole.fr/blacklists/index_en.php"
+  },
+  {
+    "source": "Prigent Adult",   "maintainer": "Fabrice Prigent",    "name": "prigent-adult",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
+	"url": "https://block.energized.pro/mirror/ut1-adult.txt",
+	"homepage": "https://dsi.ut-capitole.fr/blacklists/index_en.php"
+  },
+  {
+    "source": "Prigent Cryptojacking",   "maintainer": "Fabrice Prigent",    "name": "prigent-cryptojacking",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
+	"url": "https://block.energized.pro/mirror/ut1-cryptojacking.txt",
+	"homepage": "https://dsi.ut-capitole.fr/blacklists/index_en.php"
+  },
+  {
+    "source": "Prigent Gambling",   "maintainer": "Fabrice Prigent",    "name": "prigent-gambling",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
+	"url": "https://block.energized.pro/mirror/ut1-gambling.txt",
+	"homepage": "https://dsi.ut-capitole.fr/blacklists/index_en.php"
+  },
+  {
+    "source": "Prigent Phishing",   "maintainer": "Fabrice Prigent",    "name": "prigent-phishing",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
+	"url": "https://block.energized.pro/mirror/ut1-phishing.txt",
+	"homepage": "https://dsi.ut-capitole.fr/blacklists/index_en.php"
+  },
+  {
+    "source": "NoTrack Tracker Blocklist",   "maintainer": "quidsup",    "name": "quidsup-notrack",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
+	"url": "https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt",
+	"homepage": "https://gitlab.com/quidsup/notrack-blocklists/"
+  },
+  {
+    "source": "NoTrack Malware Blocklist",   "maintainer": "quidsup",    "name": "quidsup-notrack-malware",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
+	"url": "https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt",
+	"homepage": "https://gitlab.com/quidsup/notrack-blocklists/"
+  },
+  {
+    "source": "Sinfonietta - Pornography Hosts",   "maintainer": "Sinfonietta",    "name": "sinfonietta-porn",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
+	"url": "https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/pornography-hosts",
+	"homepage": "https://github.com/Sinfonietta/hostfiles"
+  },
+  {
+    "source": "someonewhocares.org",   "maintainer": "Dan Pollock",    "name": "someonewhocares.org",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
+	"url": "https://someonewhocares.org/hosts/hosts",
+	"homepage": "https://someonewhocares.org/hosts"
+  },
+  {
+    "source": "Steven Black's Hosts",   "maintainer": "Steven Black",    "name": "sbc",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
+	"url": "http://sbc.io/hosts/hosts",
+	"homepage": "https://github.com/StevenBlack/hosts"
+  },
+  {
+    "source": "Steven Black's Hosts - RAW",   "maintainer": "Steven Black",    "name": "sbc-hosts",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
+	"url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts",
+	"homepage": "https://github.com/StevenBlack/hosts"
+  },
+  {
+    "source": "StopForumSpam",   "maintainer": "StopForumSpam",    "name": "stopforumspam.com",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
+	"url": "https://stopforumspam.com/downloads/toxic_domains_whole.txt",
+	"homepage": "https://stopforumspam.com"
+  },
+  {
+    "source": "WindowsSpyBlocker",   "maintainer": "crazy-max",    "name": "windows-spy-blocker",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
+	"url": "https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt",
+	"homepage": "https://github.com/crazy-max/WindowsSpyBlocker"
+  },
+  {
+    "source": "MVPS hosts file",   "maintainer": "mvps.org",    "name": "winhelp2002.mvps.org",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
+	"url": "https://winhelp2002.mvps.org/hosts.txt",
+	"homepage": "https://winhelp2002.mvps.org/"
+  },
+  {
+    "source": "YousList",   "maintainer": "yous",    "name": "youslist",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
+	"url": "https://raw.githubusercontent.com/yous/YousList/master/hosts.txt",
+	"homepage": "https://github.com/yous/YousList"
+  },
+  {
+    "source": "cname-trackers",   "maintainer": "AdguardTeam",    "name": "cname-trackers",
+	"enabled": true,    "update": "latest",    "filter": "active",    "format": "plain",
+	"url": "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt",
+	"homepage": "https://github.com/AdguardTeam/cname-trackers"
+  }
+]}
