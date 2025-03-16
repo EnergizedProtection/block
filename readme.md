@@ -9,8 +9,8 @@
     <img src="https://img.shields.io/badge/Version-0.63.a-blue.svg?longCache=true&style=flat-square"
       alt="0.63.a" />
   <!-- Last Updated -->
-    <img src="https://img.shields.io/badge/Updated-Sat 15, Mar 2025-orange.svg?longCache=true&style=flat-square"
-      alt="Sat 15, Mar 2025" />
+    <img src="https://img.shields.io/badge/Updated-Sun 16, Mar 2025-orange.svg?longCache=true&style=flat-square"
+      alt="Sun 16, Mar 2025" />
   <!-- Status -->
     <img src="https://img.shields.io/badge/Status-alpha-yellow.svg?longCache=true&style=flat-square"
       alt="alpha" />
@@ -96,65 +96,70 @@ The Energized Protection system is a powerful and flexible solution designed to 
 ```
 🔄 Updated Sources
 - Synced with the latest upstream releases for improved coverage and accuracy.
-- ABPindo updated and removed 9 domains.
-- ABPindo adult updated and removed 12 domains.
-- AdAway updated and removed 69 domains.
-- AdGuard Base filter updated and removed 4 domains.
-- AdGuard Base filter — first-party servers updated and removed 1 domains.
-- AdGuard Mobile Ads filter updated and removed 5 domains.
-- AdGuard Tracking Protection filter updated and removed 30 domains.
-- AdGuard Tracking Protection filter — third-party trackers updated and removed 16 domains.
-- AdGuard Tracking Protection filter — first-party trackers updated and removed 12 domains.
+- ABPindo updated and removed 11 domains.
+- ABPindo adult updated and removed 14 domains.
+- AdAway updated and removed 70 domains.
+- AdGuard Base filter updated and removed 6 domains.
+- AdGuard Base filter — first-party servers updated and removed 6 domains.
+- AdGuard Mobile Ads filter updated and removed 1 domains.
+- AdGuard Tracking Protection filter updated and removed 40 domains.
+- AdGuard Tracking Protection filter — third-party trackers updated and removed 10 domains.
+- AdGuard Tracking Protection filter — first-party trackers updated and removed 26 domains.
 - AdGuard Tracking Protection filter — mobile trackers updated and removed 1 domains.
-- AdGuard Base filter cryptominers updated and removed 2 domains.
-- AdGuard DNS filter updated and removed 281 domains.
-- AdGuard Chinese filter updated and removed 8 domains.
-- AdGuard Russian filter updated and removed 24 domains.
-- AdGuard Dutch filter updated and removed 9 domains.
-- AdGuard Spanish/Portuguese filter updated and removed 2 domains.
-- AdGuard French filter updated and removed 28 domains.
-- DigitalSide Threat-Intel updated and removed 3 domains.
-- EasyList updated and removed 48 domains.
-- EasyList adservers updated and removed 39 domains.
-- EasyList adservers popup updated and removed 10 domains.
-- EasyPrivacy updated and removed 136 domains.
-- EasyPrivacy specific updated and removed 2 domains.
-- EasyPrivacy thirdparty updated and removed 6 domains.
-- EasyPrivacy trackingservers admiral updated and removed 52 domains.
-- EasyPrivacy trackingservers general updated and removed 2 domains.
-- EasyPrivacy trackingservers thirdparty updated and removed 3 domains.
-- EasyList China updated and removed 10 domains.
-- EasyList Dutch updated and removed 9 domains.
-- oisd small updated and removed 2 domains.
-- oisd nsfw small updated and added 297 domains.
-- NoTrack Tracker Blocklist updated and removed 3 domains.
-- NoTrack Malware Blocklist updated and removed 2 domains.
-- Sinfonietta's pornography-hosts updated and removed 815 domains.
-- Sinfonietta's social-hosts updated and removed 13 domains.
-- someonewhocares updated and removed 235 domains.
-- Hosts contributed by Steven Black updated and removed 32 domains.
-- Unified hosts, fakenews and gambling updated and removed 1,262 domains.
-- URLhaus updated and removed 4 domains.
-- Windows Spy Blocker updated and removed 101 domains.
-- RU Adlist updated and removed 252 domains.
-- YousList updated and removed 7 domains.
-- hostsVN updated and removed 7 domains.
-- polish-ads-filter updated and removed 1 domains.
-- uBlock₀ filters – Badware risks updated and removed 3 domains.
-- AdGuard DNS Popup Hosts filter updated and removed 6 domains.
-- WhoTracks.me updated and removed 23 domains.
-- Brave iOS Specific updated and removed 54 domains.
-- Red Flag Domains updated and removed 2,246 domains.
-- Ultimate Ad Filter updated and removed 73 domains.
-- Ultimate Privacy Filter updated and removed 30 domains.
-- Malware and Phishing Blocklist updated and removed 322 domains.
-- Emerging Threats PiHole (MALICIOUS) updated and removed 102 domains.
-- Phishing Army (Extended) updated and removed 6,533 domains.
-- Phishing URL Blocklist updated and removed 42 domains.
-- Zonefiles Compromised domains updated and removed 599 domains.
-- USOM list updated and removed 8,212 domains.
-- oisd big updated and removed 5,221 domains.
-- Matomo Referrer Spam List updated and removed 60 domains.
+- AdGuard Social Media filter updated and removed 1 domains.
+- AdGuard DNS filter updated and removed 397 domains.
+- AdGuard Chinese filter updated and removed 7 domains.
+- AdGuard Russian filter updated and removed 32 domains.
+- AdGuard Dutch filter updated and removed 2 domains.
+- AdGuard Spanish/Portuguese filter updated and removed 1 domains.
+- AdGuard Turkish filter updated and removed 2 domains.
+- AdGuard French filter updated and removed 40 domains.
+- DigitalSide Threat-Intel updated and removed 1 domains.
+- EasyList updated and removed 100 domains.
+- EasyList adservers updated and removed 85 domains.
+- EasyList adservers popup updated and removed 16 domains.
+- EasyPrivacy updated and removed 165 domains.
+- EasyPrivacy specific updated and removed 1 domains.
+- EasyPrivacy thirdparty updated and removed 5 domains.
+- EasyPrivacy thirdparty international updated and removed 1 domains.
+- EasyPrivacy trackingservers admiral updated and removed 65 domains.
+- EasyPrivacy trackingservers general updated and removed 1 domains.
+- EasyPrivacy trackingservers thirdparty updated and removed 5 domains.
+- EasyList China updated and removed 35 domains.
+- EasyList Dutch updated and removed 2 domains.
+- oisd small updated and removed 44 domains.
+- oisd nsfw small updated and added 411 domains.
+- NoTrack Tracker Blocklist updated and removed 6 domains.
+- NoTrack Malware Blocklist updated and removed 3 domains.
+- Sinfonietta's pornography-hosts updated and removed 204 domains.
+- Sinfonietta's social-hosts updated and removed 281 domains.
+- someonewhocares updated and removed 191 domains.
+- Hosts contributed by Steven Black updated and removed 33 domains.
+- Unified hosts, fakenews and gambling updated and removed 1,712 domains.
+- URLhaus updated and removed 3 domains.
+- Windows Spy Blocker updated and removed 4 domains.
+- RU Adlist updated and removed 401 domains.
+- KOR: List-KR DNS updated and removed 1 domains.
+- YousList updated and removed 3 domains.
+- hostsVN updated and removed 19 domains.
+- polish-ads-filter updated and removed 5 domains.
+- scamblocklist updated and removed 19 domains.
+- uBlock₀ filters – Badware risks updated and removed 6 domains.
+- uBlock₀ filters – Ads updated and removed 2 domains.
+- AdGuard DNS Popup Hosts filter updated and removed 5 domains.
+- WhoTracks.me updated and removed 55 domains.
+- Brave iOS Specific updated and removed 67 domains.
+- Red Flag Domains updated and removed 1,122 domains.
+- Ultimate Ad Filter updated and removed 93 domains.
+- Ultimate Privacy Filter updated and removed 40 domains.
+- Malware and Phishing Blocklist updated and removed 347 domains.
+- Emerging Threats PiHole (MALICIOUS) updated and removed 161 domains.
+- Phishing Army (Extended) updated and removed 13,893 domains.
+- Phishing URL Blocklist updated and removed 48 domains.
+- Zonefiles Compromised domains updated and removed 1,044 domains.
+- USOM list updated and removed 27,048 domains.
+- oisd big updated and removed 12,785 domains.
+- Matomo Referrer Spam List updated and removed 51 domains.
 
 🧹 Filtered Sources
 - Removed dead, inactive, and obsolete domains to maintain efficiency.
@@ -176,9 +181,9 @@ Basic info about all Energized Protection packs.
 
 | PACK NAME | DESCRIPTION | UNIQUE ENTRIES | FORMATS |
 |:---------:|:-----------:|:--------------:|:-------:|
-| Spark | Lightweight, essential protection. | 63,540 | <table><tr><td><a href="https://energized.pro/spark/hosts.txt" trget="_blank"><img src="https://img.shields.io/badge/(2.0MB)-000?style=flat&label=HOSTS&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/spark/hosts_v6.txt" trget="_blank"><img src="https://img.shields.io/badge/(1.7MB)-000?style=flat&label=HOSTS v6&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/spark/domains.txt" trget="_blank"><img src="https://img.shields.io/badge/(1.5MB)-000?style=flat&label=DOMAINS&labelColor=F6C915&cacheSeconds=3600"></a></td></tr> <tr><td><a href="https://energized.pro/spark/adblock.txt" trget="_blank"><img src="https://img.shields.io/badge/(1.7MB)-000?style=flat&label=ADBLOCK&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/spark/dnsmasq.txt" trget="_blank"><img src="https://img.shields.io/badge/(2.6MB)-000?style=flat&label=DNSMASQ&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/spark/dnsmasq_v6.txt" trget="_blank"><img src="https://img.shields.io/badge/(2.4MB)-000?style=flat&label=DNSMASQ v6&labelColor=F6C915&cacheSeconds=3600"></a></td></tr> <tr><td><a href="https://energized.pro/spark/unbound.txt" trget="_blank"><img src="https://img.shields.io/badge/(3.3MB)-000?style=flat&label=UNBOUND&labelColor=F6C915&cacheSeconds=3600"></a></td></tr><td colspan='3'><i>1218 Downloads</i></td></table> |
-| Blu | Balanced, extended protection. | 176,872 | <table><tr><td><a href="https://energized.pro/blu/hosts.txt" trget="_blank"><img src="https://img.shields.io/badge/(5.0MB)-000?style=flat&label=HOSTS&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/blu/hosts_v6.txt" trget="_blank"><img src="https://img.shields.io/badge/(4.2MB)-000?style=flat&label=HOSTS v6&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/blu/domains.txt" trget="_blank"><img src="https://img.shields.io/badge/(3.7MB)-000?style=flat&label=DOMAINS&labelColor=F6C915&cacheSeconds=3600"></a></td></tr> <tr><td><a href="https://energized.pro/blu/adblock.txt" trget="_blank"><img src="https://img.shields.io/badge/(4.2MB)-000?style=flat&label=ADBLOCK&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/blu/dnsmasq.txt" trget="_blank"><img src="https://img.shields.io/badge/(6.7MB)-000?style=flat&label=DNSMASQ&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/blu/dnsmasq_v6.txt" trget="_blank"><img src="https://img.shields.io/badge/(6.0MB)-000?style=flat&label=DNSMASQ v6&labelColor=F6C915&cacheSeconds=3600"></a></td></tr> <tr><td><a href="https://energized.pro/blu/unbound.txt" trget="_blank"><img src="https://img.shields.io/badge/(8.7MB)-000?style=flat&label=UNBOUND&labelColor=F6C915&cacheSeconds=3600"></a></td></tr><td colspan='3'><i>1455 Downloads</i></td></table> |
-| Ultimate | Comprehensive, full protection. | 553,446 | <table><tr><td><a href="https://energized.pro/ultimate/hosts.txt" trget="_blank"><img src="https://img.shields.io/badge/(15.3MB)-000?style=flat&label=HOSTS&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/ultimate/hosts_v6.txt" trget="_blank"><img src="https://img.shields.io/badge/(12.7MB)-000?style=flat&label=HOSTS v6&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/ultimate/domains.txt" trget="_blank"><img src="https://img.shields.io/badge/(11.1MB)-000?style=flat&label=DOMAINS&labelColor=F6C915&cacheSeconds=3600"></a></td></tr> <tr><td><a href="https://energized.pro/ultimate/adblock.txt" trget="_blank"><img src="https://img.shields.io/badge/(12.7MB)-000?style=flat&label=ADBLOCK&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/ultimate/dnsmasq.txt" trget="_blank"><img src="https://img.shields.io/badge/(20.6MB)-000?style=flat&label=DNSMASQ&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/ultimate/dnsmasq_v6.txt" trget="_blank"><img src="https://img.shields.io/badge/(18.5MB)-000?style=flat&label=DNSMASQ v6&labelColor=F6C915&cacheSeconds=3600"></a></td></tr> <tr><td><a href="https://energized.pro/ultimate/unbound.txt" trget="_blank"><img src="https://img.shields.io/badge/(26.9MB)-000?style=flat&label=UNBOUND&labelColor=F6C915&cacheSeconds=3600"></a></td></tr><td colspan='3'><i>4034 Downloads</i></td></table> |
+| Spark | Lightweight, essential protection. | 63,450 | <table><tr><td><a href="https://energized.pro/spark/hosts.txt" trget="_blank"><img src="https://img.shields.io/badge/(2.0MB)-000?style=flat&label=HOSTS&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/spark/hosts_v6.txt" trget="_blank"><img src="https://img.shields.io/badge/(1.7MB)-000?style=flat&label=HOSTS v6&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/spark/domains.txt" trget="_blank"><img src="https://img.shields.io/badge/(1.5MB)-000?style=flat&label=DOMAINS&labelColor=F6C915&cacheSeconds=3600"></a></td></tr> <tr><td><a href="https://energized.pro/spark/adblock.txt" trget="_blank"><img src="https://img.shields.io/badge/(1.7MB)-000?style=flat&label=ADBLOCK&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/spark/dnsmasq.txt" trget="_blank"><img src="https://img.shields.io/badge/(2.6MB)-000?style=flat&label=DNSMASQ&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/spark/dnsmasq_v6.txt" trget="_blank"><img src="https://img.shields.io/badge/(2.4MB)-000?style=flat&label=DNSMASQ v6&labelColor=F6C915&cacheSeconds=3600"></a></td></tr> <tr><td><a href="https://energized.pro/spark/unbound.txt" trget="_blank"><img src="https://img.shields.io/badge/(3.3MB)-000?style=flat&label=UNBOUND&labelColor=F6C915&cacheSeconds=3600"></a></td></tr><td colspan='3'><i>1283 Downloads</i></td></table> |
+| Blu | Balanced, extended protection. | 176,044 | <table><tr><td><a href="https://energized.pro/blu/hosts.txt" trget="_blank"><img src="https://img.shields.io/badge/(5.0MB)-000?style=flat&label=HOSTS&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/blu/hosts_v6.txt" trget="_blank"><img src="https://img.shields.io/badge/(4.2MB)-000?style=flat&label=HOSTS v6&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/blu/domains.txt" trget="_blank"><img src="https://img.shields.io/badge/(3.7MB)-000?style=flat&label=DOMAINS&labelColor=F6C915&cacheSeconds=3600"></a></td></tr> <tr><td><a href="https://energized.pro/blu/adblock.txt" trget="_blank"><img src="https://img.shields.io/badge/(4.2MB)-000?style=flat&label=ADBLOCK&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/blu/dnsmasq.txt" trget="_blank"><img src="https://img.shields.io/badge/(6.7MB)-000?style=flat&label=DNSMASQ&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/blu/dnsmasq_v6.txt" trget="_blank"><img src="https://img.shields.io/badge/(6.0MB)-000?style=flat&label=DNSMASQ v6&labelColor=F6C915&cacheSeconds=3600"></a></td></tr> <tr><td><a href="https://energized.pro/blu/unbound.txt" trget="_blank"><img src="https://img.shields.io/badge/(8.7MB)-000?style=flat&label=UNBOUND&labelColor=F6C915&cacheSeconds=3600"></a></td></tr><td colspan='3'><i>1567 Downloads</i></td></table> |
+| Ultimate | Comprehensive, full protection. | 536,899 | <table><tr><td><a href="https://energized.pro/ultimate/hosts.txt" trget="_blank"><img src="https://img.shields.io/badge/(14.8MB)-000?style=flat&label=HOSTS&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/ultimate/hosts_v6.txt" trget="_blank"><img src="https://img.shields.io/badge/(12.3MB)-000?style=flat&label=HOSTS v6&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/ultimate/domains.txt" trget="_blank"><img src="https://img.shields.io/badge/(10.7MB)-000?style=flat&label=DOMAINS&labelColor=F6C915&cacheSeconds=3600"></a></td></tr> <tr><td><a href="https://energized.pro/ultimate/adblock.txt" trget="_blank"><img src="https://img.shields.io/badge/(12.3MB)-000?style=flat&label=ADBLOCK&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/ultimate/dnsmasq.txt" trget="_blank"><img src="https://img.shields.io/badge/(20.0MB)-000?style=flat&label=DNSMASQ&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/ultimate/dnsmasq_v6.txt" trget="_blank"><img src="https://img.shields.io/badge/(17.9MB)-000?style=flat&label=DNSMASQ v6&labelColor=F6C915&cacheSeconds=3600"></a></td></tr> <tr><td><a href="https://energized.pro/ultimate/unbound.txt" trget="_blank"><img src="https://img.shields.io/badge/(26.1MB)-000?style=flat&label=UNBOUND&labelColor=F6C915&cacheSeconds=3600"></a></td></tr><td colspan='3'><i>4201 Downloads</i></td></table> |
 
 
 ### [⚡︎] Extensions
@@ -187,11 +192,11 @@ Basic info about all the available extensions.
 
 | PACK NAME | DESCRIPTION | UNIQUE ENTRIES | FORMATS |
 |:---------:|:-----------:|:--------------:|:-------:|
-| Nsfw | Strict filtering of nsfw content. | 79,976 | <table><tr><td><a href="https://energized.pro/nsfw/hosts.txt" trget="_blank"><img src="https://img.shields.io/badge/(1.9MB)-000?style=flat&label=HOSTS&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/nsfw/hosts_v6.txt" trget="_blank"><img src="https://img.shields.io/badge/(1.5MB)-000?style=flat&label=HOSTS v6&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/nsfw/domains.txt" trget="_blank"><img src="https://img.shields.io/badge/(1.3MB)-000?style=flat&label=DOMAINS&labelColor=F6C915&cacheSeconds=3600"></a></td></tr> <tr><td><a href="https://energized.pro/nsfw/adblock.txt" trget="_blank"><img src="https://img.shields.io/badge/(1.5MB)-000?style=flat&label=ADBLOCK&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/nsfw/dnsmasq.txt" trget="_blank"><img src="https://img.shields.io/badge/(2.7MB)-000?style=flat&label=DNSMASQ&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/nsfw/dnsmasq_v6.txt" trget="_blank"><img src="https://img.shields.io/badge/(2.4MB)-000?style=flat&label=DNSMASQ v6&labelColor=F6C915&cacheSeconds=3600"></a></td></tr> <tr><td><a href="https://energized.pro/nsfw/unbound.txt" trget="_blank"><img src="https://img.shields.io/badge/(3.6MB)-000?style=flat&label=UNBOUND&labelColor=F6C915&cacheSeconds=3600"></a></td></tr><td colspan='3'><i>463 Downloads</i></td></table> |
-| Antipopads-re | Advanced protection against intrusive popups. | 40,314 | <table><tr><td><a href="https://energized.pro/antipopads-re/hosts.txt" trget="_blank"><img src="https://img.shields.io/badge/(1010.6KB)-000?style=flat&label=HOSTS&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/antipopads-re/hosts_v6.txt" trget="_blank"><img src="https://img.shields.io/badge/(813.8KB)-000?style=flat&label=HOSTS v6&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/antipopads-re/domains.txt" trget="_blank"><img src="https://img.shields.io/badge/(695.5KB)-000?style=flat&label=DOMAINS&labelColor=F6C915&cacheSeconds=3600"></a></td></tr> <tr><td><a href="https://energized.pro/antipopads-re/adblock.txt" trget="_blank"><img src="https://img.shields.io/badge/(813.6KB)-000?style=flat&label=ADBLOCK&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/antipopads-re/dnsmasq.txt" trget="_blank"><img src="https://img.shields.io/badge/(1.4MB)-000?style=flat&label=DNSMASQ&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/antipopads-re/dnsmasq_v6.txt" trget="_blank"><img src="https://img.shields.io/badge/(1.2MB)-000?style=flat&label=DNSMASQ v6&labelColor=F6C915&cacheSeconds=3600"></a></td></tr> <tr><td><a href="https://energized.pro/antipopads-re/unbound.txt" trget="_blank"><img src="https://img.shields.io/badge/(1.8MB)-000?style=flat&label=UNBOUND&labelColor=F6C915&cacheSeconds=3600"></a></td></tr><td colspan='3'><i>2697 Downloads</i></td></table> |
-| Social | Comprehensive social media blocking. | 14,878 | <table><tr><td><a href="https://energized.pro/social/hosts.txt" trget="_blank"><img src="https://img.shields.io/badge/(519.6KB)-000?style=flat&label=HOSTS&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/social/hosts_v6.txt" trget="_blank"><img src="https://img.shields.io/badge/(447.0KB)-000?style=flat&label=HOSTS v6&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/social/domains.txt" trget="_blank"><img src="https://img.shields.io/badge/(403.2KB)-000?style=flat&label=DOMAINS&labelColor=F6C915&cacheSeconds=3600"></a></td></tr> <tr><td><a href="https://energized.pro/social/adblock.txt" trget="_blank"><img src="https://img.shields.io/badge/(446.8KB)-000?style=flat&label=ADBLOCK&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/social/dnsmasq.txt" trget="_blank"><img src="https://img.shields.io/badge/(664.7KB)-000?style=flat&label=DNSMASQ&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/social/dnsmasq_v6.txt" trget="_blank"><img src="https://img.shields.io/badge/(606.6KB)-000?style=flat&label=DNSMASQ v6&labelColor=F6C915&cacheSeconds=3600"></a></td></tr> <tr><td><a href="https://energized.pro/social/unbound.txt" trget="_blank"><img src="https://img.shields.io/badge/(839.1KB)-000?style=flat&label=UNBOUND&labelColor=F6C915&cacheSeconds=3600"></a></td></tr><td colspan='3'><i>515 Downloads</i></td></table> |
-| Extreme | Enhanced privacy with aggressive filtering. | 36 | <table><tr><td><a href="https://energized.pro/extreme/hosts.txt" trget="_blank"><img src="https://img.shields.io/badge/(4.8KB)-000?style=flat&label=HOSTS&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/extreme/hosts_v6.txt" trget="_blank"><img src="https://img.shields.io/badge/(4.7KB)-000?style=flat&label=HOSTS v6&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/extreme/domains.txt" trget="_blank"><img src="https://img.shields.io/badge/(4.4KB)-000?style=flat&label=DOMAINS&labelColor=F6C915&cacheSeconds=3600"></a></td></tr> <tr><td><a href="https://energized.pro/extreme/adblock.txt" trget="_blank"><img src="https://img.shields.io/badge/(4.5KB)-000?style=flat&label=ADBLOCK&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/extreme/dnsmasq.txt" trget="_blank"><img src="https://img.shields.io/badge/(5.0KB)-000?style=flat&label=DNSMASQ&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/extreme/dnsmasq_v6.txt" trget="_blank"><img src="https://img.shields.io/badge/(4.9KB)-000?style=flat&label=DNSMASQ v6&labelColor=F6C915&cacheSeconds=3600"></a></td></tr> <tr><td><a href="https://energized.pro/extreme/unbound.txt" trget="_blank"><img src="https://img.shields.io/badge/(5.4KB)-000?style=flat&label=UNBOUND&labelColor=F6C915&cacheSeconds=3600"></a></td></tr><td colspan='3'><i>49 Downloads</i></td></table> |
-| Regional | Regional filtering. | 49,332 | <table><tr><td><a href="https://energized.pro/regional/hosts.txt" trget="_blank"><img src="https://img.shields.io/badge/(1.2MB)-000?style=flat&label=HOSTS&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/regional/hosts_v6.txt" trget="_blank"><img src="https://img.shields.io/badge/(987.4KB)-000?style=flat&label=HOSTS v6&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/regional/domains.txt" trget="_blank"><img src="https://img.shields.io/badge/(842.6KB)-000?style=flat&label=DOMAINS&labelColor=F6C915&cacheSeconds=3600"></a></td></tr> <tr><td><a href="https://energized.pro/regional/adblock.txt" trget="_blank"><img src="https://img.shields.io/badge/(987.1KB)-000?style=flat&label=ADBLOCK&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/regional/dnsmasq.txt" trget="_blank"><img src="https://img.shields.io/badge/(1.7MB)-000?style=flat&label=DNSMASQ&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/regional/dnsmasq_v6.txt" trget="_blank"><img src="https://img.shields.io/badge/(1.5MB)-000?style=flat&label=DNSMASQ v6&labelColor=F6C915&cacheSeconds=3600"></a></td></tr> <tr><td><a href="https://energized.pro/regional/unbound.txt" trget="_blank"><img src="https://img.shields.io/badge/(2.2MB)-000?style=flat&label=UNBOUND&labelColor=F6C915&cacheSeconds=3600"></a></td></tr><td colspan='3'><i>766 Downloads</i></td></table> |
+| Nsfw | Strict filtering of nsfw content. | 80,113 | <table><tr><td><a href="https://energized.pro/nsfw/hosts.txt" trget="_blank"><img src="https://img.shields.io/badge/(1.9MB)-000?style=flat&label=HOSTS&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/nsfw/hosts_v6.txt" trget="_blank"><img src="https://img.shields.io/badge/(1.5MB)-000?style=flat&label=HOSTS v6&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/nsfw/domains.txt" trget="_blank"><img src="https://img.shields.io/badge/(1.3MB)-000?style=flat&label=DOMAINS&labelColor=F6C915&cacheSeconds=3600"></a></td></tr> <tr><td><a href="https://energized.pro/nsfw/adblock.txt" trget="_blank"><img src="https://img.shields.io/badge/(1.5MB)-000?style=flat&label=ADBLOCK&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/nsfw/dnsmasq.txt" trget="_blank"><img src="https://img.shields.io/badge/(2.7MB)-000?style=flat&label=DNSMASQ&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/nsfw/dnsmasq_v6.txt" trget="_blank"><img src="https://img.shields.io/badge/(2.4MB)-000?style=flat&label=DNSMASQ v6&labelColor=F6C915&cacheSeconds=3600"></a></td></tr> <tr><td><a href="https://energized.pro/nsfw/unbound.txt" trget="_blank"><img src="https://img.shields.io/badge/(3.6MB)-000?style=flat&label=UNBOUND&labelColor=F6C915&cacheSeconds=3600"></a></td></tr><td colspan='3'><i>480 Downloads</i></td></table> |
+| Antipopads-re | Advanced protection against intrusive popups. | 40,317 | <table><tr><td><a href="https://energized.pro/antipopads-re/hosts.txt" trget="_blank"><img src="https://img.shields.io/badge/(1010.6KB)-000?style=flat&label=HOSTS&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/antipopads-re/hosts_v6.txt" trget="_blank"><img src="https://img.shields.io/badge/(813.9KB)-000?style=flat&label=HOSTS v6&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/antipopads-re/domains.txt" trget="_blank"><img src="https://img.shields.io/badge/(695.5KB)-000?style=flat&label=DOMAINS&labelColor=F6C915&cacheSeconds=3600"></a></td></tr> <tr><td><a href="https://energized.pro/antipopads-re/adblock.txt" trget="_blank"><img src="https://img.shields.io/badge/(813.6KB)-000?style=flat&label=ADBLOCK&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/antipopads-re/dnsmasq.txt" trget="_blank"><img src="https://img.shields.io/badge/(1.4MB)-000?style=flat&label=DNSMASQ&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/antipopads-re/dnsmasq_v6.txt" trget="_blank"><img src="https://img.shields.io/badge/(1.2MB)-000?style=flat&label=DNSMASQ v6&labelColor=F6C915&cacheSeconds=3600"></a></td></tr> <tr><td><a href="https://energized.pro/antipopads-re/unbound.txt" trget="_blank"><img src="https://img.shields.io/badge/(1.8MB)-000?style=flat&label=UNBOUND&labelColor=F6C915&cacheSeconds=3600"></a></td></tr><td colspan='3'><i>2788 Downloads</i></td></table> |
+| Social | Comprehensive social media blocking. | 14,596 | <table><tr><td><a href="https://energized.pro/social/hosts.txt" trget="_blank"><img src="https://img.shields.io/badge/(507.4KB)-000?style=flat&label=HOSTS&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/social/hosts_v6.txt" trget="_blank"><img src="https://img.shields.io/badge/(436.2KB)-000?style=flat&label=HOSTS v6&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/social/domains.txt" trget="_blank"><img src="https://img.shields.io/badge/(393.2KB)-000?style=flat&label=DOMAINS&labelColor=F6C915&cacheSeconds=3600"></a></td></tr> <tr><td><a href="https://energized.pro/social/adblock.txt" trget="_blank"><img src="https://img.shields.io/badge/(436.0KB)-000?style=flat&label=ADBLOCK&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/social/dnsmasq.txt" trget="_blank"><img src="https://img.shields.io/badge/(649.8KB)-000?style=flat&label=DNSMASQ&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/social/dnsmasq_v6.txt" trget="_blank"><img src="https://img.shields.io/badge/(592.8KB)-000?style=flat&label=DNSMASQ v6&labelColor=F6C915&cacheSeconds=3600"></a></td></tr> <tr><td><a href="https://energized.pro/social/unbound.txt" trget="_blank"><img src="https://img.shields.io/badge/(820.8KB)-000?style=flat&label=UNBOUND&labelColor=F6C915&cacheSeconds=3600"></a></td></tr><td colspan='3'><i>528 Downloads</i></td></table> |
+| Extreme | Enhanced privacy with aggressive filtering. | 36 | <table><tr><td><a href="https://energized.pro/extreme/hosts.txt" trget="_blank"><img src="https://img.shields.io/badge/(4.8KB)-000?style=flat&label=HOSTS&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/extreme/hosts_v6.txt" trget="_blank"><img src="https://img.shields.io/badge/(4.7KB)-000?style=flat&label=HOSTS v6&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/extreme/domains.txt" trget="_blank"><img src="https://img.shields.io/badge/(4.4KB)-000?style=flat&label=DOMAINS&labelColor=F6C915&cacheSeconds=3600"></a></td></tr> <tr><td><a href="https://energized.pro/extreme/adblock.txt" trget="_blank"><img src="https://img.shields.io/badge/(4.5KB)-000?style=flat&label=ADBLOCK&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/extreme/dnsmasq.txt" trget="_blank"><img src="https://img.shields.io/badge/(5.0KB)-000?style=flat&label=DNSMASQ&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/extreme/dnsmasq_v6.txt" trget="_blank"><img src="https://img.shields.io/badge/(4.9KB)-000?style=flat&label=DNSMASQ v6&labelColor=F6C915&cacheSeconds=3600"></a></td></tr> <tr><td><a href="https://energized.pro/extreme/unbound.txt" trget="_blank"><img src="https://img.shields.io/badge/(5.4KB)-000?style=flat&label=UNBOUND&labelColor=F6C915&cacheSeconds=3600"></a></td></tr><td colspan='3'><i>65 Downloads</i></td></table> |
+| Regional | Regional filtering. | 47,664 | <table><tr><td><a href="https://energized.pro/regional/hosts.txt" trget="_blank"><img src="https://img.shields.io/badge/(1.2MB)-000?style=flat&label=HOSTS&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/regional/hosts_v6.txt" trget="_blank"><img src="https://img.shields.io/badge/(953.7KB)-000?style=flat&label=HOSTS v6&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/regional/domains.txt" trget="_blank"><img src="https://img.shields.io/badge/(813.8KB)-000?style=flat&label=DOMAINS&labelColor=F6C915&cacheSeconds=3600"></a></td></tr> <tr><td><a href="https://energized.pro/regional/adblock.txt" trget="_blank"><img src="https://img.shields.io/badge/(953.5KB)-000?style=flat&label=ADBLOCK&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/regional/dnsmasq.txt" trget="_blank"><img src="https://img.shields.io/badge/(1.6MB)-000?style=flat&label=DNSMASQ&labelColor=F6C915&cacheSeconds=3600"></a></td> <td><a href="https://energized.pro/regional/dnsmasq_v6.txt" trget="_blank"><img src="https://img.shields.io/badge/(1.4MB)-000?style=flat&label=DNSMASQ v6&labelColor=F6C915&cacheSeconds=3600"></a></td></tr> <tr><td><a href="https://energized.pro/regional/unbound.txt" trget="_blank"><img src="https://img.shields.io/badge/(2.2MB)-000?style=flat&label=UNBOUND&labelColor=F6C915&cacheSeconds=3600"></a></td></tr><td colspan='3'><i>781 Downloads</i></td></table> |
 
 
 **Expectation**: These packs should serve all devices, regardless of OS.
