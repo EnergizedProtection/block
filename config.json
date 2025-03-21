@@ -1,0 +1,2283 @@
+{
+    "project_name": "Energized Protection",
+    "author": "Ador",
+    "author_mail": "mail@ador.com.bd",
+    "website": "https://energized.pro",
+    "repo": "https://github.com/EnergizedProtection/block",
+    "license": "MIT, https://energized.pro/license",
+    "version": "0.73.a",
+    "status": "alpha",
+    "expires": "1 days",
+    "sources": [
+        {
+            "id": "1",
+            "name": "ABPindo",
+            "description": "Comfortable browsing without ads",
+            "url": "https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo_noadult.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "adblock",
+            "version": "0.73.a.25.80.17",
+            "author": "ABPindo",
+            "source": "https://github.com/ABPindo/indonesianadblockrules",
+            "issue": "https://github.com/ABPindo/indonesianadblockrules/issues",
+            "license": "CC BY-SA 3.0",
+            "last_updated": "2025-03-21T17:53:56.475379 UTC",
+            "domains": "138",
+            "file": "abpindo_noadult.txt"
+        },
+        {
+            "id": "2",
+            "name": "ABPindo adult",
+            "description": "ABPindo adult filter.",
+            "url": "https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/aghome_adult.txt",
+            "enable": true,
+            "filter": true,
+            "category": "nsfw",
+            "type": "adblock",
+            "version": "0.73.a.25.80.17",
+            "author": "ABPindo",
+            "source": "https://github.com/ABPindo/indonesianadblockrules",
+            "issue": "https://github.com/ABPindo/indonesianadblockrules/issues",
+            "license": "CC BY-SA 3.0",
+            "last_updated": "2025-03-21T17:53:56.927135 UTC",
+            "domains": "335",
+            "file": "abpindo_adult.txt"
+        },
+        {
+            "id": "3",
+            "name": "AdAway",
+            "description": "AdAway Hosts",
+            "url": "https://adaway.org/hosts.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "plain",
+            "version": "0.73.a.25.80.17",
+            "author": "AdAway",
+            "source": "https://github.com/AdAway/AdAway",
+            "issue": "https://github.com/AdAway/AdAway/issues",
+            "license": "CC BY 3.0",
+            "last_updated": "2025-03-21T17:53:57.548531 UTC",
+            "domains": "5,644",
+            "file": "adaway.txt"
+        },
+        {
+            "id": "4",
+            "name": "AdGuard Base filter",
+            "description": "Third-party advertising networks.",
+            "url": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "adblock",
+            "version": "0.73.a.25.80.17",
+            "author": "AdGuard",
+            "source": "https://github.com/AdguardTeam/AdGuardFilters",
+            "issue": "https://github.com/AdguardTeam/AdGuardFilters/issues",
+            "license": "GPLv3",
+            "last_updated": "2025-03-21T17:53:58.010097 UTC",
+            "domains": "736",
+            "file": "adguard_adservers.txt"
+        },
+        {
+            "id": "5",
+            "name": "AdGuard Base filter \u2014 first-party servers",
+            "description": "Advertising networks domains (first-party servers).",
+            "url": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers_firstparty.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "adblock",
+            "version": "0.73.a.25.80.17",
+            "author": "AdGuard",
+            "source": "https://github.com/AdguardTeam/AdGuardFilters",
+            "issue": "https://github.com/AdguardTeam/AdGuardFilters/issues",
+            "license": "GPLv3",
+            "last_updated": "2025-03-21T17:53:58.461318 UTC",
+            "domains": "262",
+            "file": "adguard_adservers_firstparty.txt"
+        },
+        {
+            "id": "6",
+            "name": "AdGuard Mobile Ads filter",
+            "description": "Third-party advertising networks domains for mobile devices.",
+            "url": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "adblock",
+            "version": "0.73.a.25.80.17",
+            "author": "AdGuard",
+            "source": "https://github.com/AdguardTeam/AdGuardFilters",
+            "issue": "https://github.com/AdguardTeam/AdGuardFilters/issues",
+            "license": "GPLv3",
+            "last_updated": "2025-03-21T17:53:58.879472 UTC",
+            "domains": "809",
+            "file": "adguard_mobile_adservers.txt"
+        },
+        {
+            "id": "7",
+            "name": "AdGuard Tracking Protection filter",
+            "description": "The most comprehensive list of various online counters and web analytics tools.",
+            "url": "https://filters.adtidy.org/extension/ublock/filters/3.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "adblock",
+            "version": "0.73.a.25.80.17",
+            "author": "AdGuard",
+            "source": "https://github.com/AdguardTeam/AdGuardFilters",
+            "issue": "https://github.com/AdguardTeam/AdGuardFilters/issues",
+            "license": "GPLv3",
+            "last_updated": "2025-03-21T17:54:00.243012 UTC",
+            "domains": "52,844",
+            "file": "adguard_tracking.txt"
+        },
+        {
+            "id": "8",
+            "name": "AdGuard Tracking Protection filter \u2014 third-party trackers",
+            "description": "Third-party tracking networks domains.",
+            "url": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "adblock",
+            "version": "0.73.a.25.80.17",
+            "author": "AdGuard",
+            "source": "https://github.com/AdguardTeam/AdGuardFilters",
+            "issue": "https://github.com/AdguardTeam/AdGuardFilters/issues",
+            "license": "GPLv3",
+            "last_updated": "2025-03-21T17:54:00.646631 UTC",
+            "domains": "3,805",
+            "file": "adguard_tracking_servers.txt"
+        },
+        {
+            "id": "9",
+            "name": "AdGuard Tracking Protection filter \u2014 first-party trackers",
+            "description": "Tracking networks domains (first-party servers).",
+            "url": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers_firstparty.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "adblock",
+            "version": "0.73.a.25.80.17",
+            "author": "AdGuard",
+            "source": "https://github.com/AdguardTeam/AdGuardFilters",
+            "issue": "https://github.com/AdguardTeam/AdGuardFilters/issues",
+            "license": "GPLv3",
+            "last_updated": "2025-03-21T17:54:01.011859 UTC",
+            "domains": "2,536",
+            "file": "adguard_tracking_servers_firstparty.txt"
+        },
+        {
+            "id": "10",
+            "name": "AdGuard Tracking Protection filter \u2014 mobile trackers",
+            "description": "Mobile analytics and spyware domains.",
+            "url": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "adblock",
+            "version": "0.73.a.25.80.17",
+            "author": "AdGuard",
+            "source": "https://github.com/AdguardTeam/AdGuardFilters",
+            "issue": "https://github.com/AdguardTeam/AdGuardFilters/issues",
+            "license": "GPLv3",
+            "last_updated": "2025-03-21T17:54:01.511290 UTC",
+            "domains": "755",
+            "file": "adguard_mobile_tracking.txt"
+        },
+        {
+            "id": "11",
+            "name": "AdGuard Base filter cryptominers",
+            "description": "The list of rules are against crypto-miners.",
+            "url": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/cryptominers.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "adblock",
+            "version": "0.73.a.25.80.17",
+            "author": "AdGuard",
+            "source": "https://github.com/AdguardTeam/AdGuardFilters",
+            "issue": "https://github.com/AdguardTeam/AdGuardFilters/issues",
+            "license": "GPLv3",
+            "last_updated": "2025-03-21T17:54:01.988092 UTC",
+            "domains": "55",
+            "file": "adguard_cryptominers.txt"
+        },
+        {
+            "id": "12",
+            "name": "AdGuard Social Media filter",
+            "description": "Filter for social media widgets such as 'Like' and 'Share' buttons and more.",
+            "url": "https://github.com/AdguardTeam/FiltersRegistry/raw/master/filters/filter_4_Social/filter.txt",
+            "enable": true,
+            "filter": true,
+            "category": "social",
+            "type": "adblock",
+            "version": "0.73.a.25.80.17",
+            "author": "AdGuard",
+            "source": "https://github.com/AdguardTeam/AdGuardFilters",
+            "issue": "https://github.com/AdguardTeam/AdGuardFilters/issues",
+            "license": "GPLv3",
+            "last_updated": "2025-03-21T17:54:02.860435 UTC",
+            "domains": "48",
+            "file": "adguard_social.txt"
+        },
+        {
+            "id": "13",
+            "name": "AdGuard DNS filter",
+            "description": "DNS-level ad blocking.",
+            "url": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "adblock",
+            "version": "0.73.a.25.80.17",
+            "author": "AdGuard",
+            "source": "https://github.com/AdguardTeam/AdguardSDNSFilter",
+            "issue": "https://github.com/AdguardTeam/AdguardSDNSFilter/issues",
+            "license": "GPLv3",
+            "last_updated": "2025-03-21T17:54:04.395729 UTC",
+            "domains": "97,615",
+            "file": "adguard_dns_filter.txt"
+        },
+        {
+            "id": "14",
+            "name": "AdGuard Chinese filter",
+            "description": "Third-party Chinese advertising networks domains",
+            "url": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ChineseFilter/sections/adservers.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "adblock",
+            "version": "0.73.a.25.80.17",
+            "author": "AdGuard",
+            "source": "https://github.com/AdguardTeam/AdGuardFilters",
+            "issue": "https://github.com/AdguardTeam/AdGuardFilters/issues",
+            "license": "GPLv3",
+            "last_updated": "2025-03-21T17:54:04.929107 UTC",
+            "domains": "162",
+            "file": "adguard_adservers_chinese.txt"
+        },
+        {
+            "id": "15",
+            "name": "AdGuard Russian filter",
+            "description": "Filter that enables ad blocking on websites in Russian language.",
+            "url": "https://filters.adtidy.org/extension/chromium/filters/1.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "adblock",
+            "version": "0.73.a.25.80.17",
+            "author": "AdGuard",
+            "source": "https://github.com/AdguardTeam/FiltersRegistry",
+            "issue": "https://github.com/AdguardTeam/FiltersRegistry/issues",
+            "license": "GPLv3",
+            "last_updated": "2025-03-21T17:54:05.769925 UTC",
+            "domains": "2,024",
+            "file": "adguard_russian_filter.txt"
+        },
+        {
+            "id": "16",
+            "name": "AdGuard German filter",
+            "description": "Filter that enables ad blocking on websites in German language.",
+            "url": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_6_German/filter.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "adblock",
+            "version": "0.73.a.25.80.17",
+            "author": "AdGuard",
+            "source": "https://github.com/AdguardTeam/FiltersRegistry",
+            "issue": "https://github.com/AdguardTeam/FiltersRegistry/issues",
+            "license": "GPLv3",
+            "last_updated": "2025-03-21T17:54:06.472789 UTC",
+            "domains": "384",
+            "file": "adguard_german_filter.txt"
+        },
+        {
+            "id": "17",
+            "name": "AdGuard Japanese filter",
+            "description": "Filter that enables ad blocking on websites in Japanese language.",
+            "url": "https://filters.adtidy.org/extension/chromium/filters/7.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "adblock",
+            "version": "0.73.a.25.80.17",
+            "author": "AdGuard",
+            "source": "https://github.com/AdguardTeam/FiltersRegistry",
+            "issue": "https://github.com/AdguardTeam/FiltersRegistry/issues",
+            "license": "GPLv3",
+            "last_updated": "2025-03-21T17:54:07.235664 UTC",
+            "domains": "379",
+            "file": "adguard_japanese_filter.txt"
+        },
+        {
+            "id": "18",
+            "name": "AdGuard Dutch filter",
+            "description": "Filter that enables ad blocking on websites in Dutch language.",
+            "url": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_8_Dutch/filter.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "adblock",
+            "version": "0.73.a.25.80.17",
+            "author": "AdGuard",
+            "source": "https://github.com/AdguardTeam/FiltersRegistry",
+            "issue": "https://github.com/AdguardTeam/FiltersRegistry/issues",
+            "license": "GPLv3",
+            "last_updated": "2025-03-21T17:54:07.824694 UTC",
+            "domains": "51",
+            "file": "adguard_dutch_filter.txt"
+        },
+        {
+            "id": "19",
+            "name": "AdGuard Spanish/Portuguese filter",
+            "description": "Filter list that specifically removes ads on websites in Spanish, Portuguese, and Brazilian Portuguese languages.",
+            "url": "https://filters.adtidy.org/extension/chromium/filters/9.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "adblock",
+            "version": "0.73.a.25.80.17",
+            "author": "AdGuard",
+            "source": "https://github.com/AdguardTeam/FiltersRegistry",
+            "issue": "https://github.com/AdguardTeam/FiltersRegistry/issues",
+            "license": "GPLv3",
+            "last_updated": "2025-03-21T17:54:08.506303 UTC",
+            "domains": "156",
+            "file": "adguard_spanish_portuguese_filter.txt"
+        },
+        {
+            "id": "20",
+            "name": "AdGuard Turkish filter",
+            "description": "Filter that enables ad blocking on websites in Turkish language.",
+            "url": "https://filters.adtidy.org/extension/chromium/filters/13.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "adblock",
+            "version": "0.73.a.25.80.17",
+            "author": "AdGuard",
+            "source": "https://github.com/AdguardTeam/FiltersRegistry",
+            "issue": "https://github.com/AdguardTeam/FiltersRegistry/issues",
+            "license": "GPLv3",
+            "last_updated": "2025-03-21T17:54:09.206451 UTC",
+            "domains": "178",
+            "file": "adguard_turkish_filter.txt"
+        },
+        {
+            "id": "21",
+            "name": "AdGuard French filter",
+            "description": "Filter that enables ad blocking on websites in French language.",
+            "url": "https://filters.adtidy.org/extension/chromium/filters/16.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "adblock",
+            "version": "0.73.a.25.80.17",
+            "author": "AdGuard",
+            "source": "https://github.com/AdguardTeam/FiltersRegistry",
+            "issue": "https://github.com/AdguardTeam/FiltersRegistry/issues",
+            "license": "GPLv3",
+            "last_updated": "2025-03-21T17:54:09.986970 UTC",
+            "domains": "5,535",
+            "file": "adguard_french_filter.txt"
+        },
+        {
+            "id": "22",
+            "name": "DigitalSide Threat-Intel",
+            "description": "Malware analysis and compromised domains.",
+            "url": "https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "plain",
+            "version": "0.73.a.25.80.17",
+            "author": "Davide Baglieri",
+            "source": "https://github.com/davidonzo/Threat-Intel",
+            "issue": "https://github.com/davidonzo/Threat-Intel/issues",
+            "license": "MIT",
+            "last_updated": "2025-03-21T17:54:10.621736 UTC",
+            "domains": "92",
+            "file": "digitalside-threat-intel.txt"
+        },
+        {
+            "id": "23",
+            "name": "EasyList",
+            "description": "Remove unwanted content from the internet, including annoying adverts, bothersome banners and troublesome tracking.",
+            "url": "https://easylist.to/easylist/easylist.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "adblock",
+            "version": "0.73.a.25.80.17",
+            "author": "EasyList",
+            "source": "https://github.com/easylist/easylist",
+            "issue": "https://github.com/easylist/easylist/issues",
+            "license": "GPLv3",
+            "last_updated": "2025-03-21T17:54:11.360337 UTC",
+            "domains": "30,285",
+            "file": "easylist.txt"
+        },
+        {
+            "id": "24",
+            "name": "EasyList adservers",
+            "description": "EasyList adservers.",
+            "url": "https://github.com/easylist/easylist/raw/master/easylist/easylist_adservers.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "adblock",
+            "version": "0.73.a.25.80.17",
+            "author": "EasyList",
+            "source": "https://github.com/easylist/easylist",
+            "issue": "https://github.com/easylist/easylist/issues",
+            "license": "GPLv3",
+            "last_updated": "2025-03-21T17:54:12.291204 UTC",
+            "domains": "27,406",
+            "file": "easylist_adservers.txt"
+        },
+        {
+            "id": "25",
+            "name": "EasyList adservers popup",
+            "description": "EasyList adservers (popup).",
+            "url": "https://github.com/easylist/easylist/raw/master/easylist/easylist_adservers_popup.txt",
+            "enable": true,
+            "filter": true,
+            "category": "popads",
+            "type": "adblock",
+            "version": "0.73.a.25.80.17",
+            "author": "EasyList",
+            "source": "https://github.com/easylist/easylist",
+            "issue": "https://github.com/easylist/easylist/issues",
+            "license": "GPLv3",
+            "last_updated": "2025-03-21T17:54:13.061675 UTC",
+            "domains": "3,559",
+            "file": "easylist_adservers_popup.txt"
+        },
+        {
+            "id": "26",
+            "name": "EasyList thirdparty",
+            "description": "EasyList adservers thirdparty.",
+            "url": "https://github.com/easylist/easylist/raw/master/easylist/easylist_thirdparty.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "adblock",
+            "version": "0.73.a.25.80.17",
+            "author": "EasyList",
+            "source": "https://github.com/easylist/easylist",
+            "issue": "https://github.com/easylist/easylist/issues",
+            "license": "GPLv3",
+            "last_updated": "2025-03-21T17:54:13.830486 UTC",
+            "domains": "1,246",
+            "file": "easylist_thirdparty.txt"
+        },
+        {
+            "id": "27",
+            "name": "EasyList thirdparty popup",
+            "description": "EasyList adservers thirdparty (popup).",
+            "url": "https://github.com/easylist/easylist/raw/master/easylist/easylist_thirdparty_popup.txt",
+            "enable": true,
+            "filter": true,
+            "category": "popads",
+            "type": "adblock",
+            "version": "0.73.a.25.80.17",
+            "author": "EasyList",
+            "source": "https://github.com/easylist/easylist",
+            "issue": "https://github.com/easylist/easylist/issues",
+            "license": "GPLv3",
+            "last_updated": "2025-03-21T17:54:14.537912 UTC",
+            "domains": "110",
+            "file": "easylist_thirdparty_popup.txt"
+        },
+        {
+            "id": "28",
+            "name": "EasyList adult adservers",
+            "description": "EasyList adult adservers.",
+            "url": "https://github.com/easylist/easylist/raw/master/easylist_adult/adult_adservers.txt",
+            "enable": true,
+            "filter": true,
+            "category": "nsfw",
+            "type": "adblock",
+            "version": "0.73.a.25.80.17",
+            "author": "EasyList",
+            "source": "https://github.com/easylist/easylist",
+            "issue": "https://github.com/easylist/easylist/issues",
+            "license": "GPLv3",
+            "last_updated": "2025-03-21T17:54:15.116792 UTC",
+            "domains": "412",
+            "file": "easylist_adult_adservers.txt"
+        },
+        {
+            "id": "29",
+            "name": "EasyList adult adservers popup",
+            "description": "EasyList adult adservers (popup).",
+            "url": "https://github.com/easylist/easylist/raw/master/easylist_adult/adult_adservers_popup.txt",
+            "enable": true,
+            "filter": true,
+            "category": "nsfw",
+            "type": "adblock",
+            "version": "0.73.a.25.80.17",
+            "author": "EasyList",
+            "source": "https://github.com/easylist/easylist",
+            "issue": "https://github.com/easylist/easylist/issues",
+            "license": "GPLv3",
+            "last_updated": "2025-03-21T17:54:15.836805 UTC",
+            "domains": "105",
+            "file": "easylist_adult_adservers_popup.txt"
+        },
+        {
+            "id": "30",
+            "name": "EasyList adult thirdparty",
+            "description": "EasyList adult adservers thirdparty.",
+            "url": "https://github.com/easylist/easylist/raw/master/easylist_adult/adult_thirdparty.txt",
+            "enable": true,
+            "filter": true,
+            "category": "nsfw",
+            "type": "adblock",
+            "version": "0.73.a.25.80.17",
+            "author": "EasyList",
+            "source": "https://github.com/easylist/easylist",
+            "issue": "https://github.com/easylist/easylist/issues",
+            "license": "GPLv3",
+            "last_updated": "2025-03-21T17:54:16.475120 UTC",
+            "domains": "152",
+            "file": "easylist_adult_thirdparty.txt"
+        },
+        {
+            "id": "31",
+            "name": "EasyPrivacy",
+            "description": "Completely removes all forms of tracking from the internet.",
+            "url": "https://easylist.to/easylist/easyprivacy.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "adblock",
+            "version": "0.73.a.25.80.17",
+            "author": "EasyList",
+            "source": "https://github.com/easylist/easylist",
+            "issue": "https://github.com/easylist/easylist/issues",
+            "license": "GPLv3",
+            "last_updated": "2025-03-21T17:54:17.391739 UTC",
+            "domains": "43,142",
+            "file": "easyprivacy.txt"
+        },
+        {
+            "id": "32",
+            "name": "EasyPrivacy specific",
+            "description": "EasyPrivacy specific.",
+            "url": "https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "adblock",
+            "version": "0.73.a.25.80.17",
+            "author": "EasyList",
+            "source": "https://github.com/easylist/easylist",
+            "issue": "https://github.com/easylist/easylist/issues",
+            "license": "GPLv3",
+            "last_updated": "2025-03-21T17:54:17.955892 UTC",
+            "domains": "724",
+            "file": "easyprivacy_specific.txt"
+        },
+        {
+            "id": "33",
+            "name": "EasyPrivacy thirdparty",
+            "description": "EasyPrivacy thirdparty.",
+            "url": "https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "adblock",
+            "version": "0.73.a.25.80.17",
+            "author": "EasyList",
+            "source": "https://github.com/easylist/easylist",
+            "issue": "https://github.com/easylist/easylist/issues",
+            "license": "GPLv3",
+            "last_updated": "2025-03-21T17:54:18.477386 UTC",
+            "domains": "1,379",
+            "file": "easyprivacy_thirdparty.txt"
+        },
+        {
+            "id": "34",
+            "name": "EasyPrivacy thirdparty international",
+            "description": "EasyPrivacy thirdparty international.",
+            "url": "https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty_international.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "adblock",
+            "version": "0.73.a.25.80.17",
+            "author": "EasyList",
+            "source": "https://github.com/easylist/easylist",
+            "issue": "https://github.com/easylist/easylist/issues",
+            "license": "GPLv3",
+            "last_updated": "2025-03-21T17:54:18.975437 UTC",
+            "domains": "587",
+            "file": "easyprivacy_thirdparty_international.txt"
+        },
+        {
+            "id": "35",
+            "name": "EasyPrivacy trackingservers admiral",
+            "description": "EasyPrivacy trackingservers admiral.",
+            "url": "https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers_admiral.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "adblock",
+            "version": "0.73.a.25.80.17",
+            "author": "EasyList",
+            "source": "https://github.com/easylist/easylist",
+            "issue": "https://github.com/easylist/easylist/issues",
+            "license": "GPLv3",
+            "last_updated": "2025-03-21T17:54:19.536933 UTC",
+            "domains": "1,580",
+            "file": "easyprivacy_trackingservers_admiral.txt"
+        },
+        {
+            "id": "36",
+            "name": "EasyPrivacy trackingservers general",
+            "description": "EasyPrivacy trackingservers general.",
+            "url": "https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers_general.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "adblock",
+            "version": "0.73.a.25.80.17",
+            "author": "EasyList",
+            "source": "https://github.com/easylist/easylist",
+            "issue": "https://github.com/easylist/easylist/issues",
+            "license": "GPLv3",
+            "last_updated": "2025-03-21T17:54:20.073970 UTC",
+            "domains": "399",
+            "file": "easyprivacy_trackingservers_general.txt"
+        },
+        {
+            "id": "37",
+            "name": "EasyPrivacy trackingservers international",
+            "description": "EasyPrivacy trackingservers international.",
+            "url": "https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers_international.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "adblock",
+            "version": "0.73.a.25.80.17",
+            "author": "EasyList",
+            "source": "https://github.com/easylist/easylist",
+            "issue": "https://github.com/easylist/easylist/issues",
+            "license": "GPLv3",
+            "last_updated": "2025-03-21T17:54:20.518878 UTC",
+            "domains": "913",
+            "file": "easyprivacy_trackingservers_international.txt"
+        },
+        {
+            "id": "38",
+            "name": "EasyPrivacy trackingservers thirdparty",
+            "description": "EasyPrivacy trackingservers thirdparty.",
+            "url": "https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers_thirdparty.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "adblock",
+            "version": "0.73.a.25.80.17",
+            "author": "EasyList",
+            "source": "https://github.com/easylist/easylist",
+            "issue": "https://github.com/easylist/easylist/issues",
+            "license": "GPLv3",
+            "last_updated": "2025-03-21T17:54:21.062219 UTC",
+            "domains": "2,367",
+            "file": "easyprivacy_trackingservers_thirdparty.txt"
+        },
+        {
+            "id": "39",
+            "name": "EasyList China",
+            "description": "EasyList China.",
+            "url": "https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "adblock",
+            "version": "0.73.a.25.80.17",
+            "author": "EasyList",
+            "source": "https://github.com/easylist/easylistchina",
+            "issue": "https://github.com/easylist/easylistchina/issues",
+            "license": "GPLv3",
+            "last_updated": "2025-03-21T17:54:21.699206 UTC",
+            "domains": "4,080",
+            "file": "easylistchina.txt"
+        },
+        {
+            "id": "40",
+            "name": "EasyList Germany",
+            "description": "German supplement to EasyList",
+            "url": "https://easylist-downloads.adblockplus.org/easylistgermany.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "adblock",
+            "version": "0.73.a.25.80.17",
+            "author": "EasyList",
+            "source": "https://github.com/easylist/easylistgermany",
+            "issue": "https://github.com/easylist/easylistgermany/issues",
+            "license": "GPLv3",
+            "last_updated": "2025-03-21T17:54:22.221443 UTC",
+            "domains": "346",
+            "file": "easylistgermany.txt"
+        },
+        {
+            "id": "41",
+            "name": "EasyList Dutch",
+            "description": "Dutch supplement to EasyList",
+            "url": "https://easylist-downloads.adblockplus.org/easylistdutch.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "adblock",
+            "version": "0.73.a.25.80.17",
+            "author": "EasyList",
+            "source": "https://github.com/easylist/easylistdutch",
+            "issue": "https://github.com/easylist/easylistdutch/issues",
+            "license": "GPLv3",
+            "last_updated": "2025-03-21T17:54:22.716088 UTC",
+            "domains": "41",
+            "file": "easylistdutch.txt"
+        },
+        {
+            "id": "42",
+            "name": "EasyList Italy",
+            "description": "Italian supplement to EasyList",
+            "url": "https://easylist-downloads.adblockplus.org/easylistitaly.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "adblock",
+            "version": "0.73.a.25.80.17",
+            "author": "EasyList",
+            "source": "https://github.com/easylist/easylistitaly",
+            "issue": "https://github.com/easylist/easylistitaly/issues",
+            "license": "GPLv3",
+            "last_updated": "2025-03-21T17:54:23.292747 UTC",
+            "domains": "83",
+            "file": "easylistitaly.txt"
+        },
+        {
+            "id": "43",
+            "name": "EasyList Italy",
+            "description": "Italian supplement to EasyList",
+            "url": "https://easylist-downloads.adblockplus.org/easylistitaly.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "adblock",
+            "version": "0.73.a.25.80.17",
+            "author": "EasyList",
+            "source": "https://github.com/easylist/easylistitaly",
+            "issue": "https://github.com/easylist/easylistitaly/issues",
+            "license": "GPLv3",
+            "last_updated": "2025-03-21T17:54:23.715859 UTC",
+            "domains": "83",
+            "file": "easylistitaly.txt"
+        },
+        {
+            "id": "44",
+            "name": "EasyList Liste AR",
+            "description": "Arabic supplement to EasyList",
+            "url": "https://easylist-downloads.adblockplus.org/liste_ar.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "adblock",
+            "version": "0.73.a.25.80.17",
+            "author": "EasyList",
+            "source": "https://github.com/easylist/listear",
+            "issue": "https://github.com/easylist/listear/issues",
+            "license": "GPLv3",
+            "last_updated": "2025-03-21T17:54:24.129689 UTC",
+            "domains": "71",
+            "file": "easylist-liste_ar.txt"
+        },
+        {
+            "id": "45",
+            "name": "EasyList Spanish",
+            "description": "Spanish supplement to EasyList",
+            "url": "https://easylist-downloads.adblockplus.org/easylistspanish.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "adblock",
+            "version": "0.73.a.25.80.17",
+            "author": "EasyList",
+            "source": "https://github.com/easylist/easylistspanish",
+            "issue": "https://github.com/easylist/easylistspanish/issues",
+            "license": "GPLv3",
+            "last_updated": "2025-03-21T17:54:24.703543 UTC",
+            "domains": "79",
+            "file": "easylistspanish.txt"
+        },
+        {
+            "id": "46",
+            "name": "oisd small",
+            "description": "Mainly focusses on blocking ads",
+            "url": "https://small.oisd.nl/",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "adblock",
+            "version": "0.73.a.25.80.17",
+            "author": "sjhgvr",
+            "source": "https://oisd.nl/",
+            "issue": "https://oisd.nl/report",
+            "license": "GPLv3",
+            "last_updated": "2025-03-21T17:54:25.595334 UTC",
+            "domains": "44,331",
+            "file": "oisd_small.txt"
+        },
+        {
+            "id": "47",
+            "name": "oisd nsfw small",
+            "description": "NSFW domains found in the top 1 million domains",
+            "url": "https://nsfw-small.oisd.nl/",
+            "enable": true,
+            "filter": true,
+            "category": "nsfw",
+            "type": "adblock",
+            "version": "0.73.a.25.80.17",
+            "author": "sjhgvr",
+            "source": "https://oisd.nl/",
+            "issue": "https://oisd.nl/report",
+            "license": "GPLv3",
+            "last_updated": "2025-03-21T17:54:26.270383 UTC",
+            "domains": "15,754",
+            "file": "oisd_nsfw_small.txt"
+        },
+        {
+            "id": "48",
+            "name": "NoTrack Tracker Blocklist",
+            "description": "Domains classified as tracking or advertising",
+            "url": "https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "plain",
+            "version": "0.73.a.25.80.17",
+            "author": "QuidsUp",
+            "source": "https://gitlab.com/quidsup/notrack-blocklists",
+            "issue": "https://gitlab.com/quidsup/notrack-blocklists",
+            "license": "GPLv3",
+            "last_updated": "2025-03-21T17:54:26.816847 UTC",
+            "domains": "14,695",
+            "file": "notrack-blocklist.txt"
+        },
+        {
+            "id": "49",
+            "name": "NoTrack Malware Blocklist",
+            "description": "Domains classified as malware, phishing or adware",
+            "url": "https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "plain",
+            "version": "0.73.a.25.80.17",
+            "author": "QuidsUp",
+            "source": "https://gitlab.com/quidsup/notrack-blocklists",
+            "issue": "https://gitlab.com/quidsup/notrack-blocklists",
+            "license": "GPLv3",
+            "last_updated": "2025-03-21T17:54:27.270486 UTC",
+            "domains": "149",
+            "file": "notrack-malware.txt"
+        },
+        {
+            "id": "50",
+            "name": "NoTrack Annoyance Blocklist",
+            "description": "Domains which fall outside of tracking and advertising, but are annoying if you inadvertently visit them",
+            "url": "https://gitlab.com/quidsup/notrack-annoyance-blocklist/raw/master/notrack-annoyance.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "plain",
+            "version": "0.73.a.25.80.17",
+            "author": "QuidsUp",
+            "source": "https://gitlab.com/quidsup/notrack-annoyance-blocklist",
+            "issue": "https://gitlab.com/quidsup/notrack-annoyance-blocklist",
+            "license": "GPLv3",
+            "last_updated": "2025-03-21T17:54:28.071706 UTC",
+            "domains": "528",
+            "file": "notrack-annoyance.txt"
+        },
+        {
+            "id": "51",
+            "name": "Sinfonietta's pornography-hosts",
+            "description": "A collection of nsfw domains",
+            "url": "https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/pornography-hosts",
+            "enable": true,
+            "filter": true,
+            "category": "nsfw",
+            "type": "plain",
+            "version": "0.73.a.25.80.17",
+            "author": "Sinfonietta",
+            "source": "https://github.com/Sinfonietta/hostfiles",
+            "issue": "https://github.com/Sinfonietta/hostfiles/issues",
+            "license": "MIT",
+            "last_updated": "2025-03-21T17:54:29.055606 UTC",
+            "domains": "49,773",
+            "file": "sinfonietta-s-pornography-hosts.txt"
+        },
+        {
+            "id": "52",
+            "name": "Sinfonietta's social-hosts",
+            "description": "A collection of social domains",
+            "url": "https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/social-hosts",
+            "enable": true,
+            "filter": true,
+            "category": "social",
+            "type": "plain",
+            "version": "0.73.a.25.80.17",
+            "author": "Sinfonietta",
+            "source": "https://github.com/Sinfonietta/hostfiles",
+            "issue": "https://github.com/Sinfonietta/hostfiles/issues",
+            "license": "MIT",
+            "last_updated": "2025-03-21T17:54:29.617686 UTC",
+            "domains": "1,921",
+            "file": "sinfonietta-s-social-hosts.txt"
+        },
+        {
+            "id": "53",
+            "name": "someonewhocares",
+            "description": "How to make the internet not suck (as much)",
+            "url": "https://someonewhocares.org/hosts/zero/",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "plain",
+            "version": "0.73.a.25.80.17",
+            "author": "Dan Pollock",
+            "source": "https://github.com/Sinfonietta/hostfiles",
+            "issue": "https://github.com/Sinfonietta/hostfiles/issues",
+            "license": "CC BY-NC",
+            "last_updated": "2025-03-21T17:54:32.176845 UTC",
+            "domains": "7,846",
+            "file": "someonewhocares.txt"
+        },
+        {
+            "id": "54",
+            "name": "Hosts contributed by Steven Black",
+            "description": "Hosts contributed by Steven Black",
+            "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "plain",
+            "version": "0.73.a.25.80.17",
+            "author": "Steven Black",
+            "source": "https://github.com/StevenBlack/hosts",
+            "issue": "https://github.com/StevenBlack/hosts/issues",
+            "license": "MIT",
+            "last_updated": "2025-03-21T17:54:32.662305 UTC",
+            "domains": "2,079",
+            "file": "sbc-hosts.txt"
+        },
+        {
+            "id": "55",
+            "name": "Unified hosts, fakenews and gambling",
+            "description": "Unified hosts + fakenews + gambling",
+            "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "plain",
+            "version": "0.73.a.25.80.17",
+            "author": "Steven Black",
+            "source": "https://github.com/StevenBlack/hosts",
+            "issue": "https://github.com/StevenBlack/hosts/issues",
+            "license": "MIT",
+            "last_updated": "2025-03-21T17:54:34.278975 UTC",
+            "domains": "80,291",
+            "file": "unified-hosts-fakenews-gambling.txt"
+        },
+        {
+            "id": "56",
+            "name": "pgl.yoyo.org",
+            "description": "Blocklist for use with hosts files to block ads, trackers, and other nasty things",
+            "url": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "plain",
+            "version": "0.73.a.25.80.17",
+            "author": "Peter Lowe",
+            "source": "https://pgl.yoyo.org/adservers/",
+            "issue": "https://pgl.yoyo.org/adservers/",
+            "license": "MCRAE GENERAL PUBLIC LICENSE (version 4.r53)",
+            "last_updated": "2025-03-21T17:54:35.475548 UTC",
+            "domains": "3,445",
+            "file": "pgl-yoyo-org.txt"
+        },
+        {
+            "id": "57",
+            "name": "URLhaus",
+            "description": "Blocking with ad server and tracking server hostnames.",
+            "url": "https://urlhaus.abuse.ch/downloads/hostfile/",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "plain",
+            "version": "0.73.a.25.80.17",
+            "author": "abuse.ch",
+            "source": "https://urlhaus.abuse.ch/",
+            "issue": "https://urlhaus.abuse.ch/browse/",
+            "license": "CC0",
+            "last_updated": "2025-03-21T17:54:35.934088 UTC",
+            "domains": "408",
+            "file": "urlhaus.txt"
+        },
+        {
+            "id": "58",
+            "name": "Windows Spy Blocker",
+            "description": "Block spying and tracking on Windows",
+            "url": "https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "plain",
+            "version": "0.73.a.25.80.17",
+            "author": "crazy-max",
+            "source": "https://github.com/crazy-max/WindowsSpyBlocker",
+            "issue": "https://github.com/crazy-max/WindowsSpyBlocker/issues",
+            "license": "MIT",
+            "last_updated": "2025-03-21T17:54:36.280224 UTC",
+            "domains": "104",
+            "file": "windows-spy-blocker.txt"
+        },
+        {
+            "id": "59",
+            "name": "RU Adlist",
+            "description": "Filter for blocking and hiding ads, focused on Russian and Ukrainian-language sites.",
+            "url": "https://easylist-downloads.adblockplus.org/ruadlist.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "adblock",
+            "version": "0.73.a.25.80.17",
+            "author": "Other_13",
+            "source": "https://forums.lanik.us/viewforum.php?f=102",
+            "issue": "https://forums.lanik.us/viewforum.php?f=102",
+            "license": "CC BY-SA 3.0",
+            "last_updated": "2025-03-21T17:54:36.916833 UTC",
+            "domains": "3,415",
+            "file": "ruadlist.txt"
+        },
+        {
+            "id": "60",
+            "name": "KOR: List-KR DNS",
+            "description": "Korean-language website filters list",
+            "url": "https://cdn.jsdelivr.net/gh/adguardteam/HostlistsRegistry@main/assets/filter_25.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "adblock",
+            "version": "0.73.a.25.80.17",
+            "author": "List-KR",
+            "source": "https://github.com/List-KR/List-KR",
+            "issue": "https://github.com/List-KR/List-KR/issues",
+            "license": "GPLv3",
+            "last_updated": "2025-03-21T17:54:37.395564 UTC",
+            "domains": "328",
+            "file": "list-kr.txt"
+        },
+        {
+            "id": "61",
+            "name": "YousList",
+            "description": "Block filter for advertisements, mainly on Korean sites",
+            "url": "https://raw.githubusercontent.com/yous/YousList/master/hosts.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "plain",
+            "version": "0.73.a.25.80.17",
+            "author": "yous",
+            "source": "https://github.com/yous/YousList",
+            "issue": "https://github.com/yous/YousList/issues",
+            "license": "CC BY 4.0",
+            "last_updated": "2025-03-21T17:54:37.891774 UTC",
+            "domains": "550",
+            "file": "youslist.txt"
+        },
+        {
+            "id": "62",
+            "name": "hostsVN",
+            "description": "Hosts block ads of Vietnamese",
+            "url": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "plain",
+            "version": "0.73.a.25.80.17",
+            "author": "bigdargon",
+            "source": "https://github.com/bigdargon/hostsVN",
+            "issue": "https://github.com/bigdargon/hostsVN/issues",
+            "license": "MIT",
+            "last_updated": "2025-03-21T17:54:38.379852 UTC",
+            "domains": "1,589",
+            "file": "hostsvn.txt"
+        },
+        {
+            "id": "63",
+            "name": "ABPVN",
+            "description": "Vietnamese filter",
+            "url": "https://raw.githubusercontent.com/abpvn/abpvn/master/filter/src/abpvn_ad_domain.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "adblock",
+            "version": "0.73.a.25.80.17",
+            "author": "bigdargon",
+            "source": "https://github.com/abpvn/abpvn",
+            "issue": "https://github.com/abpvn/abpvn/issues",
+            "license": "MIT",
+            "last_updated": "2025-03-21T17:54:38.974093 UTC",
+            "domains": "80",
+            "file": "abpvn.txt"
+        },
+        {
+            "id": "64",
+            "name": "ABPVN Adult",
+            "description": "Vietnamese filter",
+            "url": "https://raw.githubusercontent.com/abpvn/abpvn/master/filter/src/abpvn_adult.txt",
+            "enable": true,
+            "filter": true,
+            "category": "nsfw",
+            "type": "adblock",
+            "version": "0.73.a.25.80.17",
+            "author": "bigdargon",
+            "source": "https://github.com/abpvn/abpvn",
+            "issue": "https://github.com/abpvn/abpvn/issues",
+            "license": "MIT",
+            "last_updated": "2025-03-21T17:54:39.627096 UTC",
+            "domains": "6",
+            "file": "abpvn_adult.txt"
+        },
+        {
+            "id": "65",
+            "name": "polish-ads-filter",
+            "description": "Official Polish filters for Adblock, uBlock Origin, Adguard",
+            "url": "https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/hostfile.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "plain",
+            "version": "0.73.a.25.80.17",
+            "author": "MajkiIT",
+            "source": "https://github.com/MajkiIT/polish-ads-filter",
+            "issue": "https://github.com/MajkiIT/polish-ads-filter/issues",
+            "license": "CC BY-NC-SA 4.0",
+            "last_updated": "2025-03-21T17:54:40.109071 UTC",
+            "domains": "220",
+            "file": "polish-ads-filter.txt"
+        },
+        {
+            "id": "66",
+            "name": "scamblocklist",
+            "description": "A blocklist to protect users against untrustworthy sites.",
+            "url": "https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "plain",
+            "version": "0.73.a.25.80.17",
+            "author": "durablenapkin",
+            "source": "https://github.com/durablenapkin/scamblocklist",
+            "issue": "https://github.com/durablenapkin/scamblocklist/issues",
+            "license": "MIT",
+            "last_updated": "2025-03-21T17:54:40.628408 UTC",
+            "domains": "2,515",
+            "file": "scamblocklist.txt"
+        },
+        {
+            "id": "67",
+            "name": "uBlock\u2080 filters \u2013 Badware risks",
+            "description": "For sites documented to put users at risk of installing adware/crapware/malware",
+            "url": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "adblock",
+            "version": "0.73.a.25.80.17",
+            "author": "uBlockOrigin",
+            "source": "https://github.com/uBlockOrigin/uAssets",
+            "issue": "https://github.com/uBlockOrigin/uAssets/issues",
+            "license": "GPLv3",
+            "last_updated": "2025-03-21T17:54:41.066907 UTC",
+            "domains": "2,722",
+            "file": "ublock-badware.txt"
+        },
+        {
+            "id": "68",
+            "name": "uBlock\u2080 filters \u2013 Ads",
+            "description": "For sites documented to put users at risk of installing adware/crapware/malware",
+            "url": "https://ublockorigin.pages.dev/filters/filters.min.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "adblock",
+            "version": "0.73.a.25.80.17",
+            "author": "uBlockOrigin",
+            "source": "https://github.com/uBlockOrigin/uAssets",
+            "issue": "https://github.com/uBlockOrigin/uAssets/issues",
+            "license": "GPLv3",
+            "last_updated": "2025-03-21T17:54:41.617907 UTC",
+            "domains": "468",
+            "file": "ublock-ads.txt"
+        },
+        {
+            "id": "69",
+            "name": "uBlock\u2080 filters \u2013 Privacy",
+            "description": "For sites documented to put users at risk of installing adware/crapware/malware",
+            "url": "https://ublockorigin.github.io/uAssetsCDN/filters/privacy.min.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "adblock",
+            "version": "0.73.a.25.80.17",
+            "author": "uBlockOrigin",
+            "source": "https://github.com/uBlockOrigin/uAssets",
+            "issue": "https://github.com/uBlockOrigin/uAssets/issues",
+            "license": "GPLv3",
+            "last_updated": "2025-03-21T17:54:42.089342 UTC",
+            "domains": "53",
+            "file": "ublock-privacy.txt"
+        },
+        {
+            "id": "70",
+            "name": "AdGuard DNS Popup Hosts filter",
+            "description": "DNS-level pop-up blocking.",
+            "url": "https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/refs/heads/gh-pages/Filters/adguard_popup_filter.txt",
+            "enable": true,
+            "filter": true,
+            "category": "popads",
+            "type": "adblock",
+            "version": "0.73.a.25.80.17",
+            "author": "AdGuard",
+            "source": "https://github.com/AdguardTeam/AdguardSDNSFilter",
+            "issue": "https://github.com/AdguardTeam/AdguardSDNSFilter/issues",
+            "license": "GPLv3",
+            "last_updated": "2025-03-21T17:54:42.637784 UTC",
+            "domains": "1,378",
+            "file": "adguard_popup_filter.txt"
+        },
+        {
+            "id": "71",
+            "name": "WhoTracks.me",
+            "description": "Ghostery Tracker Database (Ads and Analytics).",
+            "url": "https://energized.pro/mirror/whotracks-me.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "plain",
+            "version": "0.73.a.25.80.17",
+            "author": "Ghostery",
+            "source": "https://github.com/ghostery/trackerdb",
+            "issue": "https://github.com/ghostery/trackerdb/issues",
+            "license": "CC BY-NC-SA 4.0",
+            "last_updated": "2025-03-21T17:54:43.125081 UTC",
+            "domains": "2,950",
+            "file": "whotracks-me.txt"
+        },
+        {
+            "id": "72",
+            "name": "Brave iOS Specific",
+            "description": "Brave IOS specific filters",
+            "url": "https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-ios-specific.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "adblock",
+            "version": "0.73.a.25.80.17",
+            "author": "Brave",
+            "source": "https://github.com/brave/adblock-lists",
+            "issue": "https://github.com/brave/adblock-lists/issues",
+            "license": "MPL 2.0",
+            "last_updated": "2025-03-21T17:54:43.646562 UTC",
+            "domains": "1,663",
+            "file": "brave-ios-specific.txt"
+        },
+        {
+            "id": "73",
+            "name": "Red Flag Domains",
+            "description": "List of very recently registered probably malicious domain names in french TLDs.",
+            "url": "https://dl.red.flag.domains/red.flag.domains.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "plain",
+            "version": "0.73.a.25.80.17",
+            "author": "Nicolas Pawlak",
+            "source": "https://red.flag.domains/",
+            "issue": "https://red.flag.domains/",
+            "license": "CC BY-NC-SA 4.0",
+            "last_updated": "2025-03-21T17:54:44.392506 UTC",
+            "domains": "8,379",
+            "file": "red-flag-domains.txt"
+        },
+        {
+            "id": "74",
+            "name": "Ultimate Ad Filter",
+            "description": "Blocks ads, pop-ups, banners, and other ads.",
+            "url": "https://filters.adavoid.org/ultimate-ad-filter.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "adblock",
+            "version": "0.73.a.25.80.17",
+            "author": "AdAvoid",
+            "source": "https://adblockultimate.net/filters",
+            "issue": "https://support.adblockultimate.net/",
+            "license": "GPLv3",
+            "last_updated": "2025-03-21T17:54:45.621696 UTC",
+            "domains": "48,217",
+            "file": "ultimate-ad-filter.txt"
+        },
+        {
+            "id": "75",
+            "name": "Ultimate Privacy Filter",
+            "description": "Blocks all known tracking technologies.",
+            "url": "https://filters.adavoid.org/ultimate-privacy-filter.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "adblock",
+            "version": "0.73.a.25.80.17",
+            "author": "AdAvoid",
+            "source": "https://adblockultimate.net/filters",
+            "issue": "https://support.adblockultimate.net/",
+            "license": "GPLv3",
+            "last_updated": "2025-03-21T17:54:46.805055 UTC",
+            "domains": "52,844",
+            "file": "ultimate-privacy-filter.txt"
+        },
+        {
+            "id": "76",
+            "name": "Malware and Phishing Blocklist",
+            "description": "A concise collection of malicious domains.",
+            "url": "https://lists.cyberhost.uk/malware.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "plain",
+            "version": "0.73.a.25.80.17",
+            "author": "CyberHost.uk",
+            "source": "https://cyberhost.uk/malware-blocklist/",
+            "issue": "https://cyberhost.uk/malware-blocklist/",
+            "license": "CC BY-SA 4.0",
+            "last_updated": "2025-03-21T17:54:47.391787 UTC",
+            "domains": "4,297",
+            "file": "malware-blocklist.txt"
+        },
+        {
+            "id": "77",
+            "name": "Emerging Threats PiHole (MALICIOUS)",
+            "description": "Blocks malware, phishing, coin miners, PUPs, exploits, etc.",
+            "url": "https://hosts.tweedge.net/malicious.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "plain",
+            "version": "0.73.a.25.80.17",
+            "author": "tweedge",
+            "source": "https://github.com/tweedge/emerging-threats-pihole",
+            "issue": "https://github.com/tweedge/emerging-threats-pihole/issues",
+            "license": "CC BY-SA 4.0",
+            "last_updated": "2025-03-21T17:54:47.820890 UTC",
+            "domains": "1,103",
+            "file": "emerging-threats-piHole-malicious.txt"
+        },
+        {
+            "id": "78",
+            "name": "Phishing Army (Extended)",
+            "description": "Blocks malware, phishing, coin miners, PUPs, exploits, etc.",
+            "url": "https://phishing.army/download/phishing_army_blocklist_extended.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "plain",
+            "version": "0.73.a.25.80.17",
+            "author": "Andrea Draghetti",
+            "source": "https://phishing.army/",
+            "issue": "https://phishing.army/",
+            "license": "CC BY-NC 4.0",
+            "last_updated": "2025-03-21T17:54:50.664451 UTC",
+            "domains": "80,525",
+            "file": "phishing_army_blocklist_extended.txt"
+        },
+        {
+            "id": "79",
+            "name": "Phishing URL Blocklist",
+            "description": "Phishing URL blocklist.",
+            "url": "https://malware-filter.gitlab.io/malware-filter/phishing-filter-agh.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "adblock",
+            "version": "0.73.a.25.80.17",
+            "author": "Ming Di Leom",
+            "source": "https://gitlab.com/malware-filter/phishing-filter",
+            "issue": "https://gitlab.com/malware-filter/phishing-filter#issues",
+            "license": "CC BY-SA 4.0",
+            "last_updated": "2025-03-21T17:54:51.762270 UTC",
+            "domains": "25,184",
+            "file": "phishing-filter.txt"
+        },
+        {
+            "id": "80",
+            "name": "Zonefiles Compromised domains",
+            "description": "Suspicious, malware, phishing and ransom domain tracker.",
+            "url": "https://zonefiles.io/f/compromised/domains/live/",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "plain",
+            "version": "0.73.a.25.80.17",
+            "author": "Zonefiles",
+            "source": "https://zonefiles.io/compromised-domain-list/",
+            "issue": "https://zonefiles.io/compromised-domain-list/",
+            "license": "FREE",
+            "last_updated": "2025-03-21T17:54:52.521315 UTC",
+            "domains": "4,634",
+            "file": "zonefiles-compromised-domains.txt"
+        },
+        {
+            "id": "81",
+            "name": "USOM list",
+            "description": "The threat intelligence data (malicious IP, domain, URL addresses, etc.) ",
+            "url": "https://www.usom.gov.tr/url-list.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "plain",
+            "version": "0.73.a.25.80.17",
+            "author": "USOM",
+            "source": "https://www.usom.gov.tr/",
+            "issue": "https://www.usom.gov.tr/",
+            "license": "-",
+            "last_updated": "2025-03-21T17:55:00.531512 UTC",
+            "domains": "103,247",
+            "file": "usom-list.txt"
+        },
+        {
+            "id": "82",
+            "name": "oisd big",
+            "description": "Blocks Ads, (Mobile) App Ads, Phishing, Malvertising, Malware, Spyware, Ransomware, CryptoJacking, Scam, Telemetry/Analytics/Tracking",
+            "url": "https://big.oisd.nl/",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "adblock",
+            "version": "0.73.a.25.80.17",
+            "author": "sjhgvr",
+            "source": "https://oisd.nl/",
+            "issue": "https://oisd.nl/report",
+            "license": "GPLv3",
+            "last_updated": "2025-03-21T17:55:02.882238 UTC",
+            "domains": "190,551",
+            "file": "oisd_big.txt"
+        },
+        {
+            "id": "83",
+            "name": "Matomo Referrer Spam List",
+            "description": "Community-contributed list of referrer spammers.",
+            "url": "https://github.com/matomo-org/referrer-spam-list/raw/master/spammers.txt",
+            "enable": true,
+            "filter": true,
+            "category": "ads",
+            "type": "plain",
+            "version": "0.73.a.25.80.17",
+            "author": "Matomo Core Team",
+            "source": "https://github.com/matomo-org/referrer-spam-list",
+            "issue": "https://github.com/matomo-org/referrer-spam-list/issues",
+            "license": "Public Domain",
+            "last_updated": "2025-03-21T17:55:03.641722 UTC",
+            "domains": "1,596",
+            "file": "matomo-referrer-spam-list.txt"
+        }
+    ],
+    "packs": [
+        {
+            "name": "spark",
+            "enable": true,
+            "description": "Lightweight, essential protection.",
+            "license": "MIT",
+            "filter": true,
+            "version": "0.73.a.25.80.17",
+            "release": "25.80.17",
+            "last_updated": "2025-03-21T17:55:03.703686 UTC",
+            "domains": "67,019",
+            "downloads": 2118,
+            "url": "https://energized.pro/spark",
+            "extension": false,
+            "sources": [
+                {
+                    "id": "3",
+                    "enable": true
+                },
+                {
+                    "id": "4",
+                    "enable": true
+                },
+                {
+                    "id": "5",
+                    "enable": true
+                },
+                {
+                    "id": "6",
+                    "enable": true
+                },
+                {
+                    "id": "10",
+                    "enable": true
+                },
+                {
+                    "id": "26",
+                    "enable": true
+                },
+                {
+                    "id": "32",
+                    "enable": true
+                },
+                {
+                    "id": "33",
+                    "enable": true
+                },
+                {
+                    "id": "36",
+                    "enable": true
+                },
+                {
+                    "id": "38",
+                    "enable": true
+                },
+                {
+                    "id": "49",
+                    "enable": true
+                },
+                {
+                    "id": "50",
+                    "enable": true
+                },
+                {
+                    "id": "54",
+                    "enable": true
+                },
+                {
+                    "id": "56",
+                    "enable": true
+                },
+                {
+                    "id": "67",
+                    "enable": true
+                },
+                {
+                    "id": "68",
+                    "enable": true
+                },
+                {
+                    "id": "72",
+                    "enable": true
+                }
+            ],
+            "formats": {
+                "hosts_v4": true,
+                "hosts_v6": true,
+                "domains": true,
+                "adblock": true,
+                "dnsmasq_v4": true,
+                "dnsmasq_v6": true,
+                "unbound": true,
+                "rpz": true
+            },
+            "block": "block.txt",
+            "unblock": "unblock.txt"
+        },
+        {
+            "name": "blu",
+            "enable": true,
+            "description": "Balanced, extended protection.",
+            "license": "MIT",
+            "filter": true,
+            "version": "0.73.a.25.80.17",
+            "release": "25.80.17",
+            "last_updated": "2025-03-21T17:55:04.081672 UTC",
+            "domains": "167,478",
+            "downloads": 2866,
+            "url": "https://energized.pro/blu",
+            "extension": false,
+            "sources": [
+                {
+                    "id": "3",
+                    "enable": true
+                },
+                {
+                    "id": "4",
+                    "enable": true
+                },
+                {
+                    "id": "5",
+                    "enable": true
+                },
+                {
+                    "id": "6",
+                    "enable": true
+                },
+                {
+                    "id": "8",
+                    "enable": true
+                },
+                {
+                    "id": "9",
+                    "enable": true
+                },
+                {
+                    "id": "10",
+                    "enable": true
+                },
+                {
+                    "id": "13",
+                    "enable": true
+                },
+                {
+                    "id": "24",
+                    "enable": true
+                },
+                {
+                    "id": "26",
+                    "enable": true
+                },
+                {
+                    "id": "31",
+                    "enable": true
+                },
+                {
+                    "id": "32",
+                    "enable": true
+                },
+                {
+                    "id": "33",
+                    "enable": true
+                },
+                {
+                    "id": "35",
+                    "enable": true
+                },
+                {
+                    "id": "36",
+                    "enable": true
+                },
+                {
+                    "id": "38",
+                    "enable": true
+                },
+                {
+                    "id": "49",
+                    "enable": true
+                },
+                {
+                    "id": "50",
+                    "enable": true
+                },
+                {
+                    "id": "53",
+                    "enable": true
+                },
+                {
+                    "id": "54",
+                    "enable": true
+                },
+                {
+                    "id": "56",
+                    "enable": true
+                },
+                {
+                    "id": "57",
+                    "enable": true
+                },
+                {
+                    "id": "67",
+                    "enable": true
+                },
+                {
+                    "id": "68",
+                    "enable": true
+                },
+                {
+                    "id": "72",
+                    "enable": true
+                }
+            ],
+            "formats": {
+                "hosts_v4": true,
+                "hosts_v6": true,
+                "domains": true,
+                "adblock": true,
+                "dnsmasq_v4": true,
+                "dnsmasq_v6": true,
+                "unbound": true,
+                "rpz": true
+            },
+            "block": "block.txt",
+            "unblock": "unblock.txt"
+        },
+        {
+            "name": "ultimate",
+            "enable": true,
+            "description": "Comprehensive, full protection.",
+            "license": "MIT",
+            "filter": true,
+            "version": "0.73.a.25.80.17",
+            "release": "25.80.17",
+            "last_updated": "2025-03-21T17:55:05.156275 UTC",
+            "domains": "381,248",
+            "downloads": 6413,
+            "url": "https://energized.pro/ultimate",
+            "extension": false,
+            "sources": [
+                {
+                    "id": "3",
+                    "enable": true
+                },
+                {
+                    "id": "4",
+                    "enable": true
+                },
+                {
+                    "id": "5",
+                    "enable": true
+                },
+                {
+                    "id": "6",
+                    "enable": true
+                },
+                {
+                    "id": "7",
+                    "enable": true
+                },
+                {
+                    "id": "8",
+                    "enable": true
+                },
+                {
+                    "id": "9",
+                    "enable": true
+                },
+                {
+                    "id": "10",
+                    "enable": true
+                },
+                {
+                    "id": "13",
+                    "enable": true
+                },
+                {
+                    "id": "22",
+                    "enable": true
+                },
+                {
+                    "id": "23",
+                    "enable": true
+                },
+                {
+                    "id": "24",
+                    "enable": true
+                },
+                {
+                    "id": "26",
+                    "enable": true
+                },
+                {
+                    "id": "31",
+                    "enable": true
+                },
+                {
+                    "id": "32",
+                    "enable": true
+                },
+                {
+                    "id": "33",
+                    "enable": true
+                },
+                {
+                    "id": "35",
+                    "enable": true
+                },
+                {
+                    "id": "36",
+                    "enable": true
+                },
+                {
+                    "id": "37",
+                    "enable": true
+                },
+                {
+                    "id": "38",
+                    "enable": true
+                },
+                {
+                    "id": "46",
+                    "enable": true
+                },
+                {
+                    "id": "48",
+                    "enable": true
+                },
+                {
+                    "id": "49",
+                    "enable": true
+                },
+                {
+                    "id": "50",
+                    "enable": true
+                },
+                {
+                    "id": "53",
+                    "enable": true
+                },
+                {
+                    "id": "54",
+                    "enable": true
+                },
+                {
+                    "id": "55",
+                    "enable": true
+                },
+                {
+                    "id": "56",
+                    "enable": true
+                },
+                {
+                    "id": "57",
+                    "enable": true
+                },
+                {
+                    "id": "58",
+                    "enable": true
+                },
+                {
+                    "id": "66",
+                    "enable": true
+                },
+                {
+                    "id": "67",
+                    "enable": true
+                },
+                {
+                    "id": "68",
+                    "enable": true
+                },
+                {
+                    "id": "72",
+                    "enable": true
+                },
+                {
+                    "id": "74",
+                    "enable": true
+                },
+                {
+                    "id": "75",
+                    "enable": true
+                },
+                {
+                    "id": "76",
+                    "enable": true
+                },
+                {
+                    "id": "77",
+                    "enable": true
+                },
+                {
+                    "id": "79",
+                    "enable": true
+                },
+                {
+                    "id": "80",
+                    "enable": true
+                },
+                {
+                    "id": "82",
+                    "enable": true
+                },
+                {
+                    "id": "83",
+                    "enable": true
+                }
+            ],
+            "formats": {
+                "hosts_v4": true,
+                "hosts_v6": true,
+                "domains": true,
+                "adblock": true,
+                "dnsmasq_v4": true,
+                "dnsmasq_v6": true,
+                "unbound": true,
+                "rpz": true
+            },
+            "block": "block.txt",
+            "unblock": "unblock.txt"
+        },
+        {
+            "name": "nsfw",
+            "enable": true,
+            "description": "Strict filtering of nsfw content.",
+            "license": "MIT",
+            "filter": true,
+            "version": "0.73.a.25.80.17",
+            "release": "25.80.17",
+            "last_updated": "2025-03-21T17:55:06.247095 UTC",
+            "domains": "66,120",
+            "downloads": 805,
+            "url": "https://energized.pro/nsfw",
+            "extension": true,
+            "sources": [
+                {
+                    "id": "2",
+                    "enable": true
+                },
+                {
+                    "id": "28",
+                    "enable": true
+                },
+                {
+                    "id": "29",
+                    "enable": true
+                },
+                {
+                    "id": "30",
+                    "enable": true
+                },
+                {
+                    "id": "47",
+                    "enable": true
+                },
+                {
+                    "id": "51",
+                    "enable": true
+                },
+                {
+                    "id": "64",
+                    "enable": true
+                }
+            ],
+            "formats": {
+                "hosts_v4": true,
+                "hosts_v6": true,
+                "domains": true,
+                "adblock": true,
+                "dnsmasq_v4": true,
+                "dnsmasq_v6": true,
+                "unbound": true,
+                "rpz": true
+            },
+            "block": "nsfw.block.txt",
+            "unblock": "nsfw.unblock.txt"
+        },
+        {
+            "name": "antipopads-re",
+            "enable": true,
+            "description": "Advanced protection against intrusive popups.",
+            "license": "MIT",
+            "filter": true,
+            "version": "0.73.a.25.80.17",
+            "release": "25.80.17",
+            "last_updated": "2025-03-21T17:55:06.434895 UTC",
+            "domains": "40,874",
+            "downloads": 4100,
+            "url": "https://energized.pro/antipopads-re",
+            "extension": true,
+            "sources": [
+                {
+                    "id": "24",
+                    "enable": true
+                },
+                {
+                    "id": "25",
+                    "enable": true
+                },
+                {
+                    "id": "27",
+                    "enable": true
+                },
+                {
+                    "id": "70",
+                    "enable": true
+                }
+            ],
+            "formats": {
+                "hosts_v4": true,
+                "hosts_v6": true,
+                "domains": true,
+                "adblock": true,
+                "dnsmasq_v4": true,
+                "dnsmasq_v6": true,
+                "unbound": true,
+                "rpz": true
+            },
+            "block": "antipopads-re.block.txt",
+            "unblock": "antipopads-re.unblock.txt"
+        },
+        {
+            "name": "social",
+            "enable": true,
+            "description": "Comprehensive social media blocking.",
+            "license": "MIT",
+            "filter": true,
+            "version": "0.73.a.25.80.17",
+            "release": "25.80.17",
+            "last_updated": "2025-03-21T17:55:06.588922 UTC",
+            "domains": "14,088",
+            "downloads": 624,
+            "url": "https://energized.pro/social",
+            "extension": true,
+            "sources": [
+                {
+                    "id": "12",
+                    "enable": true
+                },
+                {
+                    "id": "52",
+                    "enable": true
+                }
+            ],
+            "formats": {
+                "hosts_v4": true,
+                "hosts_v6": true,
+                "domains": true,
+                "adblock": true,
+                "dnsmasq_v4": true,
+                "dnsmasq_v6": true,
+                "unbound": true,
+                "rpz": true
+            },
+            "block": "social.block.txt",
+            "unblock": "social.unblock.txt"
+        },
+        {
+            "name": "extreme",
+            "enable": true,
+            "description": "Enhanced privacy with aggressive filtering.",
+            "license": "MIT",
+            "filter": true,
+            "version": "0.73.a.25.80.17",
+            "release": "25.80.17",
+            "last_updated": "2025-03-21T17:55:06.644879 UTC",
+            "domains": "38",
+            "downloads": 290,
+            "url": "https://energized.pro/extreme",
+            "extension": true,
+            "sources": [],
+            "formats": {
+                "hosts_v4": true,
+                "hosts_v6": true,
+                "domains": true,
+                "adblock": true,
+                "dnsmasq_v4": true,
+                "dnsmasq_v6": true,
+                "unbound": true,
+                "rpz": true
+            },
+            "block": "extreme.block.txt",
+            "unblock": "extreme.unblock.txt"
+        },
+        {
+            "name": "regional",
+            "enable": true,
+            "description": "Regional filtering.",
+            "license": "MIT",
+            "filter": true,
+            "version": "0.73.a.25.80.17",
+            "release": "25.80.17",
+            "last_updated": "2025-03-21T17:55:06.705157 UTC",
+            "domains": "30,678",
+            "downloads": 1131,
+            "url": "https://energized.pro/regional",
+            "extension": true,
+            "sources": [
+                {
+                    "id": "1",
+                    "enable": true
+                },
+                {
+                    "id": "14",
+                    "enable": true
+                },
+                {
+                    "id": "15",
+                    "enable": true
+                },
+                {
+                    "id": "16",
+                    "enable": true
+                },
+                {
+                    "id": "17",
+                    "enable": true
+                },
+                {
+                    "id": "18",
+                    "enable": true
+                },
+                {
+                    "id": "19",
+                    "enable": true
+                },
+                {
+                    "id": "20",
+                    "enable": true
+                },
+                {
+                    "id": "21",
+                    "enable": true
+                },
+                {
+                    "id": "34",
+                    "enable": true
+                },
+                {
+                    "id": "39",
+                    "enable": true
+                },
+                {
+                    "id": "40",
+                    "enable": true
+                },
+                {
+                    "id": "41",
+                    "enable": true
+                },
+                {
+                    "id": "42",
+                    "enable": true
+                },
+                {
+                    "id": "43",
+                    "enable": true
+                },
+                {
+                    "id": "44",
+                    "enable": true
+                },
+                {
+                    "id": "45",
+                    "enable": true
+                },
+                {
+                    "id": "59",
+                    "enable": true
+                },
+                {
+                    "id": "60",
+                    "enable": true
+                },
+                {
+                    "id": "61",
+                    "enable": true
+                },
+                {
+                    "id": "62",
+                    "enable": true
+                },
+                {
+                    "id": "63",
+                    "enable": true
+                },
+                {
+                    "id": "65",
+                    "enable": true
+                },
+                {
+                    "id": "73",
+                    "enable": true
+                }
+            ],
+            "formats": {
+                "hosts_v4": true,
+                "hosts_v6": true,
+                "domains": true,
+                "adblock": true,
+                "dnsmasq_v4": true,
+                "dnsmasq_v6": true,
+                "unbound": true,
+                "rpz": true
+            },
+            "block": "regional.block.txt",
+            "unblock": "regional.unblock.txt"
+        }
+    ],
+    "block": "block.txt",
+    "unblock": "unblock.txt",
+    "unblock-nsfw": "nsfw.unblock.txt",
+    "unblock-popads": "antipopads-re.unblock.txt",
+    "unblock-social": "social.unblock.txt",
+    "deadlock": {
+        "enable": true,
+        "file": "deadlock.txt"
+    },
+    "formats": {
+        "hosts_v4": {
+            "type": "hosts",
+            "comment": "#",
+            "prepend": "0.0.0.0 ",
+            "filename": "hosts.txt",
+            "append": null
+        },
+        "hosts_v6": {
+            "type": "hosts",
+            "comment": "#",
+            "prepend": ":: ",
+            "filename": "hosts_v6.txt",
+            "append": null
+        },
+        "domains": {
+            "type": "domains",
+            "comment": "#",
+            "prepend": "",
+            "filename": "domains.txt",
+            "append": null
+        },
+        "adblock": {
+            "type": "adblock",
+            "comment": "!",
+            "prepend": "||",
+            "filename": "adblock.txt",
+            "append": "^"
+        },
+        "dnsmasq_v4": {
+            "type": "dnsmasq",
+            "comment": "#",
+            "prepend": "address=/",
+            "filename": "dnsmasq.txt",
+            "append": "/0.0.0.0/"
+        },
+        "dnsmasq_v6": {
+            "type": "dnsmasq",
+            "comment": "#",
+            "prepend": "address=/",
+            "filename": "dnsmasq_v6.txt",
+            "append": "/::1/"
+        },
+        "unbound": {
+            "type": "unbound",
+            "comment": "#",
+            "prepend": "local-zone: \"",
+            "filename": "unbound.txt",
+            "append": "\" always_nxdomain"
+        },
+        "rpz": {
+            "type": "rpz",
+            "comment": ";",
+            "prepend": "",
+            "filename": "rpz.txt",
+            "append": " CNAME ."
+        }
+    }
+}
